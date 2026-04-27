@@ -62,6 +62,7 @@ public partial class App : Application
             var settingsManager = new SettingsManager(dataContext);
             var playlistManager = new PlaylistManager(dataContext);
             var exportService = new AndroidExportService(dataContext, launchBoxPath);
+            var syncServer = new LocalSyncServer();
 
             // Crear ViewModel principal
             var mainViewModel = new MainViewModel(
@@ -72,7 +73,8 @@ public partial class App : Application
                 gameManager,
                 platformManager,
                 playlistManager,
-                exportService);
+                exportService,
+                syncServer);
 
             // Crear y mostrar la ventana principal
             var mainWindow = new MainWindow(mainViewModel);

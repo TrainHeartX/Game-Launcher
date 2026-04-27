@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:GameLauncher.Android.ViewModels"
+             xmlns:models="clr-namespace:GameLauncher.Core.Models;assembly=GameLauncher.Core"
+             x:Class="GameLauncher.Android.MainPage"
+             BackgroundColor="#1a1a2e">
+
+    <ContentPage.BindingContext>
+        <vm:MainViewModel />
+    </ContentPage.BindingContext>
+
+    <Grid RowDefinitions="Auto, *, Auto">
+        
+        <!-- Header & Sync -->
+        <Frame Grid.Row="0" BackgroundColor="#16213e" Padding="15" Margin="10" CornerRadius="10" HasShadow="True">
+            <StackLayout Spacing="10">
+                <Label Text="GameLauncher Android Sync" FontSize="20" FontAttributes="Bold" TextColor="White" HorizontalOptions="Center" />
+                <Grid ColumnDefinitions="*, Auto">
+                    <Entry Grid.Column="0" Text="{Binding IpAddress}" Placeholder="IP del PC (ej. 192.168.1.5)" TextColor="White" PlaceholderColor="LightGray" />
+                    <Button Grid.Column="1" Text="Importar por Wi-Fi" Command="{Binding ImportCommand}" BackgroundColor="#0f3460" TextColor="White" Margin="10,0,0,0"/>
+                </Grid>
+                <Label Text="{Binding StatusText}" TextColor="LightGreen" HorizontalOptions="Center" FontSize="12"/>
+                <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" Color="White" />
+            </StackLayout>
+        </Frame>
+
+        <!-- Game List -->
+        <CollectionView Grid.Row="1" ItemsSource="{Binding Games}" Margin="10,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:AndroidExportedGame">
+                    <Frame BackgroundColor="#0f3460" Margin="0,5" Padding="10" CornerRadius="8" HasShadow="True">
+                        <Grid ColumnDefinitions="Auto, *, Auto">
+                            <Image Grid.Column="0" WidthRequest="60" HeightRequest="80" Aspect="AspectFill" BackgroundColor="Transparent"/>
+                            <!-- Fallback for image binding if path is relative to app data -->
+
+                            <StackLayout Grid.Column="1" Margin="10,0" VerticalOptions="Center">
+                                <Label Text="{Binding Title}" TextColor="White" FontAttributes="Bold" FontSize="16" />
+                                <Label Text="{Binding Platform}" TextColor="LightGray" FontSize="12" />
+                                <StackLayout Orientation="Horizontal" Spacing="5" Margin="0,5,0,0">
+                                    <Frame BackgroundColor="#e94560" Padding="5,2" CornerRadius="4" IsVisible="{Binding IsRetroArch}">
+                                        <Label Text="RetroArch" TextColor="White" FontSize="10"/>
+                                    </Frame>
+                                    <Frame BackgroundColor="#2e7d32" Padding="5,2" CornerRadius="4" IsVisible="{Binding HasSaves}">
+                                        <Label Text="Saves" TextColor="White" FontSize="10"/>
+                                    </Frame>
+                                    <Frame BackgroundColor="#555555" Padding="5,2" CornerRadius="4" IsVisible="{Binding IsRetroArch}">
+                                        <!-- Inverse binding logic handled in ViewModel or simplified here -->
+                                        <Label Text="RetroArch" TextColor="White" FontSize="10"/>
+                                    </Frame>
+                                </StackLayout>
+                            </StackLayout>
+
+                            <Button Grid.Column="2" 
+                                    Text="Jugar"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type vm:MainViewModel}}, Path=PlayCommand}"
+                                    CommandParameter="{Binding .}"
+                                    BackgroundColor="#2e7d32"
+                                    TextColor="White"
+                                    VerticalOptions="Center"
+                                    HeightRequest="40"
+                                    CornerRadius="20"
+                                    Padding="15,0"/>
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </Grid>
+
+</ContentPage>

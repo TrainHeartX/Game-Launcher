@@ -34,6 +34,7 @@ namespace GameLauncher.Desktop.ViewModels
         private readonly PlatformManager _platformManager;
         private readonly PlaylistManager _playlistManager;
         private readonly AndroidExportService _exportService;
+        private readonly LocalSyncServer _syncServer;
 
         private bool _isDataLoaded;
 
@@ -45,7 +46,8 @@ namespace GameLauncher.Desktop.ViewModels
             GameManager gameManager,
             PlatformManager platformManager,
             PlaylistManager playlistManager,
-            AndroidExportService exportService)
+            AndroidExportService exportService,
+            LocalSyncServer syncServer)
         {
             _dataContext = dataContext ?? throw new ArgumentNullException(nameof(dataContext));
             _cacheManager = cacheManager ?? throw new ArgumentNullException(nameof(cacheManager));
@@ -55,6 +57,7 @@ namespace GameLauncher.Desktop.ViewModels
             _platformManager = platformManager ?? throw new ArgumentNullException(nameof(platformManager));
             _playlistManager = playlistManager ?? throw new ArgumentNullException(nameof(playlistManager));
             _exportService = exportService ?? throw new ArgumentNullException(nameof(exportService));
+            _syncServer = syncServer ?? throw new ArgumentNullException(nameof(syncServer));
 
             Games = new ObservableCollection<GameViewModel>();
             Platforms = new ObservableCollection<PlatformViewModel>();
@@ -1005,8 +1008,14 @@ namespace GameLauncher.Desktop.ViewModels
                         });
                     });
 
-                    System.Windows.MessageBox.Show($"Exportación completada exitosamente a:\n{saveFileDialog.FileName}\n\nPuedes transferir este archivo a tu dispositivo Android.", "Exportación Exitosa", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Information);
-                    StatusText = "Exportación a Android completada";
+                    // Start local sync server
+                    _syncServer.StartServer(saveFileDialog.FileName, 8080);
+                    
+                    var localIp = GetLocalIpAddress();
+                    var qrMessage = $"Exportación completada a:\n{saveFileDialog.FileName}\n\nPara transferir por Wi-Fi, abre GameLauncher en tu Android y entra a Importar.\nServidor Activo en: http://{localIp}:8080";
+
+                    System.Windows.MessageBox.Show(qrMessage, "Exportación Exitosa", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Information);
+                    StatusText = "Servidor Wi-Fi activo en el puerto 8080";
                 }
                 catch (Exception ex)
                 {
@@ -1018,6 +1027,19 @@ namespace GameLauncher.Desktop.ViewModels
                     IsLoading = false;
                 }
             }
+        }
+
+        private string GetLocalIpAddress()
+        {
+            var host = System.Net.Dns.GetHostEntry(System.Net.Dns.GetHostName());
+            foreach (var ip in host.AddressList)
+            {
+                if (ip.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork)
+                {
+                    return ip.ToString();
+                }
+            }
+            return "127.0.0.1";
         }
     }
 }
