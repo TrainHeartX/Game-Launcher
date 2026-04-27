@@ -1,0 +1,3 @@
+[DEBUG-PLAYLIST] 'Assassin's Creed' -> 20 entries loaded from XML.
+[DEBUG-PLAYLIST] 'Assassin's Creed' -> 20 valid GameIds needed.
+[DEBUG-PLAYLIST] 'Assassin's Creed' -> 19 games matched from cache. Missing: 1

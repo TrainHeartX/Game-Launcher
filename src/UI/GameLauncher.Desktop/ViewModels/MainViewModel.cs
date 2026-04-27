@@ -4,7 +4,10 @@ using GameLauncher.Core.Enums;
 using GameLauncher.Core.Models;
 using GameLauncher.Data.Cache;
 using GameLauncher.Data.Xml;
+using GameLauncher.Desktop.Dialogs;
+using GameLauncher.Desktop.Models;
 using GameLauncher.Infrastructure.Services;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -27,18 +30,22 @@ namespace GameLauncher.Desktop.ViewModels
         private readonly GameCacheManager _cacheManager;
         private readonly IEmulatorLauncher _emulatorLauncher;
         private readonly IStatisticsTracker _statisticsTracker;
-        private readonly IGameManager _gameManager;
-        private readonly IPlatformManager _platformManager;
-        private readonly IPlaylistManager _playlistManager;
+        private readonly GameManager _gameManager;
+        private readonly PlatformManager _platformManager;
+        private readonly PlaylistManager _playlistManager;
+        private readonly AndroidExportService _exportService;
+
+        private bool _isDataLoaded;
 
         public MainViewModel(
             XmlDataContext dataContext,
             GameCacheManager cacheManager,
             IEmulatorLauncher emulatorLauncher,
             IStatisticsTracker statisticsTracker,
-            IGameManager gameManager,
-            IPlatformManager platformManager,
-            IPlaylistManager playlistManager)
+            GameManager gameManager,
+            PlatformManager platformManager,
+            PlaylistManager playlistManager,
+            AndroidExportService exportService)
         {
             _dataContext = dataContext ?? throw new ArgumentNullException(nameof(dataContext));
             _cacheManager = cacheManager ?? throw new ArgumentNullException(nameof(cacheManager));
@@ -47,6 +54,7 @@ namespace GameLauncher.Desktop.ViewModels
             _gameManager = gameManager ?? throw new ArgumentNullException(nameof(gameManager));
             _platformManager = platformManager ?? throw new ArgumentNullException(nameof(platformManager));
             _playlistManager = playlistManager ?? throw new ArgumentNullException(nameof(playlistManager));
+            _exportService = exportService ?? throw new ArgumentNullException(nameof(exportService));
 
             Games = new ObservableCollection<GameViewModel>();
             Platforms = new ObservableCollection<PlatformViewModel>();
@@ -964,6 +972,52 @@ namespace GameLauncher.Desktop.ViewModels
                     }
                 });
             });
+        }
+        [RelayCommand]
+        private async Task ExportToAndroidAsync()
+        {
+            var selectedGames = FilteredGames.Where(g => g.IsSelected).Select(g => g.Model).ToList();
+            if (selectedGames.Count == 0)
+            {
+                System.Windows.MessageBox.Show("Por favor, selecciona al menos un juego (mantén presionado Ctrl y haz clic en los juegos) o exporta una lista completa filtrando primero.", "Exportar a Android", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Warning);
+                return;
+            }
+
+            var saveFileDialog = new SaveFileDialog
+            {
+                Title = "Guardar paquete de exportación para Android",
+                Filter = "Archivos ZIP (*.zip)|*.zip",
+                FileName = $"GameLauncher_AndroidSync_{DateTime.Now:yyyyMMdd_HHmmss}.zip"
+            };
+
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                IsLoading = true;
+                StatusText = "Exportando juegos para Android...";
+
+                try
+                {
+                    await Task.Run(async () =>
+                    {
+                        await _exportService.ExportGamesToZipAsync(selectedGames, saveFileDialog.FileName, (msg) =>
+                        {
+                            System.Windows.Application.Current.Dispatcher.Invoke(() => StatusText = msg);
+                        });
+                    });
+
+                    System.Windows.MessageBox.Show($"Exportación completada exitosamente a:\n{saveFileDialog.FileName}\n\nPuedes transferir este archivo a tu dispositivo Android.", "Exportación Exitosa", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Information);
+                    StatusText = "Exportación a Android completada";
+                }
+                catch (Exception ex)
+                {
+                    System.Windows.MessageBox.Show($"Error durante la exportación:\n{ex.Message}", "Error de Exportación", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Error);
+                    StatusText = "Error al exportar a Android";
+                }
+                finally
+                {
+                    IsLoading = false;
+                }
+            }
         }
     }
 }

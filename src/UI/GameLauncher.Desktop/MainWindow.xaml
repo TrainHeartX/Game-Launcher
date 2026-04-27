@@ -310,7 +310,18 @@
                                        HorizontalAlignment="Center"/>
                         </StackPanel>
                     </Border>
-
+                    
+                    <Button Command="{Binding ExportToAndroidCommand}" 
+                            Style="{StaticResource FlatButton}"
+                            Margin="0,0,5,0"
+                            ToolTip="Exportar juegos seleccionados a Android (Sincronizar ROMs y Partidas)"
+                            Background="#2e7d32" Foreground="White">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="📱" FontFamily="Segoe UI Emoji" Margin="0,0,5,0"/>
+                            <TextBlock Text="Exportar a Android"/>
+                        </StackPanel>
+                    </Button>
+                    
                     <!-- Lista de juegos -->
                     <ListBox Grid.Row="1"
                              ItemsSource="{Binding FilteredGames}"
