@@ -1,0 +1,919 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\State of Decay collection\State of Decay YOSE Day One Edition\StateOfDecay.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-02T21:08:41.5151658-05:00</DateAdded>
+    <DateModified>2025-08-15T15:29:52.0561633-05:00</DateModified>
+    <Developer>Undead Labs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>771e1060-2146-4f5d-8e35-d89d39e86533</ID>
+    <LastPlayedDate>2024-06-27T23:08:20.643-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El fin ha llegado. La civilización humana ha sido aniquilada. Los pocos y dispersos supervivientes deben unirse para reconstruir la civilización en un juego de acción en tercera persona repleto de armas de fuego, coches rápidos, combates cuerpo a cuerpo y abundantes cantidades de sangre zombi. Los jugadores eligen dónde plantar cara, diseñando y fortificando sus asentamientos, realizando atrevidas incursiones en busca de valiosos almacenes de comida y munición, y rescatando a otros supervivientes jugables. El mundo abierto se desarrolla en tiempo real, moldeado por las acciones de los jugadores, con un contenido determinado por sus elecciones y la creciente amenaza zombi.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Microsoft</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2015-04-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\State of Decay collection\State of Decay YOSE Day One Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>34221</DatabaseID>
+    <WikipediaURL />
+    <Title>State of Decay: Year One Survival Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>39</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 3D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=lxMD4lRupDk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Rebel Galaxy\RebelGalaxyGOG.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-30T23:50:13.4493352-05:00</DateAdded>
+    <DateModified>2024-10-30T00:13:24.6518701-05:00</DateModified>
+    <Developer>Double Damage Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0b01c1f7-bede-4028-ac7d-36ab945fa2de</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Rebel Galaxy es una aventura espacial llena de acción, combate, exploración, descubrimiento, comercio y "negociación" con los extravagantes habitantes de los confines del universo conocido.
+
+Como comandante de un destructor estelar inmensamente poderoso, lucharás contra piratas, explorarás anomalías, entablarás amistad con alienígenas, buscarás restos de batallas, extraerás asteroides y descubrirás artefactos. Elige tu camino como un pícaro bienhechor, un astuto comerciante espacial o un corsario sediento de poder, ¡o quizás un poco de cada! Compra naves más grandes y poderosas con tus créditos y equípalas con una gran variedad de armas y defensas. Ambientado en una galaxia de fantásticas vistas y secretos por descubrir, Rebel Galaxy es ante todo una epopeya espacial de aventuras, exploración y combate.
+
+El borde del universo es un lugar bastante peligroso, así que vigila tus espaldas.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Double Damage Games</Publisher>
+    <Rating />
+    <ReleaseDate>2016-01-13T03:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Rebel Galaxy</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>129287</DatabaseID>
+    <WikipediaURL />
+    <Title>Rebel Galaxy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Dead Rising Saga Completa\Dead Rising 4 Deluxe Edition\deadrising4.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-03T08:11:01.7089681-05:00</DateAdded>
+    <DateModified>2024-07-15T17:04:29.039061-05:00</DateModified>
+    <Developer>Capcom Game Studio Vancouver</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f899b29b-ee77-4d7e-a087-6cf72ed37c85</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dead Rising 4 es el cuarto juego principal de la serie de survival horror de mundo abierto y la octava entrega en total. Está ambientado en septiembre de 2021, un año después de los acontecimientos de Dead Rising 3 y dieciséis años después del Dead Rising original. El protagonista es Frank West, antes fotógrafo freelance y ahora profesor en un colegio comunitario, que regresa como protagonista de algunos de los títulos anteriores. El prólogo es una pesadilla en el centro comercial Willamette Park View de Colorado de sus primeros días durante el brote zombi. Cuando despierta, recibe un mensaje de su rebelde protegido Vick Chu, que le conduce hasta Willamette. West cree que van allí a jugar al minigolf, pero en realidad Chu quiere investigar con él una base militar secreta donde se supone que se llevan a cabo pruebas con humanos. Tras colarse en la base, que sirve de tutorial, pronto vuelven a hacerse realidad las escenas de su pesadilla, ambientada en el invierno durante el periodo navideño.
+
+Como antes, el juego se centra en las peleas contra grandes grupos de zombis, utilizando combinaciones de ataques cuerpo a cuerpo y a distancia junto con armas arrojadizas para acribillar a los zombis de forma espectacular y con una violencia desmesurada. El juego vuelve a utilizar un extenso sistema de artesanía con el que los jugadores pueden crear y personalizar sus propias armas y construir muchos tipos de vehículos. Las armas incluyen, por ejemplo, el Gandelf, que combina una lanza y un elfo de jardín para disparar elfos explosivos y un ataque de golpe. West explora Willamette, que ha cambiado mucho desde su última visita. El centro comercial del Dead Rising original se ha convertido en el Megaplex Willamette Memorial. Al mismo tiempo, también explora los barrios de los alrededores. Como de costumbre, hay muchos objetos que descubrir y coleccionar, como planos de armas y grafitis ocultos que fotografiar. También hay muchas misiones secundarias, jefes ocultos conocidos como Maniacs e investigaciones adicionales que perseguir junto con eventos para rescatar supervivientes o destruir equipamiento militar. Hay más tiempo para explorar, pues el juego ya no emplea un temporizador de cuenta atrás para impulsar al personaje hacia adelante. Los refugios sirven para adquirir nuevos vehículos, armas y mapas que revelan objetos coleccionables en el entorno. La experiencia proporciona puntos de habilidad que se utilizan para mejorar las habilidades.
+
+La fotografía juega ahora un papel importante, ya que West puede utilizar una cámara durante las investigaciones con diferentes filtros para visión nocturna, para detectar pistas o para hacerse selfies, de forma similar a los juegos de Batman: Arkham.
+
+Otro elemento nuevo es la introducción de un Exo Traje. Éste hace a West extremadamente poderoso, permitiéndole atravesar el entorno y los grupos de enemigos.Algunos rivales también pueden usarlo.Los enemigos ya no se vuelven más poderosos por la noche durante el ciclo día-noche, pero hay nuevos tipos de enemigos, como los soldados de la organización Obscuris y los suicidas "freshies", humanos que acaban de convertirse en zombis.El sistema de guardado del juego es ahora más tradicional, basado en puntos de control, en lugar de una cantidad limitada de guardados.
+
+El juego sigue siendo compatible con el modo multijugador cooperativo, pero ya no para la campaña principal.En su lugar, ahora hay cuatro episodios separados en los que un equipo de hasta cuatro jugadores en línea trabajan juntos para completar misiones en el centro comercial.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Capcom U.S.A.</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2016-12-06T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Dead Rising Saga Completa\Dead Rising 4 Deluxe Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>143088</DatabaseID>
+    <WikipediaURL />
+    <Title>Dead Rising 4</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Tercera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\Juegos\Shadow Warrior Saga completa\Shadow Warrior 2 Deluxe Edition\ShadowWarrior2.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-09T19:56:05.8607355-05:00</DateAdded>
+    <DateModified>2024-07-12T23:29:02.0717398-05:00</DateModified>
+    <Developer>Flying Wild Hog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c022f4f4-661b-45a1-a644-fdaf4d5c2c10</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shadow Warrior 2 es un videojuego de disparos en primera persona desarrollado por el estudio indie Flying Wild Hog y publicado por Devolver Digital. Es la secuela del Shadow Warrior de 2013, el reboot del original de 1997. El juego fue lanzado para Microsoft Windows en octubre de 2016, y para PlayStation 4, y Xbox One en mayo de 2017.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Devolver Digital</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2016-10-13T02:00:00-05:00</ReleaseDate>
+    <RootFolder>F:\Juegos\Shadow Warrior Saga completa\Shadow Warrior 2 Deluxe Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>142910</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shadow_Warrior_2</WikipediaURL>
+    <Title>Shadow Warrior 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>3</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Halo The Master Chief Collection (build 28.04.2021) Remastered\mcclauncher.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-05T20:01:03.0157043-05:00</DateAdded>
+    <DateModified>2025-03-24T16:21:01.2032042-05:00</DateModified>
+    <Developer>343 Industries</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>37ae753f-13c1-432a-bc0f-7a19ffd7b563</ID>
+    <LastPlayedDate>2025-03-24T16:20:56.226056-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Por primera vez, toda la historia del Jefe Maestro en una consola. Incluye Halo 2: Anniversary remasterizado, junto con Halo: Combat Evolved Anniversary, Halo 3, Halo 4, Halo: Nightfall (una nueva serie digital) y acceso a la beta multijugador de Halo 5: Guardians.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Microsoft Studios</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2014-11-11T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Halo The Master Chief Collection (build 28.04.2021) Remastered</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.647059</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>21398</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Halo:_The_Master_Chief_Collection</WikipediaURL>
+    <Title>Halo: The Master Chief Collection</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>9</PlayCount>
+    <PlayTime>35</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=77dOF5kijwU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Valheim\Game\valheim.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-12-17T16:49:17.0318287-05:00</DateAdded>
+    <DateModified>2025-08-15T15:27:55.340828-05:00</DateModified>
+    <Developer>Iron Gate AB</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a01d94e2-e573-4801-9f5a-d43e9e5887fe</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Valheim es un próximo videojuego de supervivencia y sandbox del desarrollador sueco Iron Gate Studio y publicado por Coffee Stain Studios. Fue lanzado en acceso anticipado el 2 de febrero de 2021 para Linux y Windows a través de Steam, y para Xbox One y Xbox Series X/S el 14 de marzo de 2023.El juego fue desarrollado por un equipo de cinco personas, basándose en el trabajo de desarrollo que Richard Svensson había emprendido como proyecto paralelo en su tiempo libre. Desde su lanzamiento en acceso anticipado, Valheim ha cosechado un gran éxito tanto comercial como de crítica, y ha sido elogiado como una "rara excepción" de juego de acceso anticipado refinado. Un mes después de su lanzamiento, había vendido más de cinco millones de copias y era uno de los juegos más jugados en Steam.
+
+Valheim tiene lugar en un mundo donde los vikingos muertos van a demostrar que son aptos para los salones del Valhalla. Como tal, el jugador comienza sin nada y pronto descubre que, para llegar al más allá nórdico, debe derrotar a los males que acechan Valheim. Guiado únicamente por sus instintos y las ocasionales pistas de un cuervo, el jugador debe prepararse para luchar contra los enemigos jurados del mismísimo Odín.
+
+El término "Valheim" designa un décimo mundo ficticio dentro del árbol del mundo Yggdrasil de la mitología nórdica.Valheim tiene lugar en un mundo donde los vikingos muertos van a demostrar que son aptos para los salones del Valhalla. Como tal, el jugador comienza sin nada y pronto descubre que, para llegar al más allá nórdico, debe derrotar a los males que acechan Valheim. Guiado únicamente por sus instintos y las ocasionales pistas de un cuervo, el jugador debe prepararse para luchar contra los enemigos jurados del mismísimo Odín.
+
+El término "Valheim" designa un décimo mundo ficticio dentro del árbol del mundo Yggdrasil de la mitología nórdica.
+
+Valheim es un juego de supervivencia en mundo abierto que se juega desde una perspectiva en tercera persona. Como vikingos caídos, los jugadores deben fabricar herramientas, construir refugios y luchar contra los enemigos para sobrevivir. El juego utiliza unos característicos gráficos 3D estilizados de baja resolución, con un sistema de combate inspirado en los juegos de acción. También se puede jugar en modo cooperativo con hasta diez personas y en modo PvP opcional.
+
+Tras crear su personaje vikingo, los jugadores pueden crear un mundo generado proceduralmente a partir de una semilla de mapa. Cada mundo se divide en varios biomas, como praderas, el Bosque Negro, pantanos, montañas, llanuras, océanos, las Tierras Nubladas, el Norte Profundo y las Tierras de Ceniza. Cada bioma tiene sus propios enemigos, objetos y jefes únicos que cambian la dificultad de sobrevivir en ellos. Valheim funciona con un ciclo de día y noche.
+
+Para sobrevivir, los jugadores deben recolectar los recursos naturales que se encuentran por todo el mundo, ya sea mediante la búsqueda de comida, la caza, la minería o la agricultura. Estos recursos se utilizan para construir refugios, fabricar herramientas y equipo, y forjar armas. Los jugadores tienen una barra de salud (que se agota con los ataques enemigos o las caídas fuertes) y una barra de resistencia que se agota al realizar acciones como correr o atacar. Para reponerla, los jugadores pueden comer. Esto no sólo puede restaurar la salud y la resistencia, sino que también puede aumentar temporalmente la cantidad de cada una de ellas, dependiendo de la variación y la calidad de los alimentos ingeridos.
+
+Además, el juego utiliza un sistema de niveles de habilidad que va desde bloquear hasta correr. Cada habilidad puede aumentarse hasta un nivel de 100 y tiene diferentes efectos en la mecánica del juego. Por ejemplo, la habilidad de las lanzas determinará el daño que el jugador puede hacer con ellas, mientras que la habilidad de correr determinará cómo se drena la resistencia al esprintar.
+
+El objetivo principal del juego es matar a los seis jefes situados en diferentes biomas del juego. Para invocar a cada jefe, los jugadores deben viajar al altar de cada uno de ellos y entregar un objeto específico como ofrenda. Los jefes dejarán caer un trofeo coleccionable al matarlos; este trofeo puede colocarse en un altar central para conceder a cada jugador un potenciador especial. Los potenciadores pueden usarse infinitamente, pero el jugador debe esperar un breve periodo entre usos.
+
+En el combate se utilizan armas de una y dos manos, escudos, arcos y lanzas. Los jugadores pueden viajar por los distintos biomas a pie o en embarcaciones artesanales, que van desde balsas a distintos tipos de barcos vikingos.
+
+Valheim ha sido desarrollado por Iron Gate Studio, un pequeño estudio sueco de desarrollo de juegos creado durante la producción del juego. Los cofundadores del estudio, Richard Svensson y Henrik Tornqvist, eran compañeros de trabajo en una empresa local de desarrollo de juegos llamada Pieces Interactive. Antes de Valheim, Svensson había empezado a desarrollar en su tiempo libre un juego de simulación llamado Tolroko. Sin embargo, este juego quedó finalmente inédito; según Tornqvist, Svensson se dio cuenta de que era "redundante implementar sistemas de simulación para sí mismos, en lugar de para el jugador". Con su siguiente juego, Svensson quería crear una experiencia de mundo abierto en la que las simulaciones mejoraran la experiencia del jugador.
+
+Svensson empezó a trabajar en Valheim en 2017 bajo el título provisional de Fejd (feudo en sueco). Terminó dejando Pieces Interactive en 2018 para trabajar en Valheim a tiempo completo, y convenció a Tornqvist para que se uniera a él a finales de ese año. El juego se lanzó en alfa en junio de 2018 y se lanzó oficialmente en acceso anticipado el 2 de febrero de 2021, sin fecha de lanzamiento completa anunciada hasta ahora.
+
+Está prevista la continuación del apoyo al juego, lo que implica la ampliación de biomas inacabados, así como mejoras en las mecánicas fundamentales del juego. Iron Gate Studio actualizó el juego el 16 de septiembre de 2021 con la actualización "Hearth &amp; Home". Esta actualización aportó mejoras generales al juego e introdujo nuevos alimentos, armas y opciones de construcción.
+
+En diciembre de 2022, Iron Gate lanzó la actualización "Mistlands" para Valheim. La actualización añadió un nuevo bioma (las Tierras Nubladas), junto con una gran cantidad de contenido nuevo. Este contenido incluía enemigos, PNJ neutrales, eventos aleatorios, objetos, comida, piezas de construcción, el sexto jefe principal, estaciones de artesanía, armas y otras características varias. La actualización también incluía un sistema de magia (y cuatro armas mágicas).
+
+Durante el Xbox Games Showcase 2022 Extended, celebrado el 14 de junio, se anunció que Valheim llegaría a Windows 10 a través de Microsoft Store en el tercer trimestre de 2022, y más tarde, en el segundo trimestre de 2023, a las consolas Xbox One y Xbox Series X/S. Estas versiones, desarrolladas por los estudios externos Piktiv y Fishlabs, soportarían el juego cruzado entre plataformas y se lanzarían directamente en Xbox Game Pass. Mientras tanto, Iron Gate Studio se centraría en la "experiencia central de Valheim y sus próximos grandes hitos de actualización". En febrero de 2023, se anunció que el juego se lanzaría en las consolas el 14 de marzo de 2023.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Coffee Stain Publishing</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2021-02-02T03:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Valheim\Game</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3557143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>34</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>200221</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Valheim</WikipediaURL>
+    <Title>Valheim</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Aventura</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>10</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256919598/movie_max_vp9.webm?t=1670328406</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Dead Rising Saga Completa\Dead Rising 3 Apocalypse Edition\deadrising3.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-03T08:10:28.1931697-05:00</DateAdded>
+    <DateModified>2024-07-13T06:54:02.9768987-05:00</DateModified>
+    <Developer>Capcom Game Studio Vancouver</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0fc3ce71-129d-4234-bdbc-64f2bd04e522</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Todo y cualquier cosa es un arma en Dead Rising 3. Explora la ciudad de Los Perdidos, infestada de zombis, y encuentra la forma de escapar antes de que un ataque militar borre del mapa toda la ciudad y a todos sus habitantes. Con una acción intensa y un nivel inigualable de personalización de armas y personajes, Dead Rising 3 ofrece una experiencia trepidante como ninguna otra mientras exploras, rebuscas y luchas por sobrevivir en un enorme mundo abierto al borde de un apocalipsis zombi.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Microsoft Studios</Publisher>
+    <Rating>Castellano</Rating>
+    <ReleaseDate>2013-11-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Dead Rising Saga Completa\Dead Rising 3 Apocalypse Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>17810</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dead_Rising_3</WikipediaURL>
+    <Title>Dead Rising 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Tercera Persona; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=l6pSP6jyibU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\State of Decay collection\State of Decay 2\StateOfDecay2.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-02T21:08:01.6729235-05:00</DateAdded>
+    <DateModified>2024-07-15T17:04:29.0390502-05:00</DateModified>
+    <Developer>Undead Labs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ab71d5cf-4560-45a8-ac7f-8132fc09eae0</ID>
+    <LastPlayedDate>2024-06-28T00:59:59.4182382-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¿Cómo sobrevivirás? Los muertos han resucitado y la civilización ha caído. Ni siquiera el ejército ha podido detener a los zombis, y ahora depende de ti reunir a los supervivientes y construir una comunidad en un mundo postapocalíptico, un mundo en el que cada decisión importa y en el que tú defines lo que significa sobrevivir. State of Decay 2 es el juego de supervivencia zombi definitivo en un mundo abierto en el que tú y hasta tres amigos creáis una comunidad de supervivientes. De ti depende establecer una base, desarrollar las habilidades de tus personajes y gestionar los recursos para sobrevivir como grupo en un mundo donde las elecciones importan y cada decisión tiene consecuencias duraderas. La experiencia de cada jugador es única: a medida que juegas, el mundo abierto responde a tus decisiones, desarrollándose en tiempo real y ofreciendo dinámicamente nuevas oportunidades para que demuestres tus propias prioridades personales de supervivencia. Estas decisiones también tienen consecuencias reales que afectan a tu comunidad. Envía a tu mejor carroñero a recorrer el mapa para recoger medicinas para un amigo enfermo... pero ten en cuenta que puede que no llegue a casa. Ayuda a tus vecinos, y puede que hagas nuevos aliados... o puede que decidas que necesitas su suministro de comida más que ellos. Al final, la supervivencia puede sorprenderte.</Notes>
+    <Platform>Microsoft Xbox One</Platform>
+    <Publisher>Microsoft Studios</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2018-05-22T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\State of Decay collection\State of Decay 2</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>No Cierra</Status>
+    <DatabaseID>200999</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/State_of_Decay_2</WikipediaURL>
+    <Title>State of Decay 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>5</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 3D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=1ljRGIDGdwU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>771e1060-2146-4f5d-8e35-d89d39e86533</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f899b29b-ee77-4d7e-a087-6cf72ed37c85</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>c022f4f4-661b-45a1-a644-fdaf4d5c2c10</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>37ae753f-13c1-432a-bc0f-7a19ffd7b563</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>a01d94e2-e573-4801-9f5a-d43e9e5887fe</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>0fc3ce71-129d-4234-bdbc-64f2bd04e522</GameID>
+    <Name>Idioma</Name>
+    <Value>Castellano</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>ab71d5cf-4560-45a8-ac7f-8132fc09eae0</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>771e1060-2146-4f5d-8e35-d89d39e86533</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>0b01c1f7-bede-4028-ac7d-36ab945fa2de</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f899b29b-ee77-4d7e-a087-6cf72ed37c85</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>c022f4f4-661b-45a1-a644-fdaf4d5c2c10</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>37ae753f-13c1-432a-bc0f-7a19ffd7b563</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>a01d94e2-e573-4801-9f5a-d43e9e5887fe</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>0fc3ce71-129d-4234-bdbc-64f2bd04e522</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>ab71d5cf-4560-45a8-ac7f-8132fc09eae0</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

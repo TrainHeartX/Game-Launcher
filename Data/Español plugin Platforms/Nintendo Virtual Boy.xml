@@ -1,0 +1,1426 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\3-D Tetris (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:02.7919670-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:02.7919670-05:00</DateModified>
+    <Developer>T&amp;E Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>98f53b98-6e4b-4e34-b855-692bfdfde5cd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un juego de Tetris en 3D con tres modos de juego:&#xD;
+&#xD;
+A. Aparece un pozo tridimensional, lo suficientemente grande como para contener cinco capas de bloques de Tetris. Cada vez que completas una capa con bloques que caen, esta se desvanecerá y recibirás una considerable dosis de puntos. Si alguna vez apilas sobre una de las cinco capas, perderás una de ellas, una vez que las cinco se hayan perdido, tu juego habrá terminado.&#xD;
+&#xD;
+B. En este modo, coloca bloques alrededor del centro del pozo, cualquier bloque colocado en el centro se desvanecerá, a menos que el bloque complete una capa, en cuyo caso desaparecerá.&#xD;
+&#xD;
+C. En este modo, se mostrará una forma antes de que comience el juego. Tendrás que replicar esta forma perfectamente, un bloque fuera de lugar y tu juego habrá terminado. Triunfa y después de una breve animación te mostrará una nueva forma.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>3D Tetris</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-03-22T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>789fde4d-0e2c-4b5c-bbbf-7825634821cc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>98f53b98-6e4b-4e34-b855-692bfdfde5cd</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\3-D Tetris (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>3D Tetris</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Bound High (Unknown) (Proto).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:15.4507407-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:15.4507407-05:00</DateModified>
+    <Developer>Japan System Supply</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>23c87829-a7ae-425c-ad02-d48ee906fec0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bound High sumerge a los jugadores en múltiples niveles de desafío del juego en 3D.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Bound High</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Varios</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f32cdd4c-e232-42be-b295-0c18e1f98585</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>23c87829-a7ae-425c-ad02-d48ee906fec0</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Bound High (Unknown) (Proto).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Bound High</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Galactic Pinball (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:16.3798489-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:16.3798489-05:00</DateModified>
+    <Developer>Intelligent Systems</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e3157582-fef1-41b4-9377-2469f3312764</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Galactic Pinbal es un juego de pinball 3D en un ambiente espacial. Hay 4 mesas espaciales diferentes que puedes elegir, más un juego de bonificación. Haz rebotar la bola para destruir las naves alienígenas y así salvar el mundo.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Galactic Pinball</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-08-14T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pinball</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>39b73977-08ff-4203-872b-764c465cd4f9</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e3157582-fef1-41b4-9377-2469f3312764</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Galactic Pinball (Japan, USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Galactic Pinball</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Golf (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:08.0976519-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:08.0976519-05:00</DateModified>
+    <Developer>Technical Engineering Support</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>07653151-803e-45e5-b33f-a2f7e95ca9cc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Juega un circuito de 18 hoyos en este juego de golf en 3D. Elije tu club, ten en cuenta el viento y las condiciones del recorrido, oscila mirando el medidor. Ten cuidado con los peligros de este circuito, ya que desafiará a jugadores de todos los niveles.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>T&amp;E Virtual Golf</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-11-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Golf</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d20008e0-430a-4979-a3dc-b9ab67424b65</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>07653151-803e-45e5-b33f-a2f7e95ca9cc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Golf (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>T&amp;E Virtual Golf</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Innsmouth no Yakata (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:07.2738601-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:07.2738601-05:00</DateModified>
+    <Developer>Betop</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>58ab5d76-4aeb-4c4b-a4a0-27286993be2e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Innsmouth no Yakata es un shooter videojuego lanzado en 1995 sobre Virtual Boy. El objetivo es encontrar la salida de un laberinto de pasillos con puertas sólidas monstruos en un período determinado de tiempo. Para la defensa contra los monstruos, nuestro héroe está armado con una pistola.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>I'Max</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Innsmouth no Yakata</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-13T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / 1ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a1c99f63-7ff8-4ecb-86fe-b4f96613c3e5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>58ab5d76-4aeb-4c4b-a4a0-27286993be2e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Innsmouth no Yakata (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Innsmouth no Yakata</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Jack Bros. (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:17.2916581-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:17.2916581-05:00</DateModified>
+    <Developer>Atlus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>30e2cdf4-b42a-4e03-b18b-5e0b059c7fe3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Una vez al año, en Halloween, se abre el portal entre el mundo de las hadas y el mundo de los humanos, lo que permite que las hadas vengan a visitar a los niños por un día. Sin embargo, deben regresar a casa antes del final del día; de lo contrario, nunca más podrán volver al Mundo de las Hadas. Depende de ti llevar a Jack a casa antes de que termine Halloween.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Atlus</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Jack Bros.</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-30T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>db0bbeb1-28c7-4e4b-b818-73079aaa66f9</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>30e2cdf4-b42a-4e03-b18b-5e0b059c7fe3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Jack Bros. (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Jack Bros.</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Mario Clash (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:02.0663253-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:02.0663253-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>34a11475-3528-4f09-a87e-3429b898ee04</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Este juego es esencialmente una secuela de un solo jugador de Mario Bros. Mientras que los juegos de Super Mario Advance contendrían una versión mejorada de Mario Bros., Mario Clash contiene muchas más adiciones y cambios en el juego.&#xD;
+&#xD;
+Como antes, el objetivo es limpiar una pantalla de enemigos y pasar al siguiente nivel. Sin embargo, en lugar de hacer esto volteando a un enemigo desde abajo y pateándolos, les arrojas proyectiles. Además, aprovechando la profundidad adicional de Virtual Boy, hay un área frontal y una zona posterior que se puede recorrer a través de las tuberías. Las proyectiles también pueden arrojarse contra los enemigos en la otra área de profundidad.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Mario Clash</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-28T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>99471db4-da51-4b1b-b327-f15c9301616d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>34a11475-3528-4f09-a87e-3429b898ee04</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Mario Clash (Japan, USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Mario Clash</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Mario's Tennis (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:04.3830675-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:04.3830675-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b9fab782-55fc-4155-954e-09c0c4c42016</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En Mario Tennis puedes elegir entre siete personajes diferentes, (Mario, Luigi, Princesa Toadstool, Yoshi, Toad, Koopa Troopa y Donkey Kong Jr.) todos con diferentes niveles de habilidad, para jugar uno contra el otro en partidos individuales o de dobles. También puedes jugar en un modo de exhibición o torneo.&#xD;
+&#xD;
+En el modo regular, juegas contra un oponente que eliges para una o tres rondas.&#xD;
+&#xD;
+En el modo torneo, puedes jugar contra otros tres en un torneo para ver quién es el mejor!.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Mario's Tennis</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-07-21T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Tenis</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2bbdbee0-da15-41e8-b220-dc1d78db4efe</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b9fab782-55fc-4155-954e-09c0c4c42016</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Mario's Tennis (Japan, USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Mario's Tennis</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Nester's Funky Bowling (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:10.4053065-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:10.4053065-05:00</DateModified>
+    <Developer>Saffire Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b6f0beac-b534-4f69-ae1a-674464dd4b54</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Nester de Funky Bowling es un juego de bolos lanzado en 1996, sobre Virtual Boy. Funky Bowling Nester es una simulación de bolos clásico. Usted puede elegir el modo de juego Bowl: si desea jugar por puntos, con el fin de inscribirse en la lista de puntuaciones, práctico: si lo que desea es practicar una vez, y el último desafío: si quieres jugar con tareas predefinidas.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Nester's Funky Bowling</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-02-26T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Bowling</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>5a89417c-9ff2-4c0d-952f-0303e4880dde</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b6f0beac-b534-4f69-ae1a-674464dd4b54</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Nester's Funky Bowling (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Nester's Funky Bowling</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Panic Bomber (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:14.5619549-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:14.5619549-05:00</DateModified>
+    <Developer>Hudson</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>09c2d61c-ce25-4f60-a600-19c7cbbde05b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Prepárate para la acción explosiva con Bomberman! Detona los mundos de las Terribles Ruinas,  el Bosque Siniestro, y el Desolador Desierto.  Conquista la isla de la Niebla y captura las tres variantes de poder celestial.&#xD;
+¡Que no te entre el pánico! O serás  calcinado por la codiciosa Sra. Flashy o el mortal Conde Dracu-Doom.  Incendia  el temido castillo Doom con bombasticos movimientos y una buena estrategia de combustión. Sólo entonces podrás  abrir las puertas de la legendaria Estatua de Oro de Bomberman. ¡Una  desconcertante explosión de puzzles!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Panic Bomber</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle-Puzzle / Caída</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cdecb432-b4c9-40be-8cd6-8328c0ea2e6d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>09c2d61c-ce25-4f60-a600-19c7cbbde05b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Panic Bomber (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Panic Bomber</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Red Alarm (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:12.4986518-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:12.4986518-05:00</DateModified>
+    <Developer>Technical Engineering Support</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ca996a55-9de0-4a5d-9503-4c765b91cbdc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A comienzos del siglo XXI, una Guerra Mundial no cesó durante 70 años devastadores. No fue sino hasta la creación de un programa avanzado llamado K.O.S (Killer Operating System) que terminó la amenaza para el mundo. La gente se regocijó cuando el sistema eliminó al enemigo y se restableció la paz. Con un nuevo gobierno en su lugar, se ordenó destruir todas las armas para proteger al mundo de cualquier amenaza futura. KAOS, como se llamó más tarde, también estaba en la lista de armas que se destruirían.&#xD;
+&#xD;
+Pero KAOS tenía su propio plan, desconocido para la gente. Se había convertido en un ser consciente, y tenía un objetivo ... sobrevivir. Al desatar sus armas en el mundo indefenso, el verdadero caos estalló.&#xD;
+&#xD;
+Depende de ti, en el último guerrero que queda, llegar al cielo y acabar con la amenaza de una vez por todas.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Red Alarm</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>011ec500-4b3d-4960-9925-59de373b2ac4</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ca996a55-9de0-4a5d-9503-4c765b91cbdc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Red Alarm (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Red Alarm</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\SD Gundam - Dimension War (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:11.6672106-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:11.6672106-05:00</DateModified>
+    <Developer>Bandai Namco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>077edde6-3e5b-4aa0-a112-813b75e11132</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Basado en la popular franquicia anime, SD Gundam Dimension War es un juego de estrategia por turnos en el que estás al mando de una pequeña fuerza de combate mientras viajas a través de la galaxia con el objetivo de acabar con las unidades enemigas que encuentres. El juego está dividido en dos partes: una pantalla del mapa en la que maniobras con tus tropas y una vista cercana para las batallas.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Bandai Namco</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>SD Gundam - Dimension War</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-22T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Estrategia</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>20af7216-dbc4-43f6-8f71-9616a3d45493</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>077edde6-3e5b-4aa0-a112-813b75e11132</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\SD Gundam - Dimension War (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>SD Gundam - Dimension War</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Space Invaders - Virtual Collection (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:05.9996142-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:05.9996142-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>40e926c2-e6b4-4519-8132-c4c0fe63633a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Atención a todos los terrícolas! Se han identificado cerca infinidad de hordas alienígenas. Evita que los peligrosos Space Invaders aterricen en tu territorio. Usa tu cañón para defenderte de las oleadas de invasores alienígenas que desciendea a tu posición. ¡No dejes que caigan al suelo o todo habrá terminado para ti y la Tierra! ¡Destrúyelos y gana puntos!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Taito</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Invaders - Virtual Collection</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shooter / Estilo Space Invaders-Shooter-Compilación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2416bea9-3ca0-48ae-bd3d-a3ef148661e9</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>40e926c2-e6b4-4519-8132-c4c0fe63633a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Space Invaders - Virtual Collection (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Invaders - Virtual Collection</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Space Squash (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:17.9340869-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:17.9340869-05:00</DateModified>
+    <Developer>Tomcat System</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>956d5449-6e18-4055-8483-868f13cba1d8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Space Squash es uno de esos juegos en los que la premisa es tan simple que podrías escribirla en el reverso de un sello y aún así tener espacio de sobra. Guardas un extremo de un túnel y tu oponente protege al otro mientras ambos flotan golpeando una bola con púas. traspasa la linea de tu oponente para anotar un punto. Gana el que priero que acumule tres victorias.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Coconuts Japan</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Squash</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-09T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>52202b30-1971-4854-b850-cc5bff48b0f7</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>956d5449-6e18-4055-8483-868f13cba1d8</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Space Squash (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Squash</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Teleroboxer (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:18.7459456-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:18.7459456-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8290241c-2bca-4810-852d-e843001aabfb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Teleroboxer se situa en el siglo 22. Los seres humanos han desarrollado un nuevo tipo de robot llamado Telerobotnics que puede imitar perfectamente los movimientos de un ser humano. El objetivo de estos robots es permitir a los humanos realizar trabajos en condiciones normalmente insoportables. El Dr. Edward Maki Jr. ha ideado una forma de aumentar el interés de los telerobotnics mediante la creación de un torneo que enfrenta a dos de estos robots en un deporte llamado teleroboxing. Después de su concepción, el teleroboxing se ha vuelto muy popular en todo el mundo, todos piensan que es el mejor, pero solo tú desmostrarás que eres capaz de ser campeón del torneo mundial.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Teleroboxer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-07-21T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Boxeo</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>da8f6243-8a71-411f-93b0-9b0736a112b2</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8290241c-2bca-4810-852d-e843001aabfb</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Teleroboxer (Japan, USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Teleroboxer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Vertical Force (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:11:58.9565614-05:00</DateAdded>
+    <DateModified>2024-03-07T00:11:58.9565614-05:00</DateModified>
+    <Developer>Hudson</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4f334319-9eda-44da-a41d-2bbd28ccce4b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego tiene lugar en "Space Era 210". La computadora gigante que se encarga de un planeta colonizado por humanos llamado Odin. De repente funciona mal y decide enviar un ejército de aviones no tripulados para destruir la Tierra. Estos drones emiten una señal que inutiliza a todos los cazas estelares de la Tierra. Un equipo de arqueología encuentra un caza estelar antiguo en el planeta Ragnarok que es fortuitamente inmune a la señal de los drones. Depende del jugador que pilota de esta nave estelar, destruir todos los drones alienígenas.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Vertical Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Vertical</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d9e67416-b64f-413f-9367-507fe383dd9c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4f334319-9eda-44da-a41d-2bbd28ccce4b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Vertical Force (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Vertical Force</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Bowling (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:00.2383977-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:00.2383977-05:00</DateModified>
+    <Developer>Athena</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0cd14409-1a40-4dbe-b9a3-636e44316808</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual Bowling es un juego de bolos lanzado en 1995 en Virtual Boy. Hay tres modos de juego: el modo "estándar", donde completas un conjunto simple de 10 imágenes para tener un puntaje alto, el modo "Torneo", así como el "modo de entrenamiento" donde puedes colocar libremente los bolos en cualquier combinación antes de cada lanzamiento.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Athena</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtual Bowling</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-22T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Bowling</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e9cc09d6-286b-4186-ab40-4bd0a9c59d7f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0cd14409-1a40-4dbe-b9a3-636e44316808</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Bowling (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtual Bowling</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Boy Wario Land (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:11:59.5263786-05:00</DateAdded>
+    <DateModified>2024-03-07T00:11:59.5263786-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c8f684a8-8774-4cbe-b2e8-96a065705cc9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Prepárate para una intrépida búsqueda del tesoro con el infame Wario. Saquea el brillante oro y los vastos tesoros encerrados en una cueva escondida. ¡Pero ten cuidado con los estanques de veneno, las peligrosas mazmorras, las paredes interminables y los bosques espeluznantes! Transfórmate en Sea Dragon Wario, Eagle Wario o Bull Wario y utiliza sus increibles poderes. Golpea a los defensores de cuevas enemigas con ataques cuerpo a cuerpo. ¡Triunfa en esta espiral de codicia para apoderarte de las riquezas de este mundo subterráneo y encuentra la llave de la libertad!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtual Boy Wario Land</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>3f8f5d20-3773-4214-a3d2-d2f0b83b138a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c8f684a8-8774-4cbe-b2e8-96a065705cc9</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Boy Wario Land (Japan, USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtual Boy Wario Land</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Fishing (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:13.9183389-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:13.9183389-05:00</DateModified>
+    <Developer>Locomotive Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d0a2dd1f-039d-4604-9cfc-0693600c0baf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual Fishing tiene como objetivo replicar la experiencia de la pesca, enfrentandote contra seis oponentes en variass competiciones.&#xD;
+Al comenzar el juego, se te presenta una pantalla de mapa 3D con cinco ubicaciones para que pueda competir, así como un área de entrenamiento donde puede acostumbrarse a los controles, que son bastante sencillos.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Pack In Video</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtual Fishing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-06T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pesca-Caza y Pesca</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>8211b35b-0393-429c-9239-91758438469f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>d0a2dd1f-039d-4604-9cfc-0693600c0baf</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Fishing (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtual Fishing</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Lab (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:13.3691133-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:13.3691133-05:00</DateModified>
+    <Developer>Nacoty</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>be0972f0-a57c-45d3-9690-67392c12a1da</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Laboratorio virtual es un juego de puzzle lanzado en 1995, sobre Virtual Boy. El juego es una mezcla entre Tetris y Quimera. Monedas caen desde la parte superior de la pantalla y deben estar dispuestos para formar tubos completamente cerrada.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>J-Wing</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtual Lab</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-08T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bf0c52e1-b896-4c43-9d43-edb80ce3632f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>be0972f0-a57c-45d3-9690-67392c12a1da</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual Lab (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtual Lab</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual League Baseball (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:09.3449866-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:09.3449866-05:00</DateModified>
+    <Developer>Kemco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f9694ec1-5d31-4a4f-b5f5-f0648ca30571</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual League Baseball es un juego de béisbol lanzado en 1995 en Virtual Boy. Puedes elegir entre el juego contra la máquina, el All Star Game y la carrera por el campeonato.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Kemco</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtual Pro Yakyuu '95</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-11T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Béisbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>dc46c516-9547-4b9b-9df5-7b75f08c3b86</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f9694ec1-5d31-4a4f-b5f5-f0648ca30571</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Virtual League Baseball (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtual Pro Yakyuu '95</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\V-Tetris (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:11.1005493-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:11.1005493-05:00</DateModified>
+    <Developer>Locomotive Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>063e218a-1bd6-4e25-b621-aa2741055f4f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>V-Tetris es un juego Tetris exclusivo en japonés para Virtual Boy. No debe confundirse con el título 3D de Virtual Boy similar, ya que los dos juegos son completamente diferentes. V-Tetris, a diferencia de 3D Tetris, es casi igual a los juegos originales de Tetris, la única diferencia es el modo de rompecabezas cilíndrico en el que los bloques se pueden colocar en una espiral 3-D.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Bullet Proof Software</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>V-Tetris</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-08-25T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a6210bfa-5ac7-4c07-86fd-4b8a5e1e375c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>063e218a-1bd6-4e25-b621-aa2741055f4f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\V-Tetris (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>V-Tetris</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Waterworld (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:12:01.3762361-05:00</DateAdded>
+    <DateModified>2024-03-07T00:12:01.3762361-05:00</DateModified>
+    <Developer>Ocean</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bd67f318-5c9d-49b9-94ce-e13a6355a330</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El Diácono no se detendrá ante nada para controlar el recurso más preciado del mundo ...&#xD;
+&#xD;
+Y ha liberado a sus Smokers sedientos de sangre en la civilización Atoller en una frenética búsqueda de Enola, la chica tatuada que guarda el secreto de Dryland. ¡Solo tú puedes derrotar a los Smokers y engañar al Diácono!.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Waterworld</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / Vehículo, 3ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>861fec3f-dc14-4236-a665-5c203e88ba85</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bd67f318-5c9d-49b9-94ce-e13a6355a330</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Nintendo Virtual Boy\Waterworld (USA).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Waterworld</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>

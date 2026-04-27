@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\GameLauncher.Core\GameLauncher.Core.csproj" />
+    <ProjectReference Include="..\..\Core\GameLauncher.Data\GameLauncher.Data.csproj" />
+    <ProjectReference Include="..\..\Core\GameLauncher.Infrastructure\GameLauncher.Infrastructure.csproj" />
+    <ProjectReference Include="..\GameLauncher.UI.Shared\GameLauncher.UI.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.77" />
+    <PackageReference Include="LibVLCSharp.WPF" Version="3.8.5" />
+    <PackageReference Include="System.Management" Version="8.0.0" />
+
+  </ItemGroup>
+
+</Project>

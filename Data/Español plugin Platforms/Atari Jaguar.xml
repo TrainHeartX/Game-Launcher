@@ -1,0 +1,3421 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Air Cars (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:46.8956263-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:46.8956263-05:00</DateModified>
+    <Developer>Midnite Entertainment Group</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e2fbd8e9-7f09-46b0-9144-b640e4656051</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>AirCars tiene lugar en el futuro después de un holocausto nuclear. La gran organización E.B.N.E.R.S. está planeando hacerse con el control del mundo y ha desarrollado sistemas avanzados de campo de fuerza y ??teletransporte, y AirCars de energía nuclear. Para detener la trama, su grupo roba planes, construye su propio AirCar y se dispone a destruir todas las bases, 28 conocidas e innumerables desconocidas, estacionadas en todo el mundo. Puedes elegir jugar un juego para un solo jugador, el juego para 2 jugadores usando un JagLink o hasta 8 jugadores usando los CatBoxes del ICD. En la pantalla y en el radar, AirCar de cada jugador se muestra en un color diferente para ayudar a identificar a los buenos muchachos de los malos. Hay 3 configuraciones de dificultad. Utilizará el panel de instrumentos de la cabina para volar el AirCar, seleccionar armas y ver el radar, así como combatir al enemigo en el aire y disparar objetivos en tierra. Las características incluyen verdadero sonido 3D, una voz de computadora (que se puede apagar si se desea) y música durante la presentación y el nivel intermedio.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>ICD</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Air Cars</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1997-05-27T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ccb8dc0a-107b-4b14-8687-3c9a3544e56a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e2fbd8e9-7f09-46b0-9144-b640e4656051</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Air Cars (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Air Cars</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Alien vs Predator (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:10.4390100-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:10.4390100-05:00</DateModified>
+    <Developer>Rebellion</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>971dd996-0923-4715-8809-7e16b076fcc3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La versión Jaguar de Alien vs. Predator es completamente diferente de los juegos Arcade y SNES del mismo nombre. La versión de Jaguar se desarrolla completamente en una base de entrenamiento Colonial Marine. Una nave infestada con Aliens se encuentra flotando cerca de la instalación de entrenamiento del espacio exterior. Por supuesto, una vez que los Aliens entran en la base, matan a casi todos. Mientras tanto, los Depredadores atracan su nave en la base de entrenamiento también. Ven esto como una oportunidad para atrapar a una Alien Queen y traer honor a su clan. Entonces, hay tres escenarios en los que jugar: Primero, puedes jugar como un Marine. Su trabajo es encontrar la forma de autodestruir la base y dirigirse a una cápsula de escape antes de que explote. El segundo escenario te permite jugar como un Alien. Aquí, tu trabajo es encontrar y proteger a la Reina de los Marines y los Depredadores. Finalmente, puedes jugar como el Predator. El Predator debe simplemente encontrar y matar a la Alien Queen. El juego se juega como un shooter en primera persona. El campo de juego consiste en los 5 niveles de la base de entrenamiento, más áreas para la nave Predator y Alien. Todas las áreas de la nave están interconectadas, dando al juego un enorme entorno virtual. Dependiendo del escenario que elija, tendrá que elegir diferentes estrategias basadas en las capacidades de su personaje. Por ejemplo, el infante de marina tendrá que hacer uso de sus armas y su capacidad para usar las terminales de la computadora del barco. Los alienígenas, por otro lado, tendrán que hacer uso de su gran cantidad y habilidad para atrapar a sus enemigos. Y, finalmente, el Depredador debe luchar con honor y no abusar de su capacidad de invisibilidad.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Aliens Versus Predator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-10-20T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / 1ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>89751735-2ccb-44ef-9be7-c4cea3ce53b9</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>971dd996-0923-4715-8809-7e16b076fcc3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Alien vs Predator (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Aliens Versus Predator</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Atari Karts (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:21.7936373-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:21.7936373-05:00</DateModified>
+    <Developer>Miracle Designs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>753a3ee7-5f15-4393-b4b1-d97af8e5f51a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Atari Karts es un juego de carreras de karts basado en personajes. Juega de manera muy similar a Super Mario Kart. El énfasis en este juego, como la mayoría de los juegos de kart, está en hacer uso de objetos de recogida que se encuentran alrededor de la pista para noquear a tus oponentes. Solo hay un modo de juego, una serie de copas basadas en puntos. Hay cuatro niveles de dificultad, cada uno con 3 copas para correr. Después de completar todas las copas para un nivel de dificultad, puedes desafiar a un kart de "jefe" en un solo partido de carrera. Si vences al jefe, se convierte en un personaje jugable. Las diferentes carreras de copas se pueden jugar en modos de pantalla dividida para un solo jugador o para dos jugadores.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Atari Karts</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-20T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c185dc38-6685-44eb-bcd6-329f738a9b03</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>753a3ee7-5f15-4393-b4b1-d97af8e5f51a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Atari Karts (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Atari Karts</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Attack of the Mutant Penguins (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:37.7698259-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:37.7698259-05:00</DateModified>
+    <Developer>Sunrise Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e5b13131-dd6a-4b44-82c4-92dd4f5aa808</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En la galaxia distante de Bleurggh, una banda de alienígenas malvada (pero razonablemente estúpida) recogió algunas de las señales de televisión de la Tierra. Desafortunadamente para ellos, solo podían sintonizar un programa de vida silvestre. Pensaban que la Tierra sería un obstáculo para invadir, por lo que se disfrazaron de habitantes: ¡pingüinos! La noticia de la invasión ha llegado a los campeones de la Gooderga intergaláctica, Bernard y Rodney. Ahora, con su ayuda, debes evitar que los pingüinos mutantes alienígenas desencadenen la Escama del Destino y destruyan la Tierra. ¿Estás preparado para el desafío?</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Attack of the Mutant Penguins</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-29T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>08a6afcd-44da-4eb8-9d52-10982bcb7338</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e5b13131-dd6a-4b44-82c4-92dd4f5aa808</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Attack of the Mutant Penguins (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Attack of the Mutant Penguins</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Battle Sphere Gold (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:14.5973475-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:14.5973475-05:00</DateModified>
+    <Developer>ScatoLogic</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>938bef7e-4261-4d2c-bb8d-27c884e697cd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un simulador de combate espacial en 3D, la historia de BattleSphere se basó en un episodio de la serie de televisión original de Star Trek y se reproduce de manera similar a Star Raiders. Siete razas alienígenas compiten una contra la otra: el vencedor controlará la galaxia. Se reúnen en una arena en el Sector 51, un sector esférico del espacio utilizado anteriormente por el gobierno de la Tierra para probar en secreto nuevas armas y naves estelares. El juego consiste en 5 modos de juego diferentes con diferentes escenarios y objetivos. Elige entre varias naves estelares (cada una con sistemas de armas únicos) y lucha contra los alienígenas, que también han elegido a sus mejores luchadores y tienen muchas naves espaciales propias.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>ScatoLogic</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Battle Sphere Gold</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2002-03-15T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e78550af-2f34-4bc1-a4d4-f8f54a9adcbb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>938bef7e-4261-4d2c-bb8d-27c884e697cd</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Battle Sphere Gold (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Battle Sphere Gold</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Brutal Sports Football (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:52:56.8417124-05:00</DateAdded>
+    <DateModified>2024-03-06T21:52:56.8417124-05:00</DateModified>
+    <Developer>Teque</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>74098477-62fd-4ae1-8f33-356f6c0e3fc7</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Similar a Speedball 2 en muchos sentidos, este es un juego deportivo ultra violento. Los partidos duran 7 minutos, y el objetivo es llevar la pelota a un gol en cada extremo, custodiado por un portero de red. La pelota puede ser lanzada o pateada, y es un óvalo, lo que resulta en frecuentes patadas tipo arriba y abajo. La jugabilidad es rápida y fluida, y tiene una regla: si no puedes conseguir la pelota, atrapa al hombre y decapita si es posible. En el campo aparecen objetos con bonificación y sin bonificación, como bombas para lanzar a los oponentes, conejos para acelerar al jugador actual o tortugas para retrasarlo. Los equipos consisten en humanos y alienígenas, muchos de los cuales tienen sus propias habilidades únicas. Hay mucha sangre y extremidades agitadas, dando a las cosas un toque horriblemente humorístico. Hay cuatro ligas para avanzar, más una copa eliminatoria y partidos individuales.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Telegames</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Brutal Sports Football</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-08-22T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Fútbol americano-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>6812e8c4-1c28-48c4-8f39-5b950e6cb22e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>74098477-62fd-4ae1-8f33-356f6c0e3fc7</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Brutal Sports Football (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Brutal Sports Football</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Bubsy in Fractured Furry Tales (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:13.8707574-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:13.8707574-05:00</DateModified>
+    <Developer>Imagitec Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>099db2a0-b4e1-4f7e-9729-fc7bca50ab2e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Solo Bubsy puede proteger a los niños del mundo de estas historias tontas y cuentos enredados mientras salta y se abre camino a través de 15 frenéticos capítulos de fabulosa diversión peluda. En Fairytaleland, Bubsy asiste a una fiesta de té retorcida, trepa a un frijol gigante, viaja bajo el mar (sin mojarse las patas), se dirige al desierto de Ali Baba e incluso se encuentra con Hansel y Gretel, que deberían estar bajo cargos de secuestro.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Bubsy in Fractured Furry Tales</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c4135714-46fb-4994-81b8-7bad1ea42591</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>099db2a0-b4e1-4f7e-9729-fc7bca50ab2e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Bubsy in Fractured Furry Tales (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Bubsy in Fractured Furry Tales</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Cannon Fodder (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:06.1048958-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:06.1048958-05:00</DateModified>
+    <Developer>The Dome Software Developments</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>3a9a51ce-8aa2-427b-a73e-96e6cffe1af8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Guía a un equipo de hasta cuatro soldados en 72 niveles de combate en este innovador híbrido de estrategia / acción de arriba hacia abajo, mejor pensado como Lemmings cruzado con Comando cruzado con Dune 2. Los personajes se controlan indirectamente con el mouse, a medida que activas cada un soldado o grupo de ellos al resaltarlos, haga clic en el botón izquierdo para moverlos a un lugar en particular, y el botón derecho para que disparen armas a un enemigo. También puedes recoger granadas, que pueden usarse para destruir grupos de enemigos o edificios (presionando ambos botones a la vez). Cada misión tiene un objetivo específico, y algunos cuentan con vehículos como tanques para facilitar las cosas. Tus tropas pueden cruzar el agua pero no pueden disparar dentro de ella, por lo que encontrar y controlar puentes suele ser crucial. Puedes usar la disposición de los árboles para encontrar escondites desde donde disparar, y debes tener cuidado con los soldados de la CPU que también lo hacen.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Virgin Interactive</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cannon Fodder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-02-17T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Estrategia</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2115d6c0-9964-4181-b3d2-942d191e23b3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>3a9a51ce-8aa2-427b-a73e-96e6cffe1af8</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Cannon Fodder (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cannon Fodder</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Checkered Flag (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:25.5874715-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:25.5874715-05:00</DateModified>
+    <Developer>Rebellion</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7b04e82f-6e77-49ba-83c4-21f7c87832ca</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Checkered Flag for the Jaguar es un juego de carreras de estilo 3D F1. Los productos básicos del juego de carreras están aquí: carrera individual, práctica y torneo. Puede elegir configurar una variedad de opciones para cada carrera, también. Puedes elegir varias condiciones climáticas. O bien, puede configurar su automóvil para cambiar sus características de manejo. Hay 10 pistas diferentes en las que competir, cada una con un tema diferente. Algunos tienen lugar en playas soleadas, otros tienen lugar en el ártico.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Checkered Flag</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-28T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>14366530-a68d-403f-9e20-2e40a0b64d6c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7b04e82f-6e77-49ba-83c4-21f7c87832ca</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Checkered Flag (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Checkered Flag</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Club Drive (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:51.2149458-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:51.2149458-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0a735fb2-a09d-4980-961a-06c7c6809448</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Es el futuro, y el parque temático más popular es Club Drive. Los científicos han logrado inventar autos indestructibles. Los clientes de Club Drive pueden conducir estos autos en entornos imaginativos y jugar juegos de conducción escandalosos. Club Drive como un juego de Jaguar es un simulador de conducción simple. Usted está en el asiento del conductor y puede competir en entornos grandes. Las áreas de carreras disponibles son: un pueblo fantasma del viejo oeste, San Francisco, una casa gigante y un sendero estilo hot-wheels simple. Además de los modos de carrera, hay modos de colección de objetos y de etiqueta para 2 jugadores. Estos modos se reproducen en versiones más pequeñas de las áreas descritas anteriormente.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Club Drive</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-28T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a0d9e676-9d3e-4698-b876-6d8fb6f924f0</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0a735fb2-a09d-4980-961a-06c7c6809448</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Club Drive (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Club Drive</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Cybermorph (World) (Rev 1).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:52:57.2667702-05:00</DateAdded>
+    <DateModified>2024-03-06T21:52:57.2667702-05:00</DateModified>
+    <Developer>Attention To Detail</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9a2c9684-9ae8-43a9-86b0-4b098682c369</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cybermorph fue el primer juego lanzado para la consola Jaguar de Atari. Es un juego de disparos de ciencia ficción 3d. La historia es la siguiente: El malvado Pernitia Empire se está tragando los planetas de la galaxia de izquierda a derecha. Lo que es peor, a las fuerzas de la resistencia les han robado sus armas secretas y las han puesto en vainas diseminadas en muchos planetas diferentes. Debes pilotar la nave de ataque morphing T-Griffon a cada planeta y recuperar las cápsulas para detener a los pernitianos. Entonces, en cada planeta, o nivel, debes recolectar un cierto número de pods y llegar a la salida antes de que los enemigos te derriben. Afortunadamente, hay potenciadores que pueden mejorar estratégicamente las capacidades ofensivas de T-Griffon. Después de despejar 8 planetas, enfrentas a una criatura / nave jefe antes de pasar al siguiente sector. Hay 4 niveles como este para pasar, cada uno con dificultad progresivamente creciente.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cybermorph</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-11-23T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>55f0c0b0-1177-4df0-8269-548d9a8cb61a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9a2c9684-9ae8-43a9-86b0-4b098682c369</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Cybermorph (World) (Rev 1).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cybermorph</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Defender 2000 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:16.1565856-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:16.1565856-05:00</DateModified>
+    <Developer>Llamasoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7575d1b9-dca7-4491-a6cc-60d5c5533786</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Defender 2000 es una actualización del clásico juego de arcade de Eugene Jarvis. Defender combina un shooter de desplazamiento lateral con un juego de búsqueda y rescate. Usted controla una nave que viaja de izquierda a derecha sobre la superficie del planeta. Los alienígenas aterrizan en el área de juego y comienzan a descender a la superficie. A lo largo de la superficie, hay humanoides maduros para la recolección. Los módulos alienígenas atrapan a los humanoides y comienzan a llevarlos a la pantalla. Tienes que disparar a los módulos de aterrizaje antes de que lleguen a la parte superior de la pantalla y atrapar a los humanoides antes de que caigan a la superficie. La actualización de Defender Plus presenta un modo de juego muy similar al original y gráficos que tienen un aspecto loco y psicodélico. La actualización Defender 2000 agrega campos de juego que se desplazan en ambas direcciones, potenciadores de armas, rondas de bonificación, gráficos mejorados y jugabilidad de velocidad extremadamente alta.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Defender 2000</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>68ba6494-dcbb-4e56-a735-f348d2e2db45</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7575d1b9-dca7-4491-a6cc-60d5c5533786</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Defender 2000 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Defender 2000</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Doom (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:02.7983963-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:02.7983963-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5d136ced-fdf2-428e-90b3-56b8b198faef</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La Union Aerospace Corporation ha estado experimentando con la tecnología de teletransportación en las lunas de Marte Fobos y Deimos. Después de los éxitos tempranos, algo sale mal. Parece que los científicos han abierto una puerta de entrada directamente al Infierno. La base de Phobos está invadida por criaturas demoníacas, y la totalidad de Deimos simplemente desaparece. Se envía un escuadrón de infantes de marina a Fobos, pero todos menos uno son asesinados rápidamente. Le corresponde al marine superviviente tomar algunas armas y devolver el golpe a los demonios. DOOM es un shooter en primera persona. Al igual que Wolfenstein, el juego consiste en episodios distintos, reproducibles en cualquier orden. El primer episodio, Knee-Deep in the Dead, tiene lugar en la base de Fobos. El juego completo continúa en Deimos en The Shores of Hell, el último episodio tiene lugar en Hell. Cada episodio consta de nueve niveles, uno de los cuales es un nivel oculto. El objetivo básico en cada nivel es simplemente alcanzar la salida. Dado que decenas de enemigos se interponen en el camino, la única forma de llegar es matándolos. Los interruptores y botones deben ser presionados para avanzar en ciertos puntos y, a menudo, las puertas bloqueadas con códigos de colores bloquearán el camino: se deben encontrar las tarjetas coincidentes o las llaves de cráneo para poder pasar.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Doom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-02T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / 1ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b29160e0-cd31-4787-a48c-e827b1b42732</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5d136ced-fdf2-428e-90b3-56b8b198faef</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Doom (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Doom</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Double Dragon V - The Shadow Falls (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:01.5582388-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:01.5582388-05:00</DateModified>
+    <Developer>Telegames</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>23d6cc7e-5078-4665-999c-1c4175bbf59f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Double Dragon V: The Shadow Falls es una secuela de la serie Double Dragon. A diferencia de los juegos anteriores, que eran juegos de acción de lucha lateral o beat-em-ups, Shadow Falls es un juego de lucha cuerpo a cuerpo basado en la serie animada Double Dragon TV al estilo del Street Fighter 1991 de Capcom.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Williams</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Double Dragon V : The Shadow Falls</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-04-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7b77d12c-6d60-4ed3-ba3b-84a6b2ac4f27</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>23d6cc7e-5078-4665-999c-1c4175bbf59f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Double Dragon V - The Shadow Falls (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Double Dragon V : The Shadow Falls</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Dragon - The Bruce Lee Story (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:28.3498973-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:28.3498973-05:00</DateModified>
+    <Developer>Virgin Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f3981249-6061-450c-8953-0eac8890345c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon: The Bruce Lee Story es un videojuego de lucha basado en la película Dragon: The Bruce Lee Story, que es un relato semi-ficcionalizado de la vida de Bruce Lee. Controlas a Lee y debes derrotar a los enemigos para avanzar en el juego, recordando las principales escenas de acción de la película. Puedes utilizar una variedad de movimientos de artes marciales para derrotar a tus enemigos y construir un medidor de chi, que puede ayudar a desatar movimientos especiales en tus oponentes. El juego admite hasta tres jugadores simultáneamente, jugando cooperativamente en el juego o uno contra el otro en un modo de batalla.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Dragon : The Bruce Lee Story</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-28T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>57e20ebb-5d9d-462c-a91d-693d50657d8c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f3981249-6061-450c-8953-0eac8890345c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Dragon - The Bruce Lee Story (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Dragon : The Bruce Lee Story</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Evolution - Dino Dudes (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:43.4756056-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:43.4756056-05:00</DateModified>
+    <Developer>Imagitec Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f36f7adf-de2d-4f1a-bd96-d0b8a07951b5</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En Evolution: Dino Dudes de Jaguar, debes guiar a una tribu de hombres prehistóricos en su evolución. En cada nivel, debes completar las tareas en un tiempo limitado con una cierta cantidad de miembros de la tribu. Las animaciones humorísticas se intercalan con los pasajes entre los niveles. Dirige a los hombres uno por uno y ademas puedes pedirles que realicen varias acciones diferentes según los artículos disponibles.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Evolution : Dino Dudes</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>30034362-025d-48a5-a011-974f9180f913</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f36f7adf-de2d-4f1a-bd96-d0b8a07951b5</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Evolution - Dino Dudes (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Evolution : Dino Dudes</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Fever Pitch Soccer (World) (En,Fr,De,Es,It).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:30.5406616-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:30.5406616-05:00</DateModified>
+    <Developer>Distinctive Developments</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7b9d832f-efc9-4e78-82f7-246e150eab9b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En este juego de fútbol isométrico, 50 equipos nacionales están representados para jugar en dos modos de juego: Exposición y Torneo (una serie de siete juegos en cuatro continentes, con una final contra los All-Stars mundiales), con la capacidad de establecer el tiempo, la dificultad del nivel, ver cutscenes de goles y si, los jugadores son libres de patear unos a otros sin (muchas) faltas. Aunque el juego parece tener pocas características para los estándares de 1995, el modo de torneo incluye un giro: dependiendo de qué tan bien el jugador derrote a sus oponentes, puede cambiar sus "jugadores estándar", que no harán nada espectacular (pero al menos se llenan los rangos) para los jugadores estrella, que no solo se ven diferentes, son capaces de cruzar y retroceder el balón, sino que también tienen una habilidad única a disposición del jugador.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Fever Pitch Soccer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-16T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Fútbol-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>1c84d3bc-2a32-443d-9759-6fb2801d5600</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7b9d832f-efc9-4e78-82f7-246e150eab9b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Fever Pitch Soccer (World) (En,Fr,De,Es,It).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Fever Pitch Soccer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Fight for Life (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:24.9118777-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:24.9118777-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>79551362-75a5-4df8-94cd-12c0b9580969</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fight for Life es un juego de lucha 3D que tiene lugar en el infierno. El jugador controla uno de los ocho luchadores fallecidos que compiten para tener la oportunidad de escapar y regresar al mundo de los vivos. Después de vencer a un oponente, no solo pasan a la siguiente ronda, sino que también aprenden dos de los movimientos del oponente. Este es el único juego de lucha en 3D lanzado para el Jaguar. Cuenta con combatientes y escenarios de textura brillante y de colores brillantes. La mecánica de juego es muy similar a la de Virtua Fighter, en el sentido de que las jugadas más o menos parecen auténticas artes marciales.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Fight for Life</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-01-15T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cf4cd5d4-08c3-467e-98fb-84c0f1c75e34</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>79551362-75a5-4df8-94cd-12c0b9580969</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Fight for Life (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Fight for Life</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Flashback - The Quest for Identity (World) (En,Fr).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:49.4995997-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:49.4995997-05:00</DateModified>
+    <Developer>Tiertex</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cbf614d5-6ea1-4842-81cd-8c8f179d3455</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Usted es Conrad B. Hart, Agente de la Oficina de Investigación de Galaxis y ahora está varado en un planeta lejano después de descubrir un complot alienígena para alcanzar la Tierra. Debes viajar y encontrar tu camino a través de cuatro planetas de regreso a la Tierra y frustrar los siniestros y letales planes de los alienígenas. La galardonada aventura de acción de ciencia ficción llega a Jaguar. ¡Y te arrancará de tu cómodo y pequeño siglo y te lanzará a un lugar y una hora que te hará suplicar una siesta!</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>U.S. Gold</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Flashback : The Quest for Identity</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-08-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7153288a-35e4-4a1b-943c-9eb57f761c1e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>cbf614d5-6ea1-4842-81cd-8c8f179d3455</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Flashback - The Quest for Identity (World) (En,Fr).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Flashback : The Quest for Identity</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Flip Out! (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:38.8844731-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:38.8844731-05:00</DateModified>
+    <Developer>Gorilla</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c1dba304-9c90-4671-8689-6d199cd5db3c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡FlipOut! es un juego de rompecabezas protagonizado por extraterrestres del planeta Phrohmaj. Su objetivo en cada rompecabezas es simple: debe colocar todas las fichas de colores en los espacios correctos en el tablero. La parte difícil es que siempre hay un mosaico más que espacios. Eso significa que siempre haces malabarismos con al menos una ficha en el aire. El juego se vuelve más difícil ya que tienes que hacer malabarismos con más fichas, y los Phrohmajian intentan interferir. Este juego presenta nueve áreas extrañas, cada una con múltiples acertijos. Los gráficos presentan animación loca de los espectadores de Phrohmaj y muchos mosaicos brillantes y coloridos.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Flip Out!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-08-28T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c8ad0ab0-41b6-4dc9-aef4-76c8da50dc27</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c1dba304-9c90-4671-8689-6d199cd5db3c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Flip Out! (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Flip Out!</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Hover Strike (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:45.7844043-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:45.7844043-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>53eac7ab-63aa-4bc2-a32e-75df7dbe1acc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Los Piratas de Terrakian se han apoderado de un planeta colonizado bajo el control de la Federación. Han creado un cañón atmosférico, lo que hace que la invasión sea imposible. Su trabajo, como piloto de aerodeslizador, es lanzar un ataque preventivo en la superficie del planeta. Hover Strike for the Jaguar es un juego de tanques basado en misiones. En cada misión, caerás a la superficie del planeta, destruirás algunos objetivos y luego regresarás a tu nave en órbita. El aerodeslizador que pilotas está fuertemente blindado e incluye varios sistemas de armas para eliminar enemigos y objetivos.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Hover Strike</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7c1b960e-afd3-4d6f-8597-6cc16075ba28</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>53eac7ab-63aa-4bc2-a32e-75df7dbe1acc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Hover Strike (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Hover Strike</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Hyper Force (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:41.5163391-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:41.5163391-05:00</DateModified>
+    <Developer>Visual Impact</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ba5bce9a-6f5c-4198-8861-350e1c741c92</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Es solo usted, su arma y un ejército corporativo inclinado a su destrucción. Trans Con está diezmando mundo tras mundo en busca de suficientes recursos y riqueza para lanzar un ataque contra el Alto Comando Terráqueo. Los políticos no quieren una confrontación directa que pueda perjudicar a sus patrocinadores corporativos. Por lo tanto, las Fuerzas Especiales Interestelares han sido convocadas para enviar a un guerrero solitario para eliminar la amenaza Trans Con. ¿Quieres adivinar quién es ese guerrero?</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Songbird Productions</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Hyper Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2000-04-10T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>94fddaa1-0c3a-4fca-b58e-4977d47fa050</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ba5bce9a-6f5c-4198-8861-350e1c741c92</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Hyper Force (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Hyper Force</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Iron Soldier (World) (v1.04).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:07.1125765-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:07.1125765-05:00</DateModified>
+    <Developer>Eclipse Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f081577d-1cc7-4e75-ab97-9f859e130885</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Es el futuro, y la tierra ha sido cubierta de tierras baldías y ciudades. La poderosa y sin rostro Iron First Corporation ha reemplazado a las últimas formas de gobierno libre. Ahora, están desarrollando un nuevo robot armado de 42 pies conocido como Iron Soldier. Con Iron Soldier, nadie podrá detener a Iron First Corporation. La única esperanza es la Resistencia, un grupo que ha logrado capturar uno de los prototipos de Iron Soldier. Eres un piloto de la Resistencia. Depende de usted pilotar el robot y derribar el Puño de Hierro. Iron Soldier es un meca que no se juega desde una vista en la cabina. Hay 16 misiones para un solo jugador. Los objetivos implican eliminar ciertos objetivos, defender convoyes, recoger objetos, etc.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Iron Soldier</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-22T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bfb52ed8-07a2-4559-b710-ebf372a09dc8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f081577d-1cc7-4e75-ab97-9f859e130885</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Iron Soldier (World) (v1.04).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Iron Soldier</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Iron Soldier 2 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:51.8992114-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:51.8992114-05:00</DateModified>
+    <Developer>Eclipse Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>abd4a3ca-2a93-4090-b655-1f8cd55f42cc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Iron Soldier 2 te pone de nuevo en el asiento del piloto de una máquina de guerra humanoide de 42 pies de alto. La antigua corporación Iron Fist se ha ido, y se ha establecido una nueva república democrática. La paz es de corta duración, sin embargo. El rival de Iron Fist, la corporación PENTA, ahora está amenazando la estabilidad de la República Unida. Usted es piloto de la República Unida y debe detener los avances de PENTA. Iron Soldier 2 juega de manera similar al primer juego. Tienes nuevas armas, nuevos enemigos y 20 super-desafiantes misiones con las que lidiar. Lanzado originalmente en CD, Telegames lanzó más tarde una versión de cartucho, que presenta el mismo juego que la versión de CD, pero que carecía de música y también reemplazó las secuencias de FMV por imágenes fijas debido a restricciones de espacio.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Iron Soldier 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1997-12-30T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>83efd6d0-1958-4a75-8e81-fc53c7503c39</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>abd4a3ca-2a93-4090-b655-1f8cd55f42cc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Iron Soldier 2 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Iron Soldier 2</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\I-War (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:36.6056632-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:36.6056632-05:00</DateModified>
+    <Developer>Imagitec Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bc26598b-cb86-49ea-a493-2ba8d554cbd6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La supercomputadora gigante que controla la información mundial ha sido infectada con un virus. Debes ingresar al mundo virtual conocido como I-Way, y limpiarlos con tu tanque de antivirus. I-War es un juego de tanques de realidad virtual en 3D. En cada uno de los 21 niveles, debes encontrar todos los pods de datos y dirigirte a la salida. Los tanques enemigos, las torretas y los bombarderos se interponen en su camino, así como las trampas ocasionales o las puertas cerradas controladas por interruptores ocultos. Los niveles se dividen en habitaciones simples, cerradas, conectadas linealmente por teletransportadores unidireccionales. Puede seleccionar un tanque rápido, mediano o pesado al comienzo del juego, con sus habilidades reflejadas en la fuerza de sus pistolas o la cantidad de castigo que puede absorber. A lo largo del juego, también encontrarás potenciadores de armas y mejoras en los tanques (como escudos, radares y ataques automáticos) para ayudarte a mantenerte eficaz contra el creciente número de defensores enemigos. Puede guardar su progreso en el carro al final de cada nivel. Entre los niveles hay rondas de bonificación en las que pilotas tu tanque a través de un corredor e intentas recolectar un determinado porcentaje de conjuntos de datos. Cumplir ese porcentaje te gana una vida extra.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>I-War</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-15T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>6a0d66c4-dbc7-48cb-a80e-9f598411cc15</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bc26598b-cb86-49ea-a493-2ba8d554cbd6</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\I-War (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>I-War</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Kasumi Ninja (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:03.8040758-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:03.8040758-05:00</DateModified>
+    <Developer>Hand Made Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a3e56868-8e08-46d3-8257-0699f8d12a09</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En la pequeña isla de Kasumi, existe un portal entre este mundo y el Inframundo. Durante muchos siglos, este portal se ha mantenido cerrado por el equilibrio entre las fuerzas del bien y el mal. Ahora, el oscuro señor ninja Gyaku ha derrotado a las fuerzas del bien y abierto el portal al inframundo. Depende de ti, un ninja Kasumi, detener a Gyaku y restablecer el equilibrio del mundo. Kasumi Ninja es un juego de lucha uno a uno con gráficos de personajes digitalizados. Hay 8 luchadores para que puedas elegir, cada uno con sus propios entornos de combate.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Kasumi Ninja</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-21T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Beat'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>182c66b9-c4ba-4aa4-99a0-1a132ad9af42</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a3e56868-8e08-46d3-8257-0699f8d12a09</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Kasumi Ninja (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Kasumi Ninja</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Missile Command 3D (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:42.3969518-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:42.3969518-05:00</DateModified>
+    <Developer>Virtuality Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e30857e8-e8ee-48d9-9d9f-348bfd38f668</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Missile Command 3D es una actualización del clásico juego de arcade Atari. El objetivo en Missile Command es defender tus ciudades contra una avalancha de misiles procedentes del cielo. Tu arsenal consiste en tres cañones antiaéreos. Debes posicionar las nubes antimisiles en el camino de los misiles entrantes para evitar que impacten. Este juego de Jaguar tiene 3 modos. Primero, hay un port del juego arcade original. Hay extras geniales para este modo, como fondos de pantalla y la capacidad de cambiar el tamaño o escalar la pantalla. El segundo modo es Missile Command 3D. Este modo conserva la jugabilidad del original, pero agrega gráficos 3D a la mezcla. El modo final, el Comando de Misiles Virtuales, cambia las cosas bastante. En lugar de misiles antiaéreos, tus cañones disparan rayos láser. Esto significa que ya no necesitas liderar tus objetivos. Usted juega el juego desde una perspectiva en primera persona, y debe cambiar entre los tres cañones a través de los botones en el teclado. Hay nueve niveles en este modo, cada uno con un jefe al final.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Missile Command 3D</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-12T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shooter / Estilo Missile Command</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ce4e5388-281c-4c99-8377-ad9bbb7edd78</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e30857e8-e8ee-48d9-9d9f-348bfd38f668</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Missile Command 3D (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Missile Command 3D</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\NBA Jam - Tournament Edition (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:18.1101281-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:18.1101281-05:00</DateModified>
+    <Developer>High Voltage</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b7c32d0f-f0b0-4cdf-87a0-b5e186445313</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>NBA Jam, que contó con el baloncesto 2-en-2, es uno de los primeros juegos de baloncesto reales jugables, y también es uno de los primeros juegos deportivos en ofrecer equipos y jugadores con licencia de la NBA, y sus verdaderas imágenes digitalizadas. NBA Jam: T.E. incluye listas actualizadas, nuevas características y huevos de Pascua combinados con el mismo modo de juego del original. Los equipos ahora constan de tres jugadores (aunque solo dos podían estar en cancha en cualquier momento), con la excepción del nuevo equipo "Novatos", que consta de cinco jugadores, todos escogidos en el draft de la NBA de 1994. Los jugadores pueden ser sustituidos en el juego entre los cuartos de tiempo.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>NBA Jam : Tournament Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-01-02T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Baloncesto-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>0b4e1d37-78c1-4532-b2e5-423bdf47a0c7</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b7c32d0f-f0b0-4cdf-87a0-b5e186445313</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\NBA Jam - Tournament Edition (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>NBA Jam : Tournament Edition</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Pinball Fantasies (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:20.6114789-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:20.6114789-05:00</DateModified>
+    <Developer>Spidersoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>88d7bb6c-e4cf-4094-8540-ceed30d5e5ec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Después del éxito de Pinball Dreams en varios sistemas, se creó una secuela con cuatro nuevas tablas. La jugabilidad es muy parecida a la del primer juego, con física realista, opciones multijugador y una tabla de puntuación alta para puntuar. Las mesas son Partyland, Speed ??Devils, Billion Dollar Gameshow y Stones 'n' Bones. Cada una tiene una amplia gama de rampas, combos, secuencias de luces y objetivos para golpear.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>20th Century Fox</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pinball Fantasies</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-06-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pinball</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>96033d60-ee54-484b-816d-b2448624d759</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>88d7bb6c-e4cf-4094-8540-ceed30d5e5ec</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Pinball Fantasies (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pinball Fantasies</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Pitfall - The Mayan Adventure (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:04.7277007-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:04.7277007-05:00</DateModified>
+    <Developer>Imagitec Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e027e6f6-675a-4386-8d58-cab1c5e6c22f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pitfall: The Mayan Adventure es un juego de plataformas de Jaguar. El jugador encarna a Pitfall Harry, un explorador que debe superar la jungla evitando una serie de trampas como arenas movedizas, serpientes, tapires, monos, jaguares, etc. El héroe puede evitar agujeros, saltar obstáculos, rebotar en telarañas, columpiar de liana en liana y atrapar otras lianas resistentes que le permiten trepar verticalmente.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pitfall : The Mayan Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-18T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Plataforma / Corre y Salta</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2645e411-7667-41bf-86ca-09fe7b7927a8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e027e6f6-675a-4386-8d58-cab1c5e6c22f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Pitfall - The Mayan Adventure (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pitfall : The Mayan Adventure</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Power Drive Rally (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:00.0815395-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:00.0815395-05:00</DateModified>
+    <Developer>Rage Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ecb1438e-03be-4f01-8758-5ebbb09eb28c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Power Drive Rally es una visión del emocionante mundo de las carreras de rally. Este juego es un corredor de vista aérea que presenta autos reales y pistas basadas en lugares de todo el mundo. El modo de juego principal retrata una temporada de carreras de campeonato. Hay varios tipos de carreras que te encontrarás. Primero, está la etapa especial, que es una ronda de clasificación cronometrada. En segundo lugar, está la etapa cruzada de rally, en la que compites contra otro piloto controlados por computadora. Finalmente, está la etapa de habilidad, donde tienes que realizar una serie de maniobras de conducción difíciles. Después de cada ronda, ganas dinero para calificar o ganar. A continuación, puede usar este dinero para reparar su automóvil o ahorrar dinero para comprar un automóvil nuevo y más rápido.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Time Warner Interactive</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Power Drive Rally</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-06-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>80e8995f-5248-400d-bd3b-c389ce8c8a6f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ecb1438e-03be-4f01-8758-5ebbb09eb28c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Power Drive Rally (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Power Drive Rally</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Protector - Special Edition (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:12.9148519-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:12.9148519-05:00</DateModified>
+    <Developer>Bethesda Softworks</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>543d6f18-9d6e-4c8a-8284-5d27df095d8b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Haven-7 es un planetoide cerca de la Tierra cuyos habitantes están en grave peligro. Los alienígenas llegarán pronto y planean terraformar Haven-7 que aniquilará a todos los seres vivos. Tú, con la última nave espacial restante, eres el único que queda para proteger a Haven-7 de los alienígenas. Protector presenta 3 niveles de dificultad y acción de disparos vertiginosos mientras derrotas enjambres de alienígenas a la vez en una feroz batalla. Compra actualizaciones de naves y encuentra mejoras para ayudarte a liquidar las naves alienígenas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Songbird Productions</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Protector : Special Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2002-10-04T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>90599966-ce19-458d-ab10-d277021cff93</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>543d6f18-9d6e-4c8a-8284-5d27df095d8b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Protector - Special Edition (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Protector : Special Edition</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Raiden (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:32.7269717-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:32.7269717-05:00</DateModified>
+    <Developer>Imagitec Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>aaa6d9ab-366e-4884-8308-d67eeb87d901</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En el año 2090, la Tierra es invadida por extraterrestres. La Alianza Mundial de las Naciones ha desarrollado un caza de ataque supersónico, Raiden, para defender la Tierra. Un piloto debe tomar el control del caza experimental para destruir los buques de guerra alienígenas que parecen ser variaciones extrañas de tanques y aviones militares típicos con artilugios conectados a ellos. Raiden (llamado Raiden Trad en el Génesis y SNES) es un shooter de desplazamiento vertical sobre la cabeza, basado en un juego de arcade del mismo título. Presenta dos formas de mejoras de armas y dos tipos de misiles (normales o de referencia). Comienzas el juego con varias bombas que puedes usar para destruir a la mayoría de los enemigos en la pantalla para salir de un aprieto. Cada nivel termina con un jefe grande o jefes.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Raiden</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Vertical</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9e545283-1e5f-4730-b22d-1816a786695a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>aaa6d9ab-366e-4884-8308-d67eeb87d901</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Raiden (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Raiden</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Rayman (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:52.5259621-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:52.5259621-05:00</DateModified>
+    <Developer>Ubisoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a74fd851-3624-42b0-8cf0-b1ec397dd152</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cuando aparece un villano conocido como el Sr. Dark, el problema se produce en el mundo de Rayman. El Sr. Dark captura a los Toons, fuente de luz y amigos de Rayman. Sin más luz, las criaturas malvadas comienzan a vagar, haciendo que el mundo sea inseguro para todos. ¡Depende de ti, como Rayman, liberar a tus amigos y poner fin a los esquemas cobardes del Sr. Dark! Rayman es un plataforma de desplazamiento lateral protagonizada por el titular Rayman, un tipo de nariz grande sin brazos ni piernas. Rayman puede saltar y usar su cabello para flotar durante un corto período de tiempo. También puede atacar tirando los puños o cerrar los puños para obtener un golpe más potente. A veces puede encontrar poderes especiales que le otorgan un poder de vuelo ilimitado, lo que le da la capacidad de navegar a través de laberintos complicados. Además de la acción de plataformas, la otra característica notable de Rayman son sus gráficos grandes, detallados y vibrantes, que le han ayudado a destacarse de la mayoría de los juegos similares del género.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Ubisoft</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Rayman</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-19T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>192e916e-01cb-4d7d-a195-f03b0ab7241a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a74fd851-3624-42b0-8cf0-b1ec397dd152</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Rayman (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Rayman</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Ruiner Pinball (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:19.4318063-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:19.4318063-05:00</DateModified>
+    <Developer>High Voltage</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5ff2b3f0-17ab-4738-9f99-af77980ad6a3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ruiner Pinball es una colección de dos mesas de pinball de fantasía: Ruiner y Tower. Ruiner es una mesa de dos pantallas que presenta efectos llamativos de escala y rotación. Hay muchas rampas y objetivos animados en movimiento para anotar. Ruiner tiene un tema de holocausto nuclear de guerra fría. Tower es una mesa extra alta que presenta un motivo de horror medieval. Al igual que Ruiner, contiene objetivos animados y efectos de escala. Ambas tablas contienen misiones o series de objetivos para aumentar las oportunidades de puntuación disponibles.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Ruiner Pinball</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-11-06T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pinball</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c633cabe-dc28-4543-a125-bbac1f45c821</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5ff2b3f0-17ab-4738-9f99-af77980ad6a3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Ruiner Pinball (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Ruiner Pinball</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Sensible Soccer - International Edition (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:22.8264941-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:22.8264941-05:00</DateModified>
+    <Developer>Renegade Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>80a8c83d-6e75-400f-8ef8-1b4696f397d6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Lanzado junto con la Copa Mundial de 1994, esta fue la primera versión de Sensible Soccer en la que participaron equipos de fuera de Europa. El torneo de la Copa del Mundo se presenta en su totalidad, y puede ajustar los 24 equipos que este presenta, una característica particularmente crucial para los fanáticos ingleses y franceses, ya que sus naciones no calificaron. Por primera vez en la serie, aparece un árbitro en la pantalla. Los datos del equipo del club se han actualizado para tener en cuenta las transferencias y los cambios del kit desde la versión anterior. La mecánica de juego es muy similar a la de las ediciones anteriores, y se ve desde arriba con pequeños sprites.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Telegames</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sensible Soccer : International Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-04-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Fútbol-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>927b3520-2ea0-4307-8598-6dce58206feb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>80a8c83d-6e75-400f-8ef8-1b4696f397d6</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Sensible Soccer - International Edition (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sensible Soccer : International Edition</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Skyhammer (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:31.4928094-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:31.4928094-05:00</DateModified>
+    <Developer>Rebellion</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>55353627-5ecc-4a10-a349-436370e57fc3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En una ciudad futurista, eres un piloto mercenario que vuela en helicóptero en el ciberespacio. Contratado por la corporación grande Cytox, debes defender sus propiedades corporativas de aquellos que buscan destruir todo lo que ha logrado. Las numerosas misiones implican volar a varias ciudades grandes y perseguir a los renegados que las amenazan. Usted tiene una vista de la ciudad en la cabina de mando mientras persigue a sus enemigos y atraca en el Cyber ??Mart para reparaciones. A medida que destruyas a tus enemigos y completes misiones, podrás ganar créditos por comprar más suministros, armas y actualizaciones de naves en Cyber ??Mart. Juega en modo misión o modo batalla. Para ganar el juego, debes completar cada misión con éxito. Los enemigos se vuelven más duros a medida que avanzas en los "niveles" de juego.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Songbird Productions</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Skyhammer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2000-05-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lightgun Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>97430c00-d440-4a4c-be5b-9bb6af5eb788</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>55353627-5ecc-4a10-a349-436370e57fc3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Skyhammer (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Skyhammer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Soccer Kid (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:09.3824463-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:09.3824463-05:00</DateModified>
+    <Developer>Krisalis Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c36fd642-2d23-4b9d-98f6-283c1585ab5b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Los extranjeros que intentaron robar la Copa del Mundo se han estrellado al intentar huir, y la Copa se ha roto, sus piezas se han dispersado por todo el mundo. Como Soccer Kid, debes recuperarlos. Durante su viaje visitará Gran Bretaña, Italia, Rusia, Japón y finalmente los Estados Unidos. Soccer Kid es un juego de plataforma con algunos elementos únicos. Como su nombre lo indica, debes matar a tus enemigos con tu pelota. Los trucos estilo fútbol para mantener la pelota en el aire y bajo control son especialmente útiles: los cabezazos y las patadas se pueden jugar con práctica. Obtienes acceso a las piezas acumulando 11 Player Cards en cada mundo. Hay una función de guardado que le permite guardar entre cada país (pero no entre niveles individuales).</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Songbird Productions</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Soccer Kid</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2000-01-02T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>98099f82-a8c3-4e7a-b529-9949fbccb696</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c36fd642-2d23-4b9d-98f6-283c1585ab5b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Soccer Kid (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Soccer Kid</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Space War 2000 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:11.1551165-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:11.1551165-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f0ed4a24-3582-46ec-a84c-6cf0f2a0f218</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Como caballero espacial, competirás por la gloria, el honor, la fama y la fortuna en esta aventura de jinetes 3D a uno o dos jugadores. Consigue múltiples armas y elementos de defensa geniales en tu búsqueda para alinearte con otros valientes caballeros en la Tabla de puntuaciones altas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space War 2000</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2001-09-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ea2e341a-9535-41cd-aad0-7423df54d137</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f0ed4a24-3582-46ec-a84c-6cf0f2a0f218</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Space War 2000 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space War 2000</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Super Burnout (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:12.0697470-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:12.0697470-05:00</DateModified>
+    <Developer>Shen Technologies SARL</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>40158c2e-36d6-4456-9210-ca71744751dc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Super Burnout es un juego de carreras de superbikes estilo arcade inspirado en Super Hang-On. Los jugadores controlan una motocicleta ultra rápida a través de carreras que tienen lugar en pistas famosas de todo el mundo. Hay seis motos para elegir con carreras en un total de ocho pistas diferentes. Los modos de juego de carreras habituales están presentes. Hay un solo modo de carrera, un modo de práctica y un modo de campeonato. Los jugadores también pueden competir contra un amigo.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Super Burnout</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-07-05T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>64e10444-80f9-4733-bd83-2e4636eae7a4</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>40158c2e-36d6-4456-9210-ca71744751dc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Super Burnout (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Super Burnout</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\SuperCross 3D (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:52:58.1789391-05:00</DateAdded>
+    <DateModified>2024-03-06T21:52:58.1789391-05:00</DateModified>
+    <Developer>Tiertex</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>82d5fd0d-8978-4f1d-b21c-6cd997a64226</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Supercross 3D trae la emoción de las carreras de supercross de arena al Jaguar. No solo puedes competir por delante de tus competidores, sino que puedes realizar un gran salto en los enormes saltos y realizar algunos trucos. Hay tres modos de juego: práctica, carrera individual y torneo. En el modo de práctica, puedes correr por cualquier pista todo el tiempo que quieras. En el modo de carrera individual, compites en una carrera contra la computadora. Finalmente, en modo torneo, compites en una serie de carreras para acumular puntos y convertirte en el campeón de Supercross.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>SuperCross 3D</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-15T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a028a125-cc57-4945-a157-d426a89609d8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>82d5fd0d-8978-4f1d-b21c-6cd997a64226</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\SuperCross 3D (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>SuperCross 3D</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Syndicate (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:27.5012711-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:27.5012711-05:00</DateModified>
+    <Developer>Bullfrog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>640caab3-167c-43e2-a452-ace03b452a3f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En el futuro, el mundo está controlado por un puñado de corporaciones globales (sindicatos). Usted es el director de marketing (asesino a sueldo) de una de estas compañías. Es su trabajo tomar el control de los competidores. El trabajo no es de diplomacia, sino de fuerza bruta y control físico. Avanza hacia la cima de la corporación al completar con éxito tus misiones y administrar el dinero que ganas desde tus territorios. La jugabilidad es visualmente una reminiscencia de X-Com, con una perspectiva de arriba hacia abajo en ángulo, pero es en tiempo real en lugar de basado en turnos. Tienes misiones que van desde infiltrarse y capturar, buscar y destruir. En cada uno de estos diriges a un equipo de cuatro agentes mientras se mueven por el mundo disparando a cualquier cosa que se interponga en su camino. Puede actualizar y modificar sus agentes, así como equiparlos con las herramientas que ha investigado o liberado de los sindicatos opuestos. A medida que completa las misiones, gana más fondos para comprar agentes, investigaciones de actualizaciones y equipos.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Syndicate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-27T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Estrategia</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e9e290e1-420a-4bf8-a105-7e56ee672e2d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>640caab3-167c-43e2-a452-ace03b452a3f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Syndicate (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Syndicate</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Tempest 2000 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:35.1789389-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:35.1789389-05:00</DateModified>
+    <Developer>Llamasoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>73f68a9c-cd1c-4ba9-a757-7d8a0a82f374</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tempest 2000 es una nueva versión / actualización del popular shooter basado en gráficos vectoriales de Atari. Ábrete camino a través de más de 100 niveles, disparando a las criaturas que salen desde el otro lado de la web para arrastrarte hacia adentro. Recoge las bonificaciones suficientes y sometete a dos tipos diferentes de rondas de bonificación a medida que navegas a través de los anillos, o intenta montar un tubo en espiral. También se incluye en el modo de juego un modo intenso de dos jugadores para formar equipo o enfrentarse cara a cara con otro jugador, o incluso jugar una versión del juego arcade original. Hay cuatro modos de juego en total: tradicional Tempest, Tempest Duel, Tempest Plus y Tempest 2000.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Tempest 2000</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-04-13T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d608e492-2077-42bb-82da-9d7661879fbb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>73f68a9c-cd1c-4ba9-a757-7d8a0a82f374</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Tempest 2000 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Tempest 2000</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Theme Park (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:15.5515010-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:15.5515010-05:00</DateModified>
+    <Developer>Bullfrog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>07d39603-72d2-4bf6-b0f4-6aae7f44e132</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dominar el apasionante mundo del Parque Temático es su objetivo en este juego de estrategia de Bullfrog. La primera tarea es configurar tus recorridos dentro del terreno disponible, estructurar rutas y colas convenientes e, idealmente, dejar un espacio para atracciones más grandes una vez que estén disponibles, e incluir algunos lagos y árboles para aumentar el atractivo del parque. Los recorridos van desde las tazas de té y las casas embrujadas a la montaña rusa más elaborada que se pueda diseñar, y las atracciones acuáticas que recorren otras atracciones. También se deben incluir tiendas para que los visitantes puedan comprar comida, bebidas y recuerdos. El astuto jugador combinará la sal, el azúcar y la cafeína para maximizar el interés del consumidor. El personal debe ser contratado para mantener todo funcionando sin problemas, y solo trabajarán por lo que consideran una tasa de pago justa. Usted está compitiendo contra otros Parques Temáticos, así que no permita que obtengan una ventaja sobre usted: controle estrechamente su éxito para atraer clientes y la viabilidad financiera utilizando las páginas de estadísticas proporcionadas. Más importante aún, asegúrese de que la investigación esté financiada adecuadamente para producir nuevas atracciones. Se puede jugar en tres modos: el nivel de la zona de pruebas le permite concentrarse en los elementos de diseño del parque, mientras que Sim y Full agregan más características estratégicas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Theme Park</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-03-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación-Construcción y Gestión</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7e4f5d78-42c2-4b1f-b082-b68f5e48e4e3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>07d39603-72d2-4bf6-b0f4-6aae7f44e132</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Theme Park (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Theme Park</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Total Carnage (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:23.9187449-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:23.9187449-05:00</DateModified>
+    <Developer>Midway</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>03bf0393-be0d-47d3-b300-97becaaf19d3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La guerra de 1999 dejó el país de Kookistán en ruinas. Naturalmente, un dictador llamado General Akhboob tomó el control de la naciente nación y comenzó a crear un ejército de mutantes radioactivos. Con un bastión virtualmente impenetrable, un grupo de rehenes y una legión de mutantes bajo su mando, el déspota malvado no se detendrá sino ante la dominación mundial. Solo dos hombres tienen la valentía y la ingenuidad idealista para enfrentar a Akhboob y sus fuerzas: el Capitán Carnage y el Mayor Mayhem, también conocido como el Escuadrón del Juicio Final. Como Capitán Carnage o Major Mayhem, depende de usted o de un amigo (en acción simultánea) rescatar a los rehenes mientras dispara a cientos de mutantes empeñados en su destrucción. A medida que caminas y corres hacia adelante, hacia atrás, a la izquierda, a la derecha y en diagonal a través de 20 zonas de batalla de acción sin parar, siempre tendrás tu ametralladora a tu lado. Las armas adicionales que puedes encontrar en el camino incluyen lanzagranadas, lanzacohetes, ametralladoras de plasma, lanzallamas, rifles de fuego, cuchillas defensivas y una variedad de bombas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Songbird Productions</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Total Carnage</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2005-09-22T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shooter / Run and Gun</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7df4ef26-1ba0-4f55-ba93-e7eb1fb8a47b</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>03bf0393-be0d-47d3-b300-97becaaf19d3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Total Carnage (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Total Carnage</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Towers II (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:44.9207883-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:44.9207883-05:00</DateModified>
+    <Developer>JV Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>058f866c-fd49-4939-8b16-66abe497de73</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Conviértete en uno de los cuatro personajes diferentes mientras te sumerges en los extraños sucesos en la tierra mística de Lamini. Debes descubrir los secretos mientras exploras la torre de Daggan. Muchos antes lo han intentado, pero ninguno ha regresado. Perspectiva en primera persona, desplazamiento suave a pantalla completa, hablar con otros, consultar mapas, recopilar cientos de elementos, conocer cientos de criaturas, experimentar desafíos en combate y lanzar hechizos. Horas y horas de entretenimiento con las funciones de guardar apropiadas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Telegames</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Towers II : Plight of the Stargazer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-12-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>dbf302dd-309b-45a4-8882-4c7de6582ede</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>058f866c-fd49-4939-8b16-66abe497de73</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Towers II (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Towers II : Plight of the Stargazer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Trevor McFur in the Crescent Galaxy (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:26.5476058-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:26.5476058-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>871db348-f798-4b27-8e73-039ba43bd544</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La Galaxia Creciente ha sido atacada por una extraña conocida como Odd-it. El objetivo de esta criatura es hacer todo extraño, como este. Interpreta a Trevor McFur, un cabo en el capítulo de Galaxy Intermedio del escuadrón de la Defensa Interplanetario y te envían junto con tu compañero felino Cutter para derrotar a Odd-it. El juego es un juego de disparos de desplazamiento lateral con una gran variedad de mundos y enemigos para conquistar. A lo largo del juego puedes impulsar tu nave con nuevas y mejores armas para derrotar a los enemigos y recoger las bonificaciones que quedan.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Trevor McFur in the Crescent Galaxy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-11-27T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fbd79301-a5f4-464f-9e18-8e9fa430ea56</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>871db348-f798-4b27-8e73-039ba43bd544</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Trevor McFur in the Crescent Galaxy (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Trevor McFur in the Crescent Galaxy</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Troy Aikman NFL Football (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:34.0876921-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:34.0876921-05:00</DateModified>
+    <Developer>Telegames</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>af332efb-0671-4e7a-b671-6a5b12c7a9ad</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Usted y un amigo pueden convertirse en jugadores estrella de la NFL o elegir entrenar a un equipo en esta interpretación realista del fútbol americano, avalada por el ex mariscal de campo de los Dallas Cowboys y campeón del Super Bowl, Troy Aikman. Elige jugar solo contra el sistema, o juega uno contra el otro. Elija entre 3 modos de juego: temporada anterior, temporada o temporada generada (editable) personalizada. También hay tres niveles de habilidad: Novato, Pro y Veterano. Puede diseñar sus propias jugadas, personalizar su equipo y guardar las estadísticas de su equipo. Las superficies de juego realistas tienen un efecto en el rendimiento de su equipo e incluyen hierba, barro, tierra, nieve, lluvia y césped. Escucha el rugido de la multitud y otros sonidos auténticos del estadio a medida que sigas tus jugadas.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Williams</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Troy Aikman NFL Football</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-02-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Fútbol americano-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>84a2dc1b-eed2-4dbb-8d43-3de6cecec4f6</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>af332efb-0671-4e7a-b671-6a5b12c7a9ad</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Troy Aikman NFL Football (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Troy Aikman NFL Football</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Ultra Vortek (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:17.6933069-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:17.6933069-05:00</DateModified>
+    <Developer>Beyond Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>005cf07e-cf16-43fc-9fc5-fc62e102249a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La civilización ha caído en un profundo declive. Las pandillas y los señores de la guerra están ganando poder e influencia en todo el mundo. Entonces, de la nada, aparece un poderoso ser conocido como el Gaurdian con un desafío. A menos que un guerrero cumpla su desafío, destruirá la Tierra. Entonces, 7 guerreros de todo el mundo luchan por reabrir Ultra Vortek y restaurar la Tierra. Ultra Vortek es un juego de lucha uno contra uno similar al Mortal Kombat. Algunos de los luchadores son actores digitados, otros son stop motion o de computadora animada. Tienes bajo tu control una serie de golpes y patadas, y una gran cantidad de movimientos especiales. El juego también presenta varios "movimientos de finalización" para cada uno de los 7 guerreros.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Ultra Vortek</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-05T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>1df7f5fb-7f23-44f3-8c1a-d26042189dce</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>005cf07e-cf16-43fc-9fc5-fc62e102249a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Ultra Vortek (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Ultra Vortek</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Val d'Isere Skiing and Snowboarding (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:40.1951446-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:40.1951446-05:00</DateModified>
+    <Developer>Virtual Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>fe8b9bbb-85e5-4722-8cf4-23bcfdbc0604</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Delizate en algunas de las laderas más empinadas en SKIING AND SNOWBOARDING, un salvaje desafío de invierno en el que la velocidad está garantizada. Entrena y compite en las impresionantes pistas de esquí de Vald-Isère, la famosa estación de esquí de Francia. Carrera contra el tiempo, slalom gigante y eventos de descenso. Tenga cuidado con los árboles, motos de nieve y sno-cats mientras recorre las laderas azotadas por el viento, el hielo negro y los moguls.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Val d'Isère Skiing and Snowboarding</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Esquí-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9432b743-c2fb-4f99-87ad-ab270b6a0dd3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>fe8b9bbb-85e5-4722-8cf4-23bcfdbc0604</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Val d'Isere Skiing and Snowboarding (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Val d'Isère Skiing and Snowboarding</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\White Men Can't Jump (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:48.0268940-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:48.0268940-05:00</DateModified>
+    <Developer>High Voltage</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9535843b-950b-47a5-91f3-5ac78f2dcc58</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Este es el juego de baloncesto, de la misma forma en que muchas personas aprenden a jugarlo, en las calles de la ciudad, con reglas flexibles y en varios locales suburbanos. Inspirado en la película de 1992 sobre apuestas de básquetbol de high stakes street, en este juego puedes apostar cuánto quieres en cada juego. La acción se ve desde la mitad de la línea de la cancha, con una vista de pantalla que avanza y se acerca para seguir la acción. Aparte de una penalización por encestar y la necesidad de despejar la pelota, todo vale. Por ejemplo, los robos se efectúan empujando a un oponente y agarrando la pelota. Tu objetivo es conseguir suficiente dinero para ingresar y ganar el torneo. Si gana $ 5000, ingresa al torneo al instante. Usted tiene la capacidad de guardar su juego en este modo para que pueda volver más tarde si se queda corto de tiempo y no quiere perder todo su dinero.
+
+</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>White Men Can't Jump</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-08-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Baloncesto-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>4dc19c06-52ea-4866-9fe9-bc2833728d8a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9535843b-950b-47a5-91f3-5ac78f2dcc58</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\White Men Can't Jump (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>White Men Can't Jump</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Wolfenstein 3D (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:29.2000152-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:29.2000152-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bf09d9b1-32b7-4899-a996-f432e1c0b590</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La adaptación de id software de su clásico shooter en primera persona Wolfenstein 3D a consolas no es un port directo, sino una remezcla con cambios sustanciales y nuevas incorporaciones. Mientras que el modo de juego básico de explorar niveles, disparar enemigos, recoger tesoros, llaves y poderes sigue siendo el mismo, solo se han retenido la mitad de los 60 niveles originales del juego. Cada uno de esos 30 niveles (agrupados en seis misiones, con dos niveles siendo los secretos) es una versión simplificada de un nivel original. Los jefes finales para las misiones provienen tanto de Wolf3D como de su secuela, Spear of Destiny. Otros cambios del original incluyen nuevos potenciadores: una caja de munición (tomada de Spear of Destiny) y una mochila que aumenta la cantidad máxima de munición que se puede transportar. Las armas del original (cuchillo, pistola, ametralladora, chaingun) vuelven, pero también hay dos herramientas de destrucción completamente nuevas: un lanzallamas y un lanzacohetes.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Wolfenstein 3D</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-05-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shooter / 1ª persona</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ee0d8476-a647-43bf-9db6-c1b79838817a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bf09d9b1-32b7-4899-a996-f432e1c0b590</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Wolfenstein 3D (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Wolfenstein 3D</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Worms (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:08.1801027-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:08.1801027-05:00</DateModified>
+    <Developer>Team 17</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>66a3e6d3-984e-4ffe-a070-c6bf279c9ae9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Worms es un juego de estrategia por turnos. Cuenta con hasta 4 equipos de 4 gusanos, con el objetivo de destruir a los demás en un terreno generado. Cada gusano tiene 100 puntos de golpe, y muere cuando sus puntos de golpe caen a 0. Al morir, un gusano explota, causando daños a todos los que lo rodean. La jugabilidad está basada en turnos. Cada turno, el jugador puede controlar un gusano específico de su equipo. El gusano puede arrastrarse a izquierda y derecha o saltar. Sin embargo, hay un límite de tiempo para hacer un movimiento; también, si el gusano cae desde una gran altura, pierde salud y el turno termina inmediatamente; y si un gusano cae al agua o fuera de la pantalla, muere. Cada turno, un gusano también puede hacer un solo ataque: el jugador puede apuntar hacia arriba y hacia abajo, elegir un arma y luego dispararla. Después de atacar, el turno termina. Hay muchas armas disponibles, las estándar como bazucas (que se ven afectadas por los ajustes de viento (aleatorios) y la gravedad) y las granadas. Los otros incluyen un Fire Punch, dinamita, ataques aéreos y utilidades como cuerdas y vigas. Hay 10 estilos de terreno, que van desde bosques y desiertos hasta la tierra de Candy y la luna (completa con la gravedad afectada). Los disparos dejan cráteres en el suelo y se pueden formar túneles complejos.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Telegames</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Worms</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-05-15T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Estrategia</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>8d15b4a4-47d5-4ea3-8672-fc6ced59b3fc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>66a3e6d3-984e-4ffe-a070-c6bf279c9ae9</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Worms (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Worms</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zero 5 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:52:58.9930224-05:00</DateAdded>
+    <DateModified>2024-03-06T21:52:58.9930224-05:00</DateModified>
+    <Developer>Caspian Software Ltd.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>21c6b2d3-4407-4dec-8bf8-de0deefc3f6f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Zero 5 fue uno de los últimos lanzamientos de Telegames para el Jaguar, justo antes de Worms. Es un shooter espacial salvaje que te permite controlar una nave de combate pequeña y maniobrable, o una poderosa nave de guerra, según el nivel al que juegues. Asumiendo el papel de piloto, debes defender la tierra del ataque alienígena con docenas de misiones necesarias para tener éxito. Su turno de servicio incluye viajar a través del espacio profundo para encontrarse con los convoyes enemigos de frente y disparar a través de las superficies de asteroides y planetas que saquen las instalaciones.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Telegames</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zero 5</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1997-09-29T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>5674304f-1f87-4e47-a1b5-4ff6d7cc3eb6</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>21c6b2d3-4407-4dec-8bf8-de0deefc3f6f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zero 5 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zero 5</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zool 2 (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:50.5386822-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:50.5386822-05:00</DateModified>
+    <Developer>Gremlin Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9c71d295-93b4-4d60-94dd-eac1769c5d28</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La secuela de Zool lo ve enfrentarse a los chicos malos Mental Block y Krool en 15 niveles. Zool 2 es un juego de plataformas donde controlas el título "Ninja de la Dimensión N" (o su novia, Zooz, quien puede completar cada nivel de una manera ligeramente diferente) mientras se arrastra a través de una variedad de niveles, recolectando innumerables delicias sabrosas, disparando a cualquier enemigo que encuentre y encontrando bonificaciones (hay una variedad de poderes especiales que Zool puede encontrar; por ejemplo, una bomba que lo sigue y que puede ser volada en cualquier momento para eliminar enemigos en pantalla, o una invulnerabilidad temporal). Nuevo en la secuela es la habilidad de Zool para escalar muros y sus nuevos ataques giratorios. En cada nivel, debe recolectar una cierta cantidad de fruta presentada dentro de un límite de tiempo asignado, y luego buscar la salida a través de los niveles de desplazamiento multidireccional. Hay muchas áreas ocultas para ver, incluido un juego de bonificación Breakout protagonizado por el perro de 2 cabezas mascota de Zool.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zool 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-12-09T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>028afc32-f687-4203-b48a-08dda79d9266</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9c71d295-93b4-4d60-94dd-eac1769c5d28</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zool 2 (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zool 2</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zoop! (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:53:16.8881843-05:00</DateAdded>
+    <DateModified>2024-03-06T21:53:16.8881843-05:00</DateModified>
+    <Developer>Electric Spectacle Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2107c922-fd91-484c-9290-854c1826003b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Zoop en Jaguar es un juego de rompecabezas en el que tienes que armar bloques del mismo color para que no te abrumen. La originalidad del juego es que te colocan en el centro de los bloques y tienes que administrar estos elementos de los lados de la pantalla. Los bloques de colores aparecen a un ritmo constante y empujan hacia arriba las columnas. Para reducir esto, debes poner en contacto bloques de color idénticos.</Notes>
+    <Platform>Atari Jaguar</Platform>
+    <Publisher>Atari</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zoop!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-01-05T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f2ffa696-60f1-4ac0-b55a-7aedf2e6a699</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2107c922-fd91-484c-9290-854c1826003b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Atari Jaguar\Zoop! (World).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zoop!</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>

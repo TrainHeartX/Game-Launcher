@@ -1,0 +1,4633 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Bank Panic (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:38.3429614-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:38.3429614-05:00</DateModified>
+    <Developer>Sanritsu Denki</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9b557762-5f59-404a-8ea3-4fa418cc248d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Asume el papel de un sheriff en los Estados Unidos del siglo XIX, protegiendo a un banco de ladrones armados. Hay doce puertas dispuestas en círculo, con el jugador en el centro, que se puede ver de tres en tres. Los ladrones que aparecen desde las puertas deben ser fusilados (después de sacar sus armas, para obtener una puntuación más alta) y los clientes deben ser ignorados mientras hacen un depósito. Una vez que se han hecho los depósitos de las doce puertas, el nivel está completo.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Bank Panic</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e8cd6eb1-9c55-4e95-89ef-dd1818f77e45</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9b557762-5f59-404a-8ea3-4fa418cc248d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Bank Panic (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Bank Panic</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Black Onyx, The (J) (SG-1000) [T+Eng1.0].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:01.2187239-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:01.2187239-05:00</DateModified>
+    <Developer>Bullet Proof Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c0593b5b-e62b-4448-bddf-810e73f1b77a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego tiene lugar en la ciudad de fantasía de Utsuro como una fiesta de hasta cinco héroes valientes (y personalizables) que se adentran en un laberinto subterráneo para encontrar el legendario Black Onyx y romper la maldición de la ciudad.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Black Onyx</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1987-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>35828b61-167e-4618-be6f-e1e0287e2d64</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c0593b5b-e62b-4448-bddf-810e73f1b77a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Black Onyx, The (J) (SG-1000) [T+Eng1.0].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Black Onyx</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Black Onyx, The (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:30.5031636-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:30.5031636-05:00</DateModified>
+    <Developer>Bullet Proof Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a3d1f323-6121-4f7f-8a7d-324f44e20bc8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego tiene lugar en la ciudad de fantasía de Utsuro como una fiesta de hasta cinco héroes valientes (y personalizables) que se adentran en un laberinto subterráneo para encontrar el legendario Black Onyx y romper la maldición de la ciudad.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Black Onyx</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1987-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>99034025-8fe3-4550-bc97-2fe11ddda7f3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a3d1f323-6121-4f7f-8a7d-324f44e20bc8</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Black Onyx, The (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Black Onyx</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Bomb Jack (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:21.8570815-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:21.8570815-05:00</DateModified>
+    <Developer>Tehkan Ltd.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6aa297b1-3cd1-4c8f-b5bf-b1c2236c0d13</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Toma el control de Jack y recoge todas las bombas para pasar a la siguiente ronda. Esto no es tan fácil como suena con numerosos enemigos como pájaros, tortugas y momias que se interponen en el camino.&#xD;
+&#xD;
+Los fondos para los Niveles consisten en ubicaciones reales como; Miami Beach, Sphynx o Sastle Neuschwanstein.&#xD;
+ &#xD;
+Tiene 99 niveles pero una vez que alcanzas 99 el juego salta de vuelta a la ronda 0. Los niveles individuales realmente se repiten mucho antes.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Bomb Jack</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>1f9bdca4-3763-412a-acc6-f958bcc2317d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6aa297b1-3cd1-4c8f-b5bf-b1c2236c0d13</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Bomb Jack (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Bomb Jack</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Borderline (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:44.1242179-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:44.1242179-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>1758cc81-e543-4a61-8708-bc0f673e01a3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Entra violentamente en la zona de energía maniobrando libremente el jeep rojo. A lo largo de las escenas primera a cuarta, continúe avanzando en un esfuerzo por destruir las fortalezas y las sedes enemigas evitando los ataques de los tanques enemigos, automóviles blindados, aviones y misiles. Comience su invasión a la siguiente escena después de destruir todas las fortalezas de la escena actual en la que está inmerso. Cuando destruye por completo la sede central en la cuarta escena final, la operación estratégica de jeep que lanzó arroja una victoria aplastante para usted !</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Borderline</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b438d207-a3c3-4892-bc7f-782bb88b2f56</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>1758cc81-e543-4a61-8708-bc0f673e01a3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Borderline (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Borderline</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\C_So! (J) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:44.4968659-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:44.4968659-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>884602f2-b713-4f76-b14b-4a80ea2ec767</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>C_So! es un juego 1985 SG-1000 desarrollado por Compile y publicado por Sega. Es un puerto de un juego de MSX del mismo año, que fue publicado por Pony Canyon.
+
+El juego hace que el jugador recoja varios objetos y derrote a los monstruos mediante el uso de sierras. Para progresar, todos los elementos deben ser recolectados y todos los monstruos deben ser destruidos. También hay un modo de edición, que permite al jugador crear sus propios niveles.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>C_So!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>152fd09a-07d3-4099-9ba7-a69c0f813804</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>884602f2-b713-4f76-b14b-4a80ea2ec767</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\C_So! (J) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>C_So!</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Cabbage Patch Kids (T) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:18.0975020-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:18.0975020-05:00</DateModified>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4e2f56bc-de19-4819-8d40-e346827f7e72</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>It's exercise time! Anna Lee, one of the Cabbage Patch Kids, is warming up for a day of athletic adventures in the park--and she's taking you along! So stretch your muscles and get ready for a workout. This adventure is no picnic! As you stroll through the park, you'll encounter obstacles they never told you about in the Cabbage Patch. You'll leap onto floating lily pads, jump over cabbages and bouncing balls, and hop over puddles so deep they could float a ship. And that's the easy part! By the time you get back to the Park entrance, you'll know just what kind of physical shape you're really in. Are you ready for the workout?</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Aaronix</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cabbage Patch Kids</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>0001-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>tw</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>0018df91-67a1-4333-a62d-9daf8f12d4a8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4e2f56bc-de19-4819-8d40-e346827f7e72</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Cabbage Patch Kids (T) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cabbage Patch Kids</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Castle, The (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:32.5419595-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:32.5419595-05:00</DateModified>
+    <Developer>ASCII Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>93a579f1-efdc-4f66-ab2e-78b5008a4c44</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego tiene una trama bastante estándar, rescatar a una princesa de un castillo, aunque el juego en sí se consideró muy grande para la época. También contiene un sistema de mapas similar al de los juegos posteriores de Metroid y Castlevania.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Castle</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7254686f-cd5f-4cb4-a465-22cf7fa4e191</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>93a579f1-efdc-4f66-ab2e-78b5008a4c44</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Castle, The (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Castle</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Chack'n Pop (J) (SG-1000) [T+Eng1.02].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:16.4919448-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:16.4919448-05:00</DateModified>
+    <Developer>Sega R&amp;D 2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4f49eb58-bc2e-46e5-83ae-74bab50ea1bc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un primer juego de acción Arcade de Taito y en muchos sentidos un precursor de su mayor éxito Bubble Bobble. El jugador controla el Chack'n pop del mismo nombre mientras intenta evitar que los monstruos destruyan sus huevos.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Chack'n Pop</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Acción / Laberinto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>588ce930-b964-4b7f-a42b-09cd96df3092</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4f49eb58-bc2e-46e5-83ae-74bab50ea1bc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Chack'n Pop (J) (SG-1000) [T+Eng1.02].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Chack'n Pop</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Chack'n Pop (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:21.6054721-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:21.6054721-05:00</DateModified>
+    <Developer>Sega R&amp;D 2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>033f087e-ddf0-4ed6-b08f-58ebde124f48</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un primer juego de acción Arcade de Taito y en muchos sentidos un precursor de su mayor éxito Bubble Bobble. El jugador controla el Chack'n pop del mismo nombre mientras intenta evitar que los monstruos destruyan sus huevos.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Chack'n Pop</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Acción / Laberinto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ce374403-6a43-4ae7-bc24-7db2e2180d01</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>033f087e-ddf0-4ed6-b08f-58ebde124f48</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Chack'n Pop (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Chack'n Pop</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Challenge Derby (J) (MV) (V1.1) (40K).mv.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:34.4227856-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:34.4227856-05:00</DateModified>
+    <Developer>Tsukuda Original</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cc45af2a-1bde-4c8f-98a7-bfa745b3c575</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Challenge Derby es un juego de carreras de caballos para SG-1000.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Tsukuda Original</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Challenge Derby</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes con animales-Carreras de caballos</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>47c81084-1da5-4c4a-ad8c-6a8479f55c05</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>cc45af2a-1bde-4c8f-98a7-bfa745b3c575</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Challenge Derby (J) (MV) (V1.1) (40K).mv.rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Challenge Derby</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Baseball (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:27.2177205-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:27.2177205-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>499eeec0-3139-4b5c-8459-2db8587eeaec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Este es un juego de béisbol totalmente atractivo y emocionante en el que puedes disfrutar de todos los tipos imaginables de patrones de béisbol uno tras otro como en un juego real. Este juego te permite competir contra el equipo de la computadora (el equipo P contra el equipo C). Además, este juego ahora permite que 2 jugadores compitan entre sí y asegura que tu disfrute se verá incrementado al doble.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Baseball</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Béisbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d2ac7740-81c6-491e-a402-1e74d7019fa1</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>499eeec0-3139-4b5c-8459-2db8587eeaec</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Baseball (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Baseball</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Billards (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:38.4059514-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:38.4059514-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2b1b3fec-90f3-4dcd-9637-4d5e9a290c34</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Champion Billiards es el primer juego en la serie "Pool Lunar" de Compile y fue lanzado sólo en Japón. A diferencia de los otros juegos de Champion Sports, no es una representación exacta ya que el objetivo es usar la bola roja para hundir las otras bolas.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Billiards</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Billar</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>83fc0e2d-887d-4337-a446-b19209a40668</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2b1b3fec-90f3-4dcd-9637-4d5e9a290c34</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Billards (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Billiards</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Boxing (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:11.2341300-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:11.2341300-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>66bbe82f-3ce8-4f40-93c8-ac917d182353</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La emoción se acumula gradualmente a medida que lucha en cada una de las rondas de 90 segundos en esta ronda de 8 asaltos. Tu oponente es un duro luchador rubio joven. Lanza DIRECTO, JAB y UPPERCUT golpea directamente a la cara del oponente o su cuerpo. Mantén la ráfaga de golpes rápidos y furiosos aprovechando tu trabajo de pies superior. Cálmate en el Nivel 1 y luego mejora tus habilidades limpiando consecutivamente los niveles más altos. Si, en el Nivel 5, ganas con un KO de 10, ¡te convertirás en el campeón del mundo!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Boxing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Boxeo</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>65327aed-61e7-47d7-b76b-338ff66920f2</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>66bbe82f-3ce8-4f40-93c8-ac917d182353</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Boxing (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Boxing</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Golf (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:36.2859636-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:36.2859636-05:00</DateModified>
+    <Developer>Logitec</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6e0d5266-befa-4321-996d-e3f860cc01c1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Si llueve el domingo ... es día CHAMPION GOLF. Puedes disfrutar de golpear la pelota con el palo apropiado para que coincida con el tiro, caminando por el campo con el caddie sobre sus extensos fairways, roughs, greens, estanques y áreas de bunker. Obtener un "Birdie", "Eagle" o un asombroso "Hole in One", o el aún más milagroso "Albatros" te harán sentir como si estuvieras en la cima del mundo.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Golf</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-03-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Golf</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f7efcf33-30c7-4dd7-81fa-c5d9f73913d2</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6e0d5266-befa-4321-996d-e3f860cc01c1</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Golf (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Golf</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Ice Hockey (J) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:22.7631534-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:22.7631534-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6ec6d34c-0e39-4db2-868a-d911e85c29da</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Champion Ice Hockey es un juego muy simple en el que  juega el equipo Red contra el Blue. Un botón dispara y el otro pasa. Con las direcciones arriba y abajo controlas tanto al portero como la dirección del disparo.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Ice Hockey</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Hockey</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cb27ecbe-49c2-4119-893f-a165d3fd9237</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6ec6d34c-0e39-4db2-868a-d911e85c29da</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Ice Hockey (J) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Ice Hockey</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Kendou (J) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:40.4437198-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:40.4437198-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bb9316c5-e6f1-4188-8703-85132bf72dfe</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Champion Kendou es un juego de Kendo creado para SG-1000 y MSX que sólo salió en Japón.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Kendou</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cd86a5e9-f13a-43bf-8739-91de9c61098e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bb9316c5-e6f1-4188-8703-85132bf72dfe</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Kendou (J) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Kendou</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Pro Wrestling (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:56.3347650-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:56.3347650-05:00</DateModified>
+    <Developer>Sega R&amp;D 2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>eb36d63a-0681-47b5-b115-6c1cef14ec1e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Champion Pro Wrestling es un juego de lucha libre desarrollado para SG-1000 y después para MSX. Hay que ganar tres enfrentamiento para alzarte con la victoria.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Pro Wrestling</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-02-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Lucha libre</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>20912570-2e3d-4d60-9055-c1382c81e707</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>eb36d63a-0681-47b5-b115-6c1cef14ec1e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Pro Wrestling (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Pro Wrestling</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Soccer (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:33.3716592-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:33.3716592-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>99f43379-2ef5-4ab9-918b-2de85ecf51c8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Champion Soccer es un juego de fútbol creado para SG-1000 y trasladado por Pony Canyon a MSX.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Soccer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Fútbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>295e1214-113e-4dfb-99e5-e80db65a7b4b</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>99f43379-2ef5-4ab9-918b-2de85ecf51c8</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Soccer (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Soccer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Tennis (JE) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:40.4438738-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:40.4438738-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e4f5c392-0ea7-4776-ad65-fdffb1349d58</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Servir, recibir y aplastar la pelota. Ataca el punto débil de tu rival. ¡Usa todos los rincones de la cancha para tu ventaja y obtén una victoria gloriosa sobre tu oponente! Este es un juego deportivo altamente intelectual y competitivo que requiere nervios y concentración agudos.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Champion Tennis</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Tenis</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f6315828-1fc6-41b5-a05c-16fc30bdab09</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e4f5c392-0ea7-4776-ad65-fdffb1349d58</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Champion Tennis (JE) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Champion Tennis</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Championship Lode Runner (JA) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:28.4147796-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:28.4147796-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>812e0ea2-0bc9-41d3-bc30-3aa61d705eee</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ábrete camino a través del laberinto para encontrar las cámaras secretas llenas de oro. Escalando y saltando a través de un laberinto de escaleras y plataformas, e incluso perforando ladrillos, tu Comando Intergaláctico debe atrapar o matar a los torpes guardias del Imperio que protegen la cámara. Pon a prueba tu estrategia en más de 75 niveles diferentes.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Championship Lode Runner</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e295d329-6e0c-421e-8a08-525188535fee</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>812e0ea2-0bc9-41d3-bc30-3aa61d705eee</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Championship Lode Runner (JA) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Championship Lode Runner</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Choplifter (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:58.9225881-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:58.9225881-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>3d42c635-9da3-42ad-bd80-f9c89f1408e3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Maneja un helicóptero en la mejor aventura de acción de la nación. Bolsillos de rehenes internacionales están atrapados. En todo el mundo En Oriente Medio. En los mares del sur Y en una base secreta en algún lugar de una caverna. Tú mandas un equipo de rescate de helicópteros. Y su trabajo es derribar su helicóptero, rescatar a los rehenes y devolverlos a un lugar seguro. Todo el tiempo esquivando y destruyendo el peligroso fuego enemigo. ¡Un juego de helicóptero lleno de acción en su mejor momento!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Choplifter</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up / Horizontal-Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a9267fc6-dfec-448f-bb99-109ab488ab5f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>3d42c635-9da3-42ad-bd80-f9c89f1408e3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Choplifter (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Choplifter</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Circus Charlie (K) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:39.2494402-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:39.2494402-05:00</DateModified>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2e8483f4-3287-4ac2-9862-0b7340d12679</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¿Eres el payaso capaz de enfrentarse a actos circenses extremos? ¡Acércate! ¡Sube! Observa cómo el increíble payaso Charlie realiza acrobacias mortales para tu diversión. Saltar a través de aros en llamas a lomos de un león, esquivar monos salvajes en la cuerda floja, caminar sobre globos, montar en un campo de camas elásticas suspendidas, balancearse de cuerda en cuerda por encima del suelo... ¡no hay reto lo suficientemente loco para Charlie! Guía a Charlie y ayúdale a llegar al final de cada etapa, ¡y acumula puntos por el camino! ¡Un movimiento en falso y adiós Charlie! Si te equivocas demasiadas veces, Charlie será despedido.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Aaronix</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Circus Charlie</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>kr</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c1718162-ee66-4510-b9e0-9246aac03352</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2e8483f4-3287-4ac2-9862-0b7340d12679</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Circus Charlie (K) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Circus Charlie</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Congo Bongo (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:57.6473527-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:57.6473527-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0cb66898-8b28-4b6b-a952-0d1bac6a898a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bongo es un mono travieso que incendia la tienda de safari. El cazador de safaris perdió su tienda y sus posesiones, y busca venganza del simio por su broma práctica. El cazador de safaris persigue a Bongo y atraviesa el peligroso Congo para vengarse</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Congo Bongo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>11cb31a1-feea-4d1e-a988-1080ec21689d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0cb66898-8b28-4b6b-a952-0d1bac6a898a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Congo Bongo (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Congo Bongo</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Dragon Wang (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:26.8917609-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:26.8917609-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2fed66a4-8699-4af4-a2e1-5f3dddadcb4a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego fue inspirado por el clásico arcade Kung-Fu Master. Más tarde recibió una secuela llamada Kung Fu Kid.
+
+El protagonista es Wang (inspirado en Jackie Chan y / o su personaje Thomas), de ahí el desafortunado título Dragon Wang. Wang es chino para King.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Dragon Wang</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Combate con desplazamiento-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>af5bdff9-17d7-45f5-bc64-576b7a2f6293</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2fed66a4-8699-4af4-a2e1-5f3dddadcb4a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Dragon Wang (J) (SG-1000) (V1.1).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Dragon Wang</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Drol (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:35.0139153-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:35.0139153-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>65fcb4cb-ed0b-4166-ae0d-26593ea41f93</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Entra en el mundo de los sueños divertido, desafiante y lleno de suspenso de Drol, donde una pequeña niña pelirroja y su hermanito de hélice esperan tu rescate. Han sido atraídos por la maldición de un hechicero a las ruinas de una civilización perdida en varios niveles. Hipnotizados, deambulan sin rumbo por los pasillos subterráneos, ignorando los peligros que los rodean.&#xD;
+Es su tarea - como un héroe equipado con una mochila cohete y alcance de radar de pantalla completa - esquivar saltos de escorpiones, monstruos y serpientes, pavos voladores, espadas, dagas, flechas, imanes, hechiceros y aspiradoras (!) en sus intentos de reunir a los niños con su madre.&#xD;
+¡El sentido del humor irónico de Drol y las imágenes de dibujos animados increíblemente detalladas hacen de este juego un encanto!&#xD;
+</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Drol</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a8cf3890-689f-43dc-8732-2793a2b3186a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>65fcb4cb-ed0b-4166-ae0d-26593ea41f93</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Drol (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Drol</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Elevator Action (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:29.6212748-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:29.6212748-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>27ae04a1-2086-4b43-afa1-9045f38468ba</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Eres el Agente 17 (nombre en clave: " Otto") . Tu misión es la de asegurar todos los documentos secretos superiores de un edificio de seguridad y escapar en el coche, que se encuentra en el sótano del edificio. Enemigos espías están dispersos por todo el edificio de 30 pisos y tienen una sola misión: ejecutar el Agente 17 a toda costa. Hay varias formas en las que el Agente 17 puede matarlos: Disparar con su arma. Patadas saltando sobre ellos. Disparar una luz en el techo, mientras que están en un ascensor, dejando caer la luz sobre uno de ellos. Aplastarles con un ascensor.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Elevator Action</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Tirador con deslizamiento-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ae897bbe-d253-4d35-b91d-d7f8fbce313d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>27ae04a1-2086-4b43-afa1-9045f38468ba</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Elevator Action (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Elevator Action</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Exerion (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:59.9134441-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:59.9134441-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>71e78c81-aafb-4dc3-99ff-40d75e870dce</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El FIGHTER EX se apresuró a atacar a los monstruosos grupos enemigos en los 6 misteriosos mundos DIMENSIONALES diferentes. El enemigo está constantemente persiguiendo al FIGTHER EX. El misil del figther ataca al enemigo y cae como lluvia de granizo. ¡Estén alerta!&#xD;
+El "Dual Beam" te permite disparar contra el enemigo y el "Single Beam" para atacarlo de forma rápida y continua.&#xD;
+¡Mira qué éxito tienes en luchar contra el enemigo a través de los 6 peligrosos mundos!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Exerion</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>3ea027b9-bc2e-43f1-8518-48e5dfde0dbc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>71e78c81-aafb-4dc3-99ff-40d75e870dce</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Exerion (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Exerion</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Flicky (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:21.3403112-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:21.3403112-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8fb0a164-c621-4271-bc5b-ee9e90e95008</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El pequeño bebé, PIOPIO, se ve tomando el sol en la terraza soleada brillante. Ahora es el momento para que los pequeños PIOPIOS tomen su bocadillo a media tarde, FLCKY, tu madre, viene a llevarte a todos a casa. Volvamos saltando alegremente tomados de la mano con mamá FLICKY. ¡Oh, oh, tenemos un gran problema! El gato callejero malhumorado (NYANNYAN) está por llegar. Escápese saltando sobre él y golpeando martillos y tazas en un esfuerzo por golpear y destruir al gran gato malo. FLICKY, realmente te sentirás aliviado cuando hayas llevado a todos tus PIOPIO de tu bebé a casa, ¿no es así?</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Flicky</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9d27c671-d9c5-4ec2-a75a-db2907270bda</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8fb0a164-c621-4271-bc5b-ee9e90e95008</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Flicky (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Flicky</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Flipper (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:20.5369412-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:20.5369412-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0d25e29f-f211-49ac-9485-1211dc56610e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un sonido de aleta rítmica pegadizo acompaña este videojuego de pinball de la computadora. Con un D.T. (drop target) que te permite ganar puntos de bonificación y un K.H. (kicker hole) que le da derecho a ganar puntos de bonificación X una tasa de multiplicación! Apunta bien, ¡y dispara! Aquí te deseo éxitos mientras giras alegremente por el campo de juego en busca de la proverbial "puntuación más alta".</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sega Flipper</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pinball</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>4178364c-ffc7-488c-ac36-3d650810440f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0d25e29f-f211-49ac-9485-1211dc56610e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Flipper (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sega Flipper</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Girl's Garden (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:45.5332269-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:45.5332269-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5bd08c64-f305-4199-82c7-cca3a887f227</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Para evitar que su novio Minto vaya con otra niña pequeña llamada Cocco, Papri debe recoger diez flores diferentes y devolverlas a la casa de su novio. Las flores deben atraparse en plena floración para que la cantidad de flores en su posesión aumente; atrapar flores demasiado temprano considerará que las flores se desperdiciarán y las flores atrapadas demasiado tarde se marchitarán. Las flores marchitas arruinarán el ramo, causando que el jugador pierda la mitad de las flores.
+
+Los osos tienen gusto por la miel y hacen que el jugador pierda uno de dos corazones si uno de ellos ataca al jugador. Sin embargo, la miel puede soltarse para hacer que el oso sea temporalmente inofensivo para el jugador. Las abejas aparecen como aliadas del jugador, dándole elementos de bonificación de vez en cuando y miel adicional si el jugador lo atrapa en una flor.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Girl's Garden</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>70db1e58-0b69-45fd-a347-8414d9f2dcda</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5bd08c64-f305-4199-82c7-cca3a887f227</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Girl's Garden (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Girl's Garden</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Golgo 13 (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:43.8567796-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:43.8567796-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>505171c7-f651-4503-bf42-144c1a090b3a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego te hace disparar a las ventanas de un tren que pasa. Golpear objetos que se interpongan hará que la bala rebote y potencialmente te mate.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Golgo 13</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7be6d196-bcd7-40c0-be2b-4a4fb9a88c78</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>505171c7-f651-4503-bf42-144c1a090b3a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Golgo 13 (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Golgo 13</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\GP World (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:02.4160306-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:02.4160306-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cb0e896e-e8fd-4edd-9fd2-f04f7bef2969</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La mecánica de juego en esta versión de "8 bits" de GP World es similar en concepto al GP World de arcade pero dado el hardware tremendamente diferente, diferente en ejecución. Lo más notable es que todos los gráficos en el juego son generados en tiempo real por el SG-1000 en lugar de ser transmitidos desde un LaserDisc, lo que a su vez conduce a una física del automóvil más predecible. El concepto de carreras en cuatro tipos diferentes de GP se descarta, en su lugar se reemplaza con un GP que abarca el mundo y tres dificultades seleccionables.
+
+Al igual que el original, el juego utiliza una perspectiva en tercera persona similar a la de Turbo (aunque la cámara está situada detrás del volante), y ve al jugador competir en un coche de fórmula uno, navegando por el recorrido y evitando a otros conductores. Esta versión también es notable por tener un editor de pistas simplista. Es probable que el controlador SH-400 haya sido diseñado teniendo en cuenta este juego.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>GP World</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cd830edd-c6d4-496a-977b-1b690aabf0d9</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>cb0e896e-e8fd-4edd-9fd2-f04f7bef2969</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\GP World (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>GP World</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Gulkave (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:13.3549978-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:13.3549978-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4c7059d3-bee2-41c9-9b4b-bbe7b2aaf0a5</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Gulkave es un juego de disparos SG-1000 desarrollado por Compile y publicado por Sega en 1986. Es un tirador horizontal, en el cual el jugador controla una nave espacial que debe destruir las 8 fortalezas del Imperio Gulbas y varios enemigos diferentes. A pesar de las limitaciones de la consola, hay 30 "actos", y cada "acto" tiene un fondo diferente y hay numerosos potenciadores disponibles, que lo diferencian de la mayoría de los otros shooters SG-1000 en el momento.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Gulkave</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f4750bbc-2b07-49c8-8508-2483734a7877</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4c7059d3-bee2-41c9-9b4b-bbe7b2aaf0a5</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Gulkave (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Gulkave</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\H.E.R.O. (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:37.0159852-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:37.0159852-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>650ee30f-3704-4ddb-9281-f0b2f7df0665</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Desesperados mineros atrapados! ¿Serán estos túneles sus tumbas? Rod Hero es su última esperanza! Su paquete de Propulsión lo impulsa hacia los pozos de la mina, ¡y al peligro!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>H.E.R.O.</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fb699326-534e-41b7-b432-f69e81ca7811</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>650ee30f-3704-4ddb-9281-f0b2f7df0665</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\H.E.R.O. (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>H.E.R.O.</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hang-On 2 (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:25.3730156-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:25.3730156-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d0b34631-2da0-4b9c-9df8-bcba9a3882da</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Hang-On II es una secuela SG-1000 del Hang-On aclamado por la crítica.
+
+A pesar del nombre, el juego es una secuela directa de la versión Mark III de Hang-On, y es prácticamente idéntica a ese juego. La única diferencia son los gráficos degradados y la adición de música de la versión arcade. Mientras tanto, Super Hang-On es la continuación directa del juego de arcade.
+
+Es compatible con el controlador de asa de bicicleta BH-400 y sería el único juego SG-1000 diseñado para ello (aunque el periférico es compatible con Sega Master System y Sega Mega Drive).</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Hang-On II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f0df61ac-0eee-41f8-9a0d-1a5a626acf54</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>d0b34631-2da0-4b9c-9df8-bcba9a3882da</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hang-On 2 (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Hang-On II</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hustle Chummy (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:48.6576579-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:48.6576579-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b7b0d024-24c9-4b78-9265-a7d73b2c199b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En Hustle Chumy, los jugadores controlan a un ratón llamado Chumy que necesita recolectar manzanas (y otros alimentos) en una alcantarilla, evitando otras criaturas a medida que avanza. A medida que Chumy come más comida, su velocidad disminuye, pero sus bolas de fuego reciben un rango más largo. Los niveles tienen diferentes diseños.
+
+Hay varios tipos de enemigos en el juego, la mayoría de los cuales pueden ser derrotados con bolas de fuego.
+
+Murciélagos: los murciélagos vuelan sobre Chumy.
+Mecha-Dinos: los Mecha-Dinos son indestructibles, aunque Chumy puede ralentizarlos con bolas de fuego.
+Gators: los cocodrilos generalmente duermen en un lugar, pero a veces se mueven lentamente.
+Gatos: los gatos pueden saltar como Chumy.
+Ninjas: los ninjas deben ser golpeados con tres bolas de fuego para ser derrotados.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Hustle Chumy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma / Corre y Salta-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c456aab0-77e2-4c59-928d-c1eb70f3ae72</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b7b0d024-24c9-4b78-9265-a7d73b2c199b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hustle Chummy (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Hustle Chumy</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hyper Sports (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:33.3096551-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:33.3096551-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>82075ce7-7fe5-46e2-a2c2-4a0a2066c44c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Hyper Sports es un juego deportivo competitivo que presenta siete eventos comúnmente vistos en los Juegos Olímpicos. Fue un juego de conexión para los Juegos Olímpicos de verano de 1984 en Los Ángeles, y una secuela de Track &amp; Field anterior de Konami. Al igual que con Track &amp; Field, el jugador tiene que pasar cada uno de los eventos del juego para pasar al siguiente.
+
+El jugador, como varios atletas, participa en los siguientes siete eventos. Para progresar de uno a otro, el jugador debe aprobar un puntaje mínimo de "calificación" para cada evento. Por lo general, los eventos implican presionar los botones lo más rápido posible, o algún tiempo muy específico.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Hyper Sports</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Multideporte</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>efee3895-d9a4-474b-9d1b-dddec31d9e54</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>82075ce7-7fe5-46e2-a2c2-4a0a2066c44c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Hyper Sports (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Hyper Sports</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\James Bond 007 (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:24.7725034-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:24.7725034-05:00</DateModified>
+    <Developer>Tsukuda Original</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f58ecfc6-834d-4221-af19-fa4bf0a2223c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cuando se trata de acción e intriga rápidas, nadie lo hace mejor que Bond. James Bond.&#xD;
+Pero puedes intentarlo cuando representas escenas de cuatro grandes clásicos de películas de James Bond.&#xD;
+El vehículo especialmente diseñado de 007 lo llevará en el viaje de su vida, ¡por tierra, aire y bajo el mar! A través de todo, debes evitar los obstáculos, evitar a los enemigos y cumplir cuatro misiones diferentes.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Tsukuda Original</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>007 James Bond</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-06-30T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>09564ebb-bb08-45bf-afd5-e2448783c510</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f58ecfc6-834d-4221-af19-fa4bf0a2223c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\James Bond 007 (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>007 James Bond</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Loderunner (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:42.7559022-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:42.7559022-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>70aebf47-97e9-45c0-9eda-cadb89de4d87</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En este juego, se requiere que el jugador "piense" y "actúe" repetidamente para atravesar y borrar las escenas del laberinto resolviendo sus misteriosos acertijos mientras evita a los guardias enemigos que lo persiguen implacablemente. Después de recolectar todos los cofres de oro, debes inventar nuevas ideas para desafiar con éxito la escena del siguiente nivel. Aunque la experiencia adquirida con la acción de juego anterior te ayudará a superar algunas de las futuras escenas de laberintos, todavía tienes que estar constantemente alerta. También puedes disfrutar creando tus propios juegos usando el teclado. Este es un juego intrigante que requiere profundidad intelectual para maniobrar hábilmente las estructuras de laberinto desconocidas que se desarrollan consecutivamente una tras otra.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Lode Runner</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Plataforma / Corre y Salta</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>12420be8-ad65-4f9c-82bc-f2e90683420c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>70aebf47-97e9-45c0-9eda-cadb89de4d87</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Loderunner (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Lode Runner</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Magical Tree (T) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:37.9920095-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:37.9920095-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8ec90222-51fc-4605-a588-097030b7b217</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Magical Tree is a vertically scrolling platform game developed by Konami for the MSX home computer, and published in 1984. The player character is an 'Indian brave' stereotype who wears a tanned vest and trousers, and a headband with a feather. The player ascends a magical tree by hopping from branch to branch and climbing vines and ladders—while also dodging larvae, owls, and lightning bolts. The player can jump and dangle from branches. He earns points by gathering apples, arrows, daggers, and coronets.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Aaronix</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Magical Tree</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>010d2b72-8002-4e7b-815f-0f601e08a9eb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8ec90222-51fc-4605-a588-097030b7b217</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Magical Tree (T) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Magical Tree</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Monaco GP (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:41.7798067-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:41.7798067-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6e2552a3-73b2-4381-9f78-2e8a8338c97a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un fórmula rojo que viaja a alta velocidad por las calles, se acelera, salta, maniobra a la derecha e izquierda para evitar que los autos obstruyan el camino y los autos imprudentes que se acercan a su máquina ........ Esté en el busque una ambulancia que pase de repente ......... ¡Y esté atento a las señales! También se presentan retos emocionantes como las zonas de deslizamiento, los sitios de construcción peligrosos, así como las curvas pronunciadas y los puentes estrechos de la bahía. Cuando está en el túnel, los faros de su automóvil son lo único en lo que puede confiar. Después de mejorar tu habilidad pasando por el nivel 1 de principiante, puedes pasar a los niveles altos más difíciles 2 y 3.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Monaco GP</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c4634bee-fb72-43d4-aa39-336e3c38b057</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6e2552a3-73b2-4381-9f78-2e8a8338c97a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Monaco GP (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Monaco GP</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Ninja Princess (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:46.0531879-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:46.0531879-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bcc0da07-0329-430c-88f9-bebc6c24c8b4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ninja Princess conocida como Sega Ninja en el oeste, es un juego de arcade Sega System 1 de Sega. Es un juego de disparos / acción de arriba hacia abajo, en el que juegas como una princesa disfrazada de ninja que intenta detener al malvado tirano Gyokuro.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Ninja Princess</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9f96613b-9eb1-4772-a4ab-aaf608545143</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bcc0da07-0329-430c-88f9-bebc6c24c8b4</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Ninja Princess (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Ninja Princess</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\N-Sub (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:07.6978619-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:07.6978619-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9f1f34a1-5208-4ff5-b962-31dd49538fdc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Una gran batalla se desarrolla en un mar azul cobalto. Dispara un torpedo cuando encuentres las naves enemigas. Evite el ataque del destructor mediante el uso de misiles, torpedos y bombas de profundidad. Contraatacar y hundir las naves del enemigo. ¡El ataque enemigo se vuelve más intenso con cada nueva ronda!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>N-Sub</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shooter / Estilo Space Invaders</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ccd36540-4695-4030-b7e3-414cf584bf27</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9f1f34a1-5208-4ff5-b962-31dd49538fdc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\N-Sub (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>N-Sub</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Okamoto Ayako (J) (MV) (V1.1).mv.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:32.6431448-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:32.6431448-05:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0de391a6-f07d-40ed-bfb5-341a5c79f7b8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Sega SG-1000</Platform>
+    <Publisher />
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Okamoto Ayako (J) (MV) (V1.1).mv</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>0001-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+  </Game>
+  <AdditionalApplication>
+    <Id>adebef65-c919-42ec-97af-db5cd98b6d9a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0de391a6-f07d-40ed-bfb5-341a5c79f7b8</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Okamoto Ayako (J) (MV) (V1.1).mv.rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Okamoto Ayako (J) (MV) (V1.1).mv</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Orguss (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:35.2074383-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:35.2074383-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6a574f5d-8cdc-4339-ab33-36d6f4a1598b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En el juego, el jugador toma el control de un robot que puede transformarse en una nave estelar. Está basado en la serie de anime de ciencia ficción Super Dimension Century Orguss.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Orguss</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>23e78958-42f3-4664-9259-78ad172811a5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6a574f5d-8cdc-4339-ab33-36d6f4a1598b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Orguss (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Orguss</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Othello (J) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:35.7856746-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:35.7856746-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5363b950-ec58-4af7-95b3-dc8ecfe3202f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Othello (? ? ?) es un videojuego SG-1000 basado en el juego de mesa Othello.&#xD;
+&#xD;
+Existen dos versiones de Othello para el SG-1000. La primera versión, lanzada en 1983, fue incorporada en Othello Multivision (que es de donde toma su nombre el sistema). Más tarde, Sega volvería a lanzar este juego en forma de cartucho en 1985, ofreciendo importantes mejoras gráficas y de IA sobre la versión de Tsukuda Original.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Othello</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de mesa asiático</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7ccea938-50cd-4821-aff9-06780cdfef4f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5363b950-ec58-4af7-95b3-dc8ecfe3202f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Othello (J) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Othello</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pacar (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:37.4571568-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:37.4571568-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f2714187-0bf8-4a6c-a135-2f64d0287124</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>PACAR, un coche travieso, recorre las rutas 3D avanzando y retrocediendo libremente a velocidades rápidas y lentas. Intenta eliminar todos los puntos en la pantalla mientras evitas los 2 tipos de coches enemigos. Cuando pasas por los puntos especiales, PACAR se vuelve cada vez más invencible a medida que aumenta su poder y quedará libre de daños incluso cuando se estrelle contra el vehículo enemigo. ¡Mantén el ritmo tórrido y destruye la mayor cantidad de autos enemigos posible!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pacar</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Acción / Laberinto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e5262019-abc2-4c8c-beb3-940a6666da92</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>f2714187-0bf8-4a6c-a135-2f64d0287124</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pacar (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pacar</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pachinko (J) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:43.3756725-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:43.3756725-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>27e14dd6-3356-458b-a2fd-8f7c20536a8a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pachinko es un juego SG-1000 desarrollado y publicado por Sega en 1983. Es, como su nombre indica, una versión de videojuego de Pachinko, un popular juego en Japón. El juego no vio un lanzamiento internacional.&#xD;
+&#xD;
+Pachinko es un juego extremadamente raro para el SG-1000. Poco después de su lanzamiento, fue retirado de la venta debido a un error que rompe el juego (necesidad de verificar) y muy pocas copias quedan en manos de los coleccionistas. Esta es probablemente la primera instancia de un retiro en la historia de Sega (?).&#xD;
+&#xD;
+A partir de 2013, una subasta reciente del juego en Yahoo Japón se ganó por ¥ 113,500, pero se sabe que se vende al alza desde ¥ 200,000.&#xD;
+&#xD;
+El error fue corregido y el juego fue relanzado unas semanas más tarde como una "secuela", Pachinko II, que es mucho más común.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pachinko</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle-Casino</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e5c02688-8a80-413d-aec4-682e824fe7c5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>27e14dd6-3356-458b-a2fd-8f7c20536a8a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pachinko (J) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pachinko</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pachinko 2 (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:53.6332885-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:53.6332885-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>11ee3527-e7a9-4743-b1e0-1cff1e869792</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pachinko II es la secuela de Pachinko, y fue lanzado para el SG-1000 en 1984.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pachinko II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Casino</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7f4716ca-cb68-43ff-9df4-523719fe2611</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>11ee3527-e7a9-4743-b1e0-1cff1e869792</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pachinko 2 (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pachinko II</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Penguin Land (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:36.5395265-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:36.5395265-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>34129f37-537a-4782-bb9a-005cfe228024</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El objetivo básico de Doki Doki Penguin Land es guiar un huevo desde la parte superior de la pantalla hasta la parte inferior. Hacerlo significa cavar hacia abajo, asegurándose de que no se rompa en el proceso. Como rompecabezas de plataformas, todo se ve afectado por la gravedad, y si el huevo cae desde una gran altura, se romperá. El éxito se logra bajando cuidadosamente por el campo de juego.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Dokidoki Penguin Land</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f247cbbc-dc83-41e1-a4e7-9bca6ada186d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>34129f37-537a-4782-bb9a-005cfe228024</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Penguin Land (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Dokidoki Penguin Land</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Ping Pong (Konami's) (T) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:05.6078380-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:05.6083370-05:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>eef8d3e6-722b-465f-92be-9592b611e7cd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Sega SG-1000</Platform>
+    <Publisher />
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Ping Pong (Konami's) (T) (SG-1000)</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>0001-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+  </Game>
+  <AdditionalApplication>
+    <Id>11625fa5-ae48-434a-aa9e-a126cb115d13</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>eef8d3e6-722b-465f-92be-9592b611e7cd</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Ping Pong (Konami's) (T) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Ping Pong (Konami's) (T) (SG-1000)</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pitfall II (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:25.9345188-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:25.9345188-05:00</DateModified>
+    <Developer>Sega R&amp;D 2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0c4e187a-a09c-4ad0-9346-e6302bc34178</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Aquí estoy, Pitfall Harry, cayendo en picado hacia el oscuro trueno del agua corriendo debajo ... y pensando en la noche en que llamó David Crane. "Espero que estés bien descansado", había dicho. Demasiado descansado, dije. Estaba listo para la acción. Me preguntó si había escuchado historias sobre las legendarias cavernas perdidas de Machu Picchu en Perú. O de un rugiente, afluente subterráneo inexplorado del río Urubamba repleto de cascadas y anguilas eléctricas mortales. "Sí, he dicho. Me preguntó si conocía al infame y maldito Raj Diamond. O del robo reciente de lingotes de oro del depósito de lingotes de oro de EE. UU. En Fort Knox. ¿Y si hubiera oído hablar de murciélagos vampiros? ¿Ranas venenosas? Escorpiones Albino? ¿El temido cóndor andino? "Sí, he dicho. ¿Y aún podría correr? ¿Escalada? ¿Saltar? ¿Podría ... nadar? "Si si SI SI." "Bien", dijo Crane. "¿Entonces lo harás?" "Por supuesto", dije. Si tan solo hubiera sabido ..</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pitfall II : The Lost Caverns</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b6b733e6-5d14-4bde-8c46-468df9f12437</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0c4e187a-a09c-4ad0-9346-e6302bc34178</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pitfall II (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pitfall II : The Lost Caverns</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pop Flamer (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:09.8528798-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:09.8528798-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7838318a-64aa-4871-a5d3-e9635c42616d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>"POP FLAMER" es un ratón que maneja un lanzallamas.
+Tú, como jugador, intenta romper globos y suministrar combustible para el lanzallamas mientras elimina los 3 tipos de MONSTRUOS y el obstáculo RANA que está obstruyendo las rutas. Sin embargo, sea cuidadoso con el haz tranquilizador del "HARADON". Cuando estés expuesto a este rayo, ¡no podrás mover la temporalidad! Cuando el POP FLAMER toma una "bebida de encendido", se transforma en un "SUPER MOUSE" y usted puede obtener puntos altos tragando los MONSTRUOS cercanos de un trago !!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pop Flamer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Acción / Laberinto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9ba241b5-5ccd-48a1-bac2-09bdb10e91e0</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7838318a-64aa-4871-a5d3-e9635c42616d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Pop Flamer (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pop Flamer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Rock N' Bolt (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:31.1267329-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:31.1267329-05:00</DateModified>
+    <Developer>Sega R&amp;D 2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4cf34bee-5bec-4178-8a67-ae2894c54919</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Antes de que esperes la confusión más complicada y confusa del mundo de la construcción de planos, pernos, vigas y vigas alucinantes.
+Tú y solo tú tendrás que resolverlo todo y ponerlo todo junto. Y no tienes todo el día.
+Es un reto de gran altura deslumbrante, vertiginoso e increíblemente emocionante. Todos los 100 pisos de ella.
+Tú girarás, saltarás y bailarás de haz en haz, de rompecabezas en rompecabezas. Gana sueldos extra y contrata trabajadores adicionales.
+Entonces, coge tu sombrero y ponte las botas. Estás a punto de descubrir cómo la música caliente y la alta energía pueden ayudar a llenar un orden muy, muy alto.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Rock n' Bolt</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>14beca11-5450-441b-82d4-612637276b15</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4cf34bee-5bec-4178-8a67-ae2894c54919</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Rock N' Bolt (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Rock n' Bolt</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Safari Hunting (JE) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:42.5070754-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:42.5070754-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2cf4222d-a64a-4222-ba5f-12dbaad1e877</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sumérgete en la jungla y caza animales feroces. Tu arma es una poderosa arma tranquilizadora. Capture las serpientes dormidas, los gorilas, los leones y los elefantes colocándolos en una jaula. Capture tantos animales como sea posible, mientras considera el tiempo efectivo del tranquilizante y la cantidad de combustible disponible.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Safari Hunting</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>dfabd3db-f18e-4add-ad08-f3b87e031d3c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2cf4222d-a64a-4222-ba5f-12dbaad1e877</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Safari Hunting (JE) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Safari Hunting</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Safari Race (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:03.2408815-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:03.2408815-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cf948df4-6fe3-41c0-8c3b-b15adbf4e389</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En la vasta llanura de sabana, la SAFARI RACE acaba de ponerse en marcha. Sigue corriendo a toda velocidad, pasando por otros vehículos mientras evitas varios animales salvajes que cruzan la calle. Conduzca rápido, siempre hacia adelante, teniendo en cuenta el tiempo limitado, el consumo de combustible y las curvas peligrosas. Pase por los puntos de control. Haga funcionar su automóvil a máxima aceleración hacia la meta con el motor funcionando a su capacidad máxima.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Safari Race</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>910bbce7-24b1-4764-ba86-d2f70e8a2a15</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>cf948df4-6fe3-41c0-8c3b-b15adbf4e389</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Safari Race (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Safari Race</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sega Flipper (JE) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:50.7047882-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:50.7047882-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8f815245-6816-4045-87b9-b1e35c1da32a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un sonido de aleta rítmica pegadizo acompaña este videojuego de pinball de la computadora. Con un D.T. (drop target) que te permite ganar puntos de bonificación y un K.H. (kicker hole) que le da derecho a ganar puntos de bonificación X una tasa de multiplicación! Apunta bien, ¡y dispara! Aquí te deseo éxitos mientras giras alegremente por el campo de juego en busca de la proverbial "puntuación más alta".</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sega Flipper</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Pinball</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b0353ca3-43a1-47b2-9722-3daf401718f1</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8f815245-6816-4045-87b9-b1e35c1da32a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sega Flipper (JE) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sega Flipper</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sega Galaga (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:39.6520074-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:39.6520074-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d31d3ac2-d359-4e6d-8653-86a33e0e1e17</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Toma el control de una nave espacial de combate y derriba a los alienígenas invasores. Ten cuidado con las naves nodrizas, que intentarán robarte a tu luchador. Rescata guerreros capturados para duplicar tu potencia de fuego. Obtén bonos perfectos mientras te abres camino a través de ola tras ola en diferentes etapas desafiantes.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sega-Galaga</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Vertical</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>8e176f1c-3a6a-4940-bd73-38237b3cc59d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>d31d3ac2-d359-4e6d-8653-86a33e0e1e17</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sega Galaga (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sega-Galaga</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Shinnyushain Tooru Kun (J) (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:23.7347568-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:23.7347568-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>542c6956-f379-407e-b007-f36e4cda1d7e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>ÉL UTILIZÓ TODO EL ODIO, PERO SU CEREAL ...&#xD;
+Pero ahora Mikie tiene novia.&#xD;
+Y a él le gusta tanto, que hará cualquier cosa para enviarle un mensaje.&#xD;
+El problema es que mucha gente realmente no quiere que él llegue. Mucha gente GRANDE. Maestros Todo el personal de cocina. Y el conserje más malo que hayas conocido.&#xD;
+Lo están persiguiendo por toda la escuela. Desde su salón de clases, hasta el vestuario, la cafetería, el gimnasio, el patio de recreo.&#xD;
+¿Por qué?&#xD;
+Él es solo un niño pequeño.&#xD;
+Él realmente necesita un poco de ayuda.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Shinnyushain Tooru Kun</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Acción / Laberinto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>383d354e-08f1-4614-94a8-05ae820c6e81</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>542c6956-f379-407e-b007-f36e4cda1d7e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Shinnyushain Tooru Kun (J) (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Shinnyushain Tooru Kun</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sinbad Mystery (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:49.5361921-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:49.5361921-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>18ad343b-0955-4da3-a5ee-ea5f8c9b48ee</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SINDBAD, un chico aventurero, viene a TREASURE ISLAND. Él quiere encontrar el tesoro exitosamente a través de las pistas en el MAPA DEL TESORO abriendo el? paneles. Para desafiarlo, los MONSTRUOS están aquí y allá, holgazaneando en las rutas laberínticas de la isla. Junta tu coraje, tira la PIEDRA hacia adelante y destruye los MONSTRUOS. ¡Después de encontrar con éxito el TESORO, sigamos con la próxima aventura en otra ISLA TESORO más maravillosa!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sindbad Mystery</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2813e296-a7b8-4ea1-937c-6ffbee91d052</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>18ad343b-0955-4da3-a5ee-ea5f8c9b48ee</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Sinbad Mystery (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sindbad Mystery</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Soukoban (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:15.2379173-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:15.2379173-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0922efef-79c4-4fd5-b8c2-a4ac35489900</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Sokoban es la base de Shove It! ... The Warehouse Game, lanzado para la Mega Drive de Sega.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Soukoban</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>9d06c532-8533-4ba7-a34c-af8382a01284</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0922efef-79c4-4fd5-b8c2-a4ac35489900</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Soukoban (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Soukoban</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Armor (J) (v2.0) (MV).mv.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:51.7986301-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:51.7986301-05:00</DateModified>
+    <Developer>Tsukuda Original</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7a2eaaaf-dc74-48e4-8b46-ca1458ed1cef</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fue construido teniendo en cuenta Othello Multivision, pero al igual que todos los juegos de Multivision, también es compatible con el SG-1000. Space Armor no fue lanzado fuera de Japón.
+
+El juego está construido de forma similar al Xevious de Namco, en el sentido de que es un tirador vertical en el que un botón dispara a los objetivos voladores y el otro a los objetivos en el suelo.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Tsukuda Original</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Armor</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>608d1d4f-b969-4da1-9099-a81071ec9d2a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7a2eaaaf-dc74-48e4-8b46-ca1458ed1cef</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Armor (J) (v2.0) (MV).mv.rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Armor</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Invaders (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:31.4972417-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:31.4972417-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d87b1826-4fca-4d57-8a31-de053c58e69d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Atención todos los terrícolas! Se han identificado infinidad de hordas alienígenas cerca de ti. Evita que los peligrosos Space Invaders aterricen en tu territorio. Usa tu cañón para defenderte de las oleadas de invasores alienígenas descendentes. ¡No dejes que caigan al suelo o todo habrá terminado para ti y la Tierra! ¡Destrúyelos y gana puntos!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Invaders</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shooter / Estilo Space Invaders-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>648fbb5b-f3de-4af2-88f3-7b6962467c44</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>d87b1826-4fca-4d57-8a31-de053c58e69d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Invaders (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Invaders</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Mountain (J) (MV) [!].mv.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:44.9441700-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:44.9441700-05:00</DateModified>
+    <Developer>Tsukuda Original</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ba03f874-a299-4bf4-baa1-904ea97bbae1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pilota tu caza tipo X-Wing contra enemigos TIE Fighter Fighter en este original juego SG-1000 de Tsukuda Original.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>Tsukuda Original</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Mountain</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1984-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2bd2cd01-0c6d-471b-9a1c-c8db2d0ab6fa</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ba03f874-a299-4bf4-baa1-904ea97bbae1</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Mountain (J) (MV) [!].mv.rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Mountain</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Slalom (J) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:06.6117768-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:06.6117768-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d873c5a6-dbe0-4a0d-bfed-8d96dd0c681f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Aunque en la superficie parece ser un shoot-em-up vertical con temática espacial, en realidad no hay tiroteos. El jugador controla un transbordador y debe navegarlo a través de un recorrido definido por estrellas de colores, similar al esquí de slalom. El jugador también debe evitar obstáculos, y se le otorgarán puntos extra según su velocidad en el recorrido.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Slalom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a6c94544-8670-4f41-885e-79bb4a23f13d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>d873c5a6-dbe0-4a0d-bfed-8d96dd0c681f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Space Slalom (J) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Slalom</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Star Force (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:09.0240941-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:09.0240941-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>3c37f9b4-1f96-4bbf-89e1-a3b842c658fb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Moverse en la oscuridad del cosmos es un planeta malvado y misterioso llamado GORDESS. Todos dejaron de luchar contra GORDESS debido a su increíble poder, hasta que un día un soldado que montaba un patrullero espacial desafió a GORDESS a luchar. ¡Únete a STAR FORCE y viaja a través de la galaxia para vencer a GORDESS!</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Star Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter-Shoot'em Up / Vertical-Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>98205a11-880d-4858-ab55-c9b70806f37c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>3c37f9b4-1f96-4bbf-89e1-a3b842c658fb</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Star Force (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Star Force</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Star Jacker (J) (SG-1000) (V1.2) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:29.4563503-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:29.4563503-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9cfc05d6-7a13-4ceb-998e-ff4256f71086</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Un juego espacial de "nueva sensación". Gloriosas tropas espaciales luchan contra el ejército invasor "Dester". Evite los ataques continuos de OVNIS que se entrelazan a izquierda y derecha, arriba y abajo. Contraataque usando su botón de fuego. Dirige las tropas espaciales al Portador que pasa por las diversas zonas misteriosas.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Star Jacker</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-07-15T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>dfb0545c-0473-4e10-9843-3847ccd37ff8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9cfc05d6-7a13-4ceb-998e-ff4256f71086</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Star Jacker (J) (SG-1000) (V1.2) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Star Jacker</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Super Tank (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:20.2531596-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:20.2531596-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e7fd27ec-4f47-429c-9b5b-3851c5b7993e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Super Tank es un juego de shoot-em-up para el SG-1000. El jugador maneja un tanque y tiene la tarea de disparar y destruir unidades y estructuras enemigas.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Super Tank</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>120171f1-035c-4953-a6cc-22fe7f731fb6</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e7fd27ec-4f47-429c-9b5b-3851c5b7993e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Super Tank (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Super Tank</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Terebi Oekaki (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:28.8990522-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:28.8990522-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e0635aaf-ea7c-4ac3-a210-5eddece889d4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Terebi Oekaki  is the game packaged with the Sega Graphic Board for the SG-1000. It is a simple paint program.&#xD;
+&#xD;
+This was the first game to feature the use of touch controls. It required the use of the Sega Graphic Board tablet, along with a stylus pen that came with it.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Terebi Oekaki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Varios</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>50398612-ffcc-4b41-b248-9b3e419199d5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e0635aaf-ea7c-4ac3-a210-5eddece889d4</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Terebi Oekaki (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Terebi Oekaki</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Wonder Boy (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:23.7775363-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:23.7775363-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>69458fdc-c704-4e89-8202-2837ea30776a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Como Tom-Tom, el Wonder Boy, depende de ti rescatar a tu novia Tanya de las viles garras del monstruo que la ha secuestrado. Para hacerlo, debes navegar una serie de mundos en una carrera contra el tiempo para alcanzar tu objetivo. En el camino, lucharás contra enemigos y recogerás fruta que aumentará la cantidad de tiempo que tienes para completar tu misión.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Wonder Boy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1986-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>55fc2a13-e895-4da0-9cb5-b394141ce613</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>69458fdc-c704-4e89-8202-2837ea30776a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Wonder Boy (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Wonder Boy</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Yamato (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:55.2943154-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:55.2943154-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>698100fe-aeb7-46f5-943e-537367b668f5</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Evite el ataque del enemigo con torpedos y misiles. Dispara a los misiles. Ten cuidado, YAMATO explotará si es golpeado de costado. Apunta al enemigo y dispara las armas. Ataca los aviones enemigos usando tus guuns de ataque rápido. ¿Puede YAMATO sobrevivir a través de esta batalla feroz?</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Yamato</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-03-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ea259f26-ead7-4d14-8e49-a88eb8a8f641</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>698100fe-aeb7-46f5-943e-537367b668f5</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Yamato (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Yamato</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Yie Ar Kung-Fu (T) (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:48:28.3245074-05:00</DateAdded>
+    <DateModified>2024-03-07T00:48:28.3245074-05:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bf8e1184-60fd-4af1-9a1e-0f9b8cafd3e3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Sega SG-1000</Platform>
+    <Publisher />
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Yie Ar Kung-Fu (T) (SG-1000)</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>0001-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+  </Game>
+  <AdditionalApplication>
+    <Id>8f653419-253a-422d-9d68-8bbb5f146e71</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bf8e1184-60fd-4af1-9a1e-0f9b8cafd3e3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Yie Ar Kung-Fu (T) (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Yie Ar Kung-Fu (T) (SG-1000)</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Zaxxon (SG-1000).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:41.7026258-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:41.7026258-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>49f6c150-b23a-49d4-9307-2c4113b52221</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>ZAXXON te empuja hacia las profundidades del espacio exterior. Pon a prueba tus habilidades como piloto en la posición de comando. Prepárese para un desafío lleno de acción de supervivencia espacial. Sume puntos mientras bucea, asciende y desciende para destruir la fortaleza flotante del enemigo. ¡Esquiva las barreras láser mortales, los misiles enemigos y los disparos rápidos! Destruye los tanques de combustible enemigos y tu propio suministro se repone. Sobrevive al ataque de la flota de combate del enemigo y enfrenta el último desafío ... el poderoso robot blindado ZAXXON.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zaxxon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1985-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Diagonal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7c9adc4b-e3c3-4e95-b7a0-bb69d63688a3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>49f6c150-b23a-49d4-9307-2c4113b52221</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Zaxxon (SG-1000).rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zaxxon</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Zippy Race (SG-1000) [!].rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:47:42.1194846-05:00</DateAdded>
+    <DateModified>2024-03-07T00:47:42.1194846-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b6ae3c12-8d28-4369-8e18-a14225378842</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El objetivo del juego es llegar al final de cada etapa de la carrera de motos de costa a costa del personaje del jugador desde Los Ángeles hasta Nueva York antes de que se agote el suministro de combustible. En el camino, el corredor debe evitar el tráfico vehicular y tener en cuenta las bifurcaciones en el camino, recolectando combustible extra y obteniendo bonificaciones cuando aparecen.</Notes>
+    <Platform>Sega SG-1000</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zippy Race</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1983-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>613c55b3-18cb-4ef9-afc3-a532179efbc8</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b6ae3c12-8d28-4369-8e18-a14225378842</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega SG-1000\Zippy Race (SG-1000) [!].rar</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zippy Race</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>

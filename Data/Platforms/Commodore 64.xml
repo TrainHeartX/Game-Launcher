@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\Commodore 64\TRANSFOR.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-11T19:36:56.2548169-05:00</DateAdded>
+    <DateModified>2024-07-07T05:54:29.1018519-05:00</DateModified>
+    <Developer>Denton Designs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5b209931-0195-488f-b5ee-35a23ea17947</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La Tierra ha sido invadida por robots extraterrestres que cambian de forma y han hecho de nuestro planeta su campo de batalla. La lucha entre los buenos Autobots y los malvados Decepticons se centra en la energía, ya que el objetivo es recoger cuatro piezas del Cubo de Energón y llevarlas de vuelta a la base Autobot. Los Decepticons harán todo lo posible por interponerse en el camino y utilizar los cubos para sus propios fines nefastos. El jugador controla a cinco Autobots que pueden ser robots o vehículos. Te desplazas por las plataformas en busca de los cubos. Cuando estás en forma de robot puedes caminar o volar, pero cuando estás en forma de vehículo conduces por las plataformas. El Defensa-Pod se puede usar para cambiar de Autobots. Una vez recogidos todos los cubos, el juego se repite en una dificultad superior. Cada Autobot tiene escudos que se agotan cuando son disparados o golpeados por un Decepticon enemigo, cuando todos los Autobots son destruidos, es Game Over. El Commodore 64 utiliza un campo de juego desplazable, mientras que el Spectrum utiliza una técnica de pantalla abatible.</Notes>
+    <Platform>Commodore 64</Platform>
+    <Publisher>Ocean Software</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1985-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.23375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>25528</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Transformers_(1986_video_game)</WikipediaURL>
+    <Title>The Transformers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=1RRX7Kykb38</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>c374f18d9fcdfa14ca509e84b062077f</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>5b209931-0195-488f-b5ee-35a23ea17947</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>5b209931-0195-488f-b5ee-35a23ea17947</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

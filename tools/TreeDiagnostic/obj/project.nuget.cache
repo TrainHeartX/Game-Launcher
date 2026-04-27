@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dfDWpCmOhM=",
+  "success": true,
+  "projectFilePath": "H:\\GameLauncher\\tools\\TreeDiagnostic\\TreeDiagnostic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\sharpcompress\\0.44.5\\sharpcompress.0.44.5.nupkg.sha512"
+  ],
+  "logs": []
+}

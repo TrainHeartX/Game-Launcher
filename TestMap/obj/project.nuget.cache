@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tN0zWK11piQ=",
+  "success": true,
+  "projectFilePath": "H:\\GameLauncher\\TestMap\\TestMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\sharpcompress\\0.44.5\\sharpcompress.0.44.5.nupkg.sha512"
+  ],
+  "logs": []
+}

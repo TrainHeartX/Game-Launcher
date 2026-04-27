@@ -1,0 +1,689 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sony Playstation Vita\PCSF00243.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-26T12:15:28.7882793-05:00</DateAdded>
+    <DateModified>2025-08-30T10:14:58.5417063-05:00</DateModified>
+    <Developer>Guerrilla Cambridge</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3200aac2-d91e-4bab-824f-a4d32e4261c6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Si pensabas que las líneas de batalla estaban claras, no has visto toda la historia. Killzone Mercenary para PlayStation Vita -ganador del premio IGN al mejor juego para PS Vita del E3 2013- lanza a los jugadores a un tiroteo mortal como parte de una despiadada facción de mercenarios, que acepta contratos pagados no solo de la peligrosa ISA, sino también de los despiadados Helghast. En Killzone Mercenary, no existe el bien. No existe el mal. Sólo existe la misión... y el dinero.  La guerra es nuestro negocio.
+
+Características principales:
+
+- Modo Campaña completo: Juega a través de 9 misiones masivas para un jugador, cada una con desafíos adicionales y objetivos especiales.
+
+- Gráficos impresionantes: Construido sobre el mismo motor de Killzone utilizado en el sistema PlayStation 3, Killzone Mercenary tiene unos gráficos impresionantes y la fluidez del juego muestra el sistema PS Vita como ningún otro juego.
+
+- Multijugador sólido: Los intensos combates para hasta 8 jugadores mantienen la competición feroz.
+
+- Personalización en todos los modos: Personaliza tu Merc en los modos Campaña y Multijugador con armaduras, armas y mucho más. Las personalizaciones de tu Merc se aplican a ambos modos.</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating />
+    <ReleaseDate>2013-09-04T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>19432</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Killzone:_Mercenary</WikipediaURL>
+    <Title>Killzone: Mercenary</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=VOV_rVrnezE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sony Playstation Vita\PCSB00907.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-11T23:49:40.6921181-05:00</DateAdded>
+    <DateModified>2024-07-13T04:29:14.4369156-05:00</DateModified>
+    <Developer>Omega Force</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a0ac08b4-dae4-4709-9f9d-e6e4a3dd941c</ID>
+    <LastPlayedDate>2024-07-13T03:41:09.6068853-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Llega el último título de la aclamada serie "Empires", que aúna la acción trepidante de la serie Warriors y la estrategia de expansión territorial. Hace su primera aparición un nuevo e intuitivo sistema de gestión política, en el que basta con colocar a los mejores oficiales en sus puestos más eficaces, al tiempo que se potencian las batallas cooperativas. La mayor atención a los episodios históricos y la interacción entre los personajes también sirven para crear una mayor sensación de dramatismo. El "Modo Génesis", en el que puedes crear tu propia era de los Estados Combatientes, te permite una personalización más individual que nunca.
+¡Disfruta de la batalla definitiva por la supremacía!</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher>Omega Force</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>2016-03-15T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>202787</DatabaseID>
+    <WikipediaURL />
+    <Title>Samurai Warriors 4 Empires</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>259</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sony Playstation Vita\PCSE00015.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-26T08:45:37.9168165-05:00</DateAdded>
+    <DateModified>2024-07-12T17:40:27.242759-05:00</DateModified>
+    <Developer>Acquire</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>95ee440f-4c48-4fad-921b-0a2536077c4c</ID>
+    <LastPlayedDate>2024-07-12T17:38:03.0755201-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shinobido 2: Revenge of Zen es un videojuego publicado por Spike en Japón en 2011 y Namco Bandai Games en Norteamérica y la región PAL en 2012. Fue desarrollado por Acquire, autores de las series Tenchu y Way of the Samurai, como secuela de Shinobido: Way of the Ninja y Shinobido: Tales of the Ninja.
+
+Los jugadores asumen el papel de uno de los dos personajes principales, Zen y Kaede. La ciudad principal cuenta con varios menús. Algunos permiten a los jugadores equiparse con herramientas ninja como caltrops, minas, shurikens, pociones, bombas de humo, etc., mientras que otros les permiten aceptar misiones de los tres daimyou principales. A medida que avanzan en la historia, los jugadores pueden elegir a qué daimyou quieren ayudar, y se les anima a que sólo ayuden a ese daimyou, lo que anima a jugar tres veces por separado. Los daimyou asignan varias misiones, como asesinar a un objetivo determinado, proteger una caja de suministros, liberar a campesinos cautivos o robar recursos. Una vez seleccionada una misión, los jugadores se encuentran con un mapa lleno de enemigos y tesoros que recoger. Deben utilizar el sigilo y una serie de habilidades, como el gancho, los asesinatos silenciosos, los contraataques, etc., para completar su objetivo. Una vez que suben de nivel, pueden invertir puntos de atributo en salud máxima, ataque, defensa, un medidor de ataque especial ampliado que permite el ataque Zankoku (un asesinato silencioso por teletransporte) y un gancho de agarre más largo. Por el camino, los jugadores se enfrentarán a varios jefes, como líderes de clanes ninja enemigos y, finalmente, a los propios daimyou. Los jugadores pueden utilizar objetos para debilitar a sus enemigos o intentar atraerlos hacia una muerte silenciosa, lo que permite una gran variedad de estilos de juego.</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher>Namco Bandai Games</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2012-02-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>12444</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shinobido_2:_Revenge_of_Zen</WikipediaURL>
+    <Title>Shinobido 2: Revenge of Zen</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>84</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 3D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=IPya1VIRqoA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sony Playstation Vita\PCSE00737.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-11T23:49:59.0062657-05:00</DateAdded>
+    <DateModified>2024-07-13T04:29:14.436912-05:00</DateModified>
+    <Developer>Omega Force</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>091bb076-301b-4ea9-81a9-4c3120bb01d1</ID>
+    <LastPlayedDate>2024-07-13T03:23:19.7124984-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El último título lanzado con motivo del décimo aniversario de la serie 'SAMURAI WARRIORS', 'SAMURAI WARRIORS 4 - II', ¡por fin está aquí! Naomasa Ii aparece por primera vez como personaje jugable, y las distintas personalidades de la época se exploran más a fondo en el "Modo Historia", que ahora se centra en personajes individuales. También regresa el "Modo Supervivencia", uno de los favoritos de la serie, mejorado con respecto a sus versiones anteriores. Los elementos mejor recibidos de "SAMURAI WARRIORS 4" se mantienen, mientras que el equilibrio de la acción, las escenas y los sistemas de desarrollo de personajes se han mejorado significativamente. Explora de nuevo el mundo de "SAMURAI WARRIORS 4" en esta nueva versión del título.</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher />
+    <Rating>Ingles</Rating>
+    <ReleaseDate>2015-09-29T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>202776</DatabaseID>
+    <WikipediaURL />
+    <Title>Samurai Warriors 4-II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>859</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sony Playstation Vita\PCSF00024.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-26T08:03:27.4197336-05:00</DateAdded>
+    <DateModified>2025-08-30T10:16:56.1165792-05:00</DateModified>
+    <Developer>SCE Japan Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e2047e23-e300-4b85-9814-53e78e954452</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Gain a new perspective as you take on the role of Kat, a strong-willed girl seeking the means to protect her future in a world that’s crumbling to pieces. Tilt and move the PlayStation Vita system, taking gravity into your own hands to deliver devastating attacks, uncover the secrets to your past and explore a mysterious world.</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher>Sony Computer Entertainment America</Publisher>
+    <Rating />
+    <ReleaseDate>2012-06-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2380953</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>8330</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Gravity_Rush</WikipediaURL>
+    <Title>Gravity Rush</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=5Q-p-41_V4Y</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\Sony Playstation Vita\PCSB00975.txt</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-01T23:38:13.3533614-05:00</DateAdded>
+    <DateModified>2025-08-30T10:24:56.7588293-05:00</DateModified>
+    <Developer>Square Enix</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>40f76493-4e44-4feb-82bf-e22897a0721b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Se trata de un remake en 3D del juego de Game Boy de 1991 Final Fantasy Adventure, el primero de la serie Mana. El jugador toma el papel de un joven héroe que, junto con una heroína, intenta impedir que el Señor Oscuro de Glaive destruya el Árbol del Mana. La jugabilidad se centra en el combate contra monstruos u otros enemigos, y se ve desde una perspectiva descendente. El jugador atraviesa el mundo del juego, dividido en varias zonas, y se abre paso a través de mazmorras. Mientras lucha contra los monstruos, en la pantalla se muestra un indicador que se va llenando con el tiempo y que se reinicia cuando el jugador es golpeado o ataca; si espera a atacar hasta que el indicador esté lleno, el jugador puede utilizar un ataque más fuerte. El jugador está acompañado por varios personajes no jugadores, cada uno de los cuales tiene diferentes habilidades que el jugador puede utilizar y que le ayudan a derrotar a los enemigos.</Notes>
+    <Platform>Sony Playstation Vita</Platform>
+    <Publisher>Square Enix</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>2016-02-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.65</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>10</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>107968</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Adventures_of_Mana</WikipediaURL>
+    <Title>Adventures of Mana</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 3D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=NuAW0DYGgKc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>a0ac08b4-dae4-4709-9f9d-e6e4a3dd941c</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>95ee440f-4c48-4fad-921b-0a2536077c4c</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>091bb076-301b-4ea9-81a9-4c3120bb01d1</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>40f76493-4e44-4feb-82bf-e22897a0721b</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>a0ac08b4-dae4-4709-9f9d-e6e4a3dd941c</GameID>
+    <Name>전국무쌍 4 엠파이어</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>e2047e23-e300-4b85-9814-53e78e954452</GameID>
+    <Name>Gravity Daze</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>40f76493-4e44-4feb-82bf-e22897a0721b</GameID>
+    <Name>Mystic Quest</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>40f76493-4e44-4feb-82bf-e22897a0721b</GameID>
+    <Name>Seiken Densetsu: Final Fantasy Gaiden</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>40f76493-4e44-4feb-82bf-e22897a0721b</GameID>
+    <Name>Final Fantasy Adventure Remake</Name>
+    <Region />
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>3200aac2-d91e-4bab-824f-a4d32e4261c6</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>a0ac08b4-dae4-4709-9f9d-e6e4a3dd941c</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>95ee440f-4c48-4fad-921b-0a2536077c4c</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>091bb076-301b-4ea9-81a9-4c3120bb01d1</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>40f76493-4e44-4feb-82bf-e22897a0721b</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

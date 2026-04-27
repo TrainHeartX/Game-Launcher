@@ -1,0 +1,15 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos est├ín actualizados para la restauraci├│n.
+  GameLauncher.Core -> H:\GameLauncher\src\Core\GameLauncher.Core\bin\Release\net8.0\GameLauncher.Core.dll
+  GameLauncher.Data -> H:\GameLauncher\src\Core\GameLauncher.Data\bin\Release\net8.0\GameLauncher.Data.dll
+  GameLauncher.Infrastructure -> H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Release\net8.0\GameLauncher.Infrastructure.dll
+  GameLauncher.UI.Shared -> H:\GameLauncher\src\UI\GameLauncher.UI.Shared\bin\Release\net8.0-windows\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\Views\SourcesView.xaml(164,81): error MC3072: la propiedad 'CharacterCasing' no existe en el espacio de nombres XML 'http://schemas.microsoft.com/winfx/2006/xaml/presentation'. L├¡nea 164, posici├│n 81. [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen.csproj]
+
+ERROR al compilar.
+
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\Views\SourcesView.xaml(164,81): error MC3072: la propiedad 'CharacterCasing' no existe en el espacio de nombres XML 'http://schemas.microsoft.com/winfx/2006/xaml/presentation'. L├¡nea 164, posici├│n 81. [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen.csproj]
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:01.07

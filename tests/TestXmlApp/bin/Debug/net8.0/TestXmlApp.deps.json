@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestXmlApp/1.0.0": {
+        "dependencies": {
+          "GameLauncher.Core": "1.0.0"
+        },
+        "runtime": {
+          "TestXmlApp.dll": {}
+        }
+      },
+      "GameLauncher.Core/1.0.0": {
+        "runtime": {
+          "GameLauncher.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestXmlApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLauncher.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

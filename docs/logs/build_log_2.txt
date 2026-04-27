@@ -1,0 +1,19 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos están actualizados para la restauración.
+  GameLauncher.Core -> H:\GameLauncher\src\Core\GameLauncher.Core\bin\Release\net8.0\GameLauncher.Core.dll
+  GameLauncher.Data -> H:\GameLauncher\src\Core\GameLauncher.Data\bin\Release\net8.0\GameLauncher.Data.dll
+  GameLauncher.Infrastructure -> H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Release\net8.0\GameLauncher.Infrastructure.dll
+  GameLauncher.UI.Shared -> H:\GameLauncher\src\UI\GameLauncher.UI.Shared\bin\Release\net8.0-windows\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\App.xaml.cs(43,50): warning CS8622: La nulabilidad de los tipos de referencia del tipo de parámetro"sender" de "void App.TaskScheduler_UnobservedTaskException(object sender, UnobservedTaskExceptionEventArgs e)" no coincide con el delegado de destino "EventHandler<UnobservedTaskExceptionEventArgs>" (posiblemente debido a los atributos de nulabilidad). [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\Services\BlizzBoyGamesService.cs(109,35): error CS0103: El nombre 'ParseRequirements' no existe en el contexto actual [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\ViewModels\SystemInfoViewModel.cs(234,50): warning CS8600: Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+
+ERROR al compilar.
+
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\App.xaml.cs(43,50): warning CS8622: La nulabilidad de los tipos de referencia del tipo de parámetro"sender" de "void App.TaskScheduler_UnobservedTaskException(object sender, UnobservedTaskExceptionEventArgs e)" no coincide con el delegado de destino "EventHandler<UnobservedTaskExceptionEventArgs>" (posiblemente debido a los atributos de nulabilidad). [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\ViewModels\SystemInfoViewModel.cs(234,50): warning CS8600: Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+H:\GameLauncher\src\UI\GameLauncher.BigScreen\Services\BlizzBoyGamesService.cs(109,35): error CS0103: El nombre 'ParseRequirements' no existe en el contexto actual [H:\GameLauncher\src\UI\GameLauncher.BigScreen\GameLauncher.BigScreen_gkz3kzcy_wpftmp.csproj]
+    2 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:01.82

@@ -1,0 +1,208 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameLauncher.BigScreen/1.0.0": {
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.2",
+          "GameLauncher.Core": "1.0.0",
+          "GameLauncher.Data": "1.0.0",
+          "GameLauncher.Infrastructure": "1.0.0",
+          "GameLauncher.UI.Shared": "1.0.0",
+          "LibVLCSharp.WPF": "3.8.5",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.77",
+          "System.Management": "8.0.0"
+        },
+        "runtime": {
+          "GameLauncher.BigScreen.dll": {}
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.2": {
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.2.1"
+          }
+        }
+      },
+      "LibVLCSharp/3.8.5": {
+        "runtime": {
+          "lib/net6.0/LibVLCSharp.dll": {
+            "assemblyVersion": "3.8.5.0",
+            "fileVersion": "3.8.5.0"
+          }
+        }
+      },
+      "LibVLCSharp.WPF/3.8.5": {
+        "dependencies": {
+          "LibVLCSharp": "3.8.5"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/LibVLCSharp.WPF.dll": {
+            "assemblyVersion": "3.8.5.0",
+            "fileVersion": "3.8.5.0"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.77": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.77.27830"
+          }
+        }
+      },
+      "SharpCompress/0.44.5": {
+        "runtime": {
+          "lib/net8.0/SharpCompress.dll": {
+            "assemblyVersion": "0.44.5.0",
+            "fileVersion": "0.44.5.0"
+          }
+        }
+      },
+      "System.CodeDom/8.0.0": {},
+      "System.Management/8.0.0": {
+        "dependencies": {
+          "System.CodeDom": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Management.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "GameLauncher.Core/1.0.0": {
+        "runtime": {
+          "GameLauncher.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GameLauncher.Data/1.0.0": {
+        "dependencies": {
+          "GameLauncher.Core": "1.0.0"
+        },
+        "runtime": {
+          "GameLauncher.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GameLauncher.Infrastructure/1.0.0": {
+        "dependencies": {
+          "GameLauncher.Core": "1.0.0",
+          "GameLauncher.Data": "1.0.0",
+          "SharpCompress": "0.44.5"
+        },
+        "runtime": {
+          "GameLauncher.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "GameLauncher.UI.Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.77"
+        },
+        "runtime": {
+          "GameLauncher.UI.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameLauncher.BigScreen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunityToolkit.Mvvm/8.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r0g0k9tGYdrnz8R7T3x5UiokDffeevzK/2P/9SBL6fqLgN8B157MIi/bVUWI1KAz6ZorZrK9AdABCWUeXZZsvA==",
+      "path": "communitytoolkit.mvvm/8.2.2",
+      "hashPath": "communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+    },
+    "LibVLCSharp/3.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dO8YNU5La0wtUM7mUs+V5PBXF9bDTZ5jW+YB2u4cdq633Q+tHAX2HyJrUVaDhH2VvdPVFDghbKfH/GdvHdya6g==",
+      "path": "libvlcsharp/3.8.5",
+      "hashPath": "libvlcsharp.3.8.5.nupkg.sha512"
+    },
+    "LibVLCSharp.WPF/3.8.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R+Z+X3IcwgyTUNKL5LtoPSNHH17+sP0KnRbwUY96lWYxk6xq0yBaI0CU4FlF0g7Dn3b4w+RGj0VqkeRZ2+lN4w==",
+      "path": "libvlcsharp.wpf/3.8.5",
+      "hashPath": "libvlcsharp.wpf.3.8.5.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.77": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MCu674ZETgU18EbxfwIlRpUPJ02YbZenLsMCXTkpeA7KUBpXfFaOUDlEO+7UWu5AFnUoydg+aQENJkuaZPheMQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.77",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+    },
+    "SharpCompress/0.44.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-//rgXHGp1vVFK+2A75OKXseZM9Fq8NDkhuV9uf1NxUU4JQj6HDG9VRl51nghasteYF4/ub1Oe/o7Fnwpdj4t1g==",
+      "path": "sharpcompress/0.44.5",
+      "hashPath": "sharpcompress.0.44.5.nupkg.sha512"
+    },
+    "System.CodeDom/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WTlRjL6KWIMr/pAaq3rYqh0TJlzpouaQ/W1eelssHgtlwHAH25jXTkUphTYx9HaIIf7XA6qs/0+YhtLEQRkJ+Q==",
+      "path": "system.codedom/8.0.0",
+      "hashPath": "system.codedom.8.0.0.nupkg.sha512"
+    },
+    "System.Management/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jrK22i5LRzxZCfGb+tGmke2VH7oE0DvcDlJ1HAKYU8cPmD8XnpUT0bYn2Gy98GEhGjtfbR/sxKTVb+dE770pfA==",
+      "path": "system.management/8.0.0",
+      "hashPath": "system.management.8.0.0.nupkg.sha512"
+    },
+    "GameLauncher.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLauncher.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLauncher.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLauncher.UI.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

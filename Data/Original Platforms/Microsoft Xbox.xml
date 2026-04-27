@@ -1,0 +1,1549 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Crimson Skies - High Road to Revenge (USA) (En,Fr,De,Zh,Ko).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-17T07:33:37.106358-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2803612-05:00</DateModified>
+    <Developer>FASA Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>827effee-ecfc-4dd1-a647-7e92ca5c5bc4</ID>
+    <LastPlayedDate>2024-02-28T01:37:03.72-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Three years after the original Crimson Skies, FASA Studio brings the game to the Xbox in an adapted version (not a port). Set in an alternate 1930s world of gunship diplomacy and sinister intrigue, Crimson Skies: High Road to Revenge lets gamers pilot aircraft against nefarious air pirates and behemoth war zeppelins.
+
+You take the role of the daring air pirate Nathan Zachary, leader of the infamous Fortune Hunters. The high-flying adventure's single player campaign is filled with escapes, defense/escort missions and dogfights. You can take on friends over Xbox Live! as well.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2003-10-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2763157</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>38</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>30255</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Crimson_Skies:_High_Road_to_Revenge</WikipediaURL>
+    <Title>Crimson Skies: High Road to Revenge</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>24</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Flight Simulator; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=TGGtjEeE3A4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Phantom Crash (Europe).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T17:30:16.8229737-05:00</DateAdded>
+    <DateModified>2024-03-19T23:04:14.5537272-05:00</DateModified>
+    <Developer>Genki</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fe0bb2a2-87af-4c2b-b1fd-4405e6c3e3db</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In the wake of massive air pollution and economic disaster in Tokyo, Japan has relocated its capital. Old Tokyo has become the battleground for a new breed of public entertainment called Rumbling. Observing from a massive airborne viewing station, spectators watch Scoobees battle to the death. More than just high-speed, heavily armed Mechs, Scoobees have an unprecedented stealth capability, turning invisible at will for brief periods of time. The stakes are high. The enemies are ruthless. The action is intense. Are you ready to rumble.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Phantagram</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-11-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>29033</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Phantom_Crash</WikipediaURL>
+    <Title>Phantom Crash</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=sG6ok9-nJR4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\MechAssault (USA) (En,Fr,De) (Rev 1).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T14:13:38.0163341-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804032-05:00</DateModified>
+    <Developer>Day 1 Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ac609b82-42ad-4fb5-ad83-d180803a2cb8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>MechAssault is the XBox's first Mech game, and is also one of the first games to fully support XBox Live.
+
+As the title suggests, you take control of a variety of BattleMechs, each of varying size and performance. The bigger Mechs lumber about but have increased armor and more weapon capacity, while the smaller Mechs move and jet fast, but can't dish out or take much damage.
+
+Bringing new meaning to the words "mass destruction", practically anything in the game can be blown up. Buildings, cities, cars, and of course, enemies.
+
+MechAssault has a campaign mode that takes you through various levels, or you can play up to seven friends in System Link mode.
+
+MA also supports Xbox Live, and it supports it to its fullest extent. You can utilize your Friends list to see who's online, and it has full voice capabilities. You can also download items in the future, such as additional Mechs and weapons, all handled through the Xbox interface</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-11-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5833333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6090</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/MechAssault</WikipediaURL>
+    <Title>MechAssault</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=M0qzrNi7UiQ&amp;ab_channel=Khalbrae</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Forza Motorsport (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Rev 1).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-17T07:44:14.1617683-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804064-05:00</DateModified>
+    <Developer>Turn 10 Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a3bd87f0-8921-4ad3-aee5-8248823d763f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Racing sim from Microsoft, targeted at gamers who are passionate about cars and racing. Own, customize, and race your favorite cars in the most technologically advanced and realistic driving sim yet. Use race earnings to buy upgrades and aftermarket parts, so you can transform real production cars into high-performance racers. On the track, experience an impressively accurate simulation, while putting your performance-tuned creations to the test against the online gaming world on Xbox Live. Features car models from more than 60 top car manufacturers, customization via decals and team paint-schemes, and vehicle tuning that really affects performance.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2005-05-03T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.919355</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6067</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Forza_Motorsport</WikipediaURL>
+    <Title>Forza Motorsport</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>true</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Kung Fu Chaos (USA, Asia) (En,Fr,De).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-14T14:48:55.213715-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804072-05:00</DateModified>
+    <Developer>Just Add Monsters</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>64e6331d-fd36-4bf9-80f5-32b4b583dd0c</ID>
+    <LastPlayedDate>2024-03-13T14:43:46.483-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Kung Fu Chaos is an entertaining brawler game inspired by the 70s Kung Fu movie era. You fight as one of nine characters--three of which are unlockable--with looks, moves, and taunts based on kung-fu movie icons. Your quest for movie stardom places you on a dynamic movie set, and when the director yells "Action!" you fight against multiple enemies either by yourself or with three friends. Perform over-the-top, Hong-Kong-style combat--including leaps, and flying kicks--and you'll become a star in no time.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2003-02-24T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1666665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>6083</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Kung_Fu_Chaos</WikipediaURL>
+    <Title>Kung Fu Chaos</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Asia) (En,Fr,De).xiso</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America, Asia</Region>
+    <PlayCount>5</PlayCount>
+    <PlayTime>742</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting; Party</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=n90UG7Av3zs&amp;ab_channel=RetroXbox</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Superman - The Man of Steel (USA).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-12-16T22:23:11.5421846-05:00</DateAdded>
+    <DateModified>2024-03-19T23:04:14.5544789-05:00</DateModified>
+    <Developer>Circus Freak Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c5c9127a-4da0-4725-ab36-ef82b61726a1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Two of Superman's biggest rivals, Brainiac 13 and Lex Luthor, have plans for world domination. It's nothing new for the caped hero, but he must use all of his strength to stop both villains from taking over the world.
+
+Based on the comic books stories (and not the movies and animated cartoon series of recent years), you take control of Superman from a 3rd person perspective. You have full control of his many powers, from flying around at the speed of light to using freeze breath, x-ray and heat vision. Time is a factor, so you must complete each task quickly, whether it be fighting off goons to chasing down a crim.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Infogrames</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-11-19T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>153855</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Superman:_The_Man_of_Steel_(2002_video_game)</WikipediaURL>
+    <Title>Superman: The Man of Steel</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=NhxTxGuAJN8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Project Gotham Racing (USA).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T17:38:05.832977-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804127-05:00</DateModified>
+    <Developer>Bizarre Creations</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e148f030-8f09-41c2-ad5a-f0484a22ad1c</ID>
+    <LastPlayedDate>2024-03-13T14:52:44.79-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Project Gotham Racing (PGR) is a racing game, the first in its series, developed by Bizarre Creations and published by Microsoft for the Xbox gaming console.
+
+The first title in the franchise, Project Gotham Racing, is an Xbox launch title that quickly became the second best-selling game for the console after Halo: Combat Evolved. PGR is a spiritual successor to the Sega Dreamcast game Metropolis Street Racer after Sega discontinued the hardware business and became a software based company. PGR is as of July 12, 2010 compatible with the Xbox 360 through a downloadable update.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2001-11-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.65</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>21254</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Project_Gotham_Racing_(video_game)</WikipediaURL>
+    <Title>Project Gotham Racing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>2</PlayCount>
+    <PlayTime>251</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=M5PM0vHOXkg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath />
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-26T03:17:18.3017938-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804216-05:00</DateModified>
+    <Developer>Smilebit</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3b28020b-e531-4357-95cb-bb8e5cfe1e46</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The fourth installment of the Panzer Dragoon series has you playing Orta, a young girl who has been imprisoned by the Empire. Under a wave of attack, the prison camp is broken through by a mysterious dragon, and Orta takes it upon herself to ride the dragon, and destroy the Empire once and for all. Along the way, she will also discover her own destiny, and the mystery surrounding her new friend.
+
+Simply put, you have limited control of the dragon for most of the game, as your trigger finger will be shooting non-stop at the enemies that fly around the area. Orta will be your main source of fire-power when you simply press the fire button, but by pressing and holding, the aim cursor will change, allowing you to fire a burst of power from the dragon at whatever the cursor aims at.
+
+The dragon itself can change into three forms at a press of a button. Each form has a different style of attack and power ability.
+
+A port of the original Panzer Dragoon is included.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-12-19T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>48</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6112</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Panzer_Dragoon_Orta</WikipediaURL>
+    <Title>Panzer Dragoon Orta</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>true</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=qNEUjQ6EYPI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Gun Valkyrie (USA) (En,Ja).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T15:54:30.2787755-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804388-05:00</DateModified>
+    <Developer>Smilebit</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b5cfeb67-d2c2-4e2b-b176-b6b43ea5c701</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Gunvalkyrie is an action game that takes place in an alternate Earth where space travel and other technological wonders were made possible in the 19th century. Traveling to the British Empire's colony world Tir na Nog, you must locate Dr. Hebble who has disappeared under mysterious circumstances. You acquire payment depending on how well you perform during missions. Money can be used to upgrade your character and their weapons.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-03-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>7795</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Gunvalkyrie</WikipediaURL>
+    <Title>GunValkyrie</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/46YJWZfULnU?t=4331</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Tenchu-ReturnfromDarkness(USA,Asia).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T23:59:08.3247758-05:00</DateAdded>
+    <DateModified>2024-03-19T23:44:19.2368079-05:00</DateModified>
+    <Developer>K2 (Japan)</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bf7d15c2-04ee-4ba0-a542-6f80a18ff044</ID>
+    <LastPlayedDate>2024-03-16T01:25:27.98-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The violent rebellion and civil strife that have torn through the heart of 16th century Japan appear to be drawing to a close. But the mysterious Tenrai has begun a quest to conquer the country by amassing an army of ninjas and lords of darkness. Your master, Lord Gohda, has called upon you, a cunning stealth assassin, to stop Tenrai and his disciples before all is lost. Explore 11 incredibly detailed levels, including two new single-player maps and experience online stealth ninja action via Xbox Live, playing with a friend in two-player co-op mode featuring all-new stealth kills or choose from 20 playable characters and go head to head in deathmatch mode.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2004-03-10T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>8060</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Tenchu:_Wrath_of_Heaven</WikipediaURL>
+    <Title>Tenchu: Return From Darkness</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>59</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Stealth</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=XSaDxhyI10I</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Project Gotham Racing 2 (USA, Japan) (En,Ja,Fr,De,Es,It,Zh,Ko).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T17:44:17.8782634-05:00</DateAdded>
+    <DateModified>2024-03-19T23:04:14.5540043-05:00</DateModified>
+    <Developer>Bizarre Creations</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f574e8f1-72da-41a7-8d2d-76ec1402c386</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Two years after the original game, Project Gotham Racing is back. There's no storyline: it's all about becoming the best driver of the world by finishing first in races through famous cities, such as Chicago, Edinburgh, Florence, Barcelona, Washington, Hong Kong and Moscow.
+
+The kudos system, which awards points based on driving style, has been improved. Perform power slides, 360° turns, drive on two wheels or stay in the slipstream of your opponents to build up a stash. With those points, you can unlock new venues and faster race monsters, such as the Ferrari Enzo, Porsche GT2, BMW Z4, Pontiac GTO, Mini Cooper S and many others.
+
+The game can be played both over System Link as Xbox Live. You can race friends online or download ghosts of the fastest drivers all around the world to improve your own skills.
+
+Each city has its own soundtrack, but you can create and store your own playlists as well.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Studios</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2003-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.15</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>10</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6116</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Project_Gotham_Racing_2</WikipediaURL>
+    <Title>Project Gotham Racing 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=pOC8ICHWd4k</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T14:28:11.4685834-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.2804743-05:00</DateModified>
+    <Developer>Day 1 Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8718c3b4-307d-48c4-adb8-ee01d15e272c</ID>
+    <LastPlayedDate>2024-03-11T22:15:33.287-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>MechAssault 2: Lone Wolf continues the destruction, intense combat, and online play introduced by the first MechAssault game. Set in the 31st century, the game lets you encounter new experiences in the expansive BattleTech world. Choose from a variety of weapons and vehicles--from the stealthy Raptor mech to the mech-jacking BattleArmor--all equipped with different weapon configurations and artillery. Embark on the new single-player campaign, or test your teamwork skills in the online multiplayer arena.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Microsoft Game Studios</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2004-12-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6091</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/MechAssault_2:_Lone_Wolf</WikipediaURL>
+    <Title>MechAssault 2: Lone Wolf</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>18</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>true</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Xq9WgrpvVaY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Breakdown (USA).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T17:10:50.867098-05:00</DateAdded>
+    <DateModified>2024-03-19T23:08:53.280479-05:00</DateModified>
+    <Developer>Namco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>88dbac29-33bd-479d-9595-22e6a959f3cb</ID>
+    <LastPlayedDate>2024-03-11T22:13:50.303-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>THE SUBCONSCIOUS IS A STATE IN WHICH REALITY IS JUST A VISITOR
+Armed soldiers wait for you to arise from a coma. All seems over before you've even started. Alas, hope is a waking dream. You're Derrick Cole and you're about to embark on a journey that will test your body, wrench your soul and twist your mind. Breakdown combines the power of an explosive arsenal of weapons with stunning hand-to-hand combat, all within a unique first-person game system. Detailed, immersive 3-D graphics bring to life a world of intrigue that leaves you questioning the very ground you walk on.
+• Compelling military/science fiction storyline will turn players upside down.
+• Unlock new punching and kicking combinations.
+• A revolutionary combination of hand-to-hand combat and weapons-based fighting.
+• Fight a legion of super-human soldiers.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Namco</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2004-03-16T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8461537</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10594</DatabaseID>
+    <WikipediaURL />
+    <Title>Breakdown</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>13FPS,INJUGABLE</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>9</PlayCount>
+    <PlayTime>969</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Tekki Taisen - Steel Battalion - Line of Contact (World) (En,Ja).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T17:00:45.1692152-05:00</DateAdded>
+    <DateModified>2024-03-19T23:04:14.5543066-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b43db1bf-ede1-459d-8fb8-04824c31cd40</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Steel Battalion: Line of Contact (Japanese: 鉄騎大戦 Hepburn: Tekki Taisen?) is a 2004 video game created by Capcom for the Xbox console where the player controls a VT (Vertical Tank). It is the online-only (via the Xbox Live broadband gaming service) sequel to Capcom's Steel Battalion game. The game was developed by Capcom Production Studio 4 and Nude Maker. Gameplay is similar to that of the previous game, and makes use of the same 2 joystick, 3 pedal, 40 button controller.
+
+Within the game, players engage in mechanized combat using Vertical Tanks, the game terminology for very large bipedal combat platforms. Vertical Tanks are fictional vehicles that range in height from 8m - 15m in height, with unknown tonnage. These vehicles are the platform of choice for future combat in the year 2084.
+
+The campaign mode for Steel Battalion: Line of Contact was taken offline on September 30, 2005.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2004-02-27T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>20204</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Steel_Battalion:_Line_of_Contact</WikipediaURL>
+    <Title>Steel Battalion: Line of Contact</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>10</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Microsoft Xbox\Steel Battalion (USA).xiso.iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T16:49:38.1819494-05:00</DateAdded>
+    <DateModified>2024-03-19T23:04:14.5541338-05:00</DateModified>
+    <Developer>Capcom Production Studio 4</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Favorite>false</Favorite>
+    <ID>aeb4566b-0e75-48b6-9d0e-177b90e783d1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Steel Battalion is a 'mech game in which the player takes control of mechanized tanks, known as "VT"s (or Vertical Tanks), using a forty button controller with footpedals.
+
+Not too far in the future, military unrest is rampant throughout the world, and the player has just recently been promoted. As the pilot of a state-of-the-art mech known as a Vertical Tank, the player must take charge of keeping the peace. Players must master the integrated controller to clear their way to victory.
+
+SB comes packaged with a forty button controller, consisting of three separate boards, and a footpedal. On the controller there are buttons that activate commands such as switching radio frequencies, activating the windshield wipers, changing radar scanners, switching weapons, firing weapons, locking abilities, defense mechanisms, and more. The controller has two joysticks, one which moves the 'mech forward and backward, and one that allows the player to move and aim. The footpedal controls speed and braking, independent of the stick, and a third pedal controls slide-strafe.
+
+An interesting feature is that of the eject button. Encased in clear plastic, similar to an "abort" button at a military installation, this command can save the player's life. As the player nears death they must quickly flip the lid and push the button, otherwise they die, and death in the game is forever, as the pilot data is erased from the hard drive/memory unit, forcing players to start over.
+
+To defeat enemy mechs the player is equipped with a variety of high-tech weapons, such as Plasma Torches, Twin Pod Rocket Launchers, and a 270mm Rifle Cannon.
+
+There are a total of fifteen 'mechs to pilot, and ten missions to accomplish.</Notes>
+    <Platform>Microsoft Xbox</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2002-09-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.071429</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6207</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Steel_Battalion</WikipediaURL>
+    <Title>Steel Battalion</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Strategy; Vehicle Simulation</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>b43db1bf-ede1-459d-8fb8-04824c31cd40</GameID>
+    <Name>Tekki Taisen: Steel Battalion: Line of Contact</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>aeb4566b-0e75-48b6-9d0e-177b90e783d1</GameID>
+    <Name>Tekki</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

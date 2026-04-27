@@ -1,0 +1,2414 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Mario's Tennis (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:58:48.2617886-05:00</DateAdded>
+    <DateModified>2024-03-22T21:53:38.5209179-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>aa6de8ae-a2ae-424f-8c7e-5650494639f0</ID>
+    <LastPlayedDate>2024-03-22T08:51:46.9608844-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Smashing tennis action with incredible depth on a realistic 3-D court! Experience the ultimate Virtual Boy sports game in either singles or doubles mode.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.490196</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14744</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario%27s_Tennis</WikipediaURL>
+    <Title>Mario's Tennis</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>70</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=vo5dek4YDBA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>38ecc2c5a745a80d32eb9e8e413358c4</RetroAchievementsHash>
+    <RetroAchievementsId>12861</RetroAchievementsId>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\SD Gundam - Dimension War (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:59:50.1193267-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:19.6807897-05:00</DateModified>
+    <Developer>Locomotive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1011103f-2985-439b-b097-22eef8362b56</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>SD Gundam Dimension War is a Strategy game, developed by Locomotive Corporation and published by Bandai, which was released in Japan in 1995.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-12-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.275</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>20</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19239</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/SD_Gundam#Game_works</WikipediaURL>
+    <Title>SD Gundam Dimension War</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>1cf8c69d8a740d6ef3aab54deced31c4</RetroAchievementsHash>
+    <RetroAchievementsId>12720</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Bound High (Unknown) (Proto).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:57:19.521713-05:00</DateAdded>
+    <DateModified>2024-03-20T07:14:30.8260267-05:00</DateModified>
+    <Developer>Japan System Supply</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b8963888-c88a-41e0-afd5-a647a43f86d6</ID>
+    <ManualPath />
+    <MusicPath>Music\Nintendo Virtual Boy\Bound High.mp3</MusicPath>
+    <Notes>Originally developed by Japan System Supply, Nintendo liked the game idea of Bound High! and took over the project later. The game was, besides Dragon Hopper, going to be one of the games, which should have saved the system with a relaunch, but it was delayed again and again until it was cancelled because of the lack of success of the Virtual Boy. At this time, the game already was completely finished.
+
+In Bound High!, Chalvo, the bouncing robot, travels through space In full 3d-D motion in pursuit of alien invaders that threaten the peaceful inhabitants of Earth. Angling from above, players control rolled up Chalvo, who must destroy all enemies on the playfield by landing on them and throwing them down from the playfield. Falling off the playfield himself, Chalvo will loose a life.
+The playfield is in space, or high above the earth, and is made of many little squares, which are composed differently from level to level, once big plain areas, once many small, scattered blocks. Bouncing over the platforms can be quite incalculable and dangerous, while some are solid, other ones vanish after one hit or reveal puzzles, items or other objects and besides a lot of different enemies, Chalvo also has to carefully avoid winds, the deep crevices, sharp spikes and highly charged electric "shockers" that cause his demise. Adding to the difficulty is the rebound angle when you hit a moving enemy - you don't necessarily bounce straight up in the air.
+Sometimes blocks lead to an "Another Stage", some kind of mirrored parallel universe with inverted colors and without the dangerous winds.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher />
+    <Rating>Not Rated</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.142857</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>20556</DatabaseID>
+    <WikipediaURL />
+    <Title>Bound High</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Unknown) (Proto)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>a460e2660fa951e9d4e3b05aee9f5018</RetroAchievementsHash>
+    <RetroAchievementsId>16580</RetroAchievementsId>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Innsmouth no Yakata (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:58:05.7553574-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:01.912226-05:00</DateModified>
+    <Developer>Betop</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1b4a937a-aa8b-40e5-a1ff-3d48a5ad7a46</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Innsmouth no Yakata is an action game where the player must survive many mazes filled with mutated monsters. When starting a new game or loading a password the player starts with three hearts and six bullets for their revolver, but more health and ammunition can be found randomly in each maze. The goal of each maze is to first find a key and then locate the exit door while avoiding monsters when possible. Finishing a level quickly will put the player on the path of harder mazes as well as the best ending.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>I'Max</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-10-13T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0961537</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19238</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Innsmouth_no_Yakata</WikipediaURL>
+    <Title>Insmouth no Yakata</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=uu4qCCKrVps</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>1eb964d0eaa3223cfefdcc99a6265c88</RetroAchievementsHash>
+    <RetroAchievementsId>13041</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Teleroboxer (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:00:44.37743-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:42.2604456-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c163fe8a-d205-4822-ace3-df64c0784a6f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.
+
+Slug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5416667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>24</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14749</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Teleroboxer</WikipediaURL>
+    <Title>Teleroboxer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=2aF_qinD3UA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>0742a861a599fe3361aac6ebef6745a7</RetroAchievementsHash>
+    <RetroAchievementsId>12721</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Golf (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:57:51.3575339-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:13.7300762-05:00</DateModified>
+    <Developer>T&amp;E Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0356c6c7-282d-4527-8a00-cdc7bda3a6e8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tee off for 18 holes of realistic 3-D links! Virtual Boy Golf elevates the game to an incredible new level!
+
+Determine your strategy as you ponder the conditions. Check your position and the distance to the pin. Select a club and adjust your swing. Consider the wind factor carefully or you could end up out of bounds! Each dimensional fairway provides harrowing hazards to challenge players of all handicaps. Swing into action and go for a hole in one!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-08-11T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14739</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Golf_(1995_video_game)</WikipediaURL>
+    <Title>Golf</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>977c4da800dacfac1a1402781670f872</RetroAchievementsHash>
+    <RetroAchievementsId>14302</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\3-D Tetris (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:57:03.2267809-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6118357-05:00</DateModified>
+    <Developer>T&amp;E Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a6824dca-2c56-443f-926f-c54941619588</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The mesmerizing force of Tetris returns with virtual style! This thrilling animated puzzler takes dexterity and split-second timing to the extreme with dimensional blocks and challenging planes. 3-D Tetris propels players at a demanding pace where quick response and strategy rule. Tetris devotees of all levels will crave this latest sensation of brain-teasing fun!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1996-03-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4759614</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>51</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14736</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/3D_Tetris</WikipediaURL>
+    <Title>3D Tetris</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>ecf1218706e9b547eab9e4be58d54e21</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Virtual Boy Wario Land (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:01:30.0230408-05:00</DateAdded>
+    <DateModified>2024-03-23T00:28:46.6803637-05:00</DateModified>
+    <Developer>Nintendo R&amp;D1</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c56a8109-842b-42a7-b457-079668d346a7</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-11-27T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3767123</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>73</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14734</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtual_Boy_Wario_Land</WikipediaURL>
+    <Title>Virtual Boy Wario Land</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=gYkpbMTt_Xc&amp;ab_channel=RPGsForRaccoons</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>fb4dc9f4ebd506702eb49e99a62bd803</RetroAchievementsHash>
+    <RetroAchievementsId>11703</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Galactic Pinball (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:57:35.0936036-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6114953-05:00</DateModified>
+    <Developer>Intelligent Systems</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>50af113d-6acf-4738-a5f9-e72763a38b14</ID>
+    <LastPlayedDate>2024-03-11T21:49:06.937-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Prepare to enter the vast expanse of the Milky Way. Put your pinball skills to an interstellar test with four incredible space tables.
+
+Blast your pinball at rotating planets and turn them into dust in the Cosmic world. Send your puck flying through galactic formations in the deep-space Colony. Defeat an evil skeleton and hit the ultimate UFO jackpot! Knock down multiple rings and destroy wicked assailants in an Alien place. Defy arduous obstacles and save the world from impending devastation!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5928571</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>35</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14738</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Galactic_Pinball</WikipediaURL>
+    <Title>Galactic Pinball</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, North America</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>13</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pinball</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=UigxJo8EdRA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>85260599fdada2e137053a8647aa0d06</RetroAchievementsHash>
+    <RetroAchievementsId>11702</RetroAchievementsId>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Virtual Lab (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:02:20.2829155-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:21.0335632-05:00</DateModified>
+    <Developer>Nacoty</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2f925190-4734-4de2-9eaf-d08723ac5462</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual Lab is a Miscellaneous game, developed and published by J-Wing, which was released in Japan in 1995.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>J-Wing</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-12-08T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19244</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_Virtual_Boy_games</WikipediaURL>
+    <Title>Virtual Lab</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>1cec316aca8827fdf99c685a1ee49dbc</RetroAchievementsHash>
+    <RetroAchievementsId>17015</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Space Squash (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:00:28.7195345-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:17.4373073-05:00</DateModified>
+    <Developer>Tomcat System</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>788a3f56-a084-4d10-b599-2f406f6dd161</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Space Squash is an Action game, developed by Tomcat System and published by Coconuts Japan, which was released in Japan in 1995.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Coconuts Japan Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-09-29T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3636363</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19179</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_Virtual_Boy_games</WikipediaURL>
+    <Title>Space Squash</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>09c5f3143c25d1d30a3470e571653e48</RetroAchievementsHash>
+    <RetroAchievementsId>17013</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Vertical Force (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:00:59.2762822-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:49.5532933-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>caa7eef2-bc13-469d-a9a9-5419227d0064</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pilot a Futuristic Star Fighter in a Battle for Mankind!
+
+GALACTIC YEAR 210. The earth and its colonies face annihilation in a futuristic war against the human race. YOU have been chosen to pilot RAGNAROK, a star fighter from an advanced alien civilization.
+
+Reinforced by fearless AI CHARACTERS, you must locate and destroy menacing fighters and enemy droids. With sheer VERTICAL FORCE blast your way into another dimension to the final Virtual frontier. This mission for mankind is brutal. Be prepared, for it has only just begun!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-08-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>20</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14750</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Vertical_Force</WikipediaURL>
+    <Title>Vertical Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=j5yFPitMcDA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>87c38f66d5b9ead72af22f515a3a5f51</RetroAchievementsHash>
+    <RetroAchievementsId>11701</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Waterworld (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:03:14.2720035-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:49.9254749-05:00</DateModified>
+    <Developer>Ocean Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1f9373b7-5f1a-437b-a66d-89a780bc1e00</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>THE DEACON AWAITS!
+
+The Deacon will stop at nothing to control the world's most precious resource...
+
+And he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!
+
+Waterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Ocean Software</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-12-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>20</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14752</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Waterworld_(video_game)</WikipediaURL>
+    <Title>Waterworld</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>110a83bc070559c5cc5634a8b5cae274</RetroAchievementsHash>
+    <RetroAchievementsId>13077</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Virtual Fishing (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:01:58.2876575-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:39.8738609-05:00</DateModified>
+    <Developer>Locomotive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c108387c-ad84-41e4-8672-79c32291092a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual Fishing is a Sports game, developed by Locomotive Corporation and published by Pack-In-Video, which was released in Japan in 1995.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Pack-In-Video</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-10-06T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.7727273</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19243</DatabaseID>
+    <WikipediaURL />
+    <Title>Virtual Fishing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>c03e792d8628c3c5729fdcae1620fb9a</RetroAchievementsHash>
+    <RetroAchievementsId>17014</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Jack Bros. (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:58:18.2950746-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:06.2946635-05:00</DateModified>
+    <Developer>Atlus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4abaa916-4b12-4292-adf8-687d5f43cb8e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Atlus</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-09-29T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8472223</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14740</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Jack_Bros.</WikipediaURL>
+    <Title>Jack Bros.</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=YgCkZHCCWEs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>ee873c9969c15e92ca9a0f689c4ce5ea</RetroAchievementsHash>
+    <RetroAchievementsId>11700</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Nester's Funky Bowling (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:59:03.1216385-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:14.5379458-05:00</DateModified>
+    <Developer>Saffire</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3a63ca42-2ba5-4dd8-958c-f76492b33044</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Nester, the one-time bad boy of comic fame, brings you the funkiest game of bowling you'll ever experience in 3-D. Finally fans can throw a strike without putting on ill-fitting shoes!
+
+Hester, the unknown twin sister, makes her debut appearance. Watch out as the action picks up and the tensions build for these hot-headed bowlers. Their egos clash with outlandish gestures and funky expressions.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1996-02-26T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.409091</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>22</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14745</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Nester%27s_Funky_Bowling</WikipediaURL>
+    <Title>Nester's Funky Bowling</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>0285dc41d75be8419d12472f20025305</RetroAchievementsHash>
+    <RetroAchievementsId>12595</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Space Invaders - Virtual Collection (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:00:13.1366432-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:11.4731256-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0c84aa01-abd1-45fd-8f18-5193f158599c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Taito</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-12-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2045455</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>22</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19240</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_Space_Invaders_video_games#Space_Invaders_Virtual_Collection</WikipediaURL>
+    <Title>Space Invaders: Virtual Collection</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>7607f6f918615263512b17e56797c9aa</RetroAchievementsHash>
+    <RetroAchievementsId>12910</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Mario Clash (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:58:31.4028243-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:57.358023-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>75396551-2d05-4064-8f28-85ae9ad87c63</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario finds himself pitted against a host of evil and nasty enemies. You must help him outwit the Spikes, Para-Goombahs, and other beasts and evils that lurk inside a tower that reaches to the clouds. After stunning a Koopa, he uses it as ammo against his enemies! The attack is relentless!
+
+But watch out, there are also creatures made of fire and ice that must be avoided -- hazards at every turn. Even the narrow ledges on which Mario teeters and the pipes he races through must be traversed with caution!
+
+The pace gets hotter at each level, and the action jumps right out at you! Hold on! This 3-D Virtual Boy game offers a white-knuckled adventure that will keep you on the edge of your seat!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-09-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6774194</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14743</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Clash</WikipediaURL>
+    <Title>Mario Clash</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=iLMHN7mnBAg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>b1b3a25ce8fb4f406bf82b8765d307d0</RetroAchievementsHash>
+    <RetroAchievementsId>11171</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Red Alarm (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:59:33.183358-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:00.9378604-05:00</DateModified>
+    <Developer>T&amp;E Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>930f1407-57ca-4115-8d02-418582c78db2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.
+
+Employing an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.34375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>32</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14748</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Red_Alarm</WikipediaURL>
+    <Title>Red Alarm</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>e56e85761f52a613b34079d5322088ce</RetroAchievementsHash>
+    <RetroAchievementsId>13079</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Panic Bomber (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T16:59:17.9544869-05:00</DateAdded>
+    <DateModified>2024-03-20T09:19:59.2830919-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>41eb2385-5f78-437f-85ab-9e1754f2a0f9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Bomberman Blasts the Island of Ever Mist!
+
+Get ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.
+
+Don't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4285715</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14737</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Bomberman:_Panic_Bomber</WikipediaURL>
+    <Title>Panic Bomber</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Ke-i-l-IM3c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>467247d5e3383d066005565bf8218436</RetroAchievementsHash>
+    <RetroAchievementsId>12492</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Virtual League Baseball (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:02:36.3668355-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:41.4624345-05:00</DateModified>
+    <Developer>Kemco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>72cbc439-40d7-4f2b-ade4-1fa3c77e0df3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Kemco</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-08-11T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8888888</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>14751</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtual_League_Baseball</WikipediaURL>
+    <Title>Virtual League Baseball</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>2ba914c8aa16f2f9230b3c5b7e17e67b</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\Virtual Bowling (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:01:15.5212114-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:16.3001462-05:00</DateModified>
+    <Developer>Athena</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c7e0ca40-46a6-4ede-a87b-4d6df96048b1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtual Bowling is a Sports game, developed and published by Athena, which was released in Japan in 1995.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Athena</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-12-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19242</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_Virtual_Boy_games</WikipediaURL>
+    <Title>Virtual Bowling</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>5b11d402f7e322c71a7d4fa6503631fa</RetroAchievementsHash>
+    <RetroAchievementsId>13078</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Virtual Boy\V-Tetris (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2023-06-13T17:02:54.4168679-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:21.9688855-05:00</DateModified>
+    <Developer>Locomotive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a95cd41f-76c9-4cc4-a5af-49efa0fe7f3b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tetris has always had depth, but with the Virtual Boy's stereoscopy, you can now see it.
+
+At its core, this is just another version of Tetris with its own set of graphics, sounds, and other quirks. Rotate blocks, and when you've formed a complete line they disappear. Mode A is the familiar endless mode of play, where you'll keep going until you've let the pile reach too high. Mode B is another common mode, where there are a set number of lines you must clear before victory is declared. Mode C is the most unique in this game. The game field is twice as wide, but you only use half of it at once; the other half is displayed further away in the background. You can scroll left or right at any time, creating new possibilities for creating lines and strategies.</Notes>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <Publisher>Bullet-Proof Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-08-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>19241</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/V-Tetris</WikipediaURL>
+    <Title>V-Tetris</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>262bbae465f851ded3bb7cf46e375224</RetroAchievementsHash>
+    <RetroAchievementsId>12935</RetroAchievementsId>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>b8963888-c88a-41e0-afd5-a647a43f86d6</GameID>
+    <Name>Bound High!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b4a937a-aa8b-40e5-a1ff-3d48a5ad7a46</GameID>
+    <Name>Insane Mouse Mansion</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b4a937a-aa8b-40e5-a1ff-3d48a5ad7a46</GameID>
+    <Name>Insmouth Mansion</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b4a937a-aa8b-40e5-a1ff-3d48a5ad7a46</GameID>
+    <Name>Innsmouth Mansion</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b4a937a-aa8b-40e5-a1ff-3d48a5ad7a46</GameID>
+    <Name>Innsmouth no Yakata</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0356c6c7-282d-4527-8a00-cdc7bda3a6e8</GameID>
+    <Name>T&amp;E Virtual Golf</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>c56a8109-842b-42a7-b457-079668d346a7</GameID>
+    <Name>Virtual Boy Wario Land: Awazon no Hiho</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4abaa916-4b12-4292-adf8-687d5f43cb8e</GameID>
+    <Name>Jack Bros. no Meiro de Hiihoo!</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4abaa916-4b12-4292-adf8-687d5f43cb8e</GameID>
+    <Name>Hee-ho in the maze of Jack Brothers!</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>41eb2385-5f78-437f-85ab-9e1754f2a0f9</GameID>
+    <Name>Tobidase! Panibon</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>72cbc439-40d7-4f2b-ade4-1fa3c77e0df3</GameID>
+    <Name>Virtual Pro Yakyuu '95</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

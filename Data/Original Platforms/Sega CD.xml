@@ -1,0 +1,3949 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Dark Wizard (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:05:55.6163461-05:00</DateAdded>
+    <DateModified>2024-03-20T09:19:35.5796974-05:00</DateModified>
+    <Developer>H.I.C.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>77aad17a-dd11-4c20-a41d-e94efab677f4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>You take on the role of one of four playable main characters and must re-conquer the land that has already fallen into Velonese's hands and find a way to defeat him and prevent Arliman's resurrection. The four main characters feature largely different stories, however, every game begins with the King's death and your character becoming the new ruler of Cheshire.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-11-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7924528</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>53</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4954</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dark_Wizard</WikipediaURL>
+    <Title>Dark Wizard</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Jurassic Park (ES).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:09:54.9180333-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:08.620024-05:00</DateModified>
+    <Developer>Sega Multimedia Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5389c411-b04d-4432-91cb-e66dfedae1e7</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This is the Sega CD game based on the 1993 Steven Spielberg movie based on the book by Michael Crichton. This game differs greatly from other Jurassic Park games. It is a point-and-click adventure game, with a strong emphasis on action sequences which require split-second timing.
+
+The story takes place after the events of the movie/book. You are sent back to Jurassic Park to retrieve dinosaur eggs from around the park and put them in an incubator. You only have 12 hours to retrieve one egg from every species of dino in the park. Unfortunately, shortly before arriving at the park, your helicopter crashes!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-11-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2837837</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5024</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Jurassic_Park_(Sega_CD_video_game)</WikipediaURL>
+    <Title>Jurassic Park</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(ES)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Racing Aces (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:16:01.5380028-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:37.2330434-05:00</DateModified>
+    <Developer>Hammond &amp; Leyland</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e99fbbe2-eff2-40b5-9c41-f1744181ffbd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Racing Aces puts you behind the stick of World War 1, World War 2, and modern day fighting aircraft. Each competition is a dogfight as much as a race, and you will have to gun down your enemies to win. The tracks are littered with power up balloons to give you extra weapons and speed.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.0333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>444</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Racing_Aces</WikipediaURL>
+    <Title>Racing Aces</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Y-BVkZq7Sg8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Yumemi Mystery Mansion (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:28:26.3176018-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6114728-05:00</DateModified>
+    <Developer>System Sacom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1b50948f-a3a7-4efc-97ae-3accf4eb5ab2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mansion of Hidden Souls is an adventure game created entirely with full-motion video. It takes place in a pre-rendered mansion that the player explores from a first-person perspective. As they wander from room to room, the action unfolds via video sequences.
+
+The player takes on the role of Jonathan, a boy whose sister has wandered into the spooky mansion. When she entered the mansion, she disappeared! What's more, the mansion is full of talking butterflies. The player must search the whole mansion to unlock its secrets and find Jonathan's sister.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Vic Tokai</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-12-10T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5060</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mansion_of_Hidden_Souls</WikipediaURL>
+    <Title>Yumemi Mystery Mansion</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Cobra Command (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T15:20:15.8044542-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6114755-05:00</DateModified>
+    <Developer>Data East</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0ceb3cf7-266d-43f2-aef0-2207f008e0cf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cobra Command is an arcade conversion of a helicopter shooting game from Data East. It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.
+
+Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Renovation products</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0166667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4950</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cobra_Command_(1984_video_game)</WikipediaURL>
+    <Title>Cobra Command</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Road Avenger (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:17:27.2379046-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:10.5543873-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>36113541-4372-459e-83bf-4b6be5d3e99b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Players assume the role of an angry cop on a wild ride as he pursues a gang of bikers who killed his wife. Players need to race through oncoming traffic, squeeze between trucks, trash motorcycles and steer through lots of explosions. The only thing needed are quick reflexes to follow the instructions on the screen (with an increasing difficulty) in order to keep the animation going.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-12-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6822033</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>59</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5086</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Road_Blaster</WikipediaURL>
+    <Title>Road Avenger</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Adventures of Batman &amp; Robin, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:01:17.7874552-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6114967-05:00</DateModified>
+    <Developer>Clockwork Tortoise</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>462be578-0ef8-4fca-b10b-6c372f220b52</ID>
+    <LastPlayedDate>2024-03-11T21:46:07.593-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Robin &amp; Commissioner Gordon have mysteriously disappeared, and Batman suspects kidnapping. Have our two comrades succumb to the deadly beauty of Poison Ivy? Does the Riddler know the answer? Or will The Joker have the last laugh? Tune in, one Sega CD to find out!
+• Play like you're in the TV series with exclusive animation from the creators of "The Adventures of Batman &amp; Robin!"
+• Two games in one! Cruise for criminals in the Batmobile or take to the night skies in the Batwing.
+• Incredible scaling 3D graphics make every enemy and obstacle leap off the screen!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-07-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3715584</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>77</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4934</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Adventures_of_Batman_%26_Robin_(video_game)</WikipediaURL>
+    <Title>The Adventures of Batman &amp; Robin</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>5</PlayCount>
+    <PlayTime>257</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>true</Broken>
+    <CloneOf />
+    <Genre>Action; Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Vay (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:28:00.044099-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6115019-05:00</DateModified>
+    <Developer>Hertz</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7ea8095b-fc18-42eb-b7b8-0a328e30ce00</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Vay is the story of Prince Sandor of Lorath, and his quest to avenge the assassination of his parents and rescue his beloved Lady Elin. On what is to be the day of their wedding, Castle Lorath is assaulted by the Danek, who have been able to partially reconstruct alien mecha technology from a millennium ago. The castle defenses are powerless against the giant robots, and the king and queen are killed in the attack. The invaders steal Elin in the midst of her wedding vows. Prince Sandor, now the king of the realm, sets out to rescue his betrothed, and find a way to defeat the fearsome alien technology.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SIMS</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-10-22T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3166666</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>2579</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Vay_(video_game)</WikipediaURL>
+    <Title>Vay</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=s0nx1sUd8Kk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Snatcher (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:22:37.5726547-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:15.2817432-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0403fe12-cade-4cdf-a70d-7edb0395c359</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence. A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1994-11-30T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.4415584</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>154</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5095</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Snatcher_(video_game)</WikipediaURL>
+    <Title>Snatcher</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=u_LqZXAeInQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\SoulStar (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:24:59.9918006-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6115171-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>06ae1921-62b5-410c-98ff-cb4b906b3fd6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Soulstar for the Sega CD/Mega CD is a 3D shoot-'em up that combines several different types of gameplay into one game. Some levels in this game are on a fixed path, similar to Space Harrier or Star Fox. Other levels allow your space craft to hover freely around a 3D environment, and in other levels your craft transforms into a walker robot for close-up attacks.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-12-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6644738</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>38</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5097</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Soulstar</WikipediaURL>
+    <Title>Soulstar</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=Qv-t_cO15p0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Secret of Monkey Island, The (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:19:21.7694554-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:18.0949994-05:00</DateModified>
+    <Developer>Lucasfilm Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>994ef153-b9e7-414d-8762-a8ec818f01bb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Secret of Monkey Island is an adventure game that utilizes the command verb-based SCUMM interface first introduced in Maniac Mansion: the player constructs commands for Guybrush by selecting an appropriate verb and then combining it with an object or an inventory item. Objects that can be interacted with are highlighted when the player places a cursor over them. The game is the first LucasArts adventure in which it is impossible to get irrevocably stuck; like in Loom, the player character also cannot die. The branching dialogue system, where the player chooses between several available responses during conversations, allows the player to talk to characters in different ways without fearing a wrong choice, and is often used as a humorous device.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Victor Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-12-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.111111</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5089</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island</WikipediaURL>
+    <Title>The Secret of Monkey Island</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Adventures of Willy Beamish, The (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:02:04.3531186-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6115196-05:00</DateModified>
+    <Developer>Infinite Laser Dog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3683ba14-05c8-4a5e-9ce4-be9012beb826</ID>
+    <LastPlayedDate>2024-03-11T13:08:21.917-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Willy Beamish is a kid who likes to goof off and have fun. Naturally all the grown-ups get in the way by making him go to school, making him clean his room, etc. But now that's school's out for the summer, Willy is determined to have a good time and maybe even have his pet frog win the frog jumping contest. However Willy has a habit of getting into trouble, and naturally that means it will be a challenge to get out of it.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-12-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1142857</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5117</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Adventures_of_Willy_Beamish</WikipediaURL>
+    <Title>The Adventures of Willy Beamish</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>25</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Time Gal (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T18:15:47.6158394-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:22.8466475-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>cd5aba18-7c25-47d5-9800-0d502eba1fae</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The year is 4001. The evil Luna has stolen a time machine and plans to use it to take over the world. You are the Time Gal, a skillful and pretty scientist, and your mission is to chase Luna through different time periods, to get the time machine back, and to save the world.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Renovation products</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-11-13T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4230769</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5110</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Time_Gal</WikipediaURL>
+    <Title>Time Gal</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=wG5xVxjbgGg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Keio Flying Squadron (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:10:59.4057218-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:09.0286524-05:00</DateModified>
+    <Developer>Victor Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>23134307-73c2-4714-9256-e2c9062c2ca3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Keio Flying Squadron chronicles the adventures of Rami, the little bunny-suited member of the flying squadron tasked with the protection of the "Special Holy Object". Unfortunately as the game starts the object in question gets stolen by the evil Dr. Pon, and so Rami jumps atop her trusty dragon in pursuit of Dr. Pon.
+
+The game plays as a classic 2D shooter with upgradable weapons and option characters, with a distinct cartoonish and family-friendly design. It features seven levels and three difficulty settings.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>JVC Musical Industries</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1993-08-06T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9615386</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>78</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>2578</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Keio_Flying_Squadron</WikipediaURL>
+    <Title>Keio Flying Squadron</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=kuA7F3X0klo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\StarBlade (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:25:29.2544743-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:56.0062625-05:00</DateModified>
+    <Developer>Namco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7fdf349a-4315-4145-9926-c3a05896f4a5</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sitting in the gunner position of a "GeoSword" fightercraft, you must shoot your way through the enemy armada and bring the fight to their base planet, Redeye. Altogether you'll have around 10 missions to get through before the galaxy is safe and your wingmen will help you along the way. And during those missions, you'll be expected to shoot out the sides of huge enemy battlecruisers, travel inside of enemy carriers and travel through the canyons of Redeye to deliver your payload.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Namco</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-01-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>20</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5101</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Starblade</WikipediaURL>
+    <Title>Starblade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=cPNewU5Q3Xo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Earthworm Jim - Special Edition (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:07:34.9530278-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.611593-05:00</DateModified>
+    <Developer>Shiny Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>092ed8c7-5b8d-4042-be4f-dbf863bbeb00</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The storyline involves many colorful characters. Jim (voiced by TenNapel) was at first an ordinary earthworm who did very earthworm-like things such as flee from crows and eat dirt. One day, in the space above Earth, the evil Psy-Crow had cornered a rebel spaceship pilot who had stolen an "Ultra-high-tech-indestructible-super-space-cyber-suit" built by Professor Monkey-for-a-Head. The suit had been commissioned by the evil Queen Pulsating, Bloated, Festering, Sweaty, Pus-filled, Malformed, Slug-for-a-Butt so that she could further conquer the galaxy. In the ensuing space fight, the suit was dropped to Earth, and fell on Jim. By a stroke of luck, Jim managed to land within the collar of the suit, and it ended up mutating him into the large and intelligent (at least by earthworm standards) superhero he is today.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Interplay Productions</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-03-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1907215</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>97</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5006</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Earthworm_Jim</WikipediaURL>
+    <Title>Earthworm Jim: Special Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Rz-GHaQfdto</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Android Assault - The Revenge of Bari-Arm (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:04:18.056766-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:15.4669597-05:00</DateModified>
+    <Developer>Human Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2cb21905-ba36-4250-b2a6-5a2f8184045d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In Android Assault an alien species called the Xias have targeted human beings for extermination. They have assembled a massive fleet that has crushed any opposing ship that has been sent their way and has started to attacking colonies stationed on nearby planets with a collision course to Earth and it is up to the player to stop them.
+
+The gameplay is a side-scrolling shooter, similar to R-Type, where the player takes control of a space fighter that can morph into a cyborg called Bari-Arm and has an arsenal of weaponry to take down enemy ships including the Thundercracker, Burning Wave and the Chase Cannon along with picking up health and power-ups left behind by destroyed enemies.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Human Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-07-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.10443</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>79</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4936</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Android_Assault:_The_Revenge_of_Bari-Arm</WikipediaURL>
+    <Title>Android Assault: The Revenge of Bari-Arm</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Wonder Dog (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T15:21:54.4990993-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:30.4963992-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>55f08605-4d87-4df0-9f08-480aa3256a3c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Wonder Dog is a side-scrolling platform game featuring a dog with super jumping ability and powerful throwing stars. Wonder Dog has these abilities because he is not from Earth, but from Planet K-9. When Wonder Dog was a pup, K-9 scientists sent him to Earth to escape the impending invasion from the Pitbully Armada. Now, armed with the wonder serum, Wonder Dog must fight his way back to liberate K-9.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Victor Musical Industries</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-09-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>30</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5121</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Wonder_Dog_(video_game)</WikipediaURL>
+    <Title>Wonder Dog</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Battlecorps (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:05:08.7306644-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:04.2733001-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6a4ae79e-a187-4971-9c8b-adbf1c8fac72</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Take control in this hi-tech, tactical blastfest that keeps on blasting. Keep those plasma cannons charged, or you'll never make it through the multitude of 3D terrains - On your final showdown with the cyber-psychotic boss on the terrifying 13th mission.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-09-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0344827</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>29</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4940</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Battlecorps</WikipediaURL>
+    <Title>Battlecorps</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Ysd-F-ti1ks</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\After Burner III (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:02:44.5084153-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:01.2169481-05:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ba2e51ce-f3a1-4b49-b914-0debf9c795e0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The game again has the player flying the F-14 Tomcat, with the same weapons as before. Headquarters has informed you that "the enemy" (which the game's introduction does not identify) is reported to be building airfields and bases throughout the desert. Your mission is to take out those bases, and if you get rid of a few enemy planes in the process, "so much the better".</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-12-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.9537036</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>55</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>737</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/After_Burner_III</WikipediaURL>
+    <Title>After Burner III</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Ground Zero Texas (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T18:32:36.2515301-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:03.7208838-05:00</DateModified>
+    <Developer>Digital Pictures</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b5c99d53-51bc-4f31-8d44-e05a392e1e8b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sony Imagesoft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-11-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.26</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>25</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5018</DatabaseID>
+    <WikipediaURL>https://en.m.wikipedia.org/wiki/Ground_Zero:_Texas</WikipediaURL>
+    <Title>Ground Zero Texas</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Thunderhawk (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:27:03.4748634-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:14.6109916-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0517b9fa-da80-4174-83c6-f55b83cc182e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>AH-3 Thunderstrike is a helicopter sim/shooter. You will pilot the AH-3 over 10 operations all over the world. Each operation is composed of several missions, such as destroying tanks, or destroying bridges, or escorting trucks, and so on.
+
+Thunderstrike's graphics consist of scaled sprites arranged to create a 3D environment. It makes use of the Sega CD's scaling and rotation hardware to create this effect with a smooth frame rate.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-09-17T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5795455</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>43</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>4935</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Thunderhawk_(video_game)</WikipediaURL>
+    <Title>Thunderhawk</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Flight Simulator; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/LdnoXPLUy4s</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Terminator, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:26:12.8469677-05:00</DateAdded>
+    <DateModified>2024-03-20T09:19:19.7320664-05:00</DateModified>
+    <Developer>Virgin Interactive Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a194b9c0-ce64-4689-b762-03d5bb4fb3f2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Just like the movie, you assume the role of Kyle Reese, a traveller from the future who returns to modern-day L.A. to protect the life of Sarah Conner - the beautiful woman who holds the key to the survival of the human race. Your mission: Outwit and outmaneuver a brutal killing machine known as the Terminator. He's big, he's bad and he's virtually unstoppable - let's hope you're smarter! Featuring 10 huge main levels pumped up with hardcore weaponry and heavy-hitting adversaries.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Virgin Games</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-06-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9817073</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>82</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5108</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_Terminator_video_games#The_Terminator_(Virgin_video_game)</WikipediaURL>
+    <Title>The Terminator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=VZdY96eEsTU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Dungeon Explorer (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T18:14:41.3190474-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:19.608191-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>65e5468d-fddb-4d7f-be44-f0a411741465</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dungeon Explorer is an action role-playing game. It supports up to four players with a choice of six different character classes: monk, knight, elf, mage, beast and ninja. The game starts in the area surrounding a save point. This area functions as a central hub to access all the six dungeons. If a character leaves it, the food counter starts decreasing. If it reaches zero, the life points start diminishing until the character dies. Food can be found as potions or pots around the mazes. Returning the character to the save point area replenishes all the counters and cures all conditions (like poisoning and confusion). The gold collected in the game can be spent on equipment upgrades at the weapons shop. The tavern allows the player to switch characters.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-05-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3829787</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>47</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>442</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dungeon_Explorer_(1995_video_game)</WikipediaURL>
+    <Title>Dungeon Explorer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=0_2xnR59eUY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Space Adventure, The - Cobra - The Legendary Bandit (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T18:33:30.3726256-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:21.1018033-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5ce63dda-0756-47f7-bcad-6724f99b0ab1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>While waiting in a bar for his partner, Cobra encounters a beautiful bounty hunter named Jane. Very soon he realizes that the bounty Jane has been hunting for is his own head, for which the Galaxy Patrol has put quite a reward. But everything changes when Crystal Boy, the head of the Pirate Guild and Cobra's archenemy, appears on the scene. Jane's father had apparently hidden a great treasure, encoding its location in tattoos on the backs of his triplet daughters. Crystal Boy wants this treasure, and is going after Jane and her sisters. Cobra and Jane decide to join forces in order to find Jane's sisters and to undermine Crystal Boy's plans.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>1995-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.017857</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5099</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Space_Adventure_(video_game)</WikipediaURL>
+    <Title>The Space Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ilffJ5Ur9f0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Silpheed (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:21:17.2900628-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:39.7411483-05:00</DateModified>
+    <Developer>Game Arts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>77ee1d7f-5458-47f3-9612-766072377256</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fight back against Xacalite's terrorist forces and reclaim Earth's mother computer in your SA-77 Silpheed starfighter!  A remake of the 1986 Japanese PC game, Silpheed is a shoot-'em-up that combines polygonal graphics with creative use of the Sega CD's FMV capabilities to provide excellent visuals and gameplay.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Game Arts</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-07-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7923076</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>65</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5093</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Silpheed</WikipediaURL>
+    <Title>Silpheed</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Crjgu2aE1QE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Eternal Champions - Challenge From the Dark Side (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:08:24.7948786-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6117665-05:00</DateModified>
+    <Developer>SEGA Interactive Development Division</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fba26d16-76e6-434f-ae2f-0ee796133171</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>From various time periods of past, present and future, nine fighters killed in an unjust manner find themselves given a second chance for life. An alien being, known only as the Eternal Champion, brings back the fighters into a competition for one reason: to find one among them worthy of being resurrected, giving them a chance to avert their death and tip the balance between good and evil.
+
+The fighters range from different eras of Earth's History: Larcen, the cat burglar. Jetta, the circus acrobat. Blade, the futuristic bounty hunter. Midknight, the vampiric bio-chemist. Rax, the cyborg. Shadow, the corporate assassin. Slash, the neanderthal. Trident, a Atlantean warrior. And Xavier, a warlock and alchemist.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Deep Water</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>1995-02-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8203125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>64</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5010</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Eternal_Champions:_Challenge_from_the_Dark_Side</WikipediaURL>
+    <Title>Eternal Champions: Challenge from the Dark Side</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Robo Aleste (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:18:41.9941804-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:04.665456-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9f650cf3-928f-470b-8e07-35a060379afb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pilot your massive mecha Aleste in the name of the Oda clan and seek revenge against the evil Chugoku Army for their atrocities!  Robo Aleste is another title in the Aleste series by famed shoot-'em-up developer Compile where players must collect power-ups to defeat countless waves of enemies and large bosses.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Tengen</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-11-27T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8246753</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>78</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>445</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Robo_Aleste</WikipediaURL>
+    <Title>Robo Aleste</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=IOa8m2zOtBs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Popful Mail (JP).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:13:37.7197769-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:29.1129473-05:00</DateModified>
+    <Developer>Falcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>941a862d-16dc-42d8-8665-93143cd8d798</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Kazyr, Necros, Ulgar. Ghosts from the past that once nearly destroyed Popful Mail's world. Now, the Black Seal is about to be broken so they can return to wreak havoc on the world once again. Three ragtag adventurers become the only hope of stopping the second coming of Evil. Play as Mail, tomboy bounty-hunter wannabe who's handy with a blade, Tatt, the ultra-polite apprentice magician with a deadly staff or Gaw, a winged blue blob with breath of fire, as you search for the maniacal Muttonhead, who holds all the answers. During your quest, change characters at any time! You'll need to, because Nuts Cracker and the minions of Evil will stop at nothing to end your party before it starts! And, thanks to the storage power of CD, Popful Mail comes alive with over 2.5 hours of spoken dialogue and 20 minutes of heart-pounding animations! Face it, your butt's gonna be glued to the couch until the credits roll!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-04-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1773257</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>86</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>2646</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Popful_Mail</WikipediaURL>
+    <Title>Popful Mail</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(JP)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=9Z_9nrkvoto</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Lords of Thunder (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:12:33.0940805-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:45.5452526-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b9e50efd-dbc6-4ded-bc6a-c8b941c3b2b3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
+
+Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-05-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2061405</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>57</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5052</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Lords_of_Thunder</WikipediaURL>
+    <Title>Lords of Thunder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=lfoBPtAnLQk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Heart of the Alien - Out of This World Parts I and II (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:08:59.7768795-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:48.1156807-05:00</DateModified>
+    <Developer>Delphine Software International</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>52be805c-d0d5-4e55-8cd2-7300611fe479</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Heart of the Alien is the sequel to the game Out of this World, also known as Another World. The story picks up immediately after the end of the first game. You begin as Lester and his alien friend, "Buddy," land their pterodactyl in the ruins of Buddy's village. Lester was knocked unconscious in their escape, so Buddy lays him down on a cot to rest. The people who used to live in Buddy's village remain enslaved, so he decides to go on a mission to free them. Thus, you control Buddy as he sets off to free the people and find a way to send Lester home.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Virgin Interactive Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-06-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8510637</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>47</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5019</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Heart_of_the_Alien</WikipediaURL>
+    <Title>Heart of the Alien: Out of This World Parts I and II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=TvaEoVgawRw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Shining Force CD (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:20:27.203198-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:53.5030987-05:00</DateModified>
+    <Developer>Sonic Co.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>712a7baa-9dbf-430c-9233-8d582b715c8b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This strategy RPG is a remastered compilation of two earlier Shining force titles: Shining Force Gaiden (originally released in Japan only) and Shining Force: The Sword of Hajya, both for the Game Gear.  The two stories put players in the role of Nick, a hero of royal blood who must rescue Queen Anri of Gardiana and reclaim the kingdom of Cypress from the evil empire of Iom's clutches.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-07-22T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3641977</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>81</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5092</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shining_Force_CD</WikipediaURL>
+    <Title>Shining Force CD</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing; Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=r_o3eLlzvbw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Sol-Feace (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T15:54:42.7766783-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6118588-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f95f807e-1336-4fb0-b9c6-3ef345a205f1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sol-Feace (Sol-Deace in the Genesis) is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle.
+
+Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles.
+
+The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-12-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8090909</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>55</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>5096</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sol-Feace</WikipediaURL>
+    <Title>Sol-Feace</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=eIO3okWTEDg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Cyborg 009 (JP).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T15:20:23.2228786-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:15.6430622-05:00</DateModified>
+    <Developer>Telenet Japan</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d61b3d35-b257-4bb3-b0ec-df21f437234e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The storyline of the game takes various bits of the manga and mixes them together. It is a merger of "Assassins", "Mythos", and "The Underground Empire of Yomi".
+The art style of the FMV cutscenes mostly references the character designs as seen from the film Cyborg 009 The Movie: Legend of the Super Galaxy (save for 001 having white hair from the manga), with the voice cast from the film reprising key roles. However, the soundtrack in the game is sourced from the 1960s animated works (particularly Cyborg 009 Monster Wars), except for one track from the 1979 series in the climax.
+The game ultimately ends with the original intended stop point of the manga; 009 and 002 burn up in re-entering the atmosphere, and two children see them as a shooting star, with the older sister wishing for world peace.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Riot</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-07-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4615386</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>34371</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cyborg_009#Other</WikipediaURL>
+    <Title>Cyborg 009</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(JP)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Sonic CD (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:23:40.1542342-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:10.7867273-05:00</DateModified>
+    <Developer>Sega Enterprises</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>184f5beb-8e7d-47f1-be7e-2d668454d61d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sonic travels to the distant shores of Never Lake for the once-a-year appearance of Little Planet - a mysterious world where past, present, and future collide through the power of the Time Stones that lie hidden within it. 
+
+Sonic arrives only to find the once beautiful world imprisoned beneath a twisted metallic shell. His arch-nemesis, Dr. Eggman, has come for the Time Stones and with them, will soon have the power to control time itself!
+
+In order to put an end to Dr. Eggman’s nefarious schemes, Sonic must use the power of Little Planet to travel through time; breaking Dr. Eggman’s hold over the future by destroying his machines in the past and recovering the missing Time Stones!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-09-23T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.246627</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>252</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>129</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sonic_CD</WikipediaURL>
+    <Title>Sonic CD</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=apPGHEZxu6s</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Rise of the Dragon [MK-4301] (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T15:21:07.1343901-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:50.5023266-05:00</DateModified>
+    <Developer>Game Arts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4f9863b3-7190-4c37-a8fa-dee7e71735e2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Rise of the Dragon is a futuristic first-person adventure game. The game's visuals are reminiscent of a comic book, with digitized photos of actors and hand-painted backgrounds. Unlike most other adventure games of the time, it relies less on inventory puzzles and more on specific choices made by the player. The game has an internal clock and requires the player to plan the protagonist's moves ahead in order to be in the right place at the right time. Dialogues with multiple choices are utilized as a gameplay tool; a wrong choice will often lead to a premature end of the adventure.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Dynamix</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-09-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6730769</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5085</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Rise_of_the_Dragon</WikipediaURL>
+    <Title>Rise of the Dragon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>[MK-4301] (US)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Sega CD\Amazing Spider-Man vs. The Kingpin, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-03T14:03:33.9852452-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6119255-05:00</DateModified>
+    <Developer>Sega of America</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b307f5d7-58db-4016-a0fe-47847d5775fa</ID>
+    <LastPlayedDate>2024-03-11T13:19:13.637-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Amazing Spider-Man vs. The Kingpin for the Sega CD takes the idea and basic gameplay from the Genesis version, but makes some significant changes. There are new levels, new bosses, and an expanded set of combat moves. The player now has the freedom to select the next level or boss to tackle from a map screen. Graphics have also been redrawn and expanded from the Genesis release. However, the player can no longer rest and heal at Peter Parker's apartment, or take photographs of enemies for cash; both prominent features of the Genesis version.
+
+Animated cutscenes with voices are new to this version, as well as a new CD soundtrack. The player can also find and collect digital versions of classic Spider-Man comics, making further use of the multimedia storage space. A password system has also been added to save the player's progress.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sega of America</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-06-01T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.617826</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>69</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>5100</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_vs._The_Kingpin</WikipediaURL>
+    <Title>The Amazing Spider-Man vs. The Kingpin</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(EU)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>111</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5_ixKc25ffI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>77aad17a-dd11-4c20-a41d-e94efab677f4</GameID>
+    <Name>Dark Wizard: Yomigaeri Shiyami no Madoushi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>77aad17a-dd11-4c20-a41d-e94efab677f4</GameID>
+    <Name>Dark Wizard: Yomigaerishi Yami no Madoushi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5389c411-b04d-4432-91cb-e66dfedae1e7</GameID>
+    <Name>ジュラシックパーク</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b50948f-a3a7-4efc-97ae-3accf4eb5ab2</GameID>
+    <Name>Yumemi Yakata no Monogatari</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1b50948f-a3a7-4efc-97ae-3accf4eb5ab2</GameID>
+    <Name>Mansion of Hidden Souls</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0ceb3cf7-266d-43f2-aef0-2207f008e0cf</GameID>
+    <Name>Thunder Storm FX</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>36113541-4372-459e-83bf-4b6be5d3e99b</GameID>
+    <Name>Road Blaster FX</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7ea8095b-fc18-42eb-b7b8-0a328e30ce00</GameID>
+    <Name>Vay: Ryuusei no Yoroi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0403fe12-cade-4cdf-a70d-7edb0395c359</GameID>
+    <Name>スナッチャー</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>06ae1921-62b5-410c-98ff-cb4b906b3fd6</GameID>
+    <Name>ソウルスター</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>994ef153-b9e7-414d-8762-a8ec818f01bb</GameID>
+    <Name>The Secret of Monkey Island: Monkey Island Yurei: Kaizoku Oosoudou!</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>994ef153-b9e7-414d-8762-a8ec818f01bb</GameID>
+    <Name>Monkey Island: Yuurei Kaizoku Daisoudou!</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>cd5aba18-7c25-47d5-9800-0d502eba1fae</GameID>
+    <Name>タイムギャル</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>23134307-73c2-4714-9256-e2c9062c2ca3</GameID>
+    <Name>Keiou Yuugekitai</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7fdf349a-4315-4145-9926-c3a05896f4a5</GameID>
+    <Name>スターブレード</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>2cb21905-ba36-4250-b2a6-5a2f8184045d</GameID>
+    <Name>Bari-Arm</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>55f08605-4d87-4df0-9f08-480aa3256a3c</GameID>
+    <Name>ワンダードッグ</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0517b9fa-da80-4174-83c6-f55b83cc182e</GameID>
+    <Name>AH-3 Thunderstrike</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5ce63dda-0756-47f7-bcad-6724f99b0ab1</GameID>
+    <Name>Kobura II: Densetsu no Otoko</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5ce63dda-0756-47f7-bcad-6724f99b0ab1</GameID>
+    <Name>The Space Adventure: Cobra: The Legendary Bandit</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5ce63dda-0756-47f7-bcad-6724f99b0ab1</GameID>
+    <Name>Cobra II: Densetsu no Otoko</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>77ee1d7f-5458-47f3-9612-766072377256</GameID>
+    <Name>シルフィード</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>fba26d16-76e6-434f-ae2f-0ee796133171</GameID>
+    <Name>Eternal Champions CD</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9f650cf3-928f-470b-8e07-35a060379afb</GameID>
+    <Name>Dennin-Aleste: Nobunaga and His Ninja Force</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>941a862d-16dc-42d8-8665-93143cd8d798</GameID>
+    <Name>Popful Mail: Magical Fantasy Adventure</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>b9e50efd-dbc6-4ded-bc6a-c8b941c3b2b3</GameID>
+    <Name>Wings of Thunder</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b9e50efd-dbc6-4ded-bc6a-c8b941c3b2b3</GameID>
+    <Name>Lords of Thunder</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>712a7baa-9dbf-430c-9233-8d582b715c8b</GameID>
+    <Name>Shining Force CD</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>712a7baa-9dbf-430c-9233-8d582b715c8b</GameID>
+    <Name>シャイニングフォースCD</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f95f807e-1336-4fb0-b9c6-3ef345a205f1</GameID>
+    <Name>ソル・フィース</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d61b3d35-b257-4bb3-b0ec-df21f437234e</GameID>
+    <Name>Cyborg 009</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d61b3d35-b257-4bb3-b0ec-df21f437234e</GameID>
+    <Name>サイボーグ００９</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>184f5beb-8e7d-47f1-be7e-2d668454d61d</GameID>
+    <Name>CD Sonic The Hedgehog</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>184f5beb-8e7d-47f1-be7e-2d668454d61d</GameID>
+    <Name>Sonic The Hedgehog CD</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4f9863b3-7190-4c37-a8fa-dee7e71735e2</GameID>
+    <Name>Rise of the Dragon: A Blade Hunter Mystery</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

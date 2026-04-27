@@ -1,0 +1,226 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\Launchbox\Games\Arcade\Roms Dolphin Triforce\Mario Kart Arcade GP (USA).iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-22T06:11:10.6583933-05:00</DateAdded>
+    <DateModified>2026-01-11T00:42:32.8097799-05:00</DateModified>
+    <Developer>Namco</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>513202f6-e11a-4656-b0a3-8d238dbeda17</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2764e6df-076e-421b-a487-6e919f156501</ID>
+    <LastPlayedDate>2026-01-11T00:42:27.954784-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario Kart Arcade GP es una subserie arcade de la serie Mario Kart de Nintendo, desarrollada y publicada por Namco bajo licencia de Nintendo. Mario Kart Arcade GP es la primera entrega de la serie.
+
+Hay un total de seis copas, con cuatro pistas en cada una, lo que hace un total de veinticuatro. Las copas son la Copa Mario, la Copa Wario, la Copa Pac-Man, la Copa DK, la Copa Bowser y la Copa Rainbow desbloqueable. Una vez completada una pista, el jugador debe insertar créditos adicionales para continuar el juego, incluso si se consigue el primer puesto. Después de terminar las cuatro carreras de cada fase, aparece un "juego de desafío", en el que el jugador debe completar una tarea determinada; cada una de ellas requiere que el jugador conduzca hasta una meta en un tiempo determinado y bajo unas condiciones determinadas, como conducir hacia atrás a través de un campo de cáscaras de plátano.
+
+Cuando un jugador golpea una de las cajas de objetos repartidas por los circuitos, recibe uno de los tres objetos seleccionados al inicio de la carrera. Mario Kart Arcade GP incluye objetos nuevos y antiguos. Una característica exclusiva de este juego es el bloqueo de los objetos.
+
+También es exclusivo de este juego el escudo temporal que se produce al derrapar y que protege a los jugadores de los objetos que les lanzan los demás corredores.
+
+El juego cuenta con los ocho personajes jugables de Mario Kart 64, así como los personajes invitados Pac-Man, Ms. Pac-Man y Blinky para un total de once. La mayoría de los efectos de sonido del juego proceden de Mario Kart: Double Dash, incluida la cuenta atrás previa a la carrera.</Notes>
+    <Platform>Sega Triforce</Platform>
+    <Publisher>Namco</Publisher>
+    <Rating>Japones</Rating>
+    <ReleaseDate>2005-10-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>138160</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Kart_Arcade_GP</WikipediaURL>
+    <Title>Mario Kart Arcade GP</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>2</PlayCount>
+    <PlayTime>14</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Carreras</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>F:\Launchbox\Games\Arcade\Roms Dolphin Triforce\Mario Kart Arcade GP 2 (USA).iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-22T06:11:10.658392-05:00</DateAdded>
+    <DateModified>2025-08-26T22:51:03.8772805-05:00</DateModified>
+    <Developer>Namco Bandai Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>513202f6-e11a-4656-b0a3-8d238dbeda17</Emulator>
+    <Favorite>false</Favorite>
+    <ID>15e27dc1-f724-4a1e-a14c-316e747c9fdc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario Kart Arcade GP 2 is the second game in the Arcade series and the eighth overall. It is a follow-up to Mario Kart Arcade GP, and the game before Mario Kart Arcade GP DX. The game has custom karts for characters, similar to Mario Kart: Double Dash!! and Mario Kart DS. It contains virtually all the content of the original, but greatly expands it with the addition of several new courses, items and racers. Like the predecessor, Pac-Man characters appear as playable in this game. The game also introduces Mametchi as a playable character. In-game, it appears to be broadcast live and has color-commentary of the player by a narrator, whose language depends on the region of the game.</Notes>
+    <Platform>Sega Triforce</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating />
+    <ReleaseDate>2007-12-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7209303</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>43</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>138155</DatabaseID>
+    <WikipediaURL />
+    <Title>Mario Kart Arcade GP 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>2764e6df-076e-421b-a487-6e919f156501</GameID>
+    <Name>Idioma</Name>
+    <Value>Japones</Value>
+  </CustomField>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>2764e6df-076e-421b-a487-6e919f156501</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>15e27dc1-f724-4a1e-a14c-316e747c9fdc</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

@@ -1,0 +1,11 @@
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\bin\Release\net8.0\GameLauncher.UI.Shared.deps.json
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\bin\Release\net8.0\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\bin\Release\net8.0\GameLauncher.UI.Shared.pdb
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.AssemblyInfoInputs.cache
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.AssemblyInfo.cs
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.csproj.CoreCompileInputs.cache
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\refint\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\GameLauncher.UI.Shared.pdb
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0\ref\GameLauncher.UI.Shared.dll

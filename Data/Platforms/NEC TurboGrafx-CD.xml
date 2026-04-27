@@ -1,0 +1,304 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\Launchbox\Games\NEC TurboGrafx-CD\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001]\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001].iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-06-30T11:53:07.7018111-05:00</DateAdded>
+    <DateModified>2024-07-20T03:55:33.3639657-05:00</DateModified>
+    <Developer>BEC</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d61a0927-4f77-4f0f-803e-dd448c299757</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fd2ff9e6-03c0-4f5d-b9ec-5b14924d5749</ID>
+    <LastPlayedDate>2024-06-11T16:57:16.0123549-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon Ball Z: Idainaru Son Goku Densetsu (ドラゴンボールZ 偉大なる孫悟空伝説 Doragon Bōru Zetto Idainaru Son Gokū Densetsu? Dragon Ball Z: The Greatest Son Goku Legend) fue lanzado para el PC Engine (la versión japonesa de la TurboGrafx-16) el 11 de noviembre de 1994. Presenta a Gohan contándole a Goten las batallas de su difunto padre, Goku, junto con otros personajes. El juego ilustra las siete batallas más importantes de Goku: Luchar contra Tao Pai Pai, desafiar a Tienshinhan en el Tenkaichi Budokai, destruir al Rey Piccolo, luchar contra Piccolo en el Tenkaichi Budokai, proteger la Tierra de Vegeta, salvar Namek de Frieza y sacrificar su vida para salvar al mundo de Célula Perfecta.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Japones</Rating>
+    <ReleaseDate>1994-11-11T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4285715</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>20227</DatabaseID>
+    <WikipediaURL>https://pt.wikipedia.org/wiki/Dragon_Ball_Z:_Idainaru_Son_Gokou_Densetsu</WikipediaURL>
+    <Title>Dragon Ball Z: Idainaru Son Gokuu Densetsu</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(NTSC-J)_[BNCD4001]</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>21</PlayCount>
+    <PlayTime>1172</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\Launchbox\Games\NEC TurboGrafx-CD\Akumajou Dracula X - Chi No Rondo (English v1.01)\Akumajou Dracula X - Chi No Rondo (English v1.01).bin</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-12T01:39:35.6706405-05:00</DateAdded>
+    <DateModified>2025-08-15T15:39:47.1822233-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>d61a0927-4f77-4f0f-803e-dd448c299757</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f2e66124-28e9-43e8-8283-72bd82453ed3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Castlevania: Rondo of Blood (Akumajou Dracula X: Chi no Rondo) es un juego de plataformas en 2D con desplazamiento lateral y temática de terror gótico. Lanzado en 1993, este juego ofrece la posibilidad de guardar el progreso del jugador, hace avanzar la trama a través de escenas a pantalla completa y utiliza pistas de audio de CD en lugar del HUCard del PC Engine, lo que produce una mayor calidad de audio musical.
+
+Ambientado en el año 1792, el jugador encarna a Richter Belmont, un cazador de vampiros. El oscuro sacerdote Shaft ha secuestrado a Annette Renard, el principal interés amoroso de Richter, y se la ha llevado a Castlevania junto con un puñado de otras víctimas femeninas. Empuñando un látigo ancestral imbuido de poderes sagrados para aplastar la oscuridad, Richter se adentra solo en la noche para rescatar a las víctimas e impartir justicia al estilo Belmont.
+
+El juego se divide en varias fases, algunas ocultas, en las que el objetivo es llegar al final de cada una y (normalmente) enfrentarse a un monstruo jefe. Por el camino puedes recoger corazones de velas para activar una de las 6 subarmas diferentes: la daga, el agua bendita, el hacha, la cruz, el grimorio y el cronómetro. Cada subarma tiene un estilo de uso específico y un ataque especial "Item Crash", que permite realizar un superataque caro pero devastador.
+
+Durante la aventura se pueden encontrar numerosos secretos ocultos, que abren caminos a nuevas fases o conducen a una de las cuatro víctimas que hay que rescatar; una de las cuales se convierte en personaje jugable tras ser liberada. Las víctimas que Richter sea capaz de rescatar afectarán a cuál de los múltiples finales verás. Sin embargo, aunque se pierda una doncella, el jugador puede volver más tarde a cualquier nivel desbloqueado y volver a intentar descubrir cualquier secreto que se haya perdido a través de la selección de escenario del menú principal.
+
+Rondo of Blood tiene unos gráficos magníficos, múltiples finales, muchos secretos por descubrir, un nivel de dificultad decente y una banda sonora de calidad.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1993-10-29T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5881295</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>278</CommunityStarRatingTotalVotes>
+    <Status>Montar CD y luego boot CD</Status>
+    <DatabaseID>16793</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Castlevania:_Rondo_of_Blood</WikipediaURL>
+    <Title>Castlevania: Rondo of Blood</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(NTSC-J)_[KMCD3005]</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>-1</PlayCount>
+    <PlayTime>-255</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=0BPn4hGmYts</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>COULDNTFILEHASH</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>a0d60d72-f35c-4b78-9034-13c9b0e79489</Id>
+    <PlayCount>1</PlayCount>
+    <PlayTime>2</PlayTime>
+    <GameID>fd2ff9e6-03c0-4f5d-b9ec-5b14924d5749</GameID>
+    <ApplicationPath>F:\Launchbox\Games\NEC TurboGrafx-CD\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001]\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001].cue</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine />
+    <Name>CD</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>true</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <LastPlayed>2024-06-11T16:47:01.1537007-05:00</LastPlayed>
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>0ed25b9b-f048-411e-b496-1f024e1ee597</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>f2e66124-28e9-43e8-8283-72bd82453ed3</GameID>
+    <ApplicationPath>F:\Launchbox\Games\NEC TurboGrafx-CD\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001]\Dragon_Ball_Z_-_Idainaru_Son_Gokuu_Densetsu_(NTSC-J)_[BNCD4001].cue</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>true</AutoRunBefore>
+    <CommandLine />
+    <Name>cd</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <CustomField>
+    <GameID>fd2ff9e6-03c0-4f5d-b9ec-5b14924d5749</GameID>
+    <Name>Idioma</Name>
+    <Value>Japones</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f2e66124-28e9-43e8-8283-72bd82453ed3</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>fd2ff9e6-03c0-4f5d-b9ec-5b14924d5749</GameID>
+    <Name>Dragon Ball Z: Idainaru Son Goku Densetsu</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>f2e66124-28e9-43e8-8283-72bd82453ed3</GameID>
+    <Name>Castlevania: Rondo of Blood</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>f2e66124-28e9-43e8-8283-72bd82453ed3</GameID>
+    <Name>Akumajou Dracula X: Chi no Rondo</Name>
+    <Region />
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>fd2ff9e6-03c0-4f5d-b9ec-5b14924d5749</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f2e66124-28e9-43e8-8283-72bd82453ed3</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

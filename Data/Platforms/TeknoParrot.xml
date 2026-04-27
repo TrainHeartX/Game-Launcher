@@ -1,0 +1,342 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\LaunchBox\Games\Arcade\Roms TeknoParrot\Transformers Human Alliance [ROM][ARCADE][TEKNOPARROT]\Transformers Human Alliance [TEKNOPARROT]\exe\TF_Gun_R_Ring.exe</ApplicationPath>
+    <CommandLine>--profile=Transformers.xml</CommandLine>
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-12T15:13:25.1736709-05:00</DateAdded>
+    <DateModified>2024-07-07T05:54:29.1018543-05:00</DateModified>
+    <Developer>Sega of China</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>bde8a209-f0c7-4c17-b90a-e78398b53d9c</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c164dd2e-3bc6-4731-a7a4-a467023b8db6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El juego de acción y aventura de Sega, TRANSFORMERS Human Alliance, pone a los jugadores en la piel de uno de los tres protagonistas de la película, Optimus Prime, Bumblebee o Sideswipe. Los jugadores deben abrirse camino a través de América, África y Europa destruyendo a los Decepticons antes de encontrar la Chispa Suprema, un material capaz de dar vida a cualquier objeto mecánico o electrónico.</Notes>
+    <Platform>TeknoParrot</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>2013-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>173369</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Transformers:_Human_Alliance_(video_game)</WikipediaURL>
+    <Title>Transformers: Human Alliance</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>37210b11919dad9695ef3db4d4129f3f</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\LaunchBox\Games\Arcade\Roms TeknoParrot\Mario Kart Arcade GP DX\Mario Kart Arcade GP DX (Japan) (v1.10.22)\MK_AGP3_FINAL.exe</ApplicationPath>
+    <CommandLine>--profile=MKDX.xml</CommandLine>
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-15T21:39:43.6885218-05:00</DateAdded>
+    <DateModified>2026-01-11T00:58:07.5577327-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>bde8a209-f0c7-4c17-b90a-e78398b53d9c</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f6ee1a78-b930-4ae5-8447-afeca4610ac8</ID>
+    <LastPlayedDate>2026-01-11T00:42:41.2125669-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario Kart Arcade GP DX es un juego de Mario Kart para consolas arcade, desarrollado por Namco Bandai Games en colaboración con Nintendo. Es la décima entrega de la franquicia Mario Kart y el tercer título de la serie Arcade tras Mario Kart Arcade GP 2, que fue la continuación de Mario Kart Arcade GP. El juego salió a la venta en Japón el 25 de julio de 2013 y en Estados Unidos durante 2014, más tarde le siguió Australia en 2017. Al igual que los dos juegos anteriores de Arcade GP, es posible realizar partidas multijugador enlazando hasta cuatro gabinetes.</Notes>
+    <Platform>TeknoParrot</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Japones</Rating>
+    <ReleaseDate>2013-07-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.350254</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>118</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>143629</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Kart_Arcade_GP#Mario_Kart_Arcade_GP_DX</WikipediaURL>
+    <Title>Mario Kart Arcade GP DX</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>926</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Carreras</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>afd53135e8c9373f1c762683e4716b49</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>F:\Launchbox\Games\Arcade\Roms TeknoParrot\Contra Evolution HD\AMContra.exe</ApplicationPath>
+    <CommandLine>--profile=Contra.xml</CommandLine>
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-06-03T12:53:59.7250114-05:00</DateAdded>
+    <DateModified>2024-10-30T00:13:24.6518401-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>bde8a209-f0c7-4c17-b90a-e78398b53d9c</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7c745bbc-ab02-456c-b028-9457d770b65a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Toda la acción del original de 1988 con gráficos y controles del siglo XXI. Bill "Mad Dog" Rizer y Lance "Scorpion" Bean vuelven a la carga luchando contra alienígenas en las selvas de Sudamérica, pero ¿podrás sobrevivir a uno de los juegos más difíciles de la historia? Recoge potenciadores, desbloquea nuevos niveles y personajes, y enfréntate a desafíos en este arcade del pasado. Con gráficos actualizados en alta definición que se mantienen fieles al clásico, ¡prepárate para una experiencia Contra totalmente nueva!</Notes>
+    <Platform>TeknoParrot</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>Japones</Rating>
+    <ReleaseDate>2011-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>101482</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Contra_(series)#Original_games</WikipediaURL>
+    <Title>Contra: Evolution</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CfUBhga9UKA&amp;ab_channel=ArcadeForever</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>11f57fcc97091ff81af70de18f1b5029</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>c164dd2e-3bc6-4731-a7a4-a467023b8db6</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f6ee1a78-b930-4ae5-8447-afeca4610ac8</GameID>
+    <Name>Idioma</Name>
+    <Value>Japones</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>7c745bbc-ab02-456c-b028-9457d770b65a</GameID>
+    <Name>Idioma</Name>
+    <Value>Japones</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>7c745bbc-ab02-456c-b028-9457d770b65a</GameID>
+    <Name>Contra: Evolution Revolution</Name>
+    <Region>Asia</Region>
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>c164dd2e-3bc6-4731-a7a4-a467023b8db6</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f6ee1a78-b930-4ae5-8447-afeca4610ac8</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>7c745bbc-ab02-456c-b028-9457d770b65a</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

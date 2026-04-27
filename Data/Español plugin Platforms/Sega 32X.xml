@@ -1,0 +1,2206 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\36 Great Holes starring Fred Couples.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:33.0372892-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:33.0372892-05:00</DateModified>
+    <Developer>Flashpoint Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e15c8573-e16f-4312-9439-036ac6d4c312</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Elige entre 36 campos de golf digitalizados de Estados Unidos seleccionados po la GOLF MAGAZINE®. Puedes ser el mismo Fred Couples o competir contra él. La technologia de 32X te proporciona: Un contrl de los tiros. Una jugabilidad ultra-realista. Siete formas de jugar incluyendo Torneo, Juego de Skins y Scramble. Miles de combinaciones de campo. Una batería de backup para grabar tus estadísticas.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Golf Magazine presents 36 Great Holes starring Fred Couples</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-02T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Golf</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>cf86f951-f7a2-47da-a8ff-96eb182f0a9a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e15c8573-e16f-4312-9439-036ac6d4c312</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\36 Great Holes starring Fred Couples.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Golf Magazine presents 36 Great Holes starring Fred Couples</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\After Burner Complete.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:23.3416604-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:23.3416604-05:00</DateModified>
+    <Developer>Rutubo Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>17c37455-cd5f-47dc-a0d7-0f333877df8f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Instálate dentro de tu arma letal, el F-14 Tomcat, arranca el dispositivo de poscombustión y enciende los cielos. Tienes misiones de vuelos durante día y noche, volando por encima de tierra y mar, destruyendo los blancos enemigos con tus mortales misiles Sidewinder.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>After Burner</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Acción-Shooter / Avión, 3ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b793d0fe-8e4d-4b71-ac20-b9dc18c73ffb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>17c37455-cd5f-47dc-a0d7-0f333877df8f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\After Burner Complete.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>After Burner</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\BC Racers.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:26.9490670-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:26.9490670-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>295c3f63-c8ec-4f17-9280-302fdd6d62b6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Es prehistórico! El hombre de las cavernas millonario playboy Millstone Rockafella organiza una carrera de bicicleta BC n 'wacky, el ganador de la cual recibe la ULTIMATE BOULDERDASH BIKE. Cool n 'crazy CLIFF ACE ha puesto sus gafas de sol en una bicicleta de montaña desde que estaba a la altura de la rodilla, por lo que se inscribe en la carrera, llevando consigo a su bebé de la cueva, ROXY. El 32X lleva los gráficos al límite con 256 colores para los gráficos del juego y 24 bits completos para la visualización estática. ¡La edad de piedra nunca se vio mejor!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Front Street Publishing</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>BC Racers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-06-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>23faa967-eb43-4a11-9643-3c3eff99fa59</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>295c3f63-c8ec-4f17-9280-302fdd6d62b6</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\BC Racers.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>BC Racers</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Blackthorne.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:35.2692020-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:35.2692020-05:00</DateModified>
+    <Developer>Interplay</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>514d31f8-cad5-4ac6-8944-71d8fa56511c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Blackthorne es un juego de acción y aventura que tiene lugar en el planeta Tuul. Tuul era un lugar pacífico, hasta que el malvado guerrero Sarlac usó el poder de la Piedra Oscura para tomar el control. El padre de Blackthorne, el buen rey Vlaros, lo envió a la Tierra justo cuando su reino se desmoronaba a su alrededor. Ahora, 20 años más tarde, Blackthorne ha crecido y debe volver a Tuul para liberarlo de las garras de Sarlac.
+
+Este juego se juega desde una vista lateral con fondos sin desplazamiento. Tiene fuertes similitudes con Prince of Persia.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Blackthorne</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Acción-Plataforma / Tirador con deslizamiento</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>524fb153-f652-4e21-a5e2-26ed77fedae1</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>514d31f8-cad5-4ac6-8944-71d8fa56511c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Blackthorne.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Blackthorne</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Brutal Unleashed - Above the Claw.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:11.1217078-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:11.1217078-05:00</DateModified>
+    <Developer>GameTek</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>47a6702b-0c28-4b29-8f27-218fa45e2f9d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Al igual que con el original Brutal: Paws of Fury, el juego implica un torneo de artes marciales creado por el Dalai Lama. Una selección de 12 animales antropomórficos están involucrados.
+Cada personaje tiene su propio estilo de lucha, movimientos e historia. A medida que avanzas en el juego, desbloquearás más movimientos para cada personaje. También hay un modo de conquista progresiva que te desafía a tomar el control de toda la Isla Brutal.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>GameTek</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Brutal Unleashed : Above the Claw</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7b5979d8-0bda-42ee-8c4b-27e51c914467</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>47a6702b-0c28-4b29-8f27-218fa45e2f9d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Brutal Unleashed - Above the Claw.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Brutal Unleashed : Above the Claw</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Cosmic Carnage.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:27.9418484-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:27.9418484-05:00</DateModified>
+    <Developer>Givro</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a7cf80af-0747-4893-bf95-a73910d9d224</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cosmic Carnage es un juego de lucha uno contra uno en el espacio exterior. La historia comienza cuando la barcaza de la prisión es secuestrada por su carga en un intento de escape. El caos resultante hace que la barcaza chocara contra un crucero militar. El impacto causó daños extensos a ambos barcos. Había solamente 8 sobrevivientes, 4 de cada nave. Lo peor, sólo hay una vaina de escape. Controlarás a uno de los 8 supervivientes, y tendrás que terminar con todos los demás para escapar con vida.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cosmic Carnage</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-21T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>441f89f8-3583-4457-99a9-e7fcd18e51e4</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a7cf80af-0747-4893-bf95-a73910d9d224</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Cosmic Carnage.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cosmic Carnage</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Darxide.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:34.2663878-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:34.2663878-05:00</DateModified>
+    <Developer>Frontier Developments</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>89117c9e-23ff-4572-b32d-47db5a9721ff</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Uno de los últimos juegos de 32X (exclusivo en Europa), DarXide es un shooter espacial tridimensional, inspirado en parte por el juego arcade Asteroids. Es uno de los pocos juegos de 32X que utilizan polígonos con formato de textura. Los jugadores controlan una solitaria nave espacial que se apresura a destruir a los asteroides y aliens antes de aniquilar a los mineros y colonias humanas. Los asteroides se dividen en rocas más pequeñas, que también pueden ser perseguidas y destruidas.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Darxide</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lightgun Shooter-Lucha-Acción-Shoot'em Up-Shooter / Vehículo, 3ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>60306d96-8a41-43d6-926c-d7ad52b20207</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>89117c9e-23ff-4572-b32d-47db5a9721ff</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Darxide.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Darxide</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Doom.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:26.3066148-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:26.3066148-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2e25018b-8a4c-4ad5-a65c-ad7bd9e22579</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡El Infierno se ha vuelto loco! Monstruos de otra dimensión utilizan sus talentos espantosos para convertir su estación espacial en un matadero de sangre. Doom es un juego de acción en primera persona inspirado en el título lanzado en 1993 en PC. Disponemos de 8 armas para sobrevivir a los ataques en las complejidades de los laberintos, todos los ingredientes están en su lugar para lanzar el ataque a las criaturas malignas.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Doom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-21T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Shooter-Shooter / 1ª persona</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>730b0366-c07c-44a0-99c2-5e22c8927442</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2e25018b-8a4c-4ad5-a65c-ad7bd9e22579</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Doom.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Doom</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Ecco the Dolphin - CinePak Demo.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:22.2024712-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:22.2024712-05:00</DateModified>
+    <Developer>Novotrade</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>00e54c18-5103-491d-a268-7e86c451359b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This is an unfinished and unreleased Ecco the Dolphin game for the Sega 32X. It only consists of a title screen. The name "CinePak Demo" derives from the fact that the title screen uses a video in the CinePak format.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>ZZZ(notgame):Ecco The Dolphin Cinepak Demo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-06-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción / Aventura-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>38eb5f5b-23eb-463b-93d6-150db23859c5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>00e54c18-5103-491d-a268-7e86c451359b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Ecco the Dolphin - CinePak Demo.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>ZZZ(notgame):Ecco The Dolphin Cinepak Demo</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\FIFA International Soccer 1996.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:06.1813648-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:06.1813648-05:00</DateModified>
+    <Developer>Extended Play Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>efe67b08-be29-4447-89a2-8894930bd2b2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>FIFA 96 es la tercera entrega de la serie FIFA. Fue la primera vez en la serie donde se nos ofrecían gráficos 3D en tiempo real, utilizando la tecnología "Estadio Virtual". También es el primero de la serie con nombres de jugadores reales y posiciones, herramientas de clasificación, de transferencia y de personalización del equipo.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Electronic Arts</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>FIFA Soccer '96</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-11-30T00:00:00.0000000</ReleaseDate>
+    <Region>eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Fútbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ae279fa3-f55b-4421-ad0d-4afb9c70cff2</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>efe67b08-be29-4447-89a2-8894930bd2b2</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\FIFA International Soccer 1996.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>FIFA Soccer '96</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Knuckles' Chaotix.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:28.9165429-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:28.9165429-05:00</DateModified>
+    <Developer>Sonic Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>3cb49609-448e-462f-9af5-eba450070cc2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Knuckles Chaotix es un spin-off de la serie Sonic the Hedgehog. El personaje protagonista de este título es Knuckles. La jugabilidad es similar a los videojuegos de Sonic de 16 bits pero con la gran diferencia que en este título se escogen a dos personajes: uno principal que será controlado directamente por el jugador, y un ayudante. Ambos personajes agarran en su mano un anillo. Los dos anillos están unidos entre sí por un campo de fuerza atrayente, que será determinante en la jugabilidad. Los nuevos personajes que aparecen son Vector el Cocodrilo, Mighty el Armadillo, Espio el Camaleón y Charmy Bee. También hay dos personajes cuyo único propósito es frenarte, Heavy the Robot y Bomb. También Chaotix añade varios nuevos power-ups y niveles de bonificación en 3D.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Knuckles' Chaotix</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-03-20T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c06f64e0-151c-40a1-9b69-63082f8e3f05</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>3cb49609-448e-462f-9af5-eba450070cc2</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Knuckles' Chaotix.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Knuckles' Chaotix</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Kolibri.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:19.6928970-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:19.6928970-05:00</DateModified>
+    <Developer>Novotrade</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9a2ba795-5ab2-4326-9654-e819a0df1f75</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En lo más profundo del corazón de la tierra, hay un cristal de otro mundo. Este cristal es la fuerza vital de la tierra, y es esencial para su supervivencia. Un día, un cristal oscuro cae del cielo y daña el cristal de la tierra. Desesperado, los cohetes de cristal de la tierra a la superficie y le da poder a Kolibri con las habilidades que necesita para derrotar el cristal oscuro. Este juego cuenta con 19 niveles establecidos en una variedad de configuraciones naturales detalladas. Su meta en algunos niveles es destruir bichos enemigos, en otros su objetivo es simplemente sobrevivir.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Kolibri</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Acción-Shoot'em Up / Horizontal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c9a34422-5c19-474e-993e-9bfc0568d414</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9a2ba795-5ab2-4326-9654-e819a0df1f75</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Kolibri.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Kolibri</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Metal Head.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:18.3382006-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:18.3382006-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b50d405a-5751-4c78-9436-9ceb3ad08d73</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Han pasado 5 años desde la formación de la Federación Mundial. Aunque la guerra ha sido evitada, las células terroristas en todo el mundo amenazan la estabilidad de la federación. Para combatir a esta amenaza, la Federación ha creado un tanque blindado de dos pedales conocido como el "Metal Head". Usted es piloto de un "Metal Head", y usted tiene que usar todas las armas a su disposición para derrotar a los terroristas.&#xD;
+&#xD;
+"Metal Head" es un poco diferente a los habituales juegos de combate de robots gigantes. Las áreas de misión del juego se parecen más a un shooter en primera persona que a una simulación. Los gráficos se representan en polígonos con mapeado de textura, lo que es inusual para un juego de 32X.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Metal Head</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-02-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>baa64f20-515f-4e18-ba3e-a1f95d2e7a62</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b50d405a-5751-4c78-9436-9ceb3ad08d73</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Metal Head.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Metal Head</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Mortal Kombat 2.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:24.7348692-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:24.7348692-05:00</DateModified>
+    <Developer>Probe Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>dd33e3d2-4890-45af-a60e-dce7c231679d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Los luchadores de Mortal Kombat, regresan junto a caras nuevas a un torneo organizado por el malvado Shang Tsung. La acción es uno-a-uno como antes, famoso por su alto nivel de violencia y sangre. Incluye 5 niveles de dificultad y créditos opcionales, así como el modo habitual de dos jugadores incluyendo duelos con los mismos personajes.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Mortal Kombat II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>8f9ae286-ba23-484a-a4a6-25c76d41e91c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>dd33e3d2-4890-45af-a60e-dce7c231679d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Mortal Kombat 2.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Mortal Kombat II</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Motocross Championship.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:24.1806828-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:24.1806828-05:00</DateModified>
+    <Developer>Artech Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5441c7af-e981-426f-84d3-e7ebdf2ab703</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Motocross Championships es el único juego de carreras de motos de cross para 32X. La acción se lleva a cabo desde una perspectiva detrás de la moto, y hace uso de la escala de bits de 32X para presentar un efecto gráfico en 3D. El modo de juego principal es un campeonato basado en puntos. Puedes competir en una de las 3 clases sobre 12 pistas interiores y exteriores. También hay modo de pantalla dividida para 2 jugadores con quien compartir diversión fuera de la carretera.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Motocross Championship</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción-Deportes-Carreras de moto, 3ª persona</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bc59aae1-ebd4-4e68-a200-ea47f87c7385</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5441c7af-e981-426f-84d3-e7ebdf2ab703</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Motocross Championship.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Motocross Championship</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\NBA Jam - Tournament Edition.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:06.9796428-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:06.9796428-05:00</DateModified>
+    <Developer>Iguana Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>3f70c4b0-79d1-4d54-abdf-51c19a16f06a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Juego arcade de baloncesto con jugadores de todos los equipos de la NBA en partidos de dos contra dos. El juego es rápido y está lleno de acción, nada realista, con pocas reglas (No hay faltas, y se puede obstruir deliberadamente). Los jugadores se clasifican en ocho categorías de habilidades, robos, tapones, mates tiros de 3 ... Pueden jugar hasta cuatro jugadores, controlando cada uno un solo jugador.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>NBA Jam : Tournament Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp, eu, fr</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Baloncesto</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>0d535cd6-81c2-4b74-8c40-4304d8654875</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>3f70c4b0-79d1-4d54-abdf-51c19a16f06a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\NBA Jam - Tournament Edition.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>NBA Jam : Tournament Edition</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\NFL Quarterback Club.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:29.4781557-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:29.4781557-05:00</DateModified>
+    <Developer>Iguana Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c2c4ff99-764e-43dd-a678-48e1a02e517f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Uno de los primeros en la serie NFL Quarterback, esta versión cuenta con los modos de juego estándar Exhibición, Temporada, Playoffs, etc y con una licencia completa de la NFL con los jugadores y sus respectivos nombres de equipos y logotipos. Una característica que está presente en este juego es el Quarterback Skills Challenge donde el jugador puede elegir entre 13 quarterbacks diferentes como John Elway, Steve Young, Dan Marino y muchos otros. Cuenta con una opción para dos jugadores donde los amigos podrán competir cara a cara.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>NFL Quarterback Club</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp, eu, fr</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Simulación-Deportes / Fútbol americano</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>4b3090ef-8f1e-4b6d-8dbe-0abedc726d6e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c2c4ff99-764e-43dd-a678-48e1a02e517f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\NFL Quarterback Club.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>NFL Quarterback Club</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Pitfall - the Mayan Adventure.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:32.3198804-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:32.3198804-05:00</DateModified>
+    <Developer>Big Bang Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>13ebbb5f-ad4f-491e-a963-aabc80335918</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pitfall la aventura Maya es un juego de acción lateral en el que controlaremos al aventurero Harry Jr. en busca de su padre Pitfall Harry. El camino en los 13 niveles a través de las selvas mayas, cascadas y minas desiertas será duro pero emocionante. Tendrás que estar atento y rápido, o prepárate para morir.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pitfall : The Mayan Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-09-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Plataforma / Corre y Salta</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>11386db2-8fdc-439e-80f1-ed5138cb27ee</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>13ebbb5f-ad4f-491e-a963-aabc80335918</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Pitfall - the Mayan Adventure.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pitfall : The Mayan Adventure</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Primal Rage.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:15.3000555-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:15.3000555-05:00</DateModified>
+    <Developer>Time Warner Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7d86cdec-bbbc-414a-b3c8-c8c0fb552136</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Primal Rage es un juego de lucha uno contra uno con dinosaurios y monos gigantes. Los gráficos se realizan con una animación de stop-motion digitalizada. La jugabilidad, similar a Mortal Kombat con una perspectiva lateral, y presenta movimientos finales mortales al final de cada partida.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Primal Rage</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-11-14T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>0873221a-474b-4545-b14e-390345df6310</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7d86cdec-bbbc-414a-b3c8-c8c0fb552136</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Primal Rage.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Primal Rage</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\RBI Baseball 1995.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:12.7739228-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:12.7739228-05:00</DateModified>
+    <Developer>Atari</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>69ebfa50-530d-4194-8047-96a4bb9639bc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Esta versión es una actualización de la serie R.B.I. Muchas de las características de otros juegos de béisbol están presentes, tiene tres modos de juego diferentes para elegir: exhibición, playoff, y home run derby, pero lo que hace que esta versión sea diferente es la ausencia de la licencia MLB, aunque sí cuenta con una licencia MLBPA con los mejores jugadores de la época como Roger Clemens, Otis Nixon, Bobby Larkin entre muchos otros.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Time Warner Interactive</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>RBI Baseball '95</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación-Deportes-Deportes / Béisbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>97044613-538e-49b3-bf73-02e66afcb8a0</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>69ebfa50-530d-4194-8047-96a4bb9639bc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\RBI Baseball 1995.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>RBI Baseball '95</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Romance of the Three Kingdoms 4.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:09.6114957-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:09.6114957-05:00</DateModified>
+    <Developer>Koei</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b91ef8ac-95dc-499c-bdd3-261f0a0afe34</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Romance of the Three Kingdoms IV: Wall of Fire (lanzado como Sangokushi IV en Japón) es el cuarto de la serie del romance de los Tres Reinos de los juegos de estrategia por turnos producidos por Koei y basado en la novela histórica Romance de los Tres Reinos. Fue el último juego de la serie que se estrenará en PC en los Estados Unidos hasta el Romance of the Three Kingdoms XI.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Koei</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sangokushi IV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-07-07T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol-Estrategia-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>aa4a0411-056a-42cb-9e1a-89316df9298c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b91ef8ac-95dc-499c-bdd3-261f0a0afe34</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Romance of the Three Kingdoms 4.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sangokushi IV</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Sangokushi 4 (J).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:34.7683047-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:34.7683047-05:00</DateModified>
+    <Developer>Koei</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5c959513-6b37-4d0f-8b3c-cfed2d81e5fc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Romance of the Three Kingdoms IV: Wall of Fire (lanzado como Sangokushi IV en Japón) es el cuarto de la serie del romance de los Tres Reinos de los juegos de estrategia por turnos producidos por Koei y basado en la novela histórica Romance de los Tres Reinos. Fue el último juego de la serie que se estrenará en PC en los Estados Unidos hasta el Romance of the Three Kingdoms XI.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Koei</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>1.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sangokushi IV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-07-07T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol-Estrategia-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>22d75e0d-aa40-41a7-9153-9833882ad792</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5c959513-6b37-4d0f-8b3c-cfed2d81e5fc</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Sangokushi 4 (J).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sangokushi IV</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Shadow Squadron.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:08.0183225-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:08.0183225-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bed9e817-67ba-4122-ab4f-1330efc3c689</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shadow Squadron es un shooter de combate espacial en 3D. El jugador controla un luchador espacial en una serie de batallas contra enormes naves enemigas. Hay 2 tipos diferentes de naves, y 6 misiones diferentes. En la mayoría de las misiones, el jugador tiene que destruir varios lugares en una gran nave. Hay dos maneras de jugar al juego. Controlar directamente la nave y maniobrarla alrededor de los entornos de polígonos 3D o dejar a la maquina controlar el vuelo mientras nosotros disparamos desde una torreta.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Shadow Squadron</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e2e3aeee-ec07-4c0c-91b8-c07a0647be67</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bed9e817-67ba-4122-ab4f-1330efc3c689</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Shadow Squadron.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Shadow Squadron</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Space Harrier.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:08.8001821-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:08.8001821-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>19a46e27-48fe-44a8-8a47-9e9a3f0c87ec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Space Harrier en Megadrive 32X es un juego de acción. El personaje al que manejamos en tercera persona puede correr o volar, y debe evitar los obstáculos y el fuego enemigo. Tu habilidad te permitirá llegar al final de cada uno de los 18 niveles, en donde no espera el enfrentamiento con un jefe.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Space Harrier</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / 3ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7443b076-40ff-412f-a0e8-216ddc274d47</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>19a46e27-48fe-44a8-8a47-9e9a3f0c87ec</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Space Harrier.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Space Harrier</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Spider-Man - Web of Fire.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:20.8078626-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:20.8078626-05:00</DateModified>
+    <Developer>BlueSky Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>08ac0e23-c022-48a9-bcfd-4301f84ccd26</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Una red eléctrica de plasma ha dejado Nueva York en un estado de caos, y sólo Spider-Man y Daredevil pueden salvar a la ciudad de la destrucción total. Conduce a Spidey a través de los diferentes niveles, llenos de una gama de enemigos y puzzles y toma HYDRA, la fuente del mal.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Amazing Spider-Man : Web of Fire</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1996-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Plataforma / Combate con desplazamiento-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>694819f4-07ba-453e-aedb-174a14ce636e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>08ac0e23-c022-48a9-bcfd-4301f84ccd26</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Spider-Man - Web of Fire.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Amazing Spider-Man : Web of Fire</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Star Trek - Starfleet Academy Bridge Simulator.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:12.2268524-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:12.2268524-05:00</DateModified>
+    <Developer>High Voltage</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>593c6cf6-0197-44ec-bcfa-e7af8aa0d015</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dos años antes del conocido juego de ordenador llegó este título, en el que el objetivo es completar con éxito el entrenamiento de combate de la Flota Estelar. Lucharás con Klingons, repararás y encontrarás situaciones peligrosas, pero intenta permanecer dentro de las directivas de Starfleet. El juego se ve desde nuestra perspectiva (hay 5 diferentes en total), con polígonos utilizados para mostrar la acción. Hay misiones rápidas que traen escenas de las películas de Star Trek a la vida.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Star Trek, Starfleet Academy : Starship Bridge Simulator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lightgun Shooter-Simulación-Simulación / Ciencia Ficción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>91d08dc6-8e14-4742-b7b5-8a116cd987cd</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>593c6cf6-0197-44ec-bcfa-e7af8aa0d015</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Star Trek - Starfleet Academy Bridge Simulator.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Star Trek, Starfleet Academy : Starship Bridge Simulator</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Star Wars Arcade.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:30.3959689-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:30.3959689-05:00</DateModified>
+    <Developer>LucasArts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>1ded0191-48b5-455b-8689-55c3a8ef9fda</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Star Wars Arcade es un juego 3D de disparos ambientado en los episodios 4, 5 y 6 de la guerra de las galaxias. Tomaremos el control de un X-Wing o un Y-Wing, y nos pondremos en medio del combate espacial. En algunos niveles, debemos derribar un número específico de enemigos antes de que acabe el tiempo. En otros niveles, el objetivo es simplemente llegar hasta el final sin ser aniquilado. Las misiones tienen lugar en el espacio, alrededor de asteroides, o cerca de Destructores Estelares. Otras tienen lugar en la superficie de la Estrella de la Muerte y recrean la famosa trinchera de Luke Skywalker.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Star Wars Arcade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-21T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Shooter / Avión, 1ª persona-Shooter-Shooter / Vehículo 1ª persona</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>8ee4330e-00a2-4b1c-a229-e6921bcdeeed</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>1ded0191-48b5-455b-8689-55c3a8ef9fda</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Star Wars Arcade.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Star Wars Arcade</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Tempo.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:35.8229027-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:35.8229027-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6725ecc8-409d-4c91-bd0a-a11e44d89008</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tempo es un saltamontes que vive en el planeta Rythmia, el mundo de la música. Desafortunadamente, el maligno Rey Dirge está tratando de robar todo el ritmo del planeta. No está claro cómo una criatura sin aprecio por la música se convirtió en rey, pero ahora le toca a Tempo detenerlo! El juego es un plataformas de desplazamiento lateral con 7 niveles para un solo jugador, aunque puedes recolectar poderes de "danza" que te permitiran llamar a tu amigo, una mariposa, para ayudarte a derrotar a tus enemigos usando movimientos de baile asesinos.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Tempo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e4b290eb-097f-42ea-9d4b-bc3263eb5f47</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6725ecc8-409d-4c91-bd0a-a11e44d89008</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Tempo.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Tempo</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\T-MEK.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:31.5732955-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:31.5732955-05:00</DateModified>
+    <Developer>Time Warner Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>352b10ec-25eb-469b-9e4a-9d9273ba4af4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>T-Mek es esencialmente un Battlezone actualizado. Eres un guerrero que lucha en la competición de T-Mek, un acontecimiento enormemente popular en el futuro. A los mandos de un aerodeslizador trataremos de volar a todos los demás. La acción se muestra desde nuestra perspectiva. Las superficies del terreno y las características varían en cada batalla. En la mayoría de los niveles se necesita una cierta puntuación para alcanzar el progreso.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>T-Mek</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Shooter / Vehículo 1ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>6d669c15-847a-418b-beea-946929d94896</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>352b10ec-25eb-469b-9e4a-9d9273ba4af4</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\T-MEK.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>T-Mek</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Tough-Man Contest.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:16.7027732-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:16.7027732-05:00</DateModified>
+    <Developer>Visual Concepts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>040d9f42-5912-41f8-90b3-f65972d99e00</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Toughman Contest es un juego basado en la mundialmente famosa competición de boxeo que lleva el mismo nombre. Podremos elegir uno de los 24 luchadores y competir en una de 5 ubicaciones de todo el mundo. La acción está situada detrás del luchador que controlas. Tu luchador se representa como un contorno, para que puedas ver lo que tu oponente está haciendo y reaccionar en consecuencia. Los combates de Toughman constan de tres rondas de un minuto. Tu objetivo es hacer un K.O. a tu oponente, intentando que su medidor de resistencia disminuya hasta el punto en el que se caiga, o golpearlo lo suficiente para que al final de la tercera ronda seas el ganador.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Electronic Arts</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Toughman Contest</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-06-06T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Deportes-Deportes / Boxeo</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>507ab05c-ac4a-4f94-a5fa-ef29df3373f7</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>040d9f42-5912-41f8-90b3-f65972d99e00</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Tough-Man Contest.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Toughman Contest</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Virtua Fighter.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:33.8381202-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:33.8381202-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b64afb76-1642-468c-9a4f-cc68a3b4754e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter fue el primero de su clase: un juego de lucha uno contra uno con entornos y personajes totalmente 3D. Los combatientes y arenas se representan en polígonos de sombras planas. A diferencia de muchos juegos de lucha, Virtua Fighter se enfoca en una jugabilidad profunda basada en estilos de pelea reales, en lugar de movimientos especiales extravagantes y argumentos.&#xD;
+&#xD;
+Hay 8 combatientes para elegir en Virtua Fighter, y un número igual de escenarios de lucha para competir. Cada luchador tiene un estilo de lucha distintivo, y su propio conjunto de movimientos caracteristicos.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtua Fighter</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-10-20T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Lucha / 3D</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a9736dbf-4b9e-46ad-9a94-75958815f0dc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b64afb76-1642-468c-9a4f-cc68a3b4754e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Virtua Fighter.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtua Fighter</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Virtua Racing Deluxe.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:30.8496847-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:30.8496847-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a7996a35-a4fd-40bb-869e-c019b06ec1d7</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Racing Deluxe es una conversión mejorada del arcada de carreras 3D de Sega. Los jugadores compiten en una carrera de 5 vueltas con puntos de control cronometrados. También es posible jugar con 2 jugadores en modo de pantalla dividida. La versión 32X de Virtua Racing añade un par de nuevas características. Ahora hay 3 diferentes tipos de coches para conducir. Además, hay dos pistas totalmente nuevas.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Virtua Racing Deluxe</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-21T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>445e9d2c-202b-4f3b-a3b0-10285addb4b5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a7996a35-a4fd-40bb-869e-c019b06ec1d7</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Virtua Racing Deluxe.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Virtua Racing Deluxe</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\World Series Baseball 1995.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:13.5093781-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:13.5093781-05:00</DateModified>
+    <Developer>Blue Sky Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bff84524-87e5-4815-a686-e44ca3dfad37</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cuenta con una licencia completa MLBPA, que le permite tener a los 28 equipos y 700 jugadores reales. Hay 3 modos de juego principales: exhibición, temporada completa y playoff.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>World Series Baseball Starring Deion Sanders</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Béisbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d44cf15f-ab27-48d5-88e1-b02d0904bd0e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bff84524-87e5-4815-a686-e44ca3dfad37</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\World Series Baseball 1995.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>World Series Baseball Starring Deion Sanders</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\WWF - RAW.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:25.3936328-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:25.3936328-05:00</DateModified>
+    <Developer>Sculptured Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>eb790527-b1e8-4840-b356-0badbc13f24a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>WWF Raw es un juego profesional de lucha libre con 10 superestrellas de la World Wrestling Federation. Los luchadores de los que puede elegir incluyen Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker y Yokozuna. Hay un gran número de movimientos para realizar, incluyendo las maniobras de estiramiento y actos "ilegales" como golpear a tu oponente con una silla de metal. El juego admite hasta 4 jugadores simultáneos.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>WWF Raw</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-31T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp, eu, fr</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Lucha libre</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>dbd6b193-e8bc-44a5-be92-851bd0e113ef</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>eb790527-b1e8-4840-b356-0badbc13f24a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\WWF - RAW.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>WWF Raw</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\WWF - Wrestlemania Arcade.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:10.2916028-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:10.2916028-05:00</DateModified>
+    <Developer>Sculptured Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ac5c9b31-ddad-4e60-a21b-6c5c37c4104e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>WWF Wrestlemania fusiona las personalidades y la acción de los personajes populares de la serie de televisión WWF con un juego de lucha estilo Mortal Kombat. Este título cuenta con gráficos digitalizados de 8 superestrellas de WWF: Doink, Razor Ramon, Bret "Hit Man" Hart, Shawn Michaels, The Undertaker, Yokozuna, Bam Bam Bigelow y Lex Luger. Aunque se trata de un título de lucha libre, el juego se estructura como un uno contra uno. Es muy rápido, y cuenta con movimientos especiales locos.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>WWF WrestleMania : The Arcade Game</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Deportes-Deportes / Lucha libre</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a1f556b1-cfd4-4f50-af01-a1f4e47ccea1</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ac5c9b31-ddad-4e60-a21b-6c5c37c4104e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\WWF - Wrestlemania Arcade.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>WWF WrestleMania : The Arcade Game</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Zaxxon's Motherbase 2000.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:13:05.2583278-05:00</DateAdded>
+    <DateModified>2024-03-07T00:13:05.2583278-05:00</DateModified>
+    <Developer>CSK Research Institute Corp.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b467f7d9-db82-42a3-9c01-3db85ad07137</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shooter de ciencia ficción exclusivo de 32X, parecido al clásico arcade de Sega Zaxxon. Los gráficos consisten en un campo de juego de desplazamiento diagonal que crea un entorno tipo 3D. Los fondos se dibujan usando los planos de desplazamiento 2D, pero los objetos del enemigo y de la nave se dibujan usando polígonos 3D. El objetivo básico de cada uno de los 9 niveles es disparar a todo sin recibir un disparo, aunque el juego tiene también un elemento estratégico.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Zaxxon's Motherbase 2000</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-06-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Acción-Shoot'em Up / Diagonal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2adb6b64-2a06-4ad8-9e45-16fcb1b20eb5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b467f7d9-db82-42a3-9c01-3db85ad07137</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega 32X\Zaxxon's Motherbase 2000.zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Zaxxon's Motherbase 2000</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>

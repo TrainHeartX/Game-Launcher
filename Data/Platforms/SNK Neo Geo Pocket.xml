@@ -1,0 +1,1071 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Melon-chan no Seichou Nikki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:08:55.8842614-05:00</DateAdded>
+    <DateModified>2025-08-30T10:13:41.8208896-05:00</DateModified>
+    <Developer>ADK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>80aadce7-6720-4adf-9d68-cc6805ac51ec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.7857144</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>34149</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Melon_Chan%27s_Growth_Diary</WikipediaURL>
+    <Title>Melon-chan no Seichou Nikki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Life Simulation</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=jdAp2KW_PU0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:08:38.272254-05:00</DateAdded>
+    <DateModified>2025-08-30T10:15:08.0161342-05:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6a229100-57e9-4279-b0f2-0dc004903ccc</ID>
+    <LastPlayedDate>2024-07-05T12:54:04.743-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The King of Fighters: R1 marca la primera vez que SNK lleva la serie KOF a una consola portátil, y ¿qué mejor sistema que su propio Neo Geo Pocket para hacer eso? 14 de los personajes más conocidos de KOF hacen su aparición en KOF: R-1, junto con algunos fondos reconocibles y características de juego basadas en The King of Fighters '97. Los jugadores pueden elegir modos de juego "Extra" y "Avanzado" similares a KOF '97, y la mayoría de los personajes juegan de cerca a sus versiones originales.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4166667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>27869</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/King_of_Fighters_R-1</WikipediaURL>
+    <Title>King of Fighters R-1: Pocket Fighting Series</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>80</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=IMIMox_Tc9I</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>347d0ef33c889cc826d214caf8475ae0</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Shougi no Tatsujin (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:10:55.3400939-05:00</DateAdded>
+    <DateModified>2025-08-30T10:09:20.9559208-05:00</DateModified>
+    <Developer>ADK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7728d36e-c777-4414-a6b7-7a12262d5d0d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shogi es el equivalente japonés de ajedrez. De hecho, como en el ajedrez, ¡el objetivo del juego es someter al rey enemigo! Sin embargo, hay varias diferencias entre el Shogi y nuestro juego de ajedrez, ya sea en la naturaleza de las piezas, sus posiciones o sus movimientos.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-11-20T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>34150</DatabaseID>
+    <WikipediaURL />
+    <Title>Shougi no Tatsujin</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=VdWRXw08C70</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Baseball Stars (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:08:09.3065973-05:00</DateAdded>
+    <DateModified>2025-08-30T10:23:24.5953134-05:00</DateModified>
+    <Developer>Saurus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f5c56389-70c7-4ed1-9c64-fe18f489b506</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Baseball Stars es un juego de deportes sobre el béisbol. El juego es similar a las Baseball Stars de NES, pero tiene personajes con un estilo menos realistas. Manejas tu propio equipo de béisbol y juegas en series de partidos. El juego tiene reglas típicas de béisbol: un jugador lanza la pelota, el segundo la golpea, alguien más la toma, etc. Cada personaje tiene sus propias estadísticas, como la resistencia.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1770833</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>24</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>27868</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Baseball_Stars</WikipediaURL>
+    <Title>Baseball Stars</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=MXKLWEvRO1c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>9150a58f7094a48b980c1ac71b9cfab9</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Renketsu Puzzle Tsunagete Pon! (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:10:18.1929692-05:00</DateAdded>
+    <DateModified>2025-08-30T10:10:15.6904157-05:00</DateModified>
+    <Developer>Yumekobo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8a98bd8f-29da-44a2-b187-ec3a951e6691</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Renketsu Puzzle Tsunagete Pon! es un juego donde los bloques deben ser disueltos. Nuevos bloques que se desplazan constantemente a través de la pantalla desde la parte superior.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>34148</DatabaseID>
+    <WikipediaURL />
+    <Title>Renketsu Puzzle Tsunagete Pon!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Puzzle</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ZA8732s0QDI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:09:10.2500831-05:00</DateAdded>
+    <DateModified>2025-08-30T10:12:31.3279356-05:00</DateModified>
+    <Developer>DYNA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3f2bc372-3522-475e-affa-57e692c82389</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Neo Cherry master es un juego de casino en el que el jugador inserta fichas virtuales</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-12-25T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>27870</DatabaseID>
+    <WikipediaURL />
+    <Title>Neo Cherry Master: Real Casino Series</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Casino</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=FMopimBoqWY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Metal Slug - 1st Mission (World) (En,Ja).ngp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T13:51:01.3136159-05:00</DateAdded>
+    <DateModified>2024-07-20T04:29:56.0327389-05:00</DateModified>
+    <Developer>Ukiyotei</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6e264c79-0f65-4ef4-a3a5-bd14838b1ded</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Como miembro del escuadrón de élite "Halcones peregrinos", tu misión es detener al malvado Coronel Bildegaarn. Usando el tanque multifunción Metal Slug y el Slug Flyer, así como tu ingenio y tu arma en hasta 17 misiones en tu búsqueda para hacer que el mundo esté a salvo de la tiranía. Las progresiones de múltiples etapas y un sistema de clasificación de juego dan razones para jugar más de una vez.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1999-05-27T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.735294</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>34</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>18485</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metal_Slug_1st_Mission</WikipediaURL>
+    <Title>Metal Slug: 1st Mission</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(World) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shoot 'em up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>4d3efef436c67d4f4e031951b97d64c8</RetroAchievementsHash>
+    <RetroAchievementsId>11691</RetroAchievementsId>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:10:34.3508933-05:00</DateAdded>
+    <DateModified>2024-07-14T16:47:11.609462-05:00</DateModified>
+    <Developer>Saurus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>72e15321-143f-4111-93bd-a198453575b3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Samurai Shodown! Pocket es esencialmente una versión "de bolsillo" de Samurai Shodown 4. Al igual que el resto de los juegos de lucha en el Neo Geo Pocket, los personajes se dibujan en estilo chibi súper-deformado (cabezas grandes y cuerpos pequeños). Este título es también uno de los primeros juegos para el Neo Geo Pocket, por lo que el juego fue solo en blanco y negro ... irónicamente apto para un juego "samurai". El estilo de arte está definitivamente en el lado "cursi" y es muy diferente a cualquier otro juego de Samurai Shodown anterior, pero puede crecer en ti si le das una oportunidad.
+
+El clásico juego de Samurai Shodown dio el salto al diseño de la computadora de mano bastante bien, pero no es tan suave como el clásico de Neo Geo. El juego es particularmente más lento y muy simplificado en esta versión. Los personajes conservan su juego y el juego se ha ido mucho. Básicamente es un juego nuevo, no es nada espectacular, pero es divertido para un título portátil.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1998-12-25T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6904762</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>27873</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Samurai_Shodown</WikipediaURL>
+    <Title>Samurai Shodown!: Pocket Fighting Series</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=wHiAbt9dphs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>d13f954b2f1c703bdf857837c24e332e</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:09:57.4567831-05:00</DateAdded>
+    <DateModified>2025-08-30T10:11:11.8211894-05:00</DateModified>
+    <Developer>Yumekobo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e7ba6f43-c8e3-4531-b8e8-955f04f086c3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pocket Tennis dispone de dos modos: Exposición y Torneo.
+
+Exposición es un solo partido contra computadora o oponente humano (requiere cable de enlace). Existen ocho personajes jugadores con diferentes habilidades (el jugador humano también debe seleccionar uno de esos ocho personajes) y cuatro (cinco en la versión en color) diferentes. También se puede seleccionar la cantidad de juegos por juego (1, 3 o 5).
+
+El torneo es solo en contra de la computadora. El jugador humano puede elegir su personaje pero no el oponente de la computadora. Además, falta la selección de cantidades pequeñas y cortas. Se jugarán tres juegos: cuarto y semifinales y carrera final.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3846154</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>27872</DatabaseID>
+    <WikipediaURL />
+    <Title>Pocket Tennis: Pocket Sports Series</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=n1KGvGVrZl8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-14T12:09:30.3042301-05:00</DateAdded>
+    <DateModified>2025-08-30T10:12:30.9725096-05:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6ab65504-c524-474f-a2e4-4d9e8f8d6224</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En el modo historia, eliges uno de los mejores equipos del mundo con el objetivo de ganar la famosa Copa Neo Geo. Esto no es fácil, sin embargo, ganar el título requerirá largas horas de intensa competencia.
+Cada reunión le dará derecho a una cierta cantidad de puntos que luego se pueden usar en la tienda, lo que agrega un pequeño RPG lateral no despreciable. Comprar pantalones cortos, crampones, jerseys y muchos otros artículos de una selección seleccionada aumentará las habilidades de tu equipo de acuerdo con varios criterios y hará que tus jugadores sean más rápidos o más hábiles frente a la portería.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating />
+    <ReleaseDate>1998-10-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>27871</DatabaseID>
+    <WikipediaURL />
+    <Title>NeoGeo Cup '98</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Europe) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=UwLEHlCboj8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>6a229100-57e9-4279-b0f2-0dc004903ccc</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>72e15321-143f-4111-93bd-a198453575b3</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>6a229100-57e9-4279-b0f2-0dc004903ccc</GameID>
+    <Name>King of Fighters R-1</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7728d36e-c777-4414-a6b7-7a12262d5d0d</GameID>
+    <Name>Shougi no Tatsujin: Master of Syougi</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>f5c56389-70c7-4ed1-9c64-fe18f489b506</GameID>
+    <Name>棒球明星-口袋运动系列</Name>
+    <Region>China</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f5c56389-70c7-4ed1-9c64-fe18f489b506</GameID>
+    <Name>Baseball Stars: Pocket Sports Series</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>8a98bd8f-29da-44a2-b187-ec3a951e6691</GameID>
+    <Name>Puzzle Link!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>6e264c79-0f65-4ef4-a3a5-bd14838b1ded</GameID>
+    <Name>Metal Slug 1st Mission</Name>
+    <Region />
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>6a229100-57e9-4279-b0f2-0dc004903ccc</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>6e264c79-0f65-4ef4-a3a5-bd14838b1ded</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>72e15321-143f-4111-93bd-a198453575b3</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

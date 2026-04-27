@@ -1,0 +1,2921 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Crash Bandicoot Saga Completa\Crash Bandicoot 4\Lava\Binaries\Win64\CrashBandicoot4.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-21T04:44:23.0759125-05:00</DateAdded>
+    <DateModified>2024-07-13T06:54:02.9769031-05:00</DateModified>
+    <Developer>Toys for Bob</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ec414625-b01c-4890-89f3-ee8d76726ab2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Ya era hora de un nuevo y sorprendente juego de Crash Bandicoot™! Embárcate en una aventura en la que el tiempo se romperá con tus marsupiales favoritos.
+
+Neo Cortex y N. Tropy vuelven a las andadas y lanzan un ataque total no solo a este universo, ¡sino a todo el multiverso! Crash y Coco están aquí para salvar el día reuniendo las cuatro Máscaras Cuánticas y torciendo las reglas de la realidad.
+
+¿Nuevas habilidades? Sí. ¿Más personajes jugables? Sí. ¿Dimensiones alternativas? Por supuesto. ¿Jefes ridículos? Por supuesto. ¿La misma salsa increíble? Puedes apostar tus dulces pantalones cortos. Espera, ¿son realmente pantalones cortos? ¡No en este universo!</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2021-03-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Crash Bandicoot Saga Completa\Crash Bandicoot 4\Lava\Binaries\Win64</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>208944</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Crash_Bandicoot_4:_It%27s_About_Time</WikipediaURL>
+    <Title>Crash Bandicoot 4: It’s About Time</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Aventura</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=rlb-6_A7_n4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Metal Hellsinger\Metal.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-09-27T09:44:16.9760978-05:00</DateAdded>
+    <DateModified>2024-07-20T23:30:46.3021572-05:00</DateModified>
+    <Developer>The Outsiders</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f9c87d37-7705-480f-a26a-509fbd873aac</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Lucha al ritmo del metal y la venganza en un viaje infernal a través de los ocho infiernos. Haz que teman el ritmo. Metal: Hellsinger es un FPS rítmico repleto de demonios, armas temibles y música heavy metal.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Funcom</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2022-09-15T02:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Metal Hellsinger</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.857143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>215506</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metal:_Hellsinger</WikipediaURL>
+    <Title>Metal: Hellsinger</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256905893/movie_max_vp9.webm?t=1663228675</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Ghost of Tsushima\Ghost of Tsushima\GhostOfTsushima.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-19T01:46:41.7081425-05:00</DateAdded>
+    <DateModified>2024-11-04T13:02:25.4299824-05:00</DateModified>
+    <Developer>Sucker Punch Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f2bccf75-ca81-49fc-94b8-a3032d9e3993</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A finales del siglo XIII, el imperio mongol ha arrasado naciones enteras en su campaña de conquista de Oriente. La isla de Tsushima es todo lo que se interpone entre el Japón continental y una enorme flota invasora mongola liderada por el despiadado y astuto general Khotun Khan. Mientras la isla arde tras la primera oleada del asalto mongol, el guerrero samurái Jin Sakai es uno de los últimos supervivientes de su clan. Está decidido a hacer lo que sea necesario, cueste lo que cueste, para proteger a su pueblo y recuperar su hogar. Deberá dejar a un lado las tradiciones que lo han formado como guerrero para forjarse un nuevo camino, el camino del Fantasma, y librar una guerra poco convencional por la libertad de Tsushima. En una Tsushima devastada por la guerra, la belleza ancestral perdura: En esta aventura de acción de mundo abierto, recorrerás vastos paisajes y extensos terrenos para encontrarte con ricos personajes, descubrir antiguos monumentos y descubrir la belleza oculta de Tsushima. El Ascenso del Fantasma: En su búsqueda por recuperar Tsushima, Jin debe buscar el apoyo de viejos amigos y de nuevos e improbables aliados. Deberá romper con la tradición, convertirse en un nuevo tipo de guerrero y proteger lo que queda de su hogar a toda costa. Barro, sangre y acero: Desafía a tus oponentes con tu katana para vivir una experiencia de combate samurái envolvente, domina el arco para eliminar amenazas lejanas y desarrolla tácticas de sigilo para desorientar y emboscar a tus enemigos con ataques sorpresa.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Sony Interactive Entertainment</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2021-08-20T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Ghost of Tsushima\Ghost of Tsushima</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>206567</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ghost_of_Tsushima</WikipediaURL>
+    <Title>Ghost of Tsushima: Director's Cut</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Aventura; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>5</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Vt-8RG1jxzg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Spider-Man Collection\Marvel's Spider-Man Remastered\Spider-Man.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-20T18:02:32.8666084-05:00</DateAdded>
+    <DateModified>2024-07-20T03:40:46.8218557-05:00</DateModified>
+    <Developer>Insomniac Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d0a911ea-3939-4b77-ae7a-c291a92bd378</ID>
+    <LastPlayedDate>2024-06-20T14:53:32.9864786-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Una nueva y auténtica aventura de Spider-Man Sony Interactive Entertainment, Insomniac Games y Marvel se han unido para crear una nueva y auténtica aventura de Spider-Man. Este no es el Spider-Man que has conocido o visto antes. Este es un Peter Parker experimentado que domina mejor la lucha contra el gran crimen en la ciudad de Nueva York. Al mismo tiempo, lucha por equilibrar su caótica vida personal y su carrera mientras el destino de millones de neoyorquinos descansa sobre sus hombros. Tras ocho años detrás de la máscara, Peter Parker es un maestro de la lucha contra el crimen. Siente todo el poder de un Spider-Man más experimentado con combates improvisados, acrobacias dinámicas, fluidos desplazamientos urbanos e interacciones con el entorno. Los mundos de Peter Parker y Spider-Man chocan en una original historia llena de acción. En este nuevo universo Spider-Man, personajes icónicos de las vidas de Peter y Spider-Man han sido reimaginados, colocando a personajes conocidos en papeles únicos. La Gran Manzana cobra vida como el mundo más amplio e interactivo de Insomniac hasta la fecha. Balancéate por vibrantes barrios y disfruta de impresionantes vistas de icónicos monumentos de Marvel y Manhattan. Utiliza el entorno para derrotar a los villanos con épicos derribos en un auténtico éxito de taquilla.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Sony Interactive Entertainment</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2020-11-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Spider-Man Collection\Marvel's Spider-Man Remastered</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.7291665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>24</CommunityStarRatingTotalVotes>
+    <Status>Launcher</Status>
+    <DatabaseID>206568</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)</WikipediaURL>
+    <Title>Marvel's Spider-Man Remastered</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>5</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ZNA74JXDLwg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Ghostrunner\Ghostrunner DX12.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-10-20T01:17:53.2529103-05:00</DateAdded>
+    <DateModified>2024-07-15T17:04:29.0390037-05:00</DateModified>
+    <Developer>3D Realms</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>84db430c-976c-466e-9532-6c7a2cfc4d80</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ghostrunner ofrece una experiencia única para un jugador: combates violentos y de ritmo rápido y un escenario original que combina ciencia ficción con temas post-apocalípticos. Cuenta la historia de un mundo que ya terminó y sus habitantes que luchan por sobrevivir.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>505 Games</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2020-10-26T02:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Ghostrunner</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0416665</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>193219</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ghostrunner</WikipediaURL>
+    <Title>Ghostrunner</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256814625/movie_max_vp9.webm?t=1610688020</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Deathloop Deluxe Edition\Deathloop.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-24T11:55:43.8177604-05:00</DateAdded>
+    <DateModified>2024-07-16T22:33:45.7389561-05:00</DateModified>
+    <Developer>Arkane Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>35e5dae4-cc65-4f89-9b42-8133304b0e1b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>DEATHLOOP es la versión de Arkane de una experiencia multijugador de asesinatos, que combina a la perfección el juego individual con el drama multijugador. Los jugadores vivirán la historia principal como Colt, cazando objetivos por toda la isla de Blackreef para romper el bucle y conseguir su libertad.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bethesda Softworks</Publisher>
+    <Rating>Castellano</Rating>
+    <ReleaseDate>2021-09-14T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Deathloop Deluxe Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>217802</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Deathloop</WikipediaURL>
+    <Title>DEATHLOOP</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=mc2hz3LJhTY&amp;ab_channel=PlayStation</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Star Wars saga completa\Star Wars Dark Forces Remaster\khonsu_Shipping_Steam_x64.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-28T04:28:32.4852045-05:00</DateAdded>
+    <DateModified>2024-07-16T17:52:14.3810813-05:00</DateModified>
+    <Developer>Lucas Arts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5f5a05fb-94a0-4540-ae47-900e23c80eec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Star Wars™: Dark Forces Remaster ha sido traído a la vida por el equipo de Nightdive Studios, totalmente remasterizado a través de su motor propietario KEX, permitiendo que el juego funcione en dispositivos de juego modernos a una resolución de hasta 4K a 120FPS. Tanto los jugadores nuevos como los veteranos disfrutarán de la jugabilidad mejorada de Star Wars: Dark Forces Remaster, las texturas de alta resolución, la iluminación y el renderizado mejorados y la compatibilidad con gamepads.
+
+El Star Wars: Dark Forces original de 1995 subió el listón de los juegos FPS, ofreciendo a los jugadores un grado significativo de movimiento e interactividad, una gran selección de objetos y potenciadores, y entornos atractivos.
+
+En el primer videojuego FPS de Star Wars, los jugadores asumen el papel de Kyle Katarn, un desertor del Imperio Galáctico convertido en mercenario a sueldo. Katarn se une a la división de operaciones encubiertas de la Alianza Rebelde encargada de infiltrarse en el Imperio Galáctico, donde descubre el proyecto secreto Dark Trooper. El desarrollo de esta nueva y poderosa serie de droides de combate imperiales y soldados de asalto con armadura de gran potencia puede reforzar el control del Imperio sobre la galaxia, a menos que Katarn y la Alianza Rebelde intervengan.
+
+Características principales:
+- Los catorce niveles originales, con mundos y naves capitales de Star Wars™
+-Usa tu habilidad para saltar, agacharte y arrastrarte para resolver puzles y derrotar a los enemigos 
+-Tu asistente digital personal te proporciona información en el juego, como el mapa, el inventario y las instrucciones de la misión 
+-Atractivo combate terrestre en primera persona con diez armas y veinte tipos de enemigos 
+-Imágenes de hasta 4K 120FPS 
+-El renderizado 3D avanzado permite una iluminación y unos efectos atmosféricos actualizados
+-La compatibilidad con gamepads modernos añade una nueva rueda de armas, y rumble
+-Compatibilidad con mandos
+-controles de vibración y giroscopio
+-El jugador tiene a su disposición diversos potenciadores, como salud, escudos, armas y munición 
+-Para el combate, el jugador puede usar puños, minas terrestres explosivas y detonadores térmicos, así como blásters y otras armas a distancia 
+-Incluye puzles y laberintos ambientales inmersivos.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Night Dive Studios</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2024-02-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Star Wars saga completa\Star Wars Dark Forces Remaster</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>441330</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Star_Wars:_Dark_Forces</WikipediaURL>
+    <Title>Star Wars: Dark Forces Remaster</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=3ndr_cPvwvo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Alone in the Dark Saga Completa\Alone in the Dark 2024\AloneInTheDark.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-22T08:06:28.574462-05:00</DateAdded>
+    <DateModified>2024-07-13T06:54:02.9769167-05:00</DateModified>
+    <Developer>Pieces Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e50bcbfd-97ef-4d90-9b30-9c8867c12d79</ID>
+    <LastPlayedDate>2024-06-26T17:44:09.8656434-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Regresa a la mansión Derceto en esta reimaginación de Alone in the Dark, una carta de amor al clásico de culto de terror de 1992.
+
+En pleno sur de los años 20, el tío de Emily Hartwood ha desaparecido. Junto con el investigador privado Edward Carnby, se embarca en un viaje a Derceto Manor, un hogar para enfermos mentales donde algo acecha.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>THQ Nordic GmbH</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2024-03-19T02:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Alone in the Dark 2024</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>443973</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2024_video_game)</WikipediaURL>
+    <Title>Alone in the Dark (2024)</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>13</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Terror 3D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=6lyDlYbbqkY&amp;ab_channel=THQNordic</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Devil May Cry Saga Completa\Devil May Cry 5\DevilMayCry5.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-12T21:47:16.0308109-05:00</DateAdded>
+    <DateModified>2024-11-04T13:35:19.9460361-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>aa37351c-cb94-4464-b422-754765f7bd60</ID>
+    <LastPlayedDate>2024-11-04T13:25:33.1315604-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡DEVIL MAY CRY HA VUELTO! El legendario juego de acción con estilo está mejor que nunca en la versión definitiva de este éxito multipremiado.
+
+Nuevas características:
+- Nuevo personaje jugable: Vergil, el hermano y archienemigo de Dante.
+- Modo Caballero Oscuro Legendario: un modo horda extremadamente desafiante con un gran número de enemigos.
+- Modo turbo: haz que el juego sea aún más intenso jugando a 1,2x de velocidad.
+- Compatibilidad con Ray-tracing: esta tecnología de gráficos de última generación lleva el mundo casi fotorrealista de DMC5 a un nuevo nivel de esplendor visual sin precedentes.
+- Modo de alta velocidad de fotogramas: experimenta una acción supersuave.
+
+Estas nuevas funciones y modos aprovechan la potencia de PlayStation®5 para ofrecerte la experiencia Devil May Cry más alocada, sexy y elegante de la historia.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2020-11-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Devil May Cry Saga Completa\Devil May Cry 5</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>No Cierra</Status>
+    <DatabaseID>209020</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Devil_May_Cry_5</WikipediaURL>
+    <Title>Devil May Cry 5: Special Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>583</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Hack and Slash</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=VI_dStD05EI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Dolmen\Dolmen.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-05T17:53:17.9680799-05:00</DateAdded>
+    <DateModified>2024-07-16T17:52:14.3810309-05:00</DateModified>
+    <Developer>Massive Work Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>87b28aba-2f80-40e0-a371-b271de3f0054</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dolmen es un nuevo y aterrador juego de rol de acción que combina elementos futuristas de ciencia ficción y terror cósmico. ¿Se borrará tu línea de tiempo o derrotarás a tus enemigos para sobrevivir y cumplir tu misión?</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Prime Matter</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2022-05-20T02:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Dolmen</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>212938</DatabaseID>
+    <WikipediaURL />
+    <Title>Dolmen</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Aventura; RPG</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256886859/movie_max_vp9.webm?t=1653064948</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Thymesia\PlagueProject.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-16T10:49:39.6050843-05:00</DateAdded>
+    <DateModified>2024-07-16T17:52:14.3807296-05:00</DateModified>
+    <Developer>OverBorder Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6ca2c039-d287-4cd2-a8bf-c149b01c64c1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Thymesia es un agotador RPG de acción con combates trepidantes y un intrincado sistema de armas contra la plaga. En un reino donde la muerte se extiende, juega como un misterioso personaje conocido por el nombre en clave de "Corvus". Caza a tus enemigos, usa el poder de la enfermedad y descubre la verdad en tus propios recuerdos.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher />
+    <Rating>Español</Rating>
+    <ReleaseDate>2022-08-17T02:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Thymesia</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>215313</DatabaseID>
+    <WikipediaURL />
+    <Title>Thymesia</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>RPG; Souls</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256912756/movie_max_vp9.webm?t=1666710191</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Soulstice Deluxe Edition\Soulstice\Soulstice\Binaries\Win64\Soulstice.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-05T19:01:28.2660316-05:00</DateAdded>
+    <DateModified>2025-08-15T15:30:17.5216948-05:00</DateModified>
+    <Developer>Reply Game Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>713ce6b1-e486-4a88-8823-cb54c947b5e3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Explora un mundo oscuro repleto de misterios ocultos, domina un variado sistema de combate y vive las fuerzas duales de dos hermanas en una historia de fantasía oscura con acción trepidante, enemigos despiadados y espectaculares combates contra jefes finales.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Modus Games</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2022-09-20T02:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Soulstice Deluxe Edition\Soulstice\Soulstice\Binaries\Win64</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.428571</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>215613</DatabaseID>
+    <WikipediaURL />
+    <Title>Soulstice</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Hack and Slash</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://cdn.akamai.steamstatic.com/steam/apps/256892933/movie_max_vp9.webm?t=1660705536</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\FIFA 23\FIFA23.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-04T05:20:08.292469-05:00</DateAdded>
+    <DateModified>2024-07-20T02:26:57.5495044-05:00</DateModified>
+    <Developer>Electronic Arts Romania</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8c59c689-4426-449b-8653-0be001a3d5e0</ID>
+    <LastPlayedDate>2024-06-29T05:57:00.6167912-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>EA SPORTS™ FIFA 23 lleva el juego del mundo al campo, con tecnología HyperMotion2 que ofrece aún más realismo de juego, la Copa Mundial de la FIFA™ masculina y femenina llega al juego como actualizaciones posteriores al lanzamiento, la incorporación de equipos de clubes femeninos, juegos cruzados -Funciones de reproducción* y más. Experimenta una autenticidad inigualable con más de 19.000 jugadores, más de 700 equipos, 100 estadios y más de 30 ligas en FIFA 23.
+
+
+
+Este juego incluye compras opcionales de moneda virtual dentro del juego que se pueden usar para adquirir elementos virtuales del juego, incluida una selección aleatoria de elementos virtuales del juego.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Electronic Arts</Publisher>
+    <Rating>Castellano</Rating>
+    <ReleaseDate>2022-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder>F:\FIFA 23</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3783784</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>215911</DatabaseID>
+    <WikipediaURL />
+    <Title>FIFA 23</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>5</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Deportes; Soccer</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=0tIW1X2dv0c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Dead Island Definitive Collection\Dead Island 2\DeadIsland.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-17T11:26:26.8950919-05:00</DateAdded>
+    <DateModified>2025-11-01T19:33:58.1259734-05:00</DateModified>
+    <Developer>Yager Development</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0478a5e0-e6f8-4f94-9eba-8ec31463db9c</ID>
+    <LastPlayedDate>2025-11-01T19:33:58.1237801-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cuando se trata del apocalipsis, todo depende de tu actitud. Situado tras los acontecimientos de Dead Island y Escape Dead Island, Dead Island 2 te lleva a la soleada California tras el brote zombi. Dead Island es como siempre debió ser: un intenso y visceral paseo por el soleado estado de California contigo y tus amigos en una experiencia multijugador sin fisuras. Elige entre un grupo de héroes de élite inmunes al virus zombi y dispuestos a lanzarse de cabeza al apocalipsis. Fabrica miles de armas, mejora tus vehículos, caza botines épicos y vive el sueño en el paraíso definitivo de los cazadores de zombis.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Deep Silver</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2023-04-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Dead Island Definitive Collection\Dead Island 2</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>23677</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dead_Island_2</WikipediaURL>
+    <Title>Dead Island 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>5</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=VAybX09kwyU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Spider-Man Collection\Marvel’s Spider-Man Miles Morales\MilesMorales.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-20T18:01:28.9885334-05:00</DateAdded>
+    <DateModified>2025-09-05T15:02:01.422654-05:00</DateModified>
+    <Developer>Insomniac Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>411c2019-9b0b-44b6-af91-b3ca179536db</ID>
+    <LastPlayedDate>2025-09-05T15:01:05.5389827-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Marvel's Spider-Man: Miles Morales es un juego de acción y aventuras de 2020 desarrollado por Insomniac Games y publicado por Sony Interactive Entertainment para PlayStation 4 y PlayStation 5. Basado en el superhéroe de Marvel Comics Miles Morales, se inspira tanto en la mitología de los cómics de una década del personaje como en la película de animación de 2018 Spider-Man: Into the Spider-Verse, que ayudó a popularizarlo. El juego es un spin-off de Marvel's Spider-Man, y muestra la lucha de Miles por equilibrar los deberes de su persona civil y Spider-Man cuando su nuevo hogar, Harlem, se ve amenazado por una guerra entre la Roxxon Energy Corporation y el ejército criminal de alta tecnología del Hojalatero, el Underground.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2020-11-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Spider-Man Collection\Marvel’s Spider-Man Miles Morales</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>205482</DatabaseID>
+    <WikipediaURL />
+    <Title>Marvel's Spider-Man: Miles Morales</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>4</PlayCount>
+    <PlayTime>554</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Elden Ring\Game\eldenring.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-07-11T03:23:04.6919047-05:00</DateAdded>
+    <DateModified>2024-07-11T04:41:27.6262102-05:00</DateModified>
+    <Developer>FromSoftware</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>d1ab9a4e-1f4d-49be-85b6-ca1851ed57a6</ID>
+    <LastPlayedDate>2024-07-11T04:25:16.0271029-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Levántate, Tarnished, y déjate guiar por la gracia para blandir el poder del Anillo de los Eldados y convertirte en un Señor de los Eldados en las Tierras Intermedias.
+
+Un vasto mundo en el que se entrelazan a la perfección campos abiertos con una gran variedad de situaciones y enormes mazmorras con diseños complejos y tridimensionales. A medida que exploras, te aguarda la alegría de descubrir amenazas desconocidas y abrumadoras, lo que te conducirá a una gran sensación de logro.
+
+Además de personalizar la apariencia de tu personaje, puedes combinar libremente las armas, armaduras y magias que equipes. Puedes desarrollar tu personaje según tu estilo de juego, como aumentar tu fuerza muscular para convertirte en un guerrero fuerte, o dominar la magia.
+
+Una historia de múltiples capas contada en fragmentos. Un drama épico en el que los diversos pensamientos de los personajes se entrecruzan en las Tierras Intermedias.
+
+Además del modo multijugador, en el que se puede conectar directamente con otros jugadores y viajar juntos, el juego admite un elemento en línea asíncrono único que permite sentir la presencia de los demás.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bandai Namco Games</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2024-06-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Elden Ring\Game</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>448352</DatabaseID>
+    <WikipediaURL />
+    <Title>Elden Ring: Shadow of the Erdtree</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>6</PlayCount>
+    <PlayTime>745</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>RPG; Souls</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>DLC</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>false</Installed>
+    <ApplicationPath>G:\Juegos\Cuphead\Cuphead.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-02T22:43:22.3265369-05:00</DateAdded>
+    <DateModified>2024-12-17T19:16:06.3343768-05:00</DateModified>
+    <Developer>Studio MDHR</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>704d36b1-4bb9-4f2b-85dc-bc3fb6a89095</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Después de cinco años, el célebre videojuego Cuphead tiene otra oferta: El delicioso último plato. El juego original ganó legiones de fans con una suntuosa animación dibujada a mano en papel al estilo de los dibujos animados de los años 30, completada con una banda sonora de big band. Ahora, tras un programa de Netflix, una serie de cómics y algunas novelas de nivel medio, el juego tiene un nuevo contenido descargable igual de magnífico, imaginativo y brutalmente difícil que antes.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Studio MDHR</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2022-06-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder>G:\Juegos\Cuphead</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>40</CommunityStarRatingTotalVotes>
+    <Status>Movistar Cloud</Status>
+    <DatabaseID>213276</DatabaseID>
+    <WikipediaURL>https://cuphead.fandom.com/wiki/Cuphead:_The_Delicious_Last_Course</WikipediaURL>
+    <Title>Cuphead: The Delicious Last Course</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>Movistar Cloud</Series>
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=gA2kRDKnhps</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\Juegos\Wo Long Fallen Dynasty\Wo Long Fallen Dynasty.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-29T05:26:21.2544294-05:00</DateAdded>
+    <DateModified>2024-11-04T13:35:19.9460172-05:00</DateModified>
+    <Developer>Team Ninja</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5cd25aed-2ee4-4743-ab51-69cdd4204224</ID>
+    <LastPlayedDate>2024-06-22T08:49:51.7228369-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Desde las profundidades de la oscuridad, se eleva un dragón.
+
+Un nuevo RPG de acción de fantasía oscura de los Tres Reinos de Team Ninja, los desarrolladores de Nioh.
+
+184 d.C., China de finales de la dinastía Han. El caos y la destrucción invaden la tierra. La dinastía imperial que prosperó durante muchos años está a punto de derrumbarse.
+
+Wo Long: Fallen Dynasty es una historia dramática y llena de acción de un soldado de la milicia sin nombre que lucha por sobrevivir en una versión de fantasía oscura de la Dinastía Han Posterior en la que los demonios asolan los Tres Reinos. Los jugadores luchan contra criaturas mortales y soldados enemigos usando un manejo de la espada basado en las artes marciales chinas, intentando superar las adversidades despertando el verdadero poder de su interior.
+
+Wo Long hace referencia a un dragón agazapado, y también a un héroe o persona de grandeza aún desconocida. Es la historia de oficiales, que más tarde se convertirán en héroes, durante su periodo "desconocido", y también la historia del ascenso de un protagonista desde que era un "don nadie".</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Koei Tecmo Games</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2023-03-03T03:00:00-05:00</ReleaseDate>
+    <RootFolder>I:\Juegos\Wo Long Fallen Dynasty</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>420083</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Wo_Long:_Fallen_Dynasty</WikipediaURL>
+    <Title>Wo long: Fallen Dynasty</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>5</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>606</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>RPG; Souls</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>5</MaxPlayers>
+    <VideoUrl>https://youtu.be/xlmdeQFyqC0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Ghostwire Tokyo Deluxe Edition\GWT.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-12T19:10:29.5265602-05:00</DateAdded>
+    <DateModified>2024-07-15T17:04:29.0390122-05:00</DateModified>
+    <Developer>Tango gameworks</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>03225298-7d02-4826-90ce-220bf455a7f7</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Explore una visión única de Tokio retorcida por una presencia sobrenatural. Desde su paisaje urbano ultramoderno hasta sus templos tradicionales y estrechos callejones, descubre una ciudad de inquietante belleza repleta de Yokai, espíritus vengativos que merodean por las calles. Descubre lugares emblemáticos como el cruce de Shibuya y la Torre de Tokio, congelados en el tiempo cuando la población de la ciudad desapareció, y viaja al surrealista submundo en tu búsqueda para salvar a tu familia.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bethesda Softworks</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2022-03-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Ghostwire Tokyo Deluxe Edition</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>210791</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ghostwire:_Tokyo</WikipediaURL>
+    <Title>Ghostwire: Tokyo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Disparos Primera Persona</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/2EDplmRKPLk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Hogwarts Legacy\HogwartsLegacy.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-19T01:51:29.2587777-05:00</DateAdded>
+    <DateModified>2024-07-21T19:12:48.9526386-05:00</DateModified>
+    <Developer>Avalanche Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f319ee8f-514e-44a9-845c-76db19550183</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El legado de Hogwarts es un juego de rol de acción y mundo abierto ambientado en el mundo que se presentó por primera vez en los libros de Harry Potter. 
+
+Embárcate en un viaje por lugares nuevos y conocidos mientras exploras y descubres bestias mágicas, personalizas tu personaje y creas pociones, dominas el lanzamiento de hechizos, mejoras tus talentos y te conviertes en el mago que quieres ser.
+
+Vive Hogwarts en el siglo XIX. Tu personaje es un estudiante que posee la clave de un antiguo secreto que amenaza con destruir el mundo de los magos. Descubre la sensación de vivir en Hogwarts mientras haces aliados, luchas contra Magos Oscuros y, en última instancia, decides el destino del mundo mágico. 
+
+Tu legado es lo que tú hagas de él. Vive lo que no está escrito.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Warner Bros. Interactive Entertainment</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2023-02-10T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Hogwarts Legacy</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>418098</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Hogwarts_Legacy</WikipediaURL>
+    <Title>Hogwarts Legacy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>RPG</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/NTnok1LvKUk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Naruto saga completa\Naruto X Boruto Ultimate Ninja Storm Connections\NSUNSC.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-07-06T18:55:30.8464723-05:00</DateAdded>
+    <DateModified>2025-01-19T02:50:03.0379283-05:00</DateModified>
+    <Developer>Cyberconnect2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>99601efc-806f-4a92-9f01-81e423329f56</ID>
+    <LastPlayedDate>2025-01-18T19:49:10.847-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Los legendarios ninjas se reúnen en la nueva y emocionante entrega de la serie STORM. NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS es un juego de acción y lucha con trepidantes batallas ninja y dos modos de historia diferentes: - ¡Nuevos personajes jugables se unen a todos los antiguos personajes de la serie STORM para formar el mayor plantel de ninjas jamás visto!
+
+Elige entre más de 130 personajes jugables para luchar en poderosas batallas ninja. Además de una experiencia de batalla en red mejorada, la nueva opción del modo Simple permite a los jugadores realizar más fácilmente varios combos ninjutsu. Tanto si los jugadores son principiantes como expertos, todos podrán disfrutar de acaloradas batallas con sus ninjas favoritos. - ¡Por primera vez, la historia de la rivalidad entre Naruto y Sasuke ha sido recortada y combinada en un solo juego!
+
+Combinando escenas originales del anime de Naruto con la experiencia de batalla de alta calidad que se espera del equipo de desarrollo de la serie STORM, este juego contiene momentos destacados desde el principio de la historia de Naruto hasta la batalla final de la serie. Revive los caminos de dos ninjas legendarios! - ¡Vive una historia especial de nueva generación!
+
+Juega una historia nueva y original en la que Boruto Uzumaki, hijo del 7º Hokage y ninja de la nueva era, se ve arrastrado a una gran batalla que involucra a todo el mundo ninja tras conocer a una chica en un popular juego online. - ¡Otro aspecto que los fans de Naruto pueden apreciar es la personalización!
+
+Durante su aventura, los jugadores pueden adquirir objetos cosméticos de personalización como recompensas de batalla que hacen suya la experiencia NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bandai Namco Entertainment</Publisher>
+    <Rating>Latino</Rating>
+    <ReleaseDate>2023-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Naruto saga completa\Naruto X Boruto Ultimate Ninja Storm Connections</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>5</StarRatingFloat>
+    <StarRating>5</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>424540</DatabaseID>
+    <WikipediaURL>https://es.wikipedia.org/wiki/Naruto_x_Boruto:_Ultimate_Ninja_Storm_Connections</WikipediaURL>
+    <Title>Naruto x Boruto: Ultimate Ninja Storm Connections</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>1</Series>
+    <PlayMode>Multijugador</PlayMode>
+    <Region>United States</Region>
+    <PlayCount>7</PlayCount>
+    <PlayTime>7986</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=yowAmloydVY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>A:\Juegos\Dragon ball saga completa\Dragon Ball Sparking ZERO\SparkingZERO.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-10-30T00:29:08.8770797-05:00</DateAdded>
+    <DateModified>2026-01-09T20:07:21.5885081-05:00</DateModified>
+    <Developer>Spike ChunSoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2bc494b6-d682-4834-9f1c-b5e911788111</ID>
+    <LastPlayedDate>2026-01-09T19:48:55.5995512-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Become a super warrior and experience the earth-shaking, limit-breaking power of DRAGON BALL battles!
+
+Unleash the strength of over 180 fighters from DRAGON BALL Z, DRAGON BALL Super, DRAGON BALL GT, and selected DRAGON BALL movies, all in the base game! Each character comes with their own signature abilities, transformations, and techniques.
+
+Make the destructive power of the strongest fighters ever to appear in DRAGON BALL yours!
+Engage in heart-pounding, high-speed 3D battles that stay true to the anime and video game series, with breathtaking visuals and authentic combat moves like beam clashes, rush attacks, movements too quick for the eyes to see, and planet-razing ultimate attacks.
+
+Challenge other players online to test your skills, or sit down with friends offline to hone your skills exclusively in the Hyperbolic Time Chamber! Fight your way to become a champion across various tournament modes and victory conditions.
+
+Conquer the action-packed battles from the beloved original story, or discover and unlock new encounters for your favorite Z-Fighters and more. Relive your favorite moments from the series through cutscenes you can experience from the perspectives of eight characters!
+
+Recreate your favorite battles from throughout the DRAGON BALL story, or set up your dream story battle with your favorite characters! Share your creations with other fans and experience the battles brought to life by imaginations around the world.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bandai Namco Entertainment</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2024-10-10T02:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Dragon ball saga completa\Dragon Ball Sparking ZERO</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>450114</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi</WikipediaURL>
+    <Title>Dragon Ball: Sparking! Zero</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>8</PlayCount>
+    <PlayTime>2301</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://video.akamai.steamstatic.com/store_trailers/257033554/movie_max_vp9.webm?t=1720630952</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>B:\Juegos\Tekken Saga Completa\TEKKEN 8\TEKKEN 8.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-05-15T02:19:33.2897264-05:00</DateAdded>
+    <DateModified>2024-07-16T17:52:14.3811281-05:00</DateModified>
+    <Developer>Bandai Namco Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8cef4883-c325-4faa-a008-10bc85210718</ID>
+    <LastPlayedDate>2024-07-01T17:52:46.76-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Llega una nueva era a Tekken! La historia más longeva de una franquicia de videojuegos regresa con gráficos de nueva generación y las rivalidades más poderosas.
+
+- 32 luchadores para una nueva generación
+Efectos visuales de los personajes completamente rediseñados. Los elaborados y detallados modelos creados desde cero y los gráficos de alta fidelidad rompen los límites del hardware de nueva generación añadiendo un nuevo peso y atmósfera a los característicos combates de TEKKEN. Los entornos vívidos y los escenarios destructibles se combinan para crear una abrumadora sensación de inmersión, creando la experiencia de juego definitiva.
+
+- Nuevo juego, nueva rivalidad
+El puño se enfrenta al destino en TEKKEN 8. La serie TEKKEN, que ostenta el récord de la historia más larga de un videojuego, inicia un nuevo capítulo con TEKKEN 8, que continúa la trágica saga de los linajes Mishima y Kazama y sus enfrentamientos entre padre e hijo, que han conmocionado al mundo, 6 meses después del último enfrentamiento. La historia del crecimiento y la determinación de Jin Kazama marca un nuevo capítulo de la eterna saga.
+
+- Emocionantes batallas por todo lo alto que encarnan la agresividad y la destrucción
+El nuevo sistema de combate, Heat, aumenta la agresividad de las batallas, al tiempo que mantiene la sensación de juego y las tácticas exclusivas de la serie TEKKEN. La intensidad de las batallas aumenta considerablemente gracias a los escenarios destructibles. Desencadenar los supermovimientos Rage Arts cautivará tanto a los jugadores como a los espectadores. Todas estas impactantes mecánicas se unen para hacer de TEKKEN 8 la entrega más emocionante de la serie hasta la fecha.
+
+- ¡Disfruta de tu vida Tekken!
+En el nuevo modo para un jugador Arcade Quest, crea tu propio avatar único y embárcate en tu nueva vida TEKKEN. Ábrete camino a través de una gran variedad de rivales en múltiples arcades a medida que se desarrolla la historia, todo ello mientras dominas las habilidades básicas y prácticas de TEKKEN 8. Desbloquea una gran variedad de objetos de personalización para personajes y avatares a medida que avances.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Bandai Namco Entertainment</Publisher>
+    <Rating>Español</Rating>
+    <ReleaseDate>2024-01-25T03:00:00-05:00</ReleaseDate>
+    <RootFolder>B:\Juegos\Tekken Saga Completa\TEKKEN 8</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>5</StarRatingFloat>
+    <StarRating>5</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>No funciona temporalmente</Status>
+    <DatabaseID>419526</DatabaseID>
+    <WikipediaURL>https://www.wikipedia.org/wiki/Tekken_8</WikipediaURL>
+    <Title>Tekken 8</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>2</Series>
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>4</PlayCount>
+    <PlayTime>858</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=_MM4clV2qjE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>false</Installed>
+    <ApplicationPath>A:\Juegos\Assassin's Creed Saga completa\Assassins Creed Valhalla\ACValhalla.exe</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-04-22T15:49:11.1438844-05:00</DateAdded>
+    <DateModified>2024-12-13T03:14:44.3462079-05:00</DateModified>
+    <Developer>Ubisoft Montreal</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>882f30d6-484d-472b-8001-41d791f3b889</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Conviértete en un vikingo legendario en busca de la gloria. Asalta a tus enemigos, haz crecer tu asentamiento y aumenta tu poder político.</Notes>
+    <Platform>Sony Playstation 5</Platform>
+    <Publisher>Ubisoft</Publisher>
+    <Rating>Castellano</Rating>
+    <ReleaseDate>2020-11-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder>A:\Juegos\Assassin's Creed Saga completa\Assassin’s Creed Valhalla</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.214286</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Movistar Cloud</Status>
+    <DatabaseID>421851</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla</WikipediaURL>
+    <Title>Assassin's Creed: Valhalla</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series>Movistar Cloud</Series>
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Aventura; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ssrNcwxALS4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>68c255d9-b27c-48ea-a7c5-a46f916c4d00</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>84db430c-976c-466e-9532-6c7a2cfc4d80</GameID>
+    <ApplicationPath>I:\Juegos\Ghostrunner\Ghostrunner DX11.lnk</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>PS4 DX11</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>47611397-33bb-4a99-a9d4-b61ede9f181c</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>d1ab9a4e-1f4d-49be-85b6-ca1851ed57a6</GameID>
+    <ApplicationPath>I:\Juegos\Elden Ring\ArtbookOST\ELDEN RING Digital Artbook &amp; Soundtrack.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>ARTBOOK &amp; SOUNDTRACK</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <Installed>true</Installed>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>7edb515c-1c33-4ae4-acdc-741eb3102ffb</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>d1ab9a4e-1f4d-49be-85b6-ca1851ed57a6</GameID>
+    <ApplicationPath>I:\Juegos\Elden Ring\AdvGuide\ELDEN RING Adventure Guide.exe</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>ADVENTURE GUIDE</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <Installed>true</Installed>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>52297299-ed3b-4abb-9102-460561f3aeb7</Id>
+    <PlayCount>1</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>5cd25aed-2ee4-4743-ab51-69cdd4204224</GameID>
+    <ApplicationPath>I:\Juegos\Wo Long Fallen Dynasty\Wo Long - ArtBook and Soundtrack.lnk</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>ArtBook and Soundtrack</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <LastPlayed>2024-05-29T20:23:09.3041569-05:00</LastPlayed>
+    <EmulatorId />
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>true</HasCloudSynced>
+  </AdditionalApplication>
+  <CustomField>
+    <GameID>ec414625-b01c-4890-89f3-ee8d76726ab2</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f9c87d37-7705-480f-a26a-509fbd873aac</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f2bccf75-ca81-49fc-94b8-a3032d9e3993</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>d0a911ea-3939-4b77-ae7a-c291a92bd378</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>84db430c-976c-466e-9532-6c7a2cfc4d80</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>35e5dae4-cc65-4f89-9b42-8133304b0e1b</GameID>
+    <Name>Idioma</Name>
+    <Value>Castellano</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>5f5a05fb-94a0-4540-ae47-900e23c80eec</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>e50bcbfd-97ef-4d90-9b30-9c8867c12d79</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>aa37351c-cb94-4464-b422-754765f7bd60</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>87b28aba-2f80-40e0-a371-b271de3f0054</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>6ca2c039-d287-4cd2-a8bf-c149b01c64c1</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>713ce6b1-e486-4a88-8823-cb54c947b5e3</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>8c59c689-4426-449b-8653-0be001a3d5e0</GameID>
+    <Name>Idioma</Name>
+    <Value>Castellano</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>0478a5e0-e6f8-4f94-9eba-8ec31463db9c</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>411c2019-9b0b-44b6-af91-b3ca179536db</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>d1ab9a4e-1f4d-49be-85b6-ca1851ed57a6</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>704d36b1-4bb9-4f2b-85dc-bc3fb6a89095</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>5cd25aed-2ee4-4743-ab51-69cdd4204224</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>03225298-7d02-4826-90ce-220bf455a7f7</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>f319ee8f-514e-44a9-845c-76db19550183</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>99601efc-806f-4a92-9f01-81e423329f56</GameID>
+    <Name>Idioma</Name>
+    <Value>Latino</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>2bc494b6-d682-4834-9f1c-b5e911788111</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>8cef4883-c325-4faa-a008-10bc85210718</GameID>
+    <Name>Idioma</Name>
+    <Value>Español</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>882f30d6-484d-472b-8001-41d791f3b889</GameID>
+    <Name>Idioma</Name>
+    <Value>Castellano</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>ec414625-b01c-4890-89f3-ee8d76726ab2</GameID>
+    <Name>クラッシュ・バンディクー4 とんでもマルチバース</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f2bccf75-ca81-49fc-94b8-a3032d9e3993</GameID>
+    <Name>Ghost of Tsushima Director's Cut</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5f5a05fb-94a0-4540-ae47-900e23c80eec</GameID>
+    <Name>Star Wars: Dark Forces Remastered</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5f5a05fb-94a0-4540-ae47-900e23c80eec</GameID>
+    <Name>STAR WARS™: Dark Forces Remaster</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>e50bcbfd-97ef-4d90-9b30-9c8867c12d79</GameID>
+    <Name>Alone in the Dark</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>e50bcbfd-97ef-4d90-9b30-9c8867c12d79</GameID>
+    <Name>Alone in the Dark: Digital Deluxe Edition</Name>
+    <Region>United States</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>aa37351c-cb94-4464-b422-754765f7bd60</GameID>
+    <Name>Devil May Cry 5 Special Edition</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>8c59c689-4426-449b-8653-0be001a3d5e0</GameID>
+    <Name>EA SPORTS™ FIFA 23</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>99601efc-806f-4a92-9f01-81e423329f56</GameID>
+    <Name>Naruto x Boruto: Ultimate Ninja Storm Connections - Deluxe Edition</Name>
+    <Region>United States</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>99601efc-806f-4a92-9f01-81e423329f56</GameID>
+    <Name>Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition</Name>
+    <Region>United States</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>2bc494b6-d682-4834-9f1c-b5e911788111</GameID>
+    <Name>DRAGON BALL: Sparking! ZERO Deluxe Edition</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2bc494b6-d682-4834-9f1c-b5e911788111</GameID>
+    <Name>DRAGON BALL: Sparking! ZERO Ultimate Edition</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2bc494b6-d682-4834-9f1c-b5e911788111</GameID>
+    <Name>Dragon Ball Sparking Zero</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>882f30d6-484d-472b-8001-41d791f3b889</GameID>
+    <Name>Assassins Creed: Valhalla</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>ec414625-b01c-4890-89f3-ee8d76726ab2</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f9c87d37-7705-480f-a26a-509fbd873aac</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f2bccf75-ca81-49fc-94b8-a3032d9e3993</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>d0a911ea-3939-4b77-ae7a-c291a92bd378</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>84db430c-976c-466e-9532-6c7a2cfc4d80</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>35e5dae4-cc65-4f89-9b42-8133304b0e1b</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>5f5a05fb-94a0-4540-ae47-900e23c80eec</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>e50bcbfd-97ef-4d90-9b30-9c8867c12d79</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>aa37351c-cb94-4464-b422-754765f7bd60</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>87b28aba-2f80-40e0-a371-b271de3f0054</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>6ca2c039-d287-4cd2-a8bf-c149b01c64c1</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>713ce6b1-e486-4a88-8823-cb54c947b5e3</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>8c59c689-4426-449b-8653-0be001a3d5e0</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>0478a5e0-e6f8-4f94-9eba-8ec31463db9c</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>411c2019-9b0b-44b6-af91-b3ca179536db</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>d1ab9a4e-1f4d-49be-85b6-ca1851ed57a6</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>704d36b1-4bb9-4f2b-85dc-bc3fb6a89095</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>5cd25aed-2ee4-4743-ab51-69cdd4204224</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>03225298-7d02-4826-90ce-220bf455a7f7</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>f319ee8f-514e-44a9-845c-76db19550183</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>99601efc-806f-4a92-9f01-81e423329f56</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>2bc494b6-d682-4834-9f1c-b5e911788111</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>8cef4883-c325-4faa-a008-10bc85210718</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>882f30d6-484d-472b-8001-41d791f3b889</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

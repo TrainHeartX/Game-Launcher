@@ -1,0 +1,15 @@
+H:\GameLauncher\src\Core\GameLauncher.Data\bin\Debug\net8.0\GameLauncher.Data.deps.json
+H:\GameLauncher\src\Core\GameLauncher.Data\bin\Debug\net8.0\GameLauncher.Data.dll
+H:\GameLauncher\src\Core\GameLauncher.Data\bin\Debug\net8.0\GameLauncher.Data.pdb
+H:\GameLauncher\src\Core\GameLauncher.Data\bin\Debug\net8.0\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Data\bin\Debug\net8.0\GameLauncher.Core.pdb
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.csproj.AssemblyReference.cache
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.AssemblyInfoInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.AssemblyInfo.cs
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.csproj.CoreCompileInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLaun.3B23D71E.Up2Date
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.dll
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\refint\GameLauncher.Data.dll
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\GameLauncher.Data.pdb
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Debug\net8.0\ref\GameLauncher.Data.dll

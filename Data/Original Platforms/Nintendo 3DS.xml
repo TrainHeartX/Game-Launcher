@@ -1,0 +1,4165 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Naruto Powerful Shippuden (USA) (En,Fr,Es).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-28T08:57:17.8973682-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2605964-05:00</DateModified>
+    <Developer>Inti Creates</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fb2e39b1-dcac-4f33-a6f8-8db1b46fdee4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>NARUTO Powerful Shippuden includes a Story Mode as well as an Endless Battle Mode so players can choose to either follow a progressive storyline or just pull out the punches for a sprightly ninja showdown. The action-packed gameplay allows players to earn experience points to power up their vivacious characters and also use the touch screen to strengthen special attacks. Fans will recognize their favorite characters from the NARUTO franchise such as Kakashi, Sakura, Gaara, and many more; all can be called upon as support characters in the midst of battle. With familiar friends at their sides and ninja moves up their sleeves, players will embark on the journey of becoming a powerful Leaf ninja to knock out opponents or even become a knock-out with sexy jutsu.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Namco Bandai Games</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2013-03-05T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>15474</DatabaseID>
+    <WikipediaURL />
+    <Title>Naruto Powerful Shippuden</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (En,Fr,Es)</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=pt3L_Bz_-Tw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON SOL.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:54:20.6694935-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2593401-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a4b16166-f29f-4002-aafc-f2f19dbca513</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Sun, along with Pokémon Moon, marks the start of the seventh generation of the Pokémon franchise. The game takes place in the Alola region, an archipelago whose culture, geography, and native wildlife are based on those of Hawaii. A number of Alola's native Pokémon have never been seen before, bringing the series' total number of Pokémon species to over 800.
+
+As usual for a new pair of Pokémon games, Sun and Moon boast a number of new and improved features. HMs are now replaced by Ride Pokémon, which are unlocked over the course of the story and can be called upon at any time to provide transportation and clear obstacles. Hyper Training allows players to boost their Pokémon's individual values, hidden values that impact a Pokémon's potential for stat growth and are otherwise immutable. The new Battle Royal mode pits four trainers against each other in a free-for-all fight where the goal is to score the most KOs while trying not to let one's own Pokémon faint. A group of islands called Poké Pelago allow the player's Pokémon to play and collect items while they aren't in the active party, and each island can be upgraded to provide more and better rewards. Lastly, a location called the Festival Plaza acts as the multiplayer hub, and combines features from prior games' Join Avenue and PSS systems.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2016-11-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.263889</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>72</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>119662</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon</WikipediaURL>
+    <Title>Pokémon Sun</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://youtu.be/Iylfh-7uQkc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-22T05:21:26.6184751-05:00</DateAdded>
+    <DateModified>2024-03-22T05:29:12.3833537-05:00</DateModified>
+    <Developer>Camelot Software Planning</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>551b38af-cf60-4639-acfe-04d5aaf3fdaa</ID>
+    <LastPlayedDate>2024-03-22T05:28:04.4578997-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In Mario Tennis Open, Mario and his Mushroom Kingdom friends return to the court for a flurry of intense tennis action, from engaging singles and doubles matches to skill-building Special Games and online play. Using the built-in wireless features of the Nintendo 3DS system, up to four people can play together in local or online multiplayer modes and exchange player information via StreetPass. Players can choose between intuitive Touch Screen and gyro sensor controls or strategic button-based gameplay that delivers an even deeper experience. Players can also choose from a variety of playable characters or use their own personalized Mii character as they serve, volley and smash their way up the leaderboards.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2012-05-20T02:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12691</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Tennis_Open</WikipediaURL>
+    <Title>Mario Tennis Open</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>60</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=LEs1wZohOpo</VideoUrl>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON RUBI OMEGA.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T18:03:38.7962621-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2595738-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Prepare for an epic adventure exploring a world filled with Pokémon in Pokémon Omega Ruby for the Nintendo 3DS family of systems. Your adventure takes place in Hoenn, a region that consists of a main island that stretches widely from east to west, along with countless small islets that dot the deep blue sea around it. A live volcano steams constantly in the heart of this green-covered island. Look forward to a region rich with natural beauty, a variety of Pokémon, and extraordinary people! During your journey through Hoenn, you’ll be able to build and invite friends to visit your personal Super-Secret Base! Come up with your own Secret Base design, including selecting and placing Decorations however you like. You can also use Super-Secret Bases to play a capture-the-flag activity.Stop Team Magma from going after the Legendary Pokémon Groudon. And look out for Alpha Sapphire. Plus a all new MEGA EVOLUTIONS as well.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2014-11-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3333335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>117</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>23586</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire</WikipediaURL>
+    <Title>Pokémon Omega Ruby</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://youtu.be/wjT6OQknxX4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Ace Combat - Assault Horizon Legacy+ (USA) (En,Fr,Es) Decrypted.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-19T02:17:10.8718062-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6617012-05:00</DateModified>
+    <Developer>Access Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>78624253-49ad-4a56-9cbe-fdd6691ca733</ID>
+    <LastPlayedDate>2024-02-28T02:08:11.56-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Control the skies with complete freedom in 3D
+The critically acclaimed aerial combat series flies onto the Nintendo 3DS! Ace Combat: Assault Horizon Legacy + delivers supersonic flying, exciting dogfights and high-altitude acrobatics all in enhanced 3D!
+
+Features:
+
+Intense and engaging battles in the sky – The fast-paced action of the Ace Combat series is even more immersive with the addition of 3D gameplay.
+Touch screen targeting – Lock-on to enemies and fire at will using the touch screen.
+Edge-of-your-seat controls – Experience the exhilaration of becoming an ace pilot with added control mechanics that enable split-second counter-maneuvers, dynamic dogfight action and satisfying enemy takedowns.
+Missions &amp; Aircrafts – Full variety of real-world aircrafts to fly and diverse range of missions to enjoy.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Namco Bandai Games</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2011-11-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>143481</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ace_Combat:_Assault_Horizon_Legacy</WikipediaURL>
+    <Title>Ace Combat: Assault Horizon Legacy+</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>4</PlayCount>
+    <PlayTime>659</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Flight Simulator</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-i4ESTgH92M</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Mario Kart 7.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:41:30.1525177-05:00</DateAdded>
+    <DateModified>2024-03-19T10:42:15.2420126-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>eaac694b-3ebd-4916-a744-bf459e2486c8</ID>
+    <LastPlayedDate>2024-03-18T23:08:22.9731543-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The newest installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2011-12-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.310662</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>136</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12733</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Kart_7</WikipediaURL>
+    <Title>Mario Kart 7</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>4</PlayCount>
+    <PlayTime>297</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=N36jPMZWyAA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Nintendo 3DS\Castlevania Lords of Shadow Mirror of Fate.7z</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-12T14:13:12.7731764-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2630055-05:00</DateModified>
+    <Developer>MercurySteam</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>99423a71-9726-42aa-8a77-11996ba66b76</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Initially set 25 years after the events of Castlevania: Lords of Shadow, Mirror of Fate will reveal the story of Gabriel's descendants, as they battle their own destiny in each era only to discover their true, shocking fate.
+
+Trevor Belmont, a knight of the Brotherhood of Light sets out to avenge the death of his mother, at the hands of his own father, who has now returned from years of exile to take up residence in a mysterious castle. What was once Gabriel Belmont now stands a powerful vampire called Dracula. Dracula has declared war upon the Brotherhood and thus the scene is set for a cataclysmic showdown between Father and Son!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2013-03-05T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1612904</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>10864</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Castlevania:_Lords_of_Shadow_%E2%80%93_Mirror_of_Fate</WikipediaURL>
+    <Title>Castlevania: Lords of Shadow: Mirror of Fate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=b8BzxOtEu2c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Final Fantasy Explorers.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-01T19:26:02.2108026-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2619586-05:00</DateModified>
+    <Developer>Racjin</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fa87ce74-86f6-438b-90d0-b517ed901463</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Final Fantasy Explorers focuses on cooperative play with friends, utilizing a refined party system allowing Explorers to master over 20 jobs, each offering unique ways to defeat or even recruit the realm’s mightiest monsters. Players will have the ability to call upon the powers of eidolons like Ifrit and Bahamut, as well as to transform into legendary characters from the Final Fantasy series via the Trance ability. Multiplayer functionality is enabled through the Nintendo 3DS wireless communication.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Square Enix</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2014-12-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>24781</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Final_Fantasy_Explorers</WikipediaURL>
+    <Title>Final Fantasy: Explorers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Pokemon Ultra Sun.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:58:35.8508138-05:00</DateAdded>
+    <DateModified>2024-03-19T21:32:15.3868292-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9817df6c-b926-4c37-9d70-64bf3fcea01d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Ultra Sun and Pokémon Ultra Moon are role-playing video games developed by Game Freak, published by The Pokémon Company, and distributed by Nintendo for Nintendo 3DS. Announced in June 2017, the titles are enhanced versions of Pokémon Sun and Moon with a modified storyline, similar to previous "upper versions" like Yellow, Emerald, Crystal, and Platinum. The games are the second installments in the seventh generation of the main series and the last planned installment of the main series Pokémon games for Nintendo 3DS.
+
+The games are set in the Hawaii-based Alola region with an alternate storyline and introduce several new characters, Pokémon, forms, and gameplay features. As with previous titles in the series, the game follows a young trainer in a Pokémon-training journey across the region. The games feature new forms of the legendary Pokémon Necrozma, known as Dusk Mane Necrozma and Dawn Wings Necrozma, as version mascots. The games were released worldwide on November 17, 2017.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2017-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1647725</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>88</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>138553</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon</WikipediaURL>
+    <Title>Pokemon Ultra Sun</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>Spain</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=bucxOT8zudk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\SUPER MARIO 3D LAND.3ds</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:02:57.45269-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2582931-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>049fe25b-5f00-4c26-a531-569e8098c66c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Super Mario 3D Land is a platform game that has been described by game designer Shigeru Miyamoto as a "3D Mario that plays as a 2D Mario game." As such, Super Mario 3D Land combines the elements of traditional side-scrolling Mario titles, such as linear-based levels, with those of the modern open world Mario titles, such as moving Mario in three dimensions and performing a variety of actions.
+
+Similar to the classic side-scrolling Mario games, the objective of each level is to reach and grab the "Goal Pole" located at the end of the course before the time limit expires. Super Mario 3D Land utilizes a similar health system to those games, in which Mario shrinks upon taking damage from enemies or hazards, and damage while as "Small Mario" results in losing a life.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2011-11-13T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.361111</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>216</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10605</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_3D_Land</WikipediaURL>
+    <Title>Super Mario 3D Land</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=h2EyR_DPJTQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Monster Hunter Generations.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-28T18:02:17.5101193-05:00</DateAdded>
+    <DateModified>2024-03-19T21:32:15.3848608-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>024f883c-bc14-484b-bb6e-f7b4288a3108</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Monster Hunter Generations is an action role-playing video game developed and published by Capcom for the Nintendo 3DS. Announced in May 2015, the game was released in Japan in November 2015, under the title Monster Hunter Cross, and was released internationally in July 2016. Like other titles in the Monster Hunter series, players undertake quests that involve hunting dangerous creatures. Major additions in this installment include special attacks, new combat styles, and the ability to play as Felynes, who have traditionally only appeared as a companion to the player.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2016-07-15T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7592592</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>115762</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Monster_Hunter_Generations</WikipediaURL>
+    <Title>Monster Hunter Generations</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=WLYmrxrxen4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\DRAGON BALL HEROES ULTIMATE MISSION.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-14T13:09:24.8295378-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6616933-05:00</DateModified>
+    <Developer>Dimps</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b2abf4c3-469b-43cf-a6d6-eef907aae438</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon Ball Heroes: Ultimate Mission is a card-based fighting game that is a portable-port of the arcade game Dragon Ball Heroes. It was released in Japan for the Nintendo 3DS handheld gaming console on February 28, 2013. Its sequel, Dragon Ball Heroes: Ultimate Mission 2, was released in 2014.
+
+The game recreates the interface of the Dragon Ball Heroes arcade game via the touch panel. The player assembles a deck of five cards for battles. As the player uses the touch stylus to create a card formation on the bottom screen, the battle unfolds on the top screen. Actions, such as the Charge Impact, are done so that the player can intuitively do them with their hands on the portable device.
+
+The game includes a scouter function, which uses the 3DS' camera to take a picture of someone's face in order to check their power. This allows the player to earn Zeni and other items. Scan someone with a high power level and Great Ape Vegeta will appear as a boss fight, and tag up with friends to take him on. Scanning special QR codes allows the player to fight special bosses, such as Beerus or Super Saiyan God Goku from the 2013 movie Dragon Ball Z: Battle of Gods.
+
+In the story mode, the player moves around what is called the Ultimate Map and experiences the story from the Saiyan Saga up through Dragon Ball GT, with the most famous scenes from the series recreated for the game. By completing missions, more cards are obtained in the game.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Bandai Namco Games</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2013-02-28T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9444444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>123987</DatabaseID>
+    <WikipediaURL>https://dragonball.fandom.com/wiki/Dragon_Ball_Heroes:_Ultimate_Mission</WikipediaURL>
+    <Title>Dragon Ball Heroes: Ultimate Mission</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=qjPqg_uF5WY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It)8258_hexrom.com_.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-29T11:15:07.4234267-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609266-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>20c6e668-0232-4f00-a9d7-93360f3fc6aa</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Monster Hunter 3 Ultimate utilises the functionality of the Nintendo 3DS to provide players with a truly intuitive hunting experience. The touchscreen allows players to quickly access in-game books, weapons, field maps and mini games while the 3D visuals of Nintendo 3DS, powered by the latest iteration of Capcoms MT Framework, deliver a unique and stunning world for players to explore. Taking advantage of the portability of Nintendo 3DS, players can exchange their guild card that contains all their hunters information with other players via StreetPass.
+
+Players can experience the world of Monster Hunter alone or in four player local play using Nintendo 3DS. Finding nearby hunters to adventure on quests with is now even easier via the local Nintendo 3DS search feature. Wii U players will be able to enjoy the hunt with Nintendo 3DS players via a local wireless connection. Gamers that own both a Wii U and Nintendo 3DS can take advantage of the inter compatibility of save data between the two consoles, taking the hunt from the living room wherever they go.
+
+-Expansive Monster Hunter world equipment and weapon upgrades, challenging monsters and over 200 quests to tackle make this latest offering the most expansive in the series so far.
+-Utilise 3DS functionalities The touch screen provides easy access to in-game books, weapons, field maps and mini games.
+-3D visuals The beautiful world of Monster Hunter, powered by Capcoms latest iteration of the MT Framework, appears visually stunning and unique for players to enjoy on 3DS format
+-Dont hunt on your own Connect with up to three friends in four player local play via the Nintendo 3DS or online via the Wii U. Wii U players can also link up with Nintendo 3DS players over a local connection.
+-Search for fellow hunters! Use the local 3DS search feature to find other hunters in your location.
+-Take the experience with you wherever you go Share your save data between your Wii U home console and the Nintendo 3DS, allowing the Monster Hunter experience to be truly portable.
+-Meet your companions Never feel alone in the vast world of Monster Hunter with the aid of your two companions, Cha-Cha and Kayamba, who will assist you on your quests.
+-Exchange your information Share your guild card with fellow hunters via the Nintendo StreetPass function.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2013-03-19T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0454545</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>22</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>15181</DatabaseID>
+    <WikipediaURL />
+    <Title>Monster Hunter 3: Ultimate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Metroid Prime - Federation Force (USA) (En,Fr,Es).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-19T01:55:46.3564657-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:44.4836597-05:00</DateModified>
+    <Developer>Next Level Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>67ed7cc7-5a74-4e87-94eb-79f37b035fcc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Metroid Prime: Federation Force 3DS. Join a four-player local or online squad in this co-operative sci-fi shooter set in the Metroid universe. Hop in a specialized battle Mech suit and battle alongside your teammates to take down enemy forces and complete objective- based missions. Then, take a break and play a fun, pick-up game of Blast Ball with fellow troops.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2016-08-19T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>35013</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metroid_Prime:_Federation_Force</WikipediaURL>
+    <Title>Metroid Prime: Federation Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=sGu3Xe1uUUg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON LUNA.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:52:16.8654658-05:00</DateAdded>
+    <DateModified>2024-03-19T21:32:15.3857246-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>60071803-d502-45d3-a051-055463e06ad4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In Pokémon Moon, embark on an adventure as a Pokémon Trainer and catch, battle, and trade all-new Pokémon on the tropical islands of the Alola Region. Engage in intense battles, and unleash powerful new moves. Discover and interact with Pokémon while training and connecting with your Pokémon to become the first ever Alolan Pokémon Champion! Thwart the plans of Team Skull and discover the mystery behind the Aether Foundation and the Ultra Beasts.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2016-11-18T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2352943</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>68</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>119661</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sun_and_Moon</WikipediaURL>
+    <Title>Pokémon Moon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=fL6QuYi3rpo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON ZAFIRO ALFA.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T18:08:30.431184-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.260174-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Prepare for an epic adventure exploring a world filled with Pokémon in Pokémon Alpha Sapphire for the Nintendo 3DS family of systems. Your adventure takes place in Hoenn, a region that consists of a main island that stretches widely from east to west, along with countless small islets that dot the deep blue sea around it. A live volcano steams constantly in the heart of this green-covered island. Look forward to a region rich with natural beauty, a variety of Pokémon, and extraordinary people!
+
+During your journey through Hoenn, you’ll be able to build and invite friends to visit your personal Super-Secret Base! Come up with your own Secret Base design, including selecting and placing Decorations however you like. You can also use Super-Secret Bases to play a capture-the-flag activity. Stop Team Aqua from going after the Legendary Pokémon Kyogre. Also look out for Omega Ruby and all new Mega Evolutions as well.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2014-11-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.284091</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>88</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>23587</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire</WikipediaURL>
+    <Title>Pokémon Alpha Sapphire</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=lhNnFONF3gE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Detective Pikachu.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T09:10:12.3332707-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2628898-05:00</DateModified>
+    <Developer>Creatures</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3c480374-9761-40c9-a3de-70240fa7a2aa</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>As Tim Goodman, you'll partner with a self-proclaimed "great detective" Pikachu to solve strange occurrences all over Ryme City. Together you must investigate, take notes, and meet up with other Pokémon to unravel the city's greatest mysteries!
+
+Tim is searching for his missing father in Ryme City, but instead encounters a witty, tough-talking Pikachu! Along the way, experience over 150 fun-filled animated cutscenes starring this unique Pikachu, providing helpful hints or talking up a storm. You can also tap the extra-large Detective Pikachu amiibo figure to access all cutscenes up until the current chapter played. As you investigate crime scenes, gather testimonies, uncover information, and interact with Pokémon to solve cases. You’ll have to put your detective skills to the test to foil the mastermind behind the disturbances in Ryme City. All in a day's work for detective Pikachu!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2016-02-03T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6052632</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>127993</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Detective_Pikachu</WikipediaURL>
+    <Title>Detective Pikachu</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=PeYARbPHcvk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Monster Hunter Stories.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-29T11:10:08.6305591-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2607158-05:00</DateModified>
+    <Developer>Marvelous</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3c4766c4-b18a-4a4d-9acf-7bbd946b501f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Prepare to embark on an RPG adventure unlike anything the Monster Hunter series has ever known. In Monster Hunter Stories, become a rider and bond with monsters to raise their potential and unleash powerful combos. Players can fly, swim and crash into new areas of the map; discover eggs to collect and hatch; and participate in turn-based battles with a party of up to five monsters.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2016-10-08T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>131640</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Monster_Hunter_Stories</WikipediaURL>
+    <Title>Monster Hunter Stories</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Metroid - Samus Returns (Europe) (En,Fr,De,Es,It,Nl).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-19T01:57:49.5686306-05:00</DateAdded>
+    <DateModified>2024-03-19T10:26:02.5390817-05:00</DateModified>
+    <Developer>MercurySteam</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2c5ffff7-7c11-468d-a999-dc23fd9c1ee9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388.
+The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2017-09-15T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>136600</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metroid:_Samus_Returns</WikipediaURL>
+    <Title>Metroid: Samus Returns</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=UhOx-FpEAQk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Nintendo 3DS\THE LEGEND OF ZELDA A LINK BETWEEN WORLDS.7z</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-11T10:32:50.4308388-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2618453-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>95fd1c55-7bd1-487f-9961-7a462ff2d5cf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Two worlds collide in an all-new adventure set in the world of Super NES classic The Legend of Zelda: A Link to the Past. In this newly spun tale, Link transforms into a living painting to cross into a dark, parallel dimension mirroring Hyrule. Conquer the puzzles, traps, and hidden rooms of deadly dungeons to save both worlds from certain doom! 
+
+Brought to life in 3D, this beloved, top-down world is the perfect backdrop for a sweeping new tale. Dungeons sink deep below the screen as Link and his attacks pop out, highlighting the nonstop action. The pace is faster than ever, especially since you can swap items on the Nintendo 3DS touch screen. Shoot an arrow, toss a boomerang, bomb a wall, then merge into a painting to slide between two worlds - all in a matter of seconds. With gameplay, visuals, and controls this smooth and consistent, no Zelda adventure has ever been so action-packed.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2013-11-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.50492</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>187</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>18165</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds</WikipediaURL>
+    <Title>The Legend of Zelda: A Link Between Worlds</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Uv_JV4qKVSg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Dragon Ball Z - Extreme Butoden EUR.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-14T13:40:43.9724168-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2623308-05:00</DateModified>
+    <Developer>Arc System Works</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4f368811-da80-44fb-8201-9e5f4f176ed3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>2-D Dragon Ball Z fighting returns with fast-paced, hard-hitting action in Dragon Ball Z: Extreme Butoden! Featuring over 100 characters from the Dragon Ball Z universe, feel the destructive power of bone-crushing blows as you execute and chain together multi-hit combos. Command character specific move-sets and unleash epic Super Moves to deal devastating damage!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Namco Bandai Games America</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2015-06-11T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.532258</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>32125</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Extreme_But%C5%8Dden</WikipediaURL>
+    <Title>Dragon Ball Z: Extreme Butoden</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>Dragon Ball Z - Extreme Butoden EUR</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=ubLLWG3b5KQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Pokemon Ultra Moon.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T18:00:04.080331-05:00</DateAdded>
+    <DateModified>2024-03-14T18:29:27.2519122-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d49b123f-81c7-4392-b568-9e7923177420</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A new light shines on the Alola region! Take on the role of a Pokémon Trainer and unravel the mystery of the Legendary Pokémon Necrozma’s new forms: Dusk Mane Necrozma in the Pokémon Ultra Sun game and Dawn Wings Necrozma in the Pokémon Ultra Moon game. You can encounter and battle 400+ Pokémon, including new forms. A brand-new showdown awaits!
+
+Discover the Legendary Pokémon Solgaleo and Lunala’s new Z-Moves and their mysterious connection to the Legendary Pokémon Necrozma. Then venture into Ultra Wormholes to explore the Ultra Beasts’ home world, encounter every Legendary Pokémon, and uncover Ultra Megalopolis, a dark world where Necrozma has stolen the light. On the bright side, the Alola region has new activities, and fresh landscapes to explore with some assistance from your powered-up Rotom Dex. You’ll need all the help you can get if you’re going to stop Giovanni, Ghetsis, and the rest of Team Rainbow Rocket from taking over the Alola region!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2017-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.225</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>60</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>138554</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Ultra_Sun_and_Ultra_Moon</WikipediaURL>
+    <Title>Pokemon Ultra Moon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=bucxOT8zudk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON MUNDO MISTERIOSO PORTALES AL INFINITO.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:25:08.271786-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2597815-05:00</DateModified>
+    <Developer>Spike ChunSoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9785ed86-37e2-45b5-8242-352d8416ee54</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Discover the incredible 3D world of Pokémon Mystery Dungeon: Gates to Infinity, where Pokémon speak and amazing adventures are always nearby! What's more, you will become a Pokémon yourself! You'll meet all kinds of Pokémon throughout the game, both in the towns you'll visit and the Mystery Dungeons you'll explore.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2013-03-24T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6290324</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>16398</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Gates_to_Infinity</WikipediaURL>
+    <Title>Pokémon Mystery Dungeon: Gates to Infinity</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://youtu.be/7zWAFqu913c</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Pokemon Y.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:46:52.6552536-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2584207-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>039fe6f3-bbb9-4984-95a0-3956d1875117</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Become a Pokémon Trainer and set out for adventure in a vast and wondrous new region filled with new Pokémon to catch, trade, and battle. Your adventure in Pokémon Y takes place in the Kalos region, home to beautiful skies and forests! The Kalos region is full of interesting places to visit and explore! All-new Pokémon and past favorites come to life with detailed graphics and intense 3D battles and in the new Pokémon-Amie mode you can pet, feed, and play with your Pokémon to form a deeper bond, which may benefit you in future battles.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2013-10-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>96</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>18079</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y</WikipediaURL>
+    <Title>Pokemon Y</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=WNr6wQfNfK4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\DRAGON BALL FUSIONS 2.2.0.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-14T13:40:33.5658216-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2627697-05:00</DateModified>
+    <Developer>Ganbarion</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0c631747-bd74-41a3-a177-b8fc5719a252</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon Ball Fusions is an RPG action game that combines fighting, customization, and collection elements to bring Dragon Ball to the next level. In this new world, players will discover powerful items, find warriors who can become their allies, and build teams to bring into battle to see who the best fighters are. The battle system combines strategy and real time action to make this a fun and unique Dragon Ball experience for fans.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Bandai Namco Games</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2016-08-04T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0384617</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>39</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>123136</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dragon_Ball_Fusions</WikipediaURL>
+    <Title>Dragon Ball Fusions</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=GIpW-UZmp5U</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Nintendo 3DS\THE LEGEND OF ZELDA MAJORAS MASK 3D.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-02T15:53:11.4749297-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609184-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4d7cc7bf-f270-477e-bc31-676f5e6558de</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In three days, the moon will fall and the land of Termina will meet with a terrible fate. Can you save it in time? Relive the world’s final 72 hours, solve elaborate puzzles, conquer dungeons, battle giant bosses, and befriend the doomed people of Termina in one of Nintendo’s most suspenseful apocalyptic adventures ever.
+
+The Legend of Zelda: Majora’s Mask 3D is a remastered and enhanced version of the Nintendo classic that’s unlike any other Legend of Zelda adventure. In this shadowy tale, a masked Skull Kid drags Link™ into the world of Termina, where the moon is falling from the sky. Lucky for Termina, Link can reverse time and relive his last 72 hours in limitless ways. Each time, he’ll don any of his 20+ masks, help different citizens, battle different bosses, and ultimately change the fate of a world. This is the definitive version of a dark classic.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2015-02-13T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5552526</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>198</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>23870</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_Majora's_Mask_3D</WikipediaURL>
+    <Title>The Legend of Zelda: Majora's Mask 3D</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Hj6cXziHpjQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-10-28T17:36:48.9718175-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609377-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f31925d3-82a7-4724-baa9-27709c5293df</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Monster Hunter 4 Ultimate (called Monster Hunter 4G in Japan) is the newest installment in the popular Monster Hunter series, which has sold more than 28 million units worldwide to date. In Monster Hunter 4 Ultimate, players will take on the role of a hunter that joins up with a traveling caravan to explore new lands and towns along the way. This grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Launching on Nintendo 3DS, Monster Hunter 4 Ultimate represents the biggest leap forward ever for the series with more new content and exciting features than ever before. Also, for the first time ever for the Monster Hunter series on a handheld system, players will be able to join up with friends over the internet via the Nintendo Wi-Fi Connection, as well as the previously available local wireless option.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2014-10-11T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.269231</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>25632</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Monster_Hunter_4</WikipediaURL>
+    <Title>Monster Hunter 4 Ultimate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=fdjvYihfUkk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\POKEMON X.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T17:37:11.9705617-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2585455-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bd61ed67-182b-4a9f-a002-7a47e1da442c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon X and Pokémon Y are 2013 role-playing video games developed by Game Freak, published by The Pokémon Company and Nintendo for the Nintendo 3DS. They are the first installments in the sixth generation of the main Pokémon video game series. First announced in January 2013 by former Nintendo president Satoru Iwata through a special Nintendo Direct, Pokémon X and Pokémon Y were released worldwide in October 2013, making them the first Nintendo-published retail games to have a simultaneous global release in all key regions.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2013-10-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1505375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>93</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>18078</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y</WikipediaURL>
+    <Title>Pokemon X</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=WNr6wQfNfK4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Naruto Shippuden 3D The New Era.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-28T08:06:35.3483443-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609276-05:00</DateModified>
+    <Developer>Takara Tomy</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5dca0479-89ed-4c83-b91a-b62813dcb441</ID>
+    <LastPlayedDate>2024-02-27T19:50:21.677-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Naruto Shippuden 3D: The New Era will provide high-kicking action in glorious, portable 3D in an all new story setting.
+
+In this latest videogame action adventure in the long running and celebrated series, Naruto is presented for the very first time in 3D, with dynamic camera twists and turns taking full advantage of the new Nintendo handheld's hardware capabilities. Naruto is available from the outset as a selectable character, with rival Sasuke un-lockable during the course of gameplay. A supporting cast of ten 'assist' characters, three of which can be taken along per chapter, offers a different dynamic to gameplay, allowing for a more strategic approach to combat.
+
+Naruto fans will be able to engage in a bespoke storyline based on the last events of the manga and animation series, featuring an all new female ninja character, Malice. The mysterious Five Kages, will also make their first videogame appearance in an adventure which spans nine different locations, with secret items and stages aplenty to be unlocked along the way.
+
+Naruto Shippuden 3D: The New Era on 3DS also incorporates the lead character's 'Sage Mode', in which Naruto transforms into a significantly more powerful version of himself once his special gauge is charged to maximum. The game will make use of the 3DS' motion controls, in situations such as avoiding certain attacks and during boss fights.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>505 Games</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2011-03-31T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>123237</DatabaseID>
+    <WikipediaURL />
+    <Title>Naruto Shippuden: The New Era</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>69</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=fepnUfS3TYA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\New Super Mario Bros 2.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:26:14.5063225-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2602886-05:00</DateModified>
+    <Developer>Nintendo EAD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>943fb825-5efb-4771-b715-770ed10c0f40</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mario Hits the Mushroom Kingdom Jackpot! Bowser has once again kidnapped Princess Peach, but this time, Mario has another objective. The Mushroom Kingdom is bursting with more gold coins than before. Each level is littered with gold as coins rain down from overhead pipes, trails of coins are left behind special gold enemies and gold pipes transport Mario into coin-filled caverns. It's up to players to collect as many coins as possible throughout their adventure.
+• The game records all the coins players collect throughout the game, so completing a level is only part of the fun. Every level is filled with golden opportunities, such as gold rings that turn enemies into valuable gold versions and a Gold Flower that gives Mario the ability to turn almost anything in his path into coins.
+• Coin Rush Mode allows players to collect as many coins as possible across three levels and challenge friends to beat their record via StreetPass.
+• The return of Raccoon Mario gives Mario the ability to fly and access hidden areas.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2012-07-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.219551</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>156</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12504</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/New_Super_Mario_Bros._2</WikipediaURL>
+    <Title>New Super Mario Bros. 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=bHdu3slBIY8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Driver - Renegade (USA) (En,Fr,Es).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-10T18:26:43.0753209-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2621399-05:00</DateModified>
+    <Developer>Velez &amp; Dubail</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2532640a-fed3-4594-8059-8bb7e99b5cbb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tanner is back and full of rage in the new Driver Renegade for the Nintendo 3DS. Driver Renegade takes place between the stories of Driver 1 and Driver 2. After years of undercover work for the NYPD, John Tanner leaves his badge and takes protection under Senator Ballard to take care of crime in his own way. As a renegade, Tanner cleans up the New York streets and punishes those that oppose him. Driver Renegade brings non- stop 3D car chases to the Nintendo 3DS system.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Ubisoft</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2011-09-06T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>16818</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Driver:_Renegade</WikipediaURL>
+    <Title>Driver: Renegade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=LOMFdnXu5JY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Dragon Ball Heroes - Ultimate Mission 2 (Japan).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-14T13:10:10.7950313-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609155-05:00</DateModified>
+    <Developer>Dimps</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2cddddff-9f67-4d7e-9a6c-8f0edeab6537</ID>
+    <LastPlayedDate>2024-03-10T17:44:16.063-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon Ball Heroes: Ultimate Mission 2 is a card-based fighting game that is a portable-port of the arcade game Dragon Ball Heroes, and the sequel to Dragon Ball Heroes: Ultimate Mission. The game was released in Japan for the Nintendo 3DS handheld gaming console on August 7, 2014. Its sequel, Dragon Ball Heroes: Ultimate Mission X, was released in 2017.
+
+Ultimate Mission 2 includes missions from all 21 Dragon Ball Heroes iterations from the first set through Jaaku Mission 3 and players are able to retain all the cards they obtained in the first game. 
+
+The sequel features a brand-new Adventure Mode known as the Ultimate Universe Mode, an Arcade Mode, as well as the Burst Limit Mission Mode where the player has a finite number of cards and is not allowed to play the same one twice.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Bandai Namco Games</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2014-08-07T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2692308</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>123988</DatabaseID>
+    <WikipediaURL>https://dragonball.fandom.com/wiki/Dragon_Ball_Heroes:_Ultimate_Mission_2</WikipediaURL>
+    <Title>Dragon Ball Heroes: Ultimate Mission 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>2</PlayCount>
+    <PlayTime>38</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Fighting; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=nUvMHIS3YHw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Tekken 3D - Prime Edition (Europe) (En,Fr,De,Es,It).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-10T13:15:30.762758-05:00</DateAdded>
+    <DateModified>2024-03-19T21:32:15.3874042-05:00</DateModified>
+    <Developer>Arika</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>05ae2406-c7d8-4749-8da7-e2c23c1fd31f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Play the game, watch the movie! Tekken 3D Prime Edition contains the complete entertainment world of TEKKEN onto a single Nintendo 3DS card! Battle with more than 40 fighters from the TEKKEN universe and with Young Heihachi for the first time ever! In addition, watch TEKKEN: Blood Vengeance, a full 3D theatrical experience produced by Digital Frontier in conjunction with the Tekken Project development team. With the satisfying combination of a movie and fully featured portable Tekken gaming experience, players can take TEKKEN wherever they go.
+
+Tekken Experience - Contains the complete TEKKEN: Blood Vengeance 3D movie and the intense fighting action of the TEKKEN series in one package:
+
+Card Collector - Amass your collection of original Tekken Cards in-game or obtain using StreetPass to find them all
+Time to Fight - Play in multiple single player modes or take the battle to the streets through Local Play and Internet Play
+Bloody Vengeance - Watch the full length theatrical feature TEKKEN: Blood Vengeance in full 3D through the Nintendo 3DS system</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Namco Bandai Games</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2012-02-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.357143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>15158</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Tekken_3D:_Prime_Edition</WikipediaURL>
+    <Title>Tekken 3D: Prime Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=2aBRrCeKAeE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Pokemon Rumble Blast (USA) Decrypted.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-02T16:28:23.2182337-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2594564-05:00</DateModified>
+    <Developer>Ambrella</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>65cc377e-7363-4ee5-b251-4a1ed109995d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pokémon Rumble Blast, the first Pokémon game created exclusively for the Nintendo 3DS system, is an action-packed Pokémon adventure in 3D! Battle against waves of opponents, connect and play with friends, and collect more than 600 different Toy Pokémon!
+ 
+As you advance through each stage in Pokémon Rumble Blast, your Toy Pokémon will face dozens of Pokémon at once in fast and furious real-time battles! You'll also run into giant Boss Pokémon, whose massive size and strength will make them especially tough to defeat and who can become powerful allies if you're lucky!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2011-10-24T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3235295</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12725</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Rumble_Blast</WikipediaURL>
+    <Title>Pokemon Rumble Blast</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing; Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=2l1yrRM_2pE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Pokemon Super Mystery Dungeon (EUR) (En,Fr,De,Es,It).rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T09:07:55.8000522-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2592231-05:00</DateModified>
+    <Developer>Spike ChunSoft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>73c8602a-1fae-4165-ac86-7e25bdd45bc4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The definitive Pokémon Mystery Dungeon! Prepare yourself for a grand adventure where you become a Pokémon and battle alongside Legendary and Mythical Pokémon to help save the world! Befriend Pokémon and explore ever-changing mystery dungeons with them!
+
+Players are suddenly transformed into a Pokémon and sent out to a world inhabited only by Pokémon. From a group of 20 Pokémon, including the starters from core RPG Pokémon games plus Pikachu and Riolu, you can choose your Pokémon and your partner Pokémon! Battle alongside your partner Pokémon, who will become your best friend as you investigate ever-changing dungeons. Befriend and interact with all 720 known Pokémon as you attempt to save the world from a crisis in a tale of unprecedented scale! The possibilities are limitless!</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2015-09-17T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.34375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>32</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>33562</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Super_Mystery_Dungeon</WikipediaURL>
+    <Title>Pokemon Super Mystery Dungeon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/_UfQ3rTJnHo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo 3DS\Transformers Prime - The Game (Europe) (En,Fr,De,Es,It,Nl,Sv).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-12T06:36:01.7831119-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2561058-05:00</DateModified>
+    <Developer>Altron</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>792a2f1b-5608-4e77-87a1-31a9ec015667</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Based on the hit animated television show produced by Hasbro Studios and currently airing on The Hub television network in the U.S., the game lets fans play as their favorite AUTOBOT characters and embark on an action-packed adventure to save the earth from the evil MEGATRON and his new secret weapon. Players step into the roles of OPTIMUS PRIME, BUMBLEBEE, ARCEE, AUTOBOT RATCHET, BULKHEAD and more as they explore unique vistas all around the world with brawler-style combat and diverse driving sequences. Along the way, gamers cultivate friendships with Jack, Miko and Raf - the human characters from the show - as Team Prime sets out to protect mankind and eliminate the DECEPTICONS once and for all.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Activision Publishing</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2012-10-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12727</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Transformers:_Prime_–_The_Game</WikipediaURL>
+    <Title>Transformers Prime: The Game</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>3</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=k3rkabF1CHg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Nintendo 3DS\Legend of zelda tri force heroes\THE LEGEND OF ZELDA TRI FORCE HEROES.7z</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-11T10:34:15.8027218-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6616959-05:00</DateModified>
+    <Developer>Grezzo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1acfdaf4-6314-4dc5-b10b-f97d9d732944</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Three players take on the role of individual Link characters and team up to work cooperatively to solve puzzles and battle bosses in dungeons. The game features the same top-down view and visual style of The Legend of Zelda: A Link Between Worlds. Players must work together, as all hearts are shared by the group as a whole. All three Links can stack on top of one another to create a Totem to reach new locations to solve puzzles or fight enemies. Different outfits offer unique abilities.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2015-10-23T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7448978</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>49</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>32311</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes</WikipediaURL>
+    <Title>The Legend of Zelda: Tri Force Heroes</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>3</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=nx4ww7H1WR4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>Games\Nintendo 3DS\THE LEGEND OF ZELDA OCARINA OF TIME 3D.rar</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-02T15:53:57.251548-05:00</DateAdded>
+    <DateModified>2024-03-19T12:11:37.2615309-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1f6af3de-7258-41ad-bd8d-4543a922a26e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Legend of Zelda: Ocarina of Time 3D brings a completely re-mastered version of an epic entry in the beloved The Legend of Zelda game series to Nintendos newest hand-held system, Nintendo 3DS. The game couples phenomenally enhanced graphics with stunning, glasses-free 3D visuals to bring to life the daring adventures of its hero, Link. A streamlined touch-screen interface and newly implemented motion controls provide a fresh and intuitive feel as players immerse themselves in the tale of the creation of Hyrule and the struggle for control of its all-powerful ancient relic. The game will also feature new challenges not included in the original game. The Legend of Zelda veterans can look forward to the Master Quest a second quest with revamped puzzles and redesigned dungeons that feature the same graphical and interface upgrades as the main game. The Legend of Zelda: Ocarina of Time 3D is a masterful improvement on one of the landmark releases in video game history.</Notes>
+    <Platform>Nintendo 3DS</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2011-06-19T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.697317</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>245</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12698</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_3D</WikipediaURL>
+    <Title>The Legend of Zelda: Ocarina of Time 3D</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=cu_ZtGP2oeM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>fb2e39b1-dcac-4f33-a6f8-8db1b46fdee4</GameID>
+    <Name>Naruto SD Powerful Shippuden</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a4b16166-f29f-4002-aafc-f2f19dbca513</GameID>
+    <Name>Pocket Monsters Sun</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a4b16166-f29f-4002-aafc-f2f19dbca513</GameID>
+    <Name>Pokémon Sole</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a4b16166-f29f-4002-aafc-f2f19dbca513</GameID>
+    <Name>Pokemon Sun</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a4b16166-f29f-4002-aafc-f2f19dbca513</GameID>
+    <Name>Pokémon Sol</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>a4b16166-f29f-4002-aafc-f2f19dbca513</GameID>
+    <Name>Pokémon Sonne</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokémon: Omega Ruby</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokémon Rubino Omega</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokémon: Rubí Omega</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokemon Omega Ruby</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokémon: Rubis Omega</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eae39348-a56f-41b8-a899-6a9fbd5cc34d</GameID>
+    <Name>Pokémon: Saphir Alpha</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>78624253-49ad-4a56-9cbe-fdd6691ca733</GameID>
+    <Name>Ace Combat 3D: Cross Rumble+</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>99423a71-9726-42aa-8a77-11996ba66b76</GameID>
+    <Name>Castlevania: Lords of Shadow: Sadame no Makyou</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pocket Monsters Ultra Sun</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokémon Ultra-Soleil</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokémon Ultrasonne</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokémon Ultrasole</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokémon Ultra Sol</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pocket Monster: Ultra Sun</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokemon Ultra Sol</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9817df6c-b926-4c37-9d70-64bf3fcea01d</GameID>
+    <Name>Pokémon Ultra Sun</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>024f883c-bc14-484b-bb6e-f7b4288a3108</GameID>
+    <Name>Monster Hunter X</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>20c6e668-0232-4f00-a9d7-93360f3fc6aa</GameID>
+    <Name>Monster Hunter 3G</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>20c6e668-0232-4f00-a9d7-93360f3fc6aa</GameID>
+    <Name>Monster Hunter 3 Ultimate Data Transfer Program</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>60071803-d502-45d3-a051-055463e06ad4</GameID>
+    <Name>Pokemon Moon</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>60071803-d502-45d3-a051-055463e06ad4</GameID>
+    <Name>Pocket Monsters Moon</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>60071803-d502-45d3-a051-055463e06ad4</GameID>
+    <Name>Pokémon Mond</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>60071803-d502-45d3-a051-055463e06ad4</GameID>
+    <Name>Pokémon luna</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>60071803-d502-45d3-a051-055463e06ad4</GameID>
+    <Name>Pokémon Luna</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</GameID>
+    <Name>Pokemon Alpha Sapphire</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</GameID>
+    <Name>Pokémon Alpha Saphir</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</GameID>
+    <Name>Pokémon Zafiro Alfa</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</GameID>
+    <Name>Pokémon: Alpha Sapphire</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>499a9a63-aa02-4e4c-85a2-d1a0bad6ff64</GameID>
+    <Name>Pokémon Zaffiro Alpha</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3c480374-9761-40c9-a3de-70240fa7a2aa</GameID>
+    <Name>Meitantei Pikachu: Shin Konbi Tanjo</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>95fd1c55-7bd1-487f-9961-7a462ff2d5cf</GameID>
+    <Name>Zelda no Densetsu: Kamigami no Triforce 2</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>95fd1c55-7bd1-487f-9961-7a462ff2d5cf</GameID>
+    <Name>Zelda ui Jeonseol: Sindeurui Triforce 2</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4f368811-da80-44fb-8201-9e5f4f176ed3</GameID>
+    <Name>Dragon Ball Z: Extreme Butouden</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pocket Monsters Ultra Moon</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pokémon Ultra Luna</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pokemon Ultra Luna</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pokémon Ultramond</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pokémon Ultraluna</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>d49b123f-81c7-4392-b568-9e7923177420</GameID>
+    <Name>Pokémon Ultra Moon</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9785ed86-37e2-45b5-8242-352d8416ee54</GameID>
+    <Name>Pokémon Mundo Misterioso: Portales al infinito</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9785ed86-37e2-45b5-8242-352d8416ee54</GameID>
+    <Name>Pokémon Mystery Dungeon: Gates to Infinity</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9785ed86-37e2-45b5-8242-352d8416ee54</GameID>
+    <Name>Pokemon Fushigi no Dungeon: Magnagate to Mugendai Meikyuu</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9785ed86-37e2-45b5-8242-352d8416ee54</GameID>
+    <Name>Pokemon Mystery Dungeon: Gates to Infinity</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>039fe6f3-bbb9-4984-95a0-3956d1875117</GameID>
+    <Name>Pokémon Y</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>4d7cc7bf-f270-477e-bc31-676f5e6558de</GameID>
+    <Name>Zelda no Densetsu: Mujura no Kamen 3D</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4d7cc7bf-f270-477e-bc31-676f5e6558de</GameID>
+    <Name>Zelda Jeonseol Majora Gamyeon 3D</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f31925d3-82a7-4724-baa9-27709c5293df</GameID>
+    <Name>Monster Hunter 4G</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>bd61ed67-182b-4a9f-a002-7a47e1da442c</GameID>
+    <Name>Pokémon X</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5dca0479-89ed-4c83-b91a-b62813dcb441</GameID>
+    <Name>Naruto Shippuden: Shinobi Rittai Emaki! Saikyou Ninkai Kessen!!</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5dca0479-89ed-4c83-b91a-b62813dcb441</GameID>
+    <Name>Naruto Shippuden 3D: The New Era</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>943fb825-5efb-4771-b715-770ed10c0f40</GameID>
+    <Name>New Super Mario Bros. 2: Gold Edition</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>943fb825-5efb-4771-b715-770ed10c0f40</GameID>
+    <Name>New Super Mario Bros. 2: Special Edition</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2532640a-fed3-4594-8059-8bb7e99b5cbb</GameID>
+    <Name>Driver: Renegade 3D</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65cc377e-7363-4ee5-b251-4a1ed109995d</GameID>
+    <Name>Super Pokémon Rumble</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65cc377e-7363-4ee5-b251-4a1ed109995d</GameID>
+    <Name>Super Pokemon Scramble</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65cc377e-7363-4ee5-b251-4a1ed109995d</GameID>
+    <Name>Super Pokemon Rumble</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65cc377e-7363-4ee5-b251-4a1ed109995d</GameID>
+    <Name>Super Pokémon Scramble</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>65cc377e-7363-4ee5-b251-4a1ed109995d</GameID>
+    <Name>Pokémon Rumble Blast</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>73c8602a-1fae-4165-ac86-7e25bdd45bc4</GameID>
+    <Name>Pokémon Mundo Megamisterioso</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>73c8602a-1fae-4165-ac86-7e25bdd45bc4</GameID>
+    <Name>Pokemon Chou Fushigi no Dungeon</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>73c8602a-1fae-4165-ac86-7e25bdd45bc4</GameID>
+    <Name>Pokémon Super Mystery Dungeon</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1acfdaf4-6314-4dc5-b10b-f97d9d732944</GameID>
+    <Name>Zelda no Densetsu: Tri Force 3-Juushi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1f6af3de-7258-41ad-bd8d-4543a922a26e</GameID>
+    <Name>Zelda no Densetsu: Toki no Ocarina 3D</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

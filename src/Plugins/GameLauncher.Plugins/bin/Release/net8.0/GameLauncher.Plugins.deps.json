@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameLauncher.Plugins/1.0.0": {
+        "runtime": {
+          "GameLauncher.Plugins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameLauncher.Plugins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

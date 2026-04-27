@@ -1,0 +1,696 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\Saturn Bomberman Fight!! (Japan).bin</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-06-28T18:23:47.3037637-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1869919-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>b5016133-7222-4ee9-84ec-8c385057b1c4</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a9926b14-0e77-49f8-ab4b-863773262caf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡¡¡Saturn Bomberman Fight!!! (?????????? ????!!) es una entrada en la serie de juegos Bomberman, lanzada exclusivamente para la Sega Saturn en Japón.
+
+A pesar de su nombre no es una secuela directa de Bomberman Saturn, aunque como la mayoría de los otros juegos de Bomberman, el modo de juego es muy similar. La peculiaridad de Saturn Bomberman Fight es que el juego se desarrolla en perspectiva isométrica y se centra más en el modo de batalla estándar de Bomberman. Ahora los personajes pueden saltar obstáculos y lanzar bombas sin necesidad de potenciadores, y cada personaje tiene un medidor de salud que se resta cada vez que es golpeado. También cuenta con más actuación de voz que en títulos anteriores, lo que puede explicar por qué el juego nunca llegó al mundo occidental.</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1997-12-11T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4444444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>141050</DatabaseID>
+    <WikipediaURL />
+    <Title>Saturn Bomberman Fight!!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 2D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\Dragon Ball Z - Shinbutouden (Japan).iso</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-07-01T12:46:53.7017179-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1870076-05:00</DateModified>
+    <Developer>TOSE</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e0293303-4b31-453f-beb7-ac891b928e66</ID>
+    <LastPlayedDate>2024-06-11T17:31:31.578276-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dragon Ball Z: Shin Butōden es un juego de lucha en 2D que mantiene (a diferencia del DBZ: Ultimate Battle 22 de PSX) el clásico modo a pantalla partida del que gozaban todos los juegos de lucha de 16 bits basados en la serie más famosa de Akira Toriyama, pero ahora tendrás la posibilidad de elegir entre nada menos que 27 personajes, entre ellos: Super Saiyajin Son Goku, Super Saiyajin Son Goku (3er nivel), Son Gohan, Son Goten, Vegeta, Joven Trunks, Trunks, Gotenks, Piccolo Diamoah, Kulilin, Tenshinhan, Kamesennin, Zarbon, Recoom, Ginew, Freeza, A-18, A-16, Cell, Kaioushin, Dabura, Majin Buu, Super Buu, Mr. Satan, El Gran Saiyaman, Joven Son Gokou y Gogeta. Además, podrás demostrar tus habilidades en el Modo Historia, el Modo Versus, el Modo Batalla en Grupo, el Modo Torneo o el mismísimo Modo Mr. Satan, en el que juegas como Mr. Satan apostando por quién ganará cada combate.</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Bandai</Publisher>
+    <Rating>Japones</Rating>
+    <ReleaseDate>1995-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>23550</DatabaseID>
+    <WikipediaURL />
+    <Title>Dragon Ball Z: Shinbutouden</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>1</PlayCount>
+    <PlayTime>44</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Pelea</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\Shinobi-X - Shin Shinobi Den (Europe).cue</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-07-12T21:41:33.3246108-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1870105-05:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>b5016133-7222-4ee9-84ec-8c385057b1c4</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1a5b8d85-51d4-4b15-a5da-b22331180a6a</ID>
+    <LastPlayedDate>2024-07-12T22:16:06-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La sangre es más espesa que el agua.
+
+No en esta familia. Los hermanos gemelos Sho y Kazuma dan mala fama a la rivalidad entre hermanos. Mientras Sho hace todas las cosas buenas que enorgullecerían a sus antepasados Shinobi, Kazuma los tiene revolviéndose en la parcela familiar. La banda de despiadados mercenarios de Kazuma pretende reducir a uno los miembros de la familia. Mientras tanto, Kazuma secuestra a su propia hermana, Aya, para asegurarse de que Sho tiene algo en lo que pensar antes de atacar a su hermano. A veces los niños no salen como uno quiere.
+
+Nueve fases de acción explosiva. Personajes digitalizados. Desplazamiento vertical y horizontal. Fondos multicapa con todo lujo de detalles. Cinemáticas de calidad cinematográfica.</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Vic Tokai</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1995-06-30T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>11342</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shinobi_Legions</WikipediaURL>
+    <Title>Shinobi Legions</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>21</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5e2oIfxAnV0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\SONIC_JAM.CUE</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-13T20:30:51.2479643-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1870114-05:00</DateModified>
+    <Developer>Sonic Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>b5016133-7222-4ee9-84ec-8c385057b1c4</Emulator>
+    <Favorite>false</Favorite>
+    <ID>14c546d5-d23f-47aa-a2ff-b9c7f3fad3d6</ID>
+    <LastPlayedDate>2024-07-10T21:52:09.5123794-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡Sobrecarga sónica! Abróchate el cinturón para disfrutar de un SuperSonic espectacular. Tendrás los cuatro éxitos del erizo en un solo CD. El Sonic the Hedgehog original, Sonic 2, Sonic 3 y Sonic &amp; Knuckles, el juego que transforma Sonic 1, 2 y 3 en nuevas aventuras. Si eso no es suficiente para satisfacer tu necesidad de diversión, explora el Museo de Sonic en 3D, completamente nuevo y totalmente interactivo.</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1997-07-31T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.118243</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>74</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>11175</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sonic_Jam</WikipediaURL>
+    <Title>Sonic Jam</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Saturn) (E) (1)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>153</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=6-Qv8k2L1gI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\Saturn Bomberman (USA) (DW0837).cue</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-06-28T18:07:31.7279639-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1870145-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>b5016133-7222-4ee9-84ec-8c385057b1c4</Emulator>
+    <Favorite>false</Favorite>
+    <ID>99178297-71bc-42c6-9fdc-a03cbe032459</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Era otro día aparentemente rutinario para Bomberman. Mientras patrullaba en busca de amenazas a la santidad de la paz de la que tanto disfrutaba el mundo, Bomberman se topó con algo que podría echar todo por tierra. En lo más profundo de la enmarañada maleza de la selva tropical, un destello captó la aguda mirada de Bomberman. La Torre de Cristal surgía de las verdes profundidades. Pero los cristales que contenían al horrible monstruo Crator dentro de la torre habían desaparecido, y Crator también.
+
+Entonces, un mensaje de radio llegó a la cabina: "Bomberman, el Sr. Malvado ha liberado a Crator y está usando sus poderes para conquistar el mundo. ¡Debes recuperar los cristales antes de que sea demasiado tarde! El parque de atracciones MeanieLand es su base secreta. Date prisa, por favor".
+
+De Bomberman depende recuperar el control de los cristales y restablecer el orden en un planeta que se desmorona, aplastando al malvado Sr. Meanie por el camino. Con ello, comienza un nuevo capítulo en la lucha entre el bien y el mal..."</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Hudson</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1997-01-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3086734</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>98</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>11326</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Saturn_Bomberman</WikipediaURL>
+    <Title>Saturn Bomberman</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (DW0837)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Plataforma 2D</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>10</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=uqfmb49P7d8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>I:\LaunchBox\Games\Sega Saturn\317 Sonic R (U).mds</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-05-13T20:31:13.0582118-05:00</DateAdded>
+    <DateModified>2024-07-20T23:29:35.1870162-05:00</DateModified>
+    <Developer>Sonic Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4f5bbd4e-8958-4128-a0a6-12f455981802</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>¡La carrera supersónica de todos! Knuckles, Tails, Amy y el Dr. Robotnik se unen a Sonic en su salida más rápida hasta la fecha. Contiene 5 pistas gráficamente impresionantes con muchos atajos y secretos. Sonic R te hará volver a por más. Incluye Grand Prix, 4 modos Time Attack y pantalla dividida para 2 jugadores. ¿Estás listo?</Notes>
+    <Platform>Sega Saturn</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Ingles</Rating>
+    <ReleaseDate>1997-06-18T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>mando</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.521605</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>81</CommunityStarRatingTotalVotes>
+    <Status>Plug and play</Status>
+    <DatabaseID>9208</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sonic_R</WikipediaURL>
+    <Title>Sonic R</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(U)(Saturn)</Version>
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>United States</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Carreras</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=nozTKk4_wtE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <CustomField>
+    <GameID>a9926b14-0e77-49f8-ab4b-863773262caf</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>e0293303-4b31-453f-beb7-ac891b928e66</GameID>
+    <Name>Idioma</Name>
+    <Value>Japones</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>1a5b8d85-51d4-4b15-a5da-b22331180a6a</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>14c546d5-d23f-47aa-a2ff-b9c7f3fad3d6</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>99178297-71bc-42c6-9fdc-a03cbe032459</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <CustomField>
+    <GameID>4f5bbd4e-8958-4128-a0a6-12f455981802</GameID>
+    <Name>Idioma</Name>
+    <Value>Ingles</Value>
+  </CustomField>
+  <AlternateName>
+    <GameID>e0293303-4b31-453f-beb7-ac891b928e66</GameID>
+    <Name>Dragon Ball Z: Shin Butouden</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>1a5b8d85-51d4-4b15-a5da-b22331180a6a</GameID>
+    <Name>Shinobi X</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1a5b8d85-51d4-4b15-a5da-b22331180a6a</GameID>
+    <Name>Shin Shinobi Den</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>99178297-71bc-42c6-9fdc-a03cbe032459</GameID>
+    <Name>Saturn Bomber Man</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>a9926b14-0e77-49f8-ab4b-863773262caf</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>e0293303-4b31-453f-beb7-ac891b928e66</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>1a5b8d85-51d4-4b15-a5da-b22331180a6a</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>14c546d5-d23f-47aa-a2ff-b9c7f3fad3d6</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>99178297-71bc-42c6-9fdc-a03cbe032459</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+  <GameControllerSupport>
+    <ControllerId>c9eeb65d-8547-4731-8326-1a2f0c00e002</ControllerId>
+    <GameId>4f5bbd4e-8958-4128-a0a6-12f455981802</GameId>
+    <SupportLevel>3</SupportLevel>
+  </GameControllerSupport>
+</LaunchBox>

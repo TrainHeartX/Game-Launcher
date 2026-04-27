@@ -1,0 +1,11 @@
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\bin\Debug\net8.0\GameLauncher.Plugins.deps.json
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\bin\Debug\net8.0\GameLauncher.Plugins.dll
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\bin\Debug\net8.0\GameLauncher.Plugins.pdb
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.GeneratedMSBuildEditorConfig.editorconfig
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.AssemblyInfoInputs.cache
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.AssemblyInfo.cs
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.csproj.CoreCompileInputs.cache
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.dll
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\refint\GameLauncher.Plugins.dll
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\GameLauncher.Plugins.pdb
+H:\GameLauncher\src\Plugins\GameLauncher.Plugins\obj\Debug\net8.0\ref\GameLauncher.Plugins.dll

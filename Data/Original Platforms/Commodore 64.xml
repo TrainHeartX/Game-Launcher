@@ -1,0 +1,243 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Commodore 64\TRANSFO0_08095_01\TRANSFO0.D64</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-11T19:42:07.2655738-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6116395-05:00</DateModified>
+    <Developer>David Crane</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>45eba93c-ca7b-4ccf-a478-df026634e72f</ID>
+    <LastPlayedDate>2024-03-11T23:32:32.8139392-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Transformers The Computer Game Vol. 1: Battle to Save the Earth is an action role-playing game released by Activision in 1986, based on the popular Transformers animated series. The game was released for the Commodore 64 in Datasette and floppy disk formats. It was the first Transformers game by Activision, which subsequently published more games for the franchise over two decades later.
+
+Based on the popular 1980s animated cartoon of the same name, The Decepticons are building a giant robot to threaten the Earth. Players must keep track of their action on a game map and send the appropriate Autobot (Cliffjumper, Bumblebee, Rodimus Prime, Hot Rod, Hound, Pipes, Blurr and Kup are featured) to combat each threat and prevent the Decepticons from stealing energy to build their giant robot. In order to accomplish this, the Decepticons must undergo a sequence of events in their complicated plan that takes place in such locations as: offshore oil rig, nuclear power plant, Dinosaur Park, space center, Andreas Zoo, and a pipeline. As a brief overview: First, energy must be collected to power-up a dinosaur in Dinosaur Park. This dinosaur will then be sent to collect Space Dust from the space shuttle before destroying it. The space dust will be used to grow hippopotami to gigantic proportions and use them to collect more energy from the pipeline. The Autobots' ultimate goal is to interrupt and delay this sequence. 
+
+In Transformers players choose the Autobot to go to locations on the map. When they reach the location the game switches to a first-person view, and players have to move a cross-hair to shoot at a near-endless stream of Decepticon jets that fly onto the screen. Players can be hit by their missiles - too many hits and the screen cracks up and the Autobot is defeated, requiring another one to take its place. The more Decepticon jets that are destroyed, the longer it takes for the Decepticons to progress to the next stage of the plan, in sequence.
+
+The game's intro features over a minute of speech, which is notable both in 1984 and for the Commodore 64 platform itself.</Notes>
+    <Platform>Commodore 64</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1986-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.3275</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>131696</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Transformers:_The_Battle_to_Save_the_Earth</WikipediaURL>
+    <Title>The Transformers: Battle to Save the Earth: The Computer Game</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>26</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=JvoHhjfkRE4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>f5ba6f33ec825a5bf3b499b218cbaba3</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Commodore 64\TRANSFOR.zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-11T19:36:56.2548169-05:00</DateAdded>
+    <DateModified>2024-03-20T09:36:41.6118083-05:00</DateModified>
+    <Developer>Denton Designs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5b209931-0195-488f-b5ee-35a23ea17947</ID>
+    <LastPlayedDate>2024-03-11T10:51:41.733-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Earth has been invaded by extraterrestrial shapechanging robots which have made our planet their battleground. The struggle between the good Autobots and the evil Decepticons centers around energy as the objective is to collect four pieces of the Energon Cube and getting them back to the Autobot base. The Decepticons will do their best to get in the way and use the cubes to their own nefarious means. You as the player control five Autobots that can either be in robot or vehicle form. You move around the platforms searching for the cubes. While in robot form you can either walk or fly, but while in vehicle form you drive around the platforms. Defensa-Pod can be used to switch between Autobots. Once all the cubes are collected the game repeats at a higher difficulty. Each Autobot has shields that deplete when shot at or hit by an enemy Decepticon, when all the Autobots are destroyed, it is Game Over. The Commodore 64 uses a scrolling playfield, while the Spectrum uses a flip-screen technique.</Notes>
+    <Platform>Commodore 64</Platform>
+    <Publisher>Ocean Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1985-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.23375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>25528</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Transformers_(1986_video_game)</WikipediaURL>
+    <Title>The Transformers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>234</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=1RRX7Kykb38</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <RetroAchievementsHash>c374f18d9fcdfa14ca509e84b062077f</RetroAchievementsHash>
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AdditionalApplication>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <Id>d69f46a7-d690-4e15-8988-c88d8c8246c3</Id>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <GameID>45eba93c-ca7b-4ccf-a478-df026634e72f</GameID>
+    <ApplicationPath>Games\Commodore 64\TRANSFO0_08095_01\TRANSFO1.D64</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>version 2</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>true</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <Developer />
+    <Publisher />
+    <Region />
+    <Version />
+    <Status />
+    <EmulatorId>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</EmulatorId>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+    <HasCloudSynced>false</HasCloudSynced>
+  </AdditionalApplication>
+  <AlternateName>
+    <GameID>45eba93c-ca7b-4ccf-a478-df026634e72f</GameID>
+    <Name>The Transformers: The Computer Game</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

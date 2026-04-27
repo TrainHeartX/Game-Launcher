@@ -1,0 +1,117 @@
+<UserControl x:Class="GameLauncher.Desktop.Views.StatisticsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid Background="#f8f9fa">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="30">
+                <!-- Header -->
+                <TextBlock Text="ESTADÍSTICAS DE JUEGO"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="#212529"
+                           Margin="0,0,0,30"/>
+
+                <!-- Resumen -->
+                <Grid Margin="0,0,0,30">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Tiempo total -->
+                    <Border Grid.Column="0" Background="White" Padding="20" Margin="0,0,10,0" CornerRadius="10">
+                        <StackPanel>
+                            <TextBlock Text="TIEMPO TOTAL" FontSize="14" Foreground="#6c757d"/>
+                            <TextBlock Text="{Binding TotalPlayTime}" FontSize="36" FontWeight="Bold" Foreground="#0096ff"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Juegos jugados -->
+                    <Border Grid.Column="1" Background="White" Padding="20" Margin="5,0" CornerRadius="10">
+                        <StackPanel>
+                            <TextBlock Text="JUEGOS JUGADOS" FontSize="14" Foreground="#6c757d"/>
+                            <TextBlock Text="{Binding TotalGamesPlayed}" FontSize="36" FontWeight="Bold" Foreground="#00d4ff"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- Plataformas -->
+                    <Border Grid.Column="2" Background="White" Padding="20" Margin="10,0,0,0" CornerRadius="10">
+                        <StackPanel>
+                            <TextBlock Text="PLATAFORMAS" FontSize="14" Foreground="#6c757d"/>
+                            <TextBlock Text="{Binding TotalPlatforms}" FontSize="36" FontWeight="Bold" Foreground="#00ff00"/>
+                        </StackPanel>
+                    </Border>
+                </Grid>
+
+                <!-- Top Juegos -->
+                <Border Background="White" Padding="20" Margin="0,0,0,20" CornerRadius="10">
+                    <StackPanel>
+                        <TextBlock Text="TOP 10 JUEGOS MÁS JUGADOS"
+                                   FontSize="20"
+                                   FontWeight="Bold"
+                                   Foreground="#212529"
+                                   Margin="0,0,0,15"/>
+
+                        <ListBox ItemsSource="{Binding TopGames}" BorderThickness="0" Background="Transparent">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid Margin="0,5">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Grid.Column="0" Text="{Binding Title}" FontSize="16" Foreground="#212529"/>
+                                        <TextBlock Grid.Column="1" Text="{Binding PlayTime}" FontSize="14" Foreground="#0096ff" Margin="20,0"/>
+                                        <TextBlock Grid.Column="2" FontSize="14" Foreground="#6c757d">
+                                            <Run Text="{Binding PlayCount, Mode=OneWay}"/>
+                                            <Run Text=" veces"/>
+                                        </TextBlock>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </StackPanel>
+                </Border>
+
+                <!-- Top Plataformas -->
+                <Border Background="White" Padding="20" CornerRadius="10">
+                    <StackPanel>
+                        <TextBlock Text="TOP PLATAFORMAS"
+                                   FontSize="20"
+                                   FontWeight="Bold"
+                                   Foreground="#212529"
+                                   Margin="0,0,0,15"/>
+
+                        <ListBox ItemsSource="{Binding TopPlatforms}" BorderThickness="0" Background="Transparent">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid Margin="0,5">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <TextBlock Grid.Column="0" Text="{Binding Name}" FontSize="16" Foreground="#212529"/>
+                                        <TextBlock Grid.Column="1" FontSize="14" Foreground="#6c757d" Margin="20,0">
+                                            <Run Text="{Binding GameCount, Mode=OneWay}"/>
+                                            <Run Text=" juegos"/>
+                                        </TextBlock>
+                                        <TextBlock Grid.Column="2" Text="{Binding TotalPlayTime}" FontSize="14" Foreground="#0096ff"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

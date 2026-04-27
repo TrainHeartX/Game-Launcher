@@ -1,0 +1,2414 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\White Knight Chronicles BCES00225\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-14T18:38:58.1773257-05:00</DateAdded>
+    <DateModified>2024-03-19T23:36:34.2809675-05:00</DateModified>
+    <Developer>Level-5</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>44a295b7-21df-44da-a2a4-91e4b6265687</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>White Knight Chronicles: International Edition is a Japanese RPG which allows players to explore an expansive and exciting world of turn-based combat, adventure and comradery. A PlayStation 3 exclusive, it was created by noted Japanese RPG game developer Level-5 and features both single player and online multiplayer action, the awesome power to assume the shape of the White Knight, the ability to build a persistent online town/lobby, communication via online blogs, message boards and quest logs, voice chat and beautiful game environments. 
+
+The story of White Knight Chronicles is set in the fictional Kingdom of Balandor and follows the adventures of a boy named Leonard who realizes his role in a drama started thousands of years in the past. Working in the proximity of the palace, Leonard stumbles on a plot to kidnap the enigmatic Princess Cisna. As he helps her escape he also becomes aware of his connection to a transformative power which allows him to take on the ancient shape, and harness the devastating power of the White Knight. Yet there are other elements at work here as well, including the forces of an evil wizard with powers that stretch back to the same ancient times which produced the White Knight. With the help of his friends and the power of the White Knight, these are the forces that Leonard will have to face in his quests.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2010-02-02T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12007</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/White_Knight_Chronicles</WikipediaURL>
+    <Title>White Knight Chronicles: International Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=oEXvnoY-KoU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Metal Gear Solid 4 Guns of the Patriots 25th Anniversary BLES00246\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-12-15T17:44:10.7186829-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6617019-05:00</DateModified>
+    <Developer>Kojima Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b3e1340e-4663-4bee-8738-b30e1f097e2c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Metal Gear Solid 4 is the fourth major game in the Metal Gear Solid series developed by Hideo Kojima. It ties up all of the loose plot points of the previous games while bringing back a number of characters from the earlier games in the series such as Colonel Campbell, Naomi Hunter, Otacon, Meryl Silverburgh, Mei Ling, and many more. The game's main antagonist is Liquid Ocelot. Most of the story and the relationship are explained through cut-scenes with a considerable length. Due to the series extensive history, knowledge of the prior games is recommended to fully understand the story.
+
+As the story begins Solid Snake, now looking like an old man due to accelerated aging, is being deployed in the Middle East on a mission to stop Liquid Ocelot. The game is set in 2014, five years after the Big Shell Incident of Metal Gear Solid 2. Liquid aims to take control of the Sons of the Patriots, the nanomachine system used to enhance the capabilities of the mercenaries of different factions. By this, he plans to assemble an army. The game is divided into five acts followed by an epilogue and a briefing. The various missions bring Old Snake to more than one location, including the Middle East, South America, Eastern Europe, and a few more that can surprise the players familiar with the franchise.
+
+In this game, all of the actions of the previous game have been included along with some new ones such as the ability to roll on your back and fire and the ability to hide in bins scattered around the environment. Similar to the Subsistence re-release of MGS3, the player has full control of the camera rotation on one analogue stick while walking with the other. Shooting is now enhanced to support a new shoulder camera not seen in the franchise before, much similar to that of Resident Evil 4 which will help you to easily counter-attack the enemy without having to fire randomly or switching to 1st-person perspective. The Close Quarters Combat system has been redesigned and players are now able to interrogate guards for information or supplies. The earlier camouflage system has been replaced with Octocamo that allows Snake to blend into the environment. The stamina meter from Snake Eater has been replaced by a stress meter. Based on the fighting and the climate conditions it can offer additional accuracy and reduce sustained damage. The other meter, Psyche, reduces accuracy and can be replenished by reading an adult magazine, eating, or drinking.
+
+Snake has access to the largest arsenal of weapons ever made available in a Metal Gear game, with a large array of pistols, rifles, and explosives, along with the ability to mod the weapons adding scopes, suppressors, lights, and other equipment to create custom weapons.
+
+Other gadgets in the game include the Solid Eye, which is an electronic eye patch that can be used as binoculars, night vision goggles, or just a device for displaying information about enemies and items scattered around the levels. There is also the Metal Gear Mk. II, which is a small robot that can be used to scout levels and electrocute enemies knocking them out for a period of time.
+
+The game also features a complex multiplayer mode, simply entitled Metal Gear Online. Aside from the usual suspects of multiplayer shooter modes, such as "deathmatch" and "capture the flag", there are some original modes that are based on the stealth aspects of the single-player games. "Sneaking Mission" mostly plays out like a standard team deathmatch, with the exception that one player is assigned to control Snake, who is equipped with his radar and Octocamo. Snake's goal is to tranquilize his enemies in order to acquire their dog tags, without getting spotted. If there are enough players in the game, one player will also control Metal Gear Mk.II to assist Snake. "Team Sneaking" is basically "Capture the flag", in which the attacking team is equipped with stealth camouflage and non-lethal weapons. The defending team can only see the attacking team's shadows and weapons.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2008-06-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.4026546</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>113</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>45</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots</WikipediaURL>
+    <Title>Metal Gear Solid 4: Guns of the Patriots</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Shooter; Stealth</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=hCgCjPYi27Q</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Resistance 3 [BCES01118]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-18T00:32:48.1337786-05:00</DateAdded>
+    <DateModified>2024-03-19T23:38:09.7783912-05:00</DateModified>
+    <Developer>Insomniac Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>05a25bc4-1d9c-45a5-94bc-b6fc31931fca</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Resistance 3 is the 2011 release in Sony's flagship Resistance First-Person Shooter game franchise for play exclusively on PlayStation 3. Picking up right where Resistance 2 left off, players follow the adventures of Joseph Capelli - introduced in the previous game - in a desperate effort to turn the tide against the ever-strengthening Chimeran horde. Features include: PlayStation Move support, a large and strategic weapons arsenal, smarter and more agile Chimeran enemies and deep multiplayer options including co-op online and offline as well as progression based 16-player online multiplayer. 
+
+It's August 1957, four years after the conclusion of the event of Resistance 2 which left Lieutenant Nathan Hale dead on the battlefield against the invading Chimeran race and Joseph Capelli dishonorably discharged from the U.S. Army for killing Hale. With the Chimera completely occupying the planet, Capelli has given up on the seemingly hopeless fight and has retreated into hiding underground with his wife and young son in Haven, Oklahoma. But as the climate of the planet continues to collapse, scientist Dr. Fyodor Malikov finds Capelli with a plan to deliver a devastating blow against the occupying Chimeran force. In order to protect his family, Capelli must leave them behind and embark on a harrowing mission across the country to New York City. Along the way, he and Malikov will encounter the survivors and remnants left in the aftermath of the brutal Chimeran invasion.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2011-09-06T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>937</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Resistance_3</WikipediaURL>
+    <Title>Resistance 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=QTeZlGHW-VA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Resistance Fall of Man BCUS98107\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-14T18:39:56.4126387-05:00</DateAdded>
+    <DateModified>2024-03-19T23:36:59.1279297-05:00</DateModified>
+    <Developer>Insomniac Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>03a1b16b-a7bf-4a67-bdce-4a4de809967b</ID>
+    <LastPlayedDate>2024-03-16T01:44:57.31-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Only you can save mankind. Through brute force, a species of unknown origin known only as the Chimera have conquered Asia and most of Europe in mere decades during the early 20th century. Recognizing the potential for humanity's total annihilation, the United States supports the British Resistance in a European counterattack. The story follows Hale, a US Ranger, as he struggles for survival and desperately seeks a means to eliminate the Chimeran blight. 
+
+Gameplay elements and enemies that create a sense of unease and set an atmosphere that frightens the player through bleak, dark and foreboding undertones. Engage in some of the largest turbulent battles ever witnessed on a console gaming system. An immersive world delivers photo-realistic characters, environments and lighting effects that capture the power of the PlayStation 3. Play co-op via split screen or compete against up to 40 players via online or LAN play.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2006-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>97</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Resistance:_Fall_of_Man</WikipediaURL>
+    <Title>Resistance: Fall of Man</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>194</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>40</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=nJ8Yuq8qpbM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Uncharted 3_ Drake's Deception Game of the Year [BCUS99086]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T23:39:02.4045112-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:25.4051736-05:00</DateModified>
+    <Developer>Naughty Dog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>625e54e7-2be0-4779-971a-21bc6bc05636</ID>
+    <LastPlayedDate>2024-03-15T22:52:08.12-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In addition to Uncharted 3: Drake's Deception, this also includes:
+
+- Multiplayer maps (Graveyard, Old Quarter, London Streets, Oasis)
+- "Flashback maps" which are 8 remade maps from versions 1 and 2
+- 25 multiplayer skins, and Killzone 3 skins
+- Fort Co-Op (this happens in the fortress from 'Drake's Fortune')
+- Rogue skins pack (from 14 enemies)</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment Europe</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2012-09-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>12464</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception</WikipediaURL>
+    <Title>Uncharted 3: Drake's Deception: Game of the Year Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>195</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=zN3rj6YemkI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Twisted Metal Limited Edition BCUS98106\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-12T09:54:58.1010756-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:57.874018-05:00</DateModified>
+    <Developer>Eat Sleep Play</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e2dd87ca-66de-4b07-a6e8-59fd7ae96d98</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>High atop his penthouse office, a mysterious ringleader named Calypso lords over the contest of vehicle combat known as Twisted Metal. He returns again to host the ultimate contest of skill and destruction. Contestants have been chosen to compete and, should they emerge victorious, win whatever prize their heart desires.
+
+Twisted Metal, the longest running franchise in PlayStation history, is now back, exclusively on the PS3 system. With four factions battling for control, players step into the combat boots of a twisted disciple in a high octane, highly destructible world. Players fight for the prize of one wish fulfilled by the stylishly evil Calypso, the mastermind behind the Twisted Metal tournament. Disciples strategically dismantle opponents in vehicles loaded with weapons of Twisted destruction. With a robust online system, players unleash destruction with up to 16 players through PlayStation Network and battle through a variety of favorite and new game modes.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2012-02-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6650</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Twisted_Metal</WikipediaURL>
+    <Title>Twisted Metal</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=WHk2QuU-eF4</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Gran Turismo 5 [BCES00569]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-18T00:27:35.7391346-05:00</DateAdded>
+    <DateModified>2024-03-19T23:38:05.8312169-05:00</DateModified>
+    <Developer>Polyphony Digital</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4ce3ba82-9576-4138-8cdf-5e7b9eeefa00</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The definitive release of Gran Turismo 5. It includes all the functionality updates and new content that has been made available since the original game's launch. 
+
+Includes:
+
+• The base game
+• Complete Pack (new cars, courses and paint schemes)
+• Car Pack 2 (4 new cars)
+• Car Pack 3 (6 new cars)
+• Speed Test Pack (new tests for the car setups)
+• Nissan GT-R N24 GT Academy ’12 (1 new car - Nissan GT-R N24 GT Academy '12)</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment Europe</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2012-09-26T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>32200</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Gran_Turismo_5</WikipediaURL>
+    <Title>Gran Turismo 5: Academy Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=npCcKi1SWi8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Gran Turismo6 [BCES01893]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-18T00:30:15.6672536-05:00</DateAdded>
+    <DateModified>2024-03-19T23:38:30.1363003-05:00</DateModified>
+    <Developer>Polyphony Digital</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f97f50c2-d4a2-437d-ba6e-3b391313881d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The next stage in the evolution of the world's most popular and comprehensive racing simulator is upon us. Known for blurring the lines between virtual and reality, the Gran Turismo series has revolutionized the racing genre in the last 15 years, allowing fans to drive the most prolific collection of cars on the world's most legendary racetracks. Having set the standard for the racing genre in the last 15 years, the fully refined physics engine will create the most authentic true-to-life driving experience across more than 1200 vehicles on 33 locations with 71 different layouts. Gran Turismo 6 takes the real driving simulator experience to a whole new level.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment America</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2013-12-06T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>33724</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Gran_Turismo_6</WikipediaURL>
+    <Title>Gran Turismo 6</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=t_vvF8u6noI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Killzone3 [BCES01007]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T03:38:05.6470712-05:00</DateAdded>
+    <DateModified>2024-03-19T23:36:14.5290907-05:00</DateModified>
+    <Developer>Guerrilla Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f01304ab-7f74-4748-bccd-286d5e49210b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Killzone 3 is the fourth release overall in the PlayStation 3 exclusive first-person shooter franchise, and contains the first integration of the PlayStation Move system into its gameplay. In it players continue the fight by a futuristic special ops team against the seemingly unstoppable Helghast Empire. Along the way players will learn more than ever before about the rabid Helghan culture, as well as become aware of an internal struggle in their ranks that may prove to be an important weakness. The game features full Playstation Move system integration throughout the game - including the Move and Navigational controllers. Additional features include: the ability to carry two primary weapons, new melee and jet pack functionality and online multiplayer support.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2011-02-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>913</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Killzone_3</WikipediaURL>
+    <Title>Killzone 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>16</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=jqF1jlhW1fE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Emuladores\Sony playstation 3\rpcs3-v0.0.31-16204-2aad5a7f_win64\dev_hdd0\game\NPEA00322\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-14T22:28:22.987614-05:00</DateAdded>
+    <DateModified>2024-03-19T23:35:29.3403395-05:00</DateModified>
+    <Developer>Sucker Punch</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>11c5bdd2-3752-4c8b-ab42-6873fe697d3c</ID>
+    <LastPlayedDate>2024-03-15T07:16:05.727-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>inFAMOUS: Festival of Blood is standalone DLC for inFAMOUS 2, but separate from the series' canon. Set in the second game's environment of New Marais, but limited to a small section, it starts with Zeke sitting alone at a bar. To impress a woman, he invents a story how his friend Cole MacGrath, the series' protagonist, once rid the city from vampires. The player gets to play the story Zeke narrates and it starts with how Cole is captured and bitten on Pyre Night, a festival similar to Halloween, by a female vampire called Bloody Mary, turning him as well. He has eight hours to kill her and to restore the city. Because of his vampire state one of the series' distinct elements, the karmic choices that determine whether he follows a good or an evil path based on his decisions, are not present in this game.
+
+The gameplay is similar to the original games. Cole can freely explore the environment and has access to powers such as electric bolts, grenades and rockets. He can also hover in the air and grind rails. New is Shadow Swarm that allows him to turn into a group of vampire bats and fly freely around the city. As he loses his amp early on in the game it does not require ionic charge and is replaced by a corruption meter filled by staking vampires and biting civilians. It is drained over time as his body absorbs it, so it requires to be filled regularly. He has also access to vampire sense which acts as a radar to detect if someone is dressed up for the festival or a real vampire.
+
+There are no side quests next to the main story. Optionally 100 canopic jars can be located in the city, raising his blood meter, along with a number of collectible runes hidden by Bloody Mary. Just like the second it is possible to design custom missions and share them with other players, with some additional tools for this version. You can now for instance have characters pose and capture the frame, adding text balloons and caption to tell a story, similar to how it is done in the game.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Interactive Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2011-10-25T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>15678</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Infamous:_Festival_of_Blood</WikipediaURL>
+    <Title>Infamous: Festival of Blood</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>274</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Wdr-mU63OEI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\God of War 3 [BCUS98111]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-12-16T05:23:38.7004394-05:00</DateAdded>
+    <DateModified>2024-03-19T10:42:15.2422867-05:00</DateModified>
+    <Developer>SCE Santa Monica Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>70edcf9d-1a6d-49c6-b53e-d584389ab448</ID>
+    <LastPlayedDate>2024-03-11T10:10:18.2999347-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>IN THE END, THERE WILL BE ONLY CHAOS. 
+
+Set in the realm of brutal Greek mythology, God of War III is the critically acclaimed single-player game that allows players to take on the fearless role of the ex-Spartan warrior, Kratos, as he rises from the darkest depths of Hades to scale the very heights of Mount Olympus to seek his bloody revenge. Armed with double-chained blades and an array of new weapons and magic, Kratos must take on mythology’s deadliest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2010-03-16T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>134</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>843</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/God_of_War_III</WikipediaURL>
+    <Title>God of War III</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>25</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=sGP6PZJMHvc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath />
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-14T22:06:03.880659-05:00</DateAdded>
+    <DateModified>2024-03-19T11:47:52.8690614-05:00</DateModified>
+    <Developer>Insomniac Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>27c17c72-6c5f-4a19-b29e-96751d3febdf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>After a valiant struggle to stop the Chimera invasion in Europe, mankind must make its last stand on the shores of the United States. In the highly anticipated follow-up to the best-selling PlayStation 3 game, Resistance 2 places players in the heroic role of Sgt. Nathan Hale as he struggles against overwhelming odds to defend mankind from the unstoppable Chimera. While wrestling with this insidious war machine, Hale must also battle the virus raging inside of his own body that threatens to transform him into the very creatures he fights against. 
+
+Powered by Insomniac Games' third-generation PlayStation 3 technology, Resistance 2 will deliver unprecedented console gaming breakthroughs with a stand-alone eight-player, class-based online co-op campaign (up to 8 players) and 60-player online competitive multiplayer. An epic single-player campaign will feature a new weapons arsenal to combat giant boss encounters that increase the scale of the conflict to new heights.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2008-11-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>8329</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Resistance_2</WikipediaURL>
+    <Title>Resistance 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>60</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=yYyjV2aaOK8</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Demons Souls BLES00932\PS3_GAME\USRDIR\EBOOT.elf</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-10T07:22:38.2102709-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.661681-05:00</DateModified>
+    <Developer>FromSoftware</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>085a301d-0b89-4cb3-a24d-2e42e62bddd3</ID>
+    <LastPlayedDate>2024-03-12T00:30:38.29-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>King Allant the XII, the last king of Boletaria, searched tirelessly to expand his might. The Nexus, a great ice shrine nestled in the mountains, bestowed the power of the souls onto him, bringing prosperity to his kingdom. Still unsated, he returned again to the Nexus, where he foolishly awakened the Old One from its eternal slumber. This long forgotten evil, now wrought upon Boletaria, plunged the realm into darkness and fog. A mighty demon horde poured into the kingdom, devouring the souls of men. Champions from other realms learned of Boletaria's fate and sought to deliver the kingdom from evil; none would return from the cursed land. Called upon by a mysterious maiden in black, you go forth, the last hope for humanity in a place lost to demons and darkness...</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Atlus USA</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2009-02-05T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5036764</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>138</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>854</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Demon%27s_Souls</WikipediaURL>
+    <Title>Demon's Souls</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>621</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>3</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=FRnIyXvonAU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Uncharted_ Drake's Fortune [BCUS98103]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-09T06:56:47.0303854-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609337-05:00</DateModified>
+    <Developer>Naughty Dog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>de631630-7e33-41d3-92c2-5cd3425a26f4</ID>
+    <LastPlayedDate>2024-03-09T15:32:21.573-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A 400-year-old clue in the coffin of Sir Francis Drake sets a modern-day fortune hunter on an exploration for the fabled treasure of El Dorado, leading to the discovery of a forgotten island in the middle of the Pacific Ocean. The search turns deadly when Nathan Drake becomes stranded on the island and hunted by mercenaries. Outnumbered and outgunned, Drake and his companions must fight to survive as they begin to unravel the terrible secrets hidden on the Island. 
+
+Taking full advantage of the power of PS3, Uncharted: Drake’s Fortune is developed using proprietary technology that promises to impress players with incredibly realistic characters and lifelike environments. Building on its legacy of extraordinary storytelling, developer Naughty Dog has created an elaborate plot that will have players guessing at every turn. Uncharted: Drake's Fortune, brings players into a world ripe with realism and unexpected juxtapositions.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2007-11-19T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.149595</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>74</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>70</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune</WikipediaURL>
+    <Title>Uncharted: Drake's Fortune</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>4</PlayCount>
+    <PlayTime>1117</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=8TxYmAKCXSE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\THE KING OF FIGHTERS XII [BLUS30353]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-11T08:26:21.1942919-05:00</DateAdded>
+    <DateModified>2024-03-19T11:47:53.0036106-05:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8fdd0584-2377-42bd-a02d-aa7350bc55f3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The legendary 3-on-3 fighting game series that united rival brawlers from SNK PLAYMORE's classic arcade franchises celebrates its 15th anniversary in style with the 2009 release of The King Of Fighters XII. For the first time in its history, this epic martial arts showdown has undergone a complete graphical overhaul. The antiquated character sprites used over the past 14 years have been dropped in favor of all-new, high-resolution fighters fluidly animating across painstakingly detailed, 100% hand-drawn backgrounds. 
+
+The King of Fighters XII is a pure arcade fighting title. Like a few other releases in its franchise it does not contain a storyline, instead focusing on the tried and true 3-on-3, five round team fighting gameplay mechanic. Far from a liability, the lack of storyline plays into the fighting mechanic by eliminating official teams linked to the prevailing story, which in earlier releases compromised the characters that could be added to a team. In addition, the game also features new combat elements including the "Critical Counter" system which opens up the possibility of additional linked attacks and finishing moves when players land effective counter punches following an opponent's attack, and "Clash Timing," a break effect during a bout that separates combatants when they land blows on each other at the exact same time.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Ignition Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2009-07-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6613</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Fighters_XII</WikipediaURL>
+    <Title>The King of Fighters XII</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=sYaMX-8_Gyk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\God of War_ Ascension (EU) [BCES01741]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-18T00:25:24.7777472-05:00</DateAdded>
+    <DateModified>2024-03-19T23:36:46.5543942-05:00</DateModified>
+    <Developer>SCE Santa Monica Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>35cabca8-b5df-4ef9-a12f-5a3f5893e0af</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Vengeance is born in the fires of betrayal in this prequel to the best-selling God of War franchise. Six months have passed since Kratos stood over the bodies of his wife and child, his hands stained with their blood - tricked by Ares into murdering the only people he ever loved. Swearing to avenge them, Kratos broke the blood oath that bound him to Ares, but oaths to Olympus are not so easily broken... Sentenced to an eternity chained within a prison for the living damned, Kratos battles insanity at the hands of the Furies. He will be tested as he seeks freedom, redemption for his sins, and the clarity to avenge his family. 
+
+Multiplayer comes to God of War for the first time. Take the epic God of War combat online with 8-player objective-based combat. Align yourself to Zeus, Ares, Poseidon, or Hades and earn their Favor to unlock new customization options for your multiplayer Gladiator. Experience Kratos' quest for freedom from the very beginning with an epic new single-player story. New combat and puzzle mechanics build on the award-winning God of War gameplay.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2013-03-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>13359</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/God_of_War:_Ascension</WikipediaURL>
+    <Title>God of War: Ascension</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=VJMK8oFY1rA</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Infamous____All_DLC__BCUS98119\Infamous [+ All DLC] BCUS98119\Infamous BCUS98119\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-06T21:59:14.462611-05:00</DateAdded>
+    <DateModified>2024-03-19T11:47:53.0044185-05:00</DateModified>
+    <Developer>Sucker Punch Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5c481da1-b611-49bf-8645-2ca760ef0ba4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A massive explosion rips through six square blocks of Empire City, leveling everything and everyone in its path. At the center of the blast crater a lone man stands up miraculously unharmed; gifted with incredible powers. From the creators of the award-winning Sly Cooper series, Sucker Punch brings you inFAMOUS, the first open-world action/adventure title by SCEA, for the PlayStation 3. Players experience what happens when a real person suddenly starts developing super powers. Exact revenge? Protect the innocent? Maybe a little of both? These are the situations you'll face as you play inside of a richly interactive and organic living city. A place where your actions create broader reactions in the citizens and landscape around you.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment Europe</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2009-05-26T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1145835</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>48</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>815</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Infamous_(video_game)</WikipediaURL>
+    <Title>inFAMOUS</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=2GMcEpWE1N0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Drakengard 3 BLUS31197\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-12T08:38:41.658026-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:41.4189549-05:00</DateModified>
+    <Developer>Access Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e44f8272-8268-4806-8d2b-5c18f391e305</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>In earlier times, the world was ravaged by endless war and conflict. The fighting only ceased when five sisters with godlike powers used their song magic to defeat the warlords and bring peace throughout the lands. These Intoners now rule over various parts of the world, where they are adored and worshipped by their subjects. However, there is a sixth and eldest sister, Zero, who wishes to kill her siblings and take their power for herself. One year after failing to defeat the other Intoners, Zero sets out with her dragon Mikhail to kill them one by one.
+
+Taking place about a century prior to the first Drakengard, this game puts the player in the role of Zero, who can be accompanied by up to two AI characters who join over the course of the story. Gameplay is largely similar to other entries in the series, comprised of hack-and-slash fighting on the ground and aerial combat in which Zero rides Mikhail. Performing combos fills up Zero's Tension Gauge, which she can tap into to unleash her Intoner powers. In Intoner Mode, Zero's speed and attack power increase, and she becomes invulnerable to enemy attacks. Zero can use four different types of weapons: swords, bracers, chakrams, and spears, and each individual weapon can be leveled up the more it is used in combat.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Square Enix</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2013-12-19T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>20708</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Drakengard_3</WikipediaURL>
+    <Title>Drakengard 3</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=tfRu7z_MDOM</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\RIDGE RACER 7 [BCES00009]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T10:27:46.2728139-05:00</DateAdded>
+    <DateModified>2024-03-19T23:36:18.1268228-05:00</DateModified>
+    <Developer>Namco Bandai Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d1f71e60-9777-4c67-a69d-2a8f09e5b83a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>DRIVE SIDEWAYS
+Introducing the first great next-gen racing game.
+Customize the perfect racing machine, and pull beside the best players in the world online. Then,
+as the action slides frantically sideways, you'll witness the racing genre advancing ever forward.
+• 40 machines on 22 reversible exhilarating courses (for a total of 44)
+• Totally customizable: over 370,000 appearance and over 7,000 performance combinations
+• 14-player online challenges spanning the globe</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Namco</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2006-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>6628</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ridge_Racer_7</WikipediaURL>
+    <Title>Ridge Racer 7</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>14</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=0ekxEAcJu18</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Uncharted 2_ Among Thieves [BCUS98123]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T02:46:18.4398596-05:00</DateAdded>
+    <DateModified>2024-03-19T11:47:52.8684266-05:00</DateModified>
+    <Developer>Naughty Dog</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b20d3953-a98a-46da-9a9b-b215373b0d2f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Uncharted 2: Among Thieves is the sequel to Naughty Dog's 2007 game Uncharted: Drake's Fortune. The story picks up a few years where the first one left off, following the previous games fortune hunting hero, Nathan Drake, as he searches around the globe to try to solve another of the world's unsolved historical mysteries; this time regarding the famous merchant/explorer Marco Polo, who in 1292, mysteriously came back from a journey having lost 13 ships and 500+ passengers, with no explanation ever given on what had happened to those ships. After Drake gains knowledge of an ancient relic and a mysterious Himalayan Valley that may be connected to Marco Polo, he sets out on an adventure to discover the secrets of Polo's lost fleet, which he hopes will lead him to one of history's greatest undiscovered treasures.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2009-10-13T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>201</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves</WikipediaURL>
+    <Title>Uncharted 2: Among Thieves</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>10</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=tlkkceDkT88</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Infamous 2 [Update Fix All DLC] BCUS98125\Infamous 2 - [BCUS98125]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-14T22:29:08.7991767-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:24.1577634-05:00</DateModified>
+    <Developer>Sucker Punch Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b6712395-8f42-42d0-9dd2-8ee1554c451d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>inFAMOUS 2 continues the story of Cole MacGrath, the protagonist of the original game. Right at the beginning Cole is thrown at facing a huge opponent known as The Beast. Little is known as to who or what the beast is and what is its goal. Defeated, Cole managed to escape the destruction of Empire City, and together with his partner Zeke Dunbar, and an NSA agent Lucy Kuo who he teamed up with in order to defeat The Beast, they sail south to the city of New Marais. His goal is to use the Ray Field Inhibitor device to weaken The Beast and take it head-on once and for all.
+
+Almost all the previous powers from the original game are back with some new ones. Unlike the original game where each button combination was used for a single power, in this game Cole can purchase more powers of the same caliber which will let him assign the power he wants to use to a specific button combination. Unassigned powers cannot be used until assigned. The game lets you use save game file from inFAMOUS to initially raise your good or evil karma.
+
+As you perform good or evil deeds, your karma will fluctuate toward a blue or red bar, letting you purchase new powers that represent the karma type, as you cannot have both. Many side missions are similar to those in original game, meaning helping citizens, protecting them from the gangs, turning on electricity, taking photographs and more. Certain side missions are more good/evil oriented and can be performed exclusively, either a good or an evil side mission, but not both. Being evil will turn the police and townsfolk against you as well as everyone else, but you won't have to think about collateral damage. Being good will yield you many allies, but you will have to watch where you shoot.
+
+As a man of electricity, Cole can use zip lines to glide, but touching the water is deadly. You can climb pretty much any building and fall down from virtually any height without the fear of death. This time, you will also be equipped for close combat which lets you unleash some deadly combos, and certain creatures are only weak in close combat and impervious to lightning shots from the distance. There are many strong enemies in this game and most of them have a specific weak point or a single attack type they are weak against. As in the previous game, you can heal wounded citizens, even in groups if you upgrade that healing power, restrain enemies or draw their life power to charge yourself.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment America</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2011-06-07T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>941</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Infamous_2</WikipediaURL>
+    <Title>Infamous 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Sandbox</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=y107-sWIK9U</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\Killzone2 [BCES00081]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-15T02:59:40.1174615-05:00</DateAdded>
+    <DateModified>2024-03-19T23:38:16.2335994-05:00</DateModified>
+    <Developer>Guerrilla Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2508d7d2-caca-4634-8ec9-b5afb2938782</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Get ready to take on the full strength of the Helghast war machine from a dramatic first-person perspective with Killzone 2 for PS3. From Guerilla Games, this much anticipated follow-up to Killzone for PS2 and Killzone: Liberation for PSP drops you right into the boots of battle hardened special forces soldier Sev. Set two years after the aborted Helghast assault on Vekta, the action opens with your ISA Legion squad deployed behind enemy lines on the Helghan's unforgiving home turf. 
+
+While single-player mode lets you take on the unique challenges of 11 fully developed levels, online play lets you engage with up to 32 players at a time, bringing the gritty, realistic chaos of war to a whole new level.</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Sony Computer Entertainment</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2009-02-27T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>36</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Killzone_2</WikipediaURL>
+    <Title>Killzone 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>32</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9S2wDN9ZRVs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Sony Playstation 3\The_King_of_Fighters_XIII___DLC__BLUS30845\The King of Fighters XIII [+DLC] BLUS30845\BLUS30845[The King Of Fighters 13]\PS3_GAME\USRDIR\EBOOT.BIN</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-11T08:27:31.2093372-05:00</DateAdded>
+    <DateModified>2024-03-19T11:47:52.8693536-05:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ac912a05-2f2c-45d3-aec4-7d163f90b293</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>With a roster featuring over 30 hand-drawn and animated fighters, a number of detailed stages bursting with life, over a half dozen play modes, a refined fighting engine built for speed and complete with new moves and supers, a vastly improved Online mode, and a host of other additions, tweaks, and enhancements, THE KING OF FIGHTERS XIII represents a rebirth for one of gaming's longest tenured franchises and one of the most popular fighting brands ever. With the triumphant return of fan favorite characters like K', Mai, and Vice, extensive refinement of the core fighting engine based on community feedback, and vastly improved network functionality, THE KING OF FIGHTERS XIII represents the HD entry in the series that fans have been waiting for. Painstaking effort has been made to address every last concern following the last entry: fights play faster; the addition of over a half dozen play modes offers variety and replayability; the game's beautifully rendered and animated character sprites are better distinguished from the backgrounds-which happen to be richer and more detailed; the camera perspective is less restricted; fighters have more moves, including new supers and the all-new NEOMAX supers; and much, much more!</Notes>
+    <Platform>Sony Playstation 3</Platform>
+    <Publisher>Atlus</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2011-11-22T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>14056</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Fighters_XIII</WikipediaURL>
+    <Title>The King of Fighters XIII</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=kKZk8ULvlAQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>4ce3ba82-9576-4138-8cdf-5e7b9eeefa00</GameID>
+    <Name>Gran Turismo 5: 2013 Edition</Name>
+    <Region>Asia</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f01304ab-7f74-4748-bccd-286d5e49210b</GameID>
+    <Name>킬존 3</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>70edcf9d-1a6d-49c6-b53e-d584389ab448</GameID>
+    <Name>God of War 3</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>70edcf9d-1a6d-49c6-b53e-d584389ab448</GameID>
+    <Name>战神3</Name>
+    <Region>United States</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>de631630-7e33-41d3-92c2-5cd3425a26f4</GameID>
+    <Name>Uncharted: 엘도라도의 보물</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>de631630-7e33-41d3-92c2-5cd3425a26f4</GameID>
+    <Name>Uncharted: El tesoro de Drake</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>de631630-7e33-41d3-92c2-5cd3425a26f4</GameID>
+    <Name>アンチャーテッド エル・ドラドの秘宝</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>8fdd0584-2377-42bd-a02d-aa7350bc55f3</GameID>
+    <Name>The King of Fighters 12</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>e44f8272-8268-4806-8d2b-5c18f391e305</GameID>
+    <Name>Drag-On Dragoon 3</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b20d3953-a98a-46da-9a9b-b215373b0d2f</GameID>
+    <Name>Uncharted 2: 황금도와 사라진 함대</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b20d3953-a98a-46da-9a9b-b215373b0d2f</GameID>
+    <Name>Uncharted 2: El reino de los ladrones</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>2508d7d2-caca-4634-8ec9-b5afb2938782</GameID>
+    <Name>킬존 2</Name>
+    <Region>Korea</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ac912a05-2f2c-45d3-aec4-7d163f90b293</GameID>
+    <Name>The King of Fighters 13</Name>
+    <Region>World</Region>
+  </AlternateName>
+</LaunchBox>

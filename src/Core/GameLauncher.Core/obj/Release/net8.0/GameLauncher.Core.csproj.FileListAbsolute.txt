@@ -1,0 +1,11 @@
+H:\GameLauncher\src\Core\GameLauncher.Core\bin\Release\net8.0\GameLauncher.Core.deps.json
+H:\GameLauncher\src\Core\GameLauncher.Core\bin\Release\net8.0\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Core\bin\Release\net8.0\GameLauncher.Core.pdb
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.AssemblyInfoInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.AssemblyInfo.cs
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.csproj.CoreCompileInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\refint\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.pdb
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\ref\GameLauncher.Core.dll

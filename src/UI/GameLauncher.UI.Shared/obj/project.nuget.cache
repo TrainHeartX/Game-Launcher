@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSyEEQGUkRI=",
+  "success": true,
+  "projectFilePath": "H:\\GameLauncher\\src\\UI\\GameLauncher.UI.Shared\\GameLauncher.UI.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2112 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <EmulatorPlatform>
+    <Emulator>48f2ad19-e7e1-4b78-8808-31abc65051dd</Emulator>
+    <Platform>Nintendo GameCube</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48f2ad19-e7e1-4b78-8808-31abc65051dd</Emulator>
+    <Platform>Nintendo Wii</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</Emulator>
+    <Platform>Nintendo 3DS</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>b1bd3a4b-32b4-4404-a828-b9395b4a1560</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>b1bd3a4b-32b4-4404-a828-b9395b4a1560</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>5c791d67-32cb-45b8-9873-517d865eb9f5</Emulator>
+    <Platform>3DO Interactive Multiplayer</Platform>
+    <CommandLine>--StartFullScreen -StartLoadFile</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>610f420b-a264-449f-9e28-66e009fe96c4</Emulator>
+    <Platform>Microsoft MSX</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>610f420b-a264-449f-9e28-66e009fe96c4</Emulator>
+    <Platform>Microsoft MSX2</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>537633e8-d0a6-47cc-a94c-6408ed91015b</Emulator>
+    <Platform>Sony Playstation 2</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>a81df867-e6ba-416e-a68c-6bf3ae689d2e</Emulator>
+    <Platform>Super Nintendo Entertainment System</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>b95579df-318a-436b-9483-d9f463d17b09</Emulator>
+    <Platform>Sony PSP</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>28e6b7d0-c73d-41c5-8d10-14df6d45416b</Emulator>
+    <Platform>Microsoft Xbox 360</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>ec34bf3d-cd26-4232-8147-866320e7f6da</Emulator>
+    <Platform>Commodore Amiga</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>f0599b57-5c1c-4991-b0be-65fedca86768</Emulator>
+    <Platform>Atari Jaguar</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>da72b55b-a276-4303-8905-3f835db9034e</Emulator>
+    <Platform>Commodore 64</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>00abcbf7-d711-46b3-a685-3c1bc8d9e176</Emulator>
+    <Platform>Microsoft Xbox 360</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>6363194f-2434-459b-be69-7fb261151dfe</Emulator>
+    <Platform>Super Nintendo Entertainment System</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>d3df85ee-e59c-42b5-a2f2-3364bfb0c644</Emulator>
+    <Platform>Microsoft Xbox One</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>d3df85ee-e59c-42b5-a2f2-3364bfb0c644</Emulator>
+    <Platform>Sony Playstation</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</Emulator>
+    <Platform>Microsoft Xbox</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>bbed39dd-f8ae-4012-9f49-d1d7c84a5d79</Emulator>
+    <Platform>Sega Dreamcast</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>636821c7-9ab4-4a2a-b76c-c7dc115b9739</Emulator>
+    <Platform>Commodore 64</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>b5016133-7222-4ee9-84ec-8c385057b1c4</Emulator>
+    <Platform>Sega Saturn</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>d61a0927-4f77-4f0f-803e-dd448c299757</Emulator>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>52ae40f3-5806-4b9a-8193-adefd8b24734</Emulator>
+    <Platform>Nintendo Switch</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>513202f6-e11a-4656-b0a3-8d238dbeda17</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>513202f6-e11a-4656-b0a3-8d238dbeda17</Emulator>
+    <Platform>Sega Triforce</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>08c70b45-70b6-4449-be74-72e09baec864</Emulator>
+    <Platform>Nintendo Entertainment System</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Platform>Nintendo Switch</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>88f6d289-959b-4066-a17a-78e50a9fc34b</Emulator>
+    <Platform>Sony Playstation Vita</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>d9d5b043-967a-440e-ac18-b9ebd4819ef9</Emulator>
+    <Platform>Nintendo Wii U</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>6e78e945-b214-4a0e-be70-fbc4b374923a</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>6e78e945-b214-4a0e-be70-fbc4b374923a</Emulator>
+    <Platform>Nintendo Game &amp; Watch</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>bde8a209-f0c7-4c17-b90a-e78398b53d9c</Emulator>
+    <Platform>TeknoParrot</Platform>
+    <CommandLine>--profile=</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega 32X</Platform>
+    <CommandLine>-32x -auto -fullscreen</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega CD</Platform>
+    <CommandLine>-scd -auto -fullscreen</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega Game Gear</Platform>
+    <CommandLine>-gg -auto -fullscreen</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega Genesis</Platform>
+    <CommandLine>-gen -auto -fullscreen</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega Master System</Platform>
+    <CommandLine>-sms -auto -fullscreen</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>68740445-baa4-4b5c-96f5-ebb42148fd94</Emulator>
+    <Platform>Sega SG-1000</Platform>
+    <CommandLine>-auto -fullscreen</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>4a3c0f3b-7b50-425b-a2cf-000de68a5927</Emulator>
+    <Platform>Sony Playstation 3</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>c67b37e2-f78b-468b-ab4f-f309bbceed6e</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>3bfefb90-fa89-47e1-9317-3f878200c471</Emulator>
+    <Platform>Sega Model 2</Platform>
+    <CommandLine />
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>3bfefb90-fa89-47e1-9317-3f878200c471</Emulator>
+    <Platform>Arcade</Platform>
+    <CommandLine />
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>3DO Interactive Multiplayer</Platform>
+    <CommandLine>-L "cores\opera_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Amstrad CPC</Platform>
+    <CommandLine>-L "cores\cap32_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari 2600</Platform>
+    <CommandLine>-L "cores\stella_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari 5200</Platform>
+    <CommandLine>-L "cores\a5200_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari 7800</Platform>
+    <CommandLine>-L "cores\prosystem_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari Jaguar</Platform>
+    <CommandLine>-L "cores\virtualjaguar_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari Lynx</Platform>
+    <CommandLine>-L "cores\handy_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Atari ST</Platform>
+    <CommandLine>-L "cores\hatari_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>ColecoVision</Platform>
+    <CommandLine>-L "cores\gearcoleco_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore 128</Platform>
+    <CommandLine>-L "cores\vice_x128_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore 64</Platform>
+    <CommandLine>-L "cores\vice_x64_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore Amiga</Platform>
+    <CommandLine>-L "cores\puae2021_libretro.dll"</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore PET</Platform>
+    <CommandLine>-L "cores\vice_xpet_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore Plus 4</Platform>
+    <CommandLine>-L "cores\vice_xplus4_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Commodore VIC-20</Platform>
+    <CommandLine>-L "cores\vice_xvic_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>GCE Vectrex</Platform>
+    <CommandLine>-L "cores\vecx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Magnavox Odyssey 2</Platform>
+    <CommandLine>-L "cores\o2em_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Microsoft MSX2</Platform>
+    <CommandLine>-L "cores\bluemsx_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Microsoft MSX2</Platform>
+    <CommandLine>-L "cores\fmsx_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>NEC PC-FX</Platform>
+    <CommandLine>-L "cores\mednafen_pcfx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>NEC TurboGrafx-16</Platform>
+    <CommandLine>-L "cores\mednafen_pce_fast_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo 3DS</Platform>
+    <CommandLine>-L "cores\citra_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo 64</Platform>
+    <CommandLine>-L "cores\parallel_n64_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo DS</Platform>
+    <CommandLine>-L "cores\desmume2015_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo DS</Platform>
+    <CommandLine>-L "cores\melonds_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Entertainment System</Platform>
+    <CommandLine>-L "cores\nestopia_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Famicom Disk System</Platform>
+    <CommandLine>-L "cores\nestopia_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Game &amp; Watch</Platform>
+    <CommandLine>-L "cores\gw_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Game Boy</Platform>
+    <CommandLine>-L "cores\vbam_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Game Boy Advance</Platform>
+    <CommandLine>-L "cores\vba_next_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Game Boy Advance</Platform>
+    <CommandLine>-L "cores\vbam_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Game Boy Color</Platform>
+    <CommandLine>-L "cores\sameboy_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo GameCube</Platform>
+    <CommandLine>-L "cores\dolphin_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Pokemon Mini</Platform>
+    <CommandLine>-L "cores\pokemini_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Virtual Boy</Platform>
+    <CommandLine>-L "cores\mednafen_vb_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Nintendo Wii</Platform>
+    <CommandLine>-L "cores\dolphin_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>PC Engine SuperGrafx</Platform>
+    <CommandLine>-L "cores\mednafen_supergrafx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Philips Videopac+</Platform>
+    <CommandLine>-L "cores\o2em_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega 32X</Platform>
+    <CommandLine>-L "cores\picodrive_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega CD</Platform>
+    <CommandLine>-L "cores\picodrive_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Dreamcast</Platform>
+    <CommandLine>-L "cores\flycast_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Dreamcast</Platform>
+    <CommandLine>-L "cores\flycast_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Game Gear</Platform>
+    <CommandLine>-L "cores\genesis_plus_gx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Game Gear</Platform>
+    <CommandLine>-L "cores\gearboy_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Genesis</Platform>
+    <CommandLine>-L "cores\genesis_plus_gx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Master System</Platform>
+    <CommandLine>-L "cores\genesis_plus_gx_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega Saturn</Platform>
+    <CommandLine>-L "cores\yabause_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sega SG-1000</Platform>
+    <CommandLine>-L "cores\genesis_plus_gx_libretro.dll"</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sinclair ZX Spectrum</Platform>
+    <CommandLine>-L "cores\fuse_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sinclair ZX-81</Platform>
+    <CommandLine>-L "cores\81_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\fbalpha2012_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>true</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\mame2000_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\mame2003_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\mame2003_plus_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\mame_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\mame2010_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\fbneo_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo AES</Platform>
+    <CommandLine>-L "cores\fbalpha2012_neogeo_libretro.dll"</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo MVS</Platform>
+    <CommandLine>-L "cores\fbalpha_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <CommandLine>-L "cores\mednafen_ngp_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>SNK Neo Geo Pocket Color</Platform>
+    <CommandLine>-L "cores\mednafen_ngp_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sony Playstation</Platform>
+    <CommandLine>-L "cores\swanstation_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sony Playstation 2</Platform>
+    <CommandLine>-L "cores\play_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>false</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sony PSP</Platform>
+    <CommandLine>-L "cores\ppsspp_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Super Nintendo Entertainment System</Platform>
+    <CommandLine>-L "cores\snes9x2010_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Super Nintendo Entertainment System</Platform>
+    <CommandLine>-L "cores\snes9x2002_libretro.dll" -f</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>WonderSwan</Platform>
+    <CommandLine>-L "cores\mednafen_wswan_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>WonderSwan Color</Platform>
+    <CommandLine>-L "cores\mednafen_wswan_libretro.dll" -f</CommandLine>
+    <Default>true</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <EmulatorPlatform>
+    <Emulator>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</Emulator>
+    <Platform>Sony Playstation</Platform>
+    <CommandLine>-L "cores\mednafen_psx_hw_libretro.dll"</CommandLine>
+    <Default>false</Default>
+    <M3uDiscLoadEnabled>false</M3uDiscLoadEnabled>
+    <AutoExtract>true</AutoExtract>
+  </EmulatorPlatform>
+  <Emulator>
+    <ApplicationPath>Emuladores\Game Cube y Wii\Dolphin_402_64-bit\Dolphin.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>48f2ad19-e7e1-4b78-8808-31abc65051dd</ID>
+    <Title>Dolphin 2407</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing Dolphin</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming Dolphin</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; Dolphin loads state with F1 key by default
+Send {F1 down}
+Sleep 50
+Send {F1 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; Dolphin saves state with Shift+F1 keys by default
+Send {Shift down}
+Sleep 50
+Send {F1 down}
+Sleep 50
+Send {F1 up}
+Sleep 50
+Send {Shift up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; PLEASE READ: Dolphin does not have a reset key bound by default!
+; You must go to Options &gt; Hotkey Settings in Dolphin.
+; Bind the R key to the Reset option in order for this to work!
+Send {r down}
+Sleep 50
+Send {r up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintendo 3DS\CITRA VULKAN\canary\citra-qt.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>fe0698ca-f8dc-4339-8b75-e4482e1a7efa</ID>
+    <Title>CITRA VULKAN V2788</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Sleep, 5000
+ SetKeyDelay, -1, 110
+ Send {F11}
+ Return 
+
+$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Neo Geo\WinKawaks.full\WinKawaks\WinKawaks.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>b1bd3a4b-32b4-4404-a828-b9395b4a1560</ID>
+    <Title>WinKawaks</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Sleep, 2000
+ SetKeyDelay, -1, 110
+ Send !{ENTER}
+ Return</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\3DO\EMULADOR 4DO\4DO.exe</ApplicationPath>
+    <CommandLine>-StartFullScreen -StartLoadFile</CommandLine>
+    <DefaultPlatform />
+    <ID>5c791d67-32cb-45b8-9873-517d865eb9f5</ID>
+    <Title>4DO</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes 4DO when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\MSX\blueMSX_282\blueMSX.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>610f420b-a264-449f-9e28-66e009fe96c4</ID>
+    <Title>BlueMSX V282</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>Send q</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sony playstation 2\pcsx2-v1.7.5586-windows-x64-Qt\pcsx2-qt.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>537633e8-d0a6-47cc-a94c-6408ed91015b</ID>
+    <Title>PCSX2 2.0.3</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing PCSX2</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming PCSX2</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; PCSX2 loads state with F3 key by default
+Send {F3}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; PCSX2 saves state with F1 key by default
+Send {F1}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; Reset Game is not available in PCSX2</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>; PCSX2 has an ugly exit process; this cleans it up visually
+Process, Close, {{{StartupEXE}}}</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintengo Snes\Snes9x_153_(64-bit)\snes9x-x64.exe</ApplicationPath>
+    <CommandLine>-fullscreen</CommandLine>
+    <DefaultPlatform />
+    <ID>a81df867-e6ba-416e-a68c-6bf3ae689d2e</ID>
+    <Title>Snes9x</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes Snes9x when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sony PSP\ppsspp_win\PPSSPPWindows64.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>b95579df-318a-436b-9483-d9f463d17b09</ID>
+    <Title>PPSSPP</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+    Process, Close, {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Microsoft Xbox 360\Xenia\xenia.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>28e6b7d0-c73d-41c5-8d10-14df6d45416b</ID>
+    <Title>Xenia Master</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Sleep, 10000
+ SetKeyDelay, -1, 110
+ Send {F11}
+ Return 
+
+$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Commodore Amiga\winuae64.exe</ApplicationPath>
+    <CommandLine>-s use_gui=no -s gfx_fullscreen_amiga=true -0 to load a config file: -f A1200.uae (e.g. of a A1200 setup)</CommandLine>
+    <DefaultPlatform />
+    <ID>ec34bf3d-cd26-4232-8147-866320e7f6da</ID>
+    <Title>winuae64</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Atari Jaguar\Virtual_Jaguar_210\virtualjaguar.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>f0599b57-5c1c-4991-b0be-65fedca86768</ID>
+    <Title>Virtual Jaguar V210</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>..\Users\USUARIO\Downloads\Steem.SSE.4.1.2.Win32.D3D.R14\Steem.SSE.4.1.2.Win32.D3D\Steem32D3D.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>da72b55b-a276-4303-8905-3f835db9034e</ID>
+    <Title>Steam SSE</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Microsoft Xbox 360\xenia_canary 26 April 2024\xenia_canary.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>00abcbf7-d711-46b3-a685-3c1bc8d9e176</ID>
+    <Title>xenia_canary 26 Abril 2024</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Sleep, 5000
+ SetKeyDelay, -1, 110
+ Send {F11}
+ Return 
+
+$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintengo Snes\RASnes9x-x64\RASnes9X.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>6363194f-2434-459b-be69-7fb261151dfe</ID>
+    <Title>RASnes9x</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$wshell = New-Object -ComObject wscript.shell;
+$wshell.AppActivate('RASnes9x.exe')
+Sleep 2
+$wshell.SendKeys('{ENTER}')
+Sleep 1
+$wshell.SendKeys('{ESC}%{F}{G}{1}{ESC}')
+
+; This section closes Snes9x when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sony playstation 1\duckstation-windows-x64-release\duckstation-qt-x64-ReleaseLTCG.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>d3df85ee-e59c-42b5-a2f2-3364bfb0c644</ID>
+    <Title>DuckStation 0.1-7139</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Process, Close, {{{touchmote.exe}}}
+    return</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Microsoft Xbox\Xemu Emulator\xemu.exe</ApplicationPath>
+    <CommandLine>-full-screen -dvd_path</CommandLine>
+    <DefaultPlatform />
+    <ID>58dc1c10-b5ab-46ba-8df3-6cd98d013e73</ID>
+    <Title>Xemu</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+  Send !{f4}
+  Return
+}
+
+$f4::
+{
+  Send {f5}
+  Return
+}
+
+$f2::
+{
+  Send +{f5}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sega DreamCast\Null DC\nullDC_Win32_Release-NoTrace.exe</ApplicationPath>
+    <CommandLine>-config nullDC:Emulator.Autostart=1 -config ImageReader:LoadDefaultImage=1 -config ImageReader:DefaultImage=</CommandLine>
+    <DefaultPlatform />
+    <ID>bbed39dd-f8ae-4012-9f49-d1d7c84a5d79</ID>
+    <Title>nullDC</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>true</NoSpace>
+    <HideConsole>true</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes nullDC when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>..\Users\USUARIO\Downloads\hatari-2.5.0_windows64\hatari-2.5.0_windows64\hatari.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>636821c7-9ab4-4a2a-b76c-c7dc115b9739</ID>
+    <Title>Hatari</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sega Saturn\SSF_PreviewVer_R29\SSF.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>b5016133-7222-4ee9-84ec-8c385057b1c4</ID>
+    <Title>SSF VR29</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>Sleep, 15000
+ SetKeyDelay, -1, 110
+ Send !{enter}
+ Return</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Pc Engine CD\InMG-Magic Engine v1.1.3\pce.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>d61a0927-4f77-4f0f-803e-dd448c299757</ID>
+    <Title>Magic Engine V1.1.3</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintendo-Switch\ryujinx-canary-1.3.252-win_x64\publish\Ryujinx.exe</ApplicationPath>
+    <CommandLine />
+    <ID>52ae40f3-5806-4b9a-8193-adefd8b24734</ID>
+    <Title>Ryujinx canary 1.3.252</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>false</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Game Cube y Wii\dolphin-Triforce-4.0-315-x64\Dolphin-x64\DolphinWX.exe</ApplicationPath>
+    <CommandLine>/eISO</CommandLine>
+    <DefaultPlatform />
+    <ID>513202f6-e11a-4656-b0a3-8d238dbeda17</ID>
+    <Title>Dolphin Triforce 315</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>true</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing Dolphin</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming Dolphin</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; Dolphin loads state with F1 key by default
+Send {F1 down}
+Sleep 50
+Send {F1 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; Dolphin saves state with Shift+F1 keys by default
+Send {Shift down}
+Sleep 50
+Send {F1 down}
+Sleep 50
+Send {F1 up}
+Sleep 50
+Send {Shift up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; PLEASE READ: Dolphin does not have a reset key bound by default!
+; You must go to Options &gt; Hotkey Settings in Dolphin.
+; Bind the R key to the Reset option in order for this to work!
+Send {r down}
+Sleep 50
+Send {r up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>; No custom exit script is necessary for Dolphin
+; since it already uses the Escape key by default</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintendo NES\fceux-2.6.6-win64\fceux64.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>08c70b45-70b6-4449-be74-72e09baec864</ID>
+    <Title>FCEUX</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes FCEUX when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Nintendo-Switch\Yuzu-EA-4158\yuzu.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>ef22f989-451d-4fac-9986-f5d3f39dd31b</ID>
+    <Title>Yuzu EA v.4175</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+  Send !{q}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Sony PSP VITA\Vita3K.exe</ApplicationPath>
+    <CommandLine>--fullscreen -r</CommandLine>
+    <DefaultPlatform />
+    <ID>88f6d289-959b-4066-a17a-78e50a9fc34b</ID>
+    <Title>Vita3k</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+WinClose, ahk_exe Vita3K.exe
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Wii U\cemu-2.0-72-windows-x64\Cemu_2.0-72\Cemu.exe</ApplicationPath>
+    <CommandLine>-g</CommandLine>
+    <DefaultPlatform />
+    <ID>d9d5b043-967a-440e-ac18-b9ebd4819ef9</ID>
+    <Title>Cemu 2.0-88</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Arcade\mame0260b_64bit\mame.exe</ApplicationPath>
+    <CommandLine>-keyboardprovider dinput</CommandLine>
+    <DefaultPlatform />
+    <ID>6e78e945-b214-4a0e-be70-fbc4b374923a</ID>
+    <Title>MAME</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>true</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This attempts to bypass any nag screens displayed by MAME when starting a game
+WinWait, ahk_exe {{{StartupEXE}}},,60
+if ErrorLevel
+    return
+
+WinWaitActive,,,30
+if ErrorLevel
+     return
+
+Sleep 2000
+SetKeyDelay, 125, 50
+Send, {space 3}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing MAME</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming MAME</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; MAME loads state with F7, then slot number keys by default
+Send {F7 down}
+Sleep 50
+Send {F7 up}
+Sleep 50
+Send {1 down}
+Sleep 50
+Send {1 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; MAME saves state with Shift+F7, then slot number keys by default
+Send {Shift down}
+Sleep 50
+Send {F7 down}
+Sleep 50
+Send {F7 up}
+Sleep 50
+Send {Shift up}
+Sleep 50
+Send {1 down}
+Sleep 50
+Send {1 up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; MAME resets game with F3 key by default
+Send {F3 down}
+Sleep 50
+Send {F3 up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript>; Swapping discs is not relevant for MAME</SwapDiscsAutoHotkeyScript>
+    <ExitAutoHotkeyScript>; No custom exit script is necessary for MAME
+; since it already uses the Escape key by default</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Arcade\TeknoParrot\TeknoParrotUi.exe</ApplicationPath>
+    <CommandLine>--profile=</CommandLine>
+    <DefaultPlatform />
+    <ID>bde8a209-f0c7-4c17-b90a-e78398b53d9c</ID>
+    <Title>TeknoParrot</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>$Esc::
+{
+ WinClose, ahk_exe {{{StartupEXE}}}
+}</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\SEGA Mega Drive,Genesis,32X ,Gear Y CD\Kega_Fusion_364\Fusion.exe</ApplicationPath>
+    <CommandLine>-fullscreen</CommandLine>
+    <DefaultPlatform />
+    <ID>68740445-baa4-4b5c-96f5-ebb42148fd94</ID>
+    <Title>Kega Fusion V364</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$f2::
+{
+  Send {f5}
+  Return
+}
+
+$f4::
+{
+  Send {f8}
+  Return
+}
+
+$f5::
+{
+  Send {f7}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>I:\LaunchBox\Emuladores\Sony playstation 3\rpcs3-v0.0.31-16299-412db758_win64\rpcs3.exe</ApplicationPath>
+    <CommandLine>--no-gui</CommandLine>
+    <DefaultPlatform />
+    <ID>4a3c0f3b-7b50-425b-a2cf-000de68a5927</ID>
+    <Title>RPCS3 V0.0.32-16683</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Arcade\M2 Model 2 Emu\emulator_multicpu.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>c67b37e2-f78b-468b-ab4f-f309bbceed6e</ID>
+    <Title>Sega Model 2 Emu SOLO PARA SONIC FIGHTERS</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript />
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript />
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\Arcade\Model 2 Emulator 1.1a\m2emulator\EMULATOR.EXE</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>3bfefb90-fa89-47e1-9317-3f878200c471</ID>
+    <Title>Sega Model 2 Emulator</Title>
+    <NoQuotes>true</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>false</HideConsole>
+    <FileNameWithoutExtensionAndPath>true</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>; This section closes Sega Model 2 Emulator when pressing Escape
+$Esc::
+{
+    WinClose, ahk_exe {{{StartupEXE}}}
+}</AutoHotkeyScript>
+    <AutoExtract>false</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing Sega Model 2 Emulator</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming Sega Model 2 Emulator</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; Sega Model 2 Emulator loads state with F10 key (double press) by default
+Send {F10 down}
+Sleep 50
+Send {F10 up}
+Sleep 50
+Send {F10 down}
+Sleep 50
+Send {F10 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; Sega Model 2 Emulator saves state with F11 key (double press) by default
+Send {F11 down}
+Sleep 50
+Send {F11 up}
+Sleep 50
+Send {F11 down}
+Sleep 50
+Send {F11 up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; Sega Model 2 Emulator resets game with F3 key by default
+Send {F3 down}
+Sleep 50
+Send {F3 up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript>; Swapping discs is not relevant for Sega Model 2 Emulator</SwapDiscsAutoHotkeyScript>
+    <ExitAutoHotkeyScript>; No custom exit script is necessary for Sega Model 2 Emulator
+; since it is triggered by the default Running AutoHotkey script</ExitAutoHotkeyScript>
+  </Emulator>
+  <Emulator>
+    <ApplicationPath>Emuladores\RetroArch\retroarch.exe</ApplicationPath>
+    <CommandLine />
+    <DefaultPlatform />
+    <ID>48793d7c-5d73-44d0-9ccf-d5aad7550aeb</ID>
+    <Title>Retroarch</Title>
+    <NoQuotes>false</NoQuotes>
+    <NoSpace>false</NoSpace>
+    <HideConsole>true</HideConsole>
+    <FileNameWithoutExtensionAndPath>false</FileNameWithoutExtensionAndPath>
+    <AutoHotkeyScript>$Esc::
+{
+  Send !{f4}
+  Return
+}</AutoHotkeyScript>
+    <AutoExtract>true</AutoExtract>
+    <UseStartupScreen>true</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>5000</StartupLoadDelay>
+    <HideMouseCursorInGame>true</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <UsePauseScreen>true</UsePauseScreen>
+    <PauseAutoHotkeyScript>; No script is required for pausing RetroArch</PauseAutoHotkeyScript>
+    <ResumeAutoHotkeyScript>; No script is required for resuming RetroArch</ResumeAutoHotkeyScript>
+    <DefaultPauseSettingsPushed>true</DefaultPauseSettingsPushed>
+    <SuspendProcessOnPause>true</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>true</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript>; RetroArch loads state with F4 key by default
+Send {F4 down}
+Sleep 50
+Send {F4 up}</LoadStateAutoHotkeyScript>
+    <SaveStateAutoHotkeyScript>; RetroArch saves state with F2 key by default
+Send {F2 down}
+Sleep 50
+Send {F2 up}</SaveStateAutoHotkeyScript>
+    <ResetAutoHotkeyScript>; RetroArch resets game with H key by default
+Send {h down}
+Sleep 50
+Send {h up}</ResetAutoHotkeyScript>
+    <SwapDiscsAutoHotkeyScript />
+    <ExitAutoHotkeyScript>; No custom exit script is necessary for RetroArch
+; since it already uses the Escape key by default</ExitAutoHotkeyScript>
+  </Emulator>
+</LaunchBox>

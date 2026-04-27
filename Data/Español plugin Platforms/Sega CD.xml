@@ -1,0 +1,2312 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Adventures of Batman &amp; Robin, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:16.2085996-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:16.2085996-05:00</DateModified>
+    <Developer>Clockwork Tortoise</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ab4493f3-a92f-4700-8aed-eb0503ac0473</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Robin y el comisionado Gordon desaparecieron misteriosamente. Batman sospecha que algo está mal. ¿Tus amigos sucumbirán a la peligrosa hierba venenosa? ¿Riddler dejará a Batman sin respuesta? ¿Tendrá el Joker la última risa esta vez? ¡Sintoniza el CD de Sega para descubrirlo! Animaciones exclusivas hechas por los creadores de la serie de televisión "The Adventures of Batman &amp; Robin" .
+- Chase criminales a bordo del Batmóvil o cruza los cielos de Gotham City en Batwing. Gráficos en 3D tan increíbles que los obstáculos y los delincuentes parecen estar saliendo de la pantalla.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>5</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>5</StarRatingFloat>
+    <StarRating>5</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Adventures of Batman &amp; Robin</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-12-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fdff3eeb-a571-4903-b351-11a9e1945e87</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ab4493f3-a92f-4700-8aed-eb0503ac0473</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Adventures of Batman &amp; Robin, The (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Adventures of Batman &amp; Robin</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Adventures of Willy Beamish, The (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:43.3973212-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:43.3973212-05:00</DateModified>
+    <Developer>Dynamix</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>239f1898-31a2-44a7-a7ad-f041cbb75823</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Willy Beamish es un niño al que le gusta burlarse y divertirse. Naturalmente, todos los adultos se interponen al hacerlo ir a la escuela, hacer que limpie su habitación, etc. Pero ahora que la escuela está cerrada para el verano, Willy está decidido a pasar un buen rato y tal vez incluso gane su rana mascota El concurso de saltos de rana. Sin embargo, Willy tiene la costumbre de meterse en problemas y, naturalmente, eso significa que será un desafío salir de él.
+
+Las aventuras de Willy Beamish es una aventura gráfica de apuntar y hacer clic. Interpretas a Willy Beamish, un niño de ocho años que solo está tratando de sobrevivir sin perder el dinero del almuerzo. Pero tendrá que tratar con padres, maestros, niñeras y hermanas malcriadas. El jugador debe resolver diferentes acertijos para asegurarse de que Willy pueda progresar, salir de problemas y, en general, evitar terminar castigado.
+
+El tiempo en el juego progresa incluso si no se toman medidas. Esto significa que muchos acertijos deben resolverse en un período de tiempo determinado o confiar en estar en el lugar correcto en el momento correcto. Un aspecto especial de este juego es un bar que muestra la relación de Willy con sus padres. Se ve afectado por la forma en que se resuelven ciertas situaciones, p. Ej. aumenta si Willy se niega a jugar con su hermana, y cuando está lleno lo envían a una escuela militar y el juego se pierde.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sierra</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Adventures of Willy Beamish</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f5bddda3-7758-417c-bfa3-48ebc99288fe</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>239f1898-31a2-44a7-a7ad-f041cbb75823</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Adventures of Willy Beamish, The (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Adventures of Willy Beamish</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\After Burner III (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:39.0285914-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:39.0285914-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c92c95d7-535b-4a97-8bda-fb2edb877bf0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>El tercero en la serie de simulación de vuelo arcade de Sega, After Burner III te lleva de vuelta a la cabina del F-14 Tomcat para poder tomar tantos aviones terroristas como puedas con tu arsenal de misiles Sidewinder y tu fiel cañón vulcan.
+
+Exclusivo de Sega CD, el título es en realidad un puerto del juego de pelea arcade de SEGA Strike Fighter, un lanzamiento arcade solo para Japón que intentó mezclar el modo de juego sim "lite" de G-Loc Air Battle con los trucos arcade de After Burner. Como tal, el juego presenta la capacidad de jugar tanto en la cabina como en la perspectiva clásica en tercera persona. Ya están disponibles los escenarios de la noche y el día, con objetivos de la misión que incluyen nuevos ataques aéreos.
+
+Incluye 3 modos de juego: Arcade, Timed y "Hits" que mide cuántos enemigos puedes derribar en oleadas específicas. No hay soporte multijugador disponible.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>After Burner III</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1992-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter / Avión, 1ª persona-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d069ffc3-6d24-4624-b4eb-96084766906a</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c92c95d7-535b-4a97-8bda-fb2edb877bf0</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\After Burner III (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>After Burner III</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Amazing Spider-Man vs. The Kingpin, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:24.7689831-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:24.7689831-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8684e419-cf53-42c8-b0f8-6093a9f7deb0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Spider-Man vs. Kingpin en Mega-CD es un juego de acción / plataforma en el que juegas a ser el hombre araña. Wilson Fisk, alias The Kingpin, le dice a la prensa que una bomba colocada en algún lugar de Nueva York explotará en 24 horas. Acusa directamente a Spider-Man, que se queda con la policía a la espalda. Tienes que encontrar la bomba y reconstruir tu escudo de armas, pero Octopus, Electro y Mysterio intentarán bloquearte.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The	Amazing Spider-Man vs. The Kingpin</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-09-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>92ed6008-8964-4914-8c22-b63d239a9fd7</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8684e419-cf53-42c8-b0f8-6093a9f7deb0</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Amazing Spider-Man vs. The Kingpin, The (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The	Amazing Spider-Man vs. The Kingpin</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Android Assault - The Revenge of Bari-Arm (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:28.2033084-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:28.2043086-05:00</DateModified>
+    <Developer>Human</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e0174636-0fc6-4015-862d-ed26ff7afd88</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Android Assault es un shoot'em up con desplazamiento vertical. También se conoce como Bari-Arm en Japón. Técnicas variadas de ataque, 7 niveles largos, gran jefe, una banda sonora agradable y una jugabilidad perfecta. La dificultad es progresiva pero debes admitir que la etapa final es realmente difícil.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Human</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Android Assault : The Revenge of Bari-Arm</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Horizontal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>5dcf886b-317c-4f9e-afd3-e2422911c4bf</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e0174636-0fc6-4015-862d-ed26ff7afd88</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Android Assault - The Revenge of Bari-Arm (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Android Assault : The Revenge of Bari-Arm</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Battlecorps (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:31.4539365-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:31.4539365-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>18c56e75-5400-4b5b-91d5-ea8727e5cb75</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Battlecorps es un juego gigante que tiene lugar en un planeta minero conocido como el mundo de Mandlebrot. La supercomputadora de colonias se ha infectado con un virus y ahora las máquinas gigantes del planeta se están volviendo en contra de las personas que las crearon. Debes pilotar tu máquina de ataque bípedo a través de 12 misiones para reiniciar la computadora.&#xD;
+&#xD;
+Los gráficos en este juego usan sprites escalados y rotados para lograr un entorno 3D. El efecto es similar a otros juegos de Core Design para el CD de Sega.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Battlecorps</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ff2ef4d3-369d-4e5b-a685-56db64b8f6c0</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>18c56e75-5400-4b5b-91d5-ea8727e5cb75</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Battlecorps (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Battlecorps</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Cobra Command (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:10.7160295-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:10.7160295-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9cdfa9a2-5c66-4c72-b1dd-0dc362b25be2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dentro de la cabina de su helicóptero que lleva el imponente nombre de Comando Cobra, el jugador tiene la misión de poner fin a los locos actos de un grupo terrorista que ha estado extendiendo el miedo y el caos en todo el mundo. Los tanques y aviones deben ser derribados con la ametralladora y los misiles que están disponibles en su arsenal. Nuestra máquina de guerra cortará los cielos de varios lugares conocidos, como Nueva York, la Estatua de la Libertad, el Océano Atlántico y el Gran Cañón, hasta que llegue a la sede de los enemigos.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cobra Command</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1992-11-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>4d20a81a-7087-4834-beca-1e340588e821</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9cdfa9a2-5c66-4c72-b1dd-0dc362b25be2</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Cobra Command (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cobra Command</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Cyborg 009 (JP).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:32.0632400-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:32.0632400-05:00</DateModified>
+    <Developer>Nihon Telenet</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e66213d4-f088-4233-ab56-aad8a1ec5590</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cyborg 009 es un juego de plataformas de Mega Cd que cuenta la historia de 9 adolescentes de todo el mundo, secuestrados por la organización criminal Black Ghost para transformarlos en cyborgs. Con la ayuda del Dr. Isaac Gilmore, los 9 adolescentes logran escapar y deciden librar una feroz lucha contra su creador.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Riot</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Cyborg 009</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-07-30T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Plataforma / Tirador con deslizamiento-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>0dcf2436-ade1-44bf-8686-f2341e96f53c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e66213d4-f088-4233-ab56-aad8a1ec5590</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Cyborg 009 (JP).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Cyborg 009</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Dark Wizard (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:08.7253854-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:08.7253854-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5a829a76-1afc-4043-97b8-49334898b417</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dark Wizard de Mega CD es un juego de rol que lleva al jugador al corazón del reino de Cheshire, que ha caído en manos del Velonese maquiavélico. Juega como uno de los cuatro personajes que elijas y restaura el orden y la ley en un universo que se hunde. Las fases de combate tienen lugar turno por turno y cada combate ganado se recompensa con puntos de experiencia para mejorar las características del personaje.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Dark Wizard</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol-Estrategia</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7f71a895-6f56-4a6c-969f-8d7baae46839</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5a829a76-1afc-4043-97b8-49334898b417</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Dark Wizard (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Dark Wizard</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Dungeon Explorer (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:11.4774073-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:11.4774073-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ca2b041c-cebb-4a79-bdce-67ea375e589e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La Diosa de la Ambición está encerrada en los laberintos debajo de la torre Darkling. Se cuenta una leyenda que una vez rescatada, ella concederá cualquier deseo. Un grupo de héroes varados en un mundo extraño debe intentar liberar a esta criatura divina y usar sus poderes para regresar a casa.
+
+Dungeon Explorer es un clon de Gauntlet. Al igual que ese juego clásico, es un híbrido entre un arcade de disparos y un juego de rol tradicional. Admite hasta 4 jugadores con una selección de 6 personajes / clases diferentes: monje, caballero, elfo, mago, bestia y ninja. En el lado derecho de la pantalla hay una barra con retratos de los personajes: al presionar el botón A aparece el menú de estado que muestra el nivel actual, los puntos de experiencia, las estadísticas y el equipo. El botón C dispara el arma equipada, y el botón B usa la habilidad especial del personaje.
+
+El juego comienza en el área que rodea un punto de guardado. Esta área funciona como un centro central para acceder a las 6 mazmorras. Si un personaje lo abandona, el contador de comida comienza a disminuir. Si llega a cero, los puntos de vida comienzan a disminuir hasta que el personaje muere. La comida se puede encontrar como pociones o ollas alrededor de los laberintos. Devolver al personaje al área del punto de guardado repone todos los contadores y cura todas las condiciones (como envenenamiento y confusión). Al norte hay dos edificios, una tienda de armas y una taberna. El oro recolectado en el juego se gasta en mejoras de equipo en la tienda de armas. La taberna (llamada Jojo's Bar) permite al jugador cambiar de personaje.
+
+Los personajes suben de nivel automáticamente a medida que acumulan los puntos de experiencia necesarios. Una vez que un jefe de mazmorra es derrotado, la mazmorra se bloquea y el jugador no puede volver a ella. El juego tiene cuatro espacios para guardar, cada uno para un juego individual.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Hudson</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Dungeon Explorer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>289e726f-0694-4b5f-82b4-8de5448c7207</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ca2b041c-cebb-4a79-bdce-67ea375e589e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Dungeon Explorer (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Dungeon Explorer</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Earthworm Jim - Special Edition (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:23.2190144-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:23.2190144-05:00</DateModified>
+    <Developer>Shiny Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e298e98a-0ad8-420e-84e9-fcf27d576e21</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Esta edición especial incluye: un sistema de contraseñas, un mundo extra, más zonas ocultas, un arma nueva, más de 1000 cuadros de imágenes animadas adicionales. Banda sonora completamente nueva y de la calidad de un CD y finales completamente diferentes en dos de los mundos. En  resumen, todas las ideas súper molonas de Shiny que no se pudieron incluir en las versiones en cartucho aparecen en esta edición especial.  </Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Interplay</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Earthworm Jim : Special Edition</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c364befd-7514-43da-adc0-5d3d1f1d61bc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e298e98a-0ad8-420e-84e9-fcf27d576e21</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Earthworm Jim - Special Edition (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Earthworm Jim : Special Edition</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Eternal Champions - Challenge From the Dark Side (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:34.4006518-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:34.4006518-05:00</DateModified>
+    <Developer>Deep Water</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>625c32c2-1883-449d-a4f9-22cfe6ffc347</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Challenge from the Dark Side, también llamado Eternal Champions 2, toma el principio de los Eternal Champions originales: algunos guerreros resucitados al final del mundo para un torneo. Este componente también trae otro guerrero, el Dark Champion (cuyo objetivo es matar al ganador del torneo), así como algunos nuevos competidores.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Eternal Champions : Challenge from the Dark Side</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-02-05T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>4c9da516-0420-4f52-b7cf-29ee4e993ba6</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>625c32c2-1883-449d-a4f9-22cfe6ffc347</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Eternal Champions - Challenge From the Dark Side (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Eternal Champions : Challenge from the Dark Side</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Ground Zero Texas (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:34.8482470-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:34.8482470-05:00</DateModified>
+    <Developer>SCE Santa Monica Studio</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>1168bdd9-026f-4ff3-a9fa-9b03f3380e6b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ground Zero Texas es un shooter en primera persona en Mega-CD. Los extraterrestres se infiltran en los Estados Unidos desde una pequeña ciudad adormecida en la frontera de México para allanar el camino hacia una invasión mayor. El gobierno lo designa a usted, un técnico en armas de fuego, para controlar la actividad de los alienígenas en la ciudad y reaccionar para proteger las vidas de los ciudadanos y sus agentes.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Sony Imagesoft</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Ground Zero Texas</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Lightgun Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>07758fcb-76ec-4ac1-8e4f-9a492f0d64dc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>1168bdd9-026f-4ff3-a9fa-9b03f3380e6b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Ground Zero Texas (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Ground Zero Texas</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Heart of the Alien - Out of This World Parts I and II (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:30.2163141-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:30.2163141-05:00</DateModified>
+    <Developer>Virgin Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0e4c4354-3ca6-4185-997d-f9dda9a27def</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Heart of the Alien es un videojuego de plataformas cinemáticas desarrollado por Interplay Entertainment y Virgin Interactive y lanzado por Virgin Interactive en 1994 para el CD Sega exclusivamente en Norteamérica. Es una secuela de Another World y continúa la historia directamente desde donde terminó el original. El juego cambia el rol del jugador de Another World; esta vez el jugador toma el control de Buddy, el aliado alienígena del personaje principal del juego anterior. La historia comienza inmediatamente después del final de Another World. Buddy aterriza el pterodáctilo en las ruinas de su pueblo, deja a Lester en un catre para descansar y camina por el pueblo, pensando en su pasado. Esta secuencia contiene muchos flashbacks de eventos que conducen a la captura de Buddy y su escape de Lester de la prisión. En el juego, Buddy está buscando al alienígena de ojos rojos responsable de la destrucción de su aldea y el encarcelamiento de su gente. Buddy entra de nuevo en la prisión en busca del alienígena de ojos rojos. Cerca del final del juego, Lester que se despierta de nuevo, ayuda a Buddy a salir, pero luego muere en el proceso. Buddy luego va a buscar nuevamente al alienígena de ojos rojos en una fortaleza. Eventualmente, él puede encontrarlo y lo atrapa en una jaula con una bestia que lo mata. Al final del juego, Buddy le da al cuerpo de Lester una cremación ceremonial. Más adelante se muestra cómo la aldea de Buddy se reconstruye con sus ciudadanos viviendo nuevamente en armonía.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Delphine Software International</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Heart of the Alien : Out of this World Parts I and II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>13e1012a-7788-4548-9baf-cd1068eb8e33</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0e4c4354-3ca6-4185-997d-f9dda9a27def</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Heart of the Alien - Out of This World Parts I and II (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Heart of the Alien : Out of this World Parts I and II</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Jurassic Park (ES).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:09.7187166-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:09.7187166-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2e453f3d-7b2c-4209-a994-79bb88460e6d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Este es el juego Sega CD basado en la película Steven Spielberg de 1993 basada en el libro de Michael Crichton. Este juego es muy diferente de otros juegos de Jurassic Park. Es un juego de aventura de apuntar y hacer clic, con un fuerte énfasis en las secuencias de acción que requieren un tiempo de fracción de segundo.&#xD;
+&#xD;
+La historia tiene lugar después de los eventos de la película / libro. Te envían de regreso a Jurassic Park para recuperar huevos de dinosaurio de todo el parque y ponerlos en una incubadora. Solo tienes 12 horas para recuperar un huevo de cada especie de dino en el parque. Desafortunadamente, poco antes de llegar al parque, ¡su helicóptero se estrella!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Jurassic Park</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>ccb0b80d-16c7-4938-a91f-9419c2144b55</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>2e453f3d-7b2c-4209-a994-79bb88460e6d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Jurassic Park (ES).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Jurassic Park</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Keio Flying Squadron (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:16.6265287-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:16.6265287-05:00</DateModified>
+    <Developer>JVC</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>dc7df3d3-4b1f-487d-a035-7f7018333604</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ésta es una historia japonesa con emoción y misterio, protagonizada por una joven e intrépida aventurera oriental. Rami, montada en su fiel dragón Spot, lucha con un pulpo marino monstruoso, con la Armada de los EEUU y con el ejército ruso, hasta que,  ?nalmente, Ilega al barco del doctor Pon. Este personaje, considerado como la criatura más inteligente del planeta con un coeficiente intelectual de 1400, tiene el aspecto de un mapache, lo que pega mucho dada su profesión de ladrón.       </Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>JVC</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Keio Flying Squadron</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Horizontal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>b4f1e86c-c751-4f81-95a8-c5c2176db8ce</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>dc7df3d3-4b1f-487d-a035-7f7018333604</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Keio Flying Squadron (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Keio Flying Squadron</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Lords of Thunder (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:44.6705069-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:44.6705069-05:00</DateModified>
+    <Developer>Red Company</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b3d5e49a-a27e-4555-95ec-b68249f8d7a2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En la tierra una vez pacífica de Mistral, la leyenda cuenta de un valiente caballero llamado Drak que ha sellado a un dios malvado llamado Deoric debajo de los seis continentes de la tierra. Sin embargo, la paz nunca dura. El Imperio Garuda ha invadido las tierras de Mistral, y los seis generales oscuros, liderados por Sornbul, han conquistado los continentes. La ambición de Sornbul es nada menos que resucitar a Deoric y sumergir la tierra en el caos.
+
+Durán, descendiente de Drak, es el único que puede detener el loco plan del Imperio Garuda, y con el poder de las armaduras místicas de Drak, se dirige a detener a Sornbul a toda costa.
+
+Los seis continentes de Mistral pueden ser desafiados en cualquier orden, cada uno de los cuales está lleno de hordas de demonios y uno de los Generales Oscuros de Sornbul. Después de completar los seis continentes, el jugador se enfrentará a Sornbul en la isla final. Antes de un nivel, el jugador puede elegir entre una de las cuatro armaduras elementales, cada una con su propia bala y bomba única. El ataque de la armadura puede aumentar varios niveles al encontrar las joyas arrojadas por los enemigos. Este nivel de potencia, así como la salud de la armadura, se reduce cuando se golpea. Los enemigos también arrojan cristales que se utilizan en una tienda de nivel intermedio para comprar salud adicional, bombas y continúa.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Hudson</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Lords of Thunder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Horizontal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fedc51fb-ca40-4474-a038-0ad49e746c6e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b3d5e49a-a27e-4555-95ec-b68249f8d7a2</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Lords of Thunder (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Lords of Thunder</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Popful Mail (JP).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:22.3051709-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:22.3051709-05:00</DateModified>
+    <Developer>Working Designs</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>14bf4594-e26c-45b7-8e52-64d7ffbe7767</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>La linda cazadora de recompensas conocida como Popful Mail parece que no tendría problemas para ganarse la vida acabando con los malos con su espada. En realidad Mail está pasando por tiempos difíciles. Un día, sin embargo, ella se entera de que una bruja ha sido corrompida y tiene una fuerte recompensa por su cabeza. Tu aventura comienza a medida que Popful se abre camino a través de una nueva aventura, y hace nuevos amigos en el camino.&#xD;
+&#xD;
+¨Popful Mail¨ es un juego de acción de plataformas con elementos de RPG muy ligeros. A medida que la heroína se abre camino a través de las etapas recoge el dinero de los enemigos muertos. Este dinero puede ser utilizado en tiendas para comprar armas, armaduras, salud, y así sucesivamente. El juego cuenta con la interacción con muchos personajes a través tanto de diálogo en pantalla y secuencias completamente animadas. Algunos de estos personajes se convierten en jugables a medida que el jugador progresa a través del juego.&#xD;
+&#xD;
+Esta versión tiene la misma historia y estilo de juego general de la versión anterior, pero por lo demás estaba hecho de cero, teniendo gráficos, localizaciones, enemigos, retos, etc... completamente diferentes.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Popful Mail</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-02-23T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>e94ddc52-df25-4726-a72a-e47482e5486d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>14bf4594-e26c-45b7-8e52-64d7ffbe7767</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Popful Mail (JP).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Popful Mail</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Racing Aces (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:25.5219501-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:25.5219501-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>452373a8-87ee-4c2d-b52d-0bcf94b4e58f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Atención al inicio. Todo listo en la red, motores funcionando, el circuito está listo ... ¡comenzaron! O más bien, ¡despegaron! ¡Ahora participará en una emocionante carrera de aviones a muy alta velocidad, con giros radicales, cuesta arriba y muchos peligros! Viuda Negra Tu objetivo será ganar la carrera y permanecer en el aire. Para tus enemigos, no eres más que un punto de vista sobre el cañón. Un punto que debe desaparecer. Como uno de los 30 pilotos, debe mostrar su experiencia y habilidad, así como mucho coraje. Los premios son en efectivo, que puede gastar comprando equipos y mejorando su rendimiento en el aire. Solo un as puede sobrevivir. ¡Solo los mejores ases ganarán!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Racing Aces</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bad8f17d-4192-4433-9d5b-9bb6647b1b14</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>452373a8-87ee-4c2d-b52d-0bcf94b4e58f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Racing Aces (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Racing Aces</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Rise of the Dragon [MK-4301] (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:30.8589915-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:30.8589915-05:00</DateModified>
+    <Developer>SEGA</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>bf95c4fe-5a63-4e6c-9ca7-7ce5d4190b8f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Rise of the Dragon es una aventura que debutó en 1990 para MS DOS y Macintosh. La trama comienza en 2053, en un futuro distópico donde la hija del alcalde de Los Ángeles fue asesinada, además de que su cuerpo fue brutalmente mutilado. Nuestro protagonista, Willian 'Blade' Hunter, es contratado para resolver el caso, pero está involucrado en una gran conspiración. El juego tiene un reloj interno que te obliga a estar en el lugar y la hora correctos para que ocurran ciertos eventos. Ciertas opciones pueden terminar la aventura prematuramente, ya que hay varios finales. La versión Sega CD ha agregado voces, pero tiene una gama de colores más pequeña en comparación con las versiones originales de la computadora.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Dynamix</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Rise of the Dragon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>21475d20-8dc3-4cdf-a1b6-99ac761765f2</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>bf95c4fe-5a63-4e6c-9ca7-7ce5d4190b8f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Rise of the Dragon [MK-4301] (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Rise of the Dragon</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Road Avenger (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:23.9694318-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:23.9694318-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>0a78e1b4-7584-4412-bb46-73c9a4cfaf62</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Road Avenger es un juego de carreras de Mega CD. El título viene en forma de una película anime en la que tienes que presionar en el momento correcto la tecla correcta. Todo es historia de venganza ... Juegas como un joven cuya esposa fue asesinada por una pandilla de conductores. Entonces vas a buscarlos y los cazas hasta su último aliento.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Road Avenger</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1992-12-18T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura-Carreras, Conducción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c6d720ca-e80a-4128-9bb4-0646ed503ec3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>0a78e1b4-7584-4412-bb46-73c9a4cfaf62</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Road Avenger (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Road Avenger</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Robo Aleste (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:29.6411167-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:29.6411167-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a45d939d-fd5b-44be-8e81-e1edda0284ca</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Los sanguinarios señores de la guerra Chugoko del oeste han gobernado y devastado al único-supremo Clan Oda. Es hora de vengarse. Shooter vertical basado en Japón, con grandes jefes y potenciadores masivos.
+</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Robo Aleste</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Vertical</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>75f4d43c-5758-4d93-955f-9179339bab71</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a45d939d-fd5b-44be-8e81-e1edda0284ca</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Robo Aleste (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Robo Aleste</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Secret of Monkey Island, The (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:27.1795561-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:27.1795561-05:00</DateModified>
+    <Developer>LucasArts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>8e12b05b-e326-40e4-a7e3-818d6fd2b65c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En lo profundo del Caribe se encuentra la isla de Melee, gobernada por la hermosa gobernadora Elaine Marley. El cruel pirata LeChuck está profundamente enamorado de ella, ¡tan profundamente que se niega a aceptar su propia muerte! Como fantasma, vive con su tripulación alrededor de la misteriosa isla de los Monos. Eres Guybrush Threepwood, un joven que solo quiere convertirse en un verdadero pirata. En Scumm Bar te encuentras con tres piratas que te dicen cómo llegar a ese punto. ¿Podría Elaine Marley enamorarse de ella y enfrentar la ira del temible pirata fantasma LeChuck? ¡Aquí es cuando realmente comienza la aventura de Guybrush!&#xD;
+&#xD;
+The Secret of Monkey Island es un juego de aventuras que utiliza el comando basado en verbos SCUMM interface introducido por primera vez en Maniac Mansion: compila comandos haciendo clic en el verbo apropiado y luego haciendo clic en el elemento de inventario o un objeto en la habitación quiero interactuar con. Es el primer juego de aventuras de LucasArts en el que es imposible quedar atrapado irrevocablemente o morir. El sistema de diálogo de ramificación, donde elige comunicarse mientras habla con las personas, le permite hablar de diferentes maneras sin temor a una elección incorrecta. ¡Hay muchos acertijos basados ??en inventarios para resolver, e incluso "insultar luchas de espadas" para participar, donde Guybrush tiene que demostrar que su ingenio es tan agudo como su espada!</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>LucasArts</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Secret of Monkey Island</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-11-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura-Aventura / Point and Click</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bf047d29-69ef-4c41-bb65-0bbb9c41bfac</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>8e12b05b-e326-40e4-a7e3-818d6fd2b65c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Secret of Monkey Island, The (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Secret of Monkey Island</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Shining Force CD (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:18.2345524-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:18.2345524-05:00</DateModified>
+    <Developer>Sonic! Software Planning</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>58940ec0-8b62-40f4-8ee4-0221e1ffa074</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Esta es una compilación de dos títulos de estrategia RPG de los títulos de Shining Force: Shining Force Gaiden (la versión original lanzada en Japón solamente), y su secuela, conocida fuera de Japón como Shining Force II: The Sword of Hajya, ambas para GameGear. En esos juegos controlas a Nick, el Príncipe de Cypress. En el primer juego su tarea es rescatar a Arni, la princesa de Gardiana; en el segundo juego, tiene que conquistar su reino de nuevo, que fue capturado por el malvado imperio de Iom. El relanzamiento incluye gráficos remasterizados y música de mayor calidad.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Shining Force CD</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-03-22T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol-Juego de Rol Táctico</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>debee1fc-b6a0-48a2-8d92-ec6f4ed051bc</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>58940ec0-8b62-40f4-8ee4-0221e1ffa074</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Shining Force CD (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Shining Force CD</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Silpheed (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:40.9234071-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:40.9234071-05:00</DateModified>
+    <Developer>Game Arts</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>6ebaa525-0e94-4eeb-bd95-3407e1600f8d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Silpheed para el CD de Sega es una secuela de shoot-em-up del título de PC del mismo nombre. El juego es similar: esto es básicamente un shooter 2D con gráficos 3D. Mueves tu nave en un plano 2D que llega a la pantalla, como una mesa de pinball. La versión Mega CD de Silpheed usa video pre-renderizado para los fondos, y gráficos poligonales para la nave del jugador y los enemigos.&#xD;
+&#xD;
+La historia aquí es típica para un juego de este tipo. El sistema informático central que controla la red galaxia ha sido pirateado por terroristas. Los terroristas están usando la computadora para atacar los planetas de la colonia en todo el sistema. Eres el último recurso de la Galaxy Union: debes luchar para atravesar 11 etapas para llegar a la Tierra y volver a tomar el control de la computadora.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Silpheed</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>66016148-dbb3-45d7-8c05-18cb744666f1</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>6ebaa525-0e94-4eeb-bd95-3407e1600f8d</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Silpheed (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Silpheed</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Snatcher (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:15.7370014-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:15.7370014-05:00</DateModified>
+    <Developer>Konami</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e85916c3-35ad-49e7-a401-fde97777217a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Snatcher se desarrolla en la ciudad futurista de Neo Kobe, una urbe de locura y decadencia. El año es 2047. La humanidad se enfrenta a su mayor crisis. Ha aparecido una misteriosa forma de vida bio-roide. Se desconoce su verdadera naturaleza y finalidad. ¿Es el arma secreta de un país o un extraterrestre? Aparecen en invierno, matan a gente y ocupan su lugar en la sociedad. Tienen piel artificial, sudan y sangran. Se ha formado una nueva fuerza policial, especialmente entrenada para luchar contra los Snatchers: los JUNKERs. Cada vez que conoces a alguien, tienes que hacerte una pregunta difícil: ¿es una persona o un ladrón? El jugador toma el control de Gillian Seed, una JUNKER. La jugabilidad sigue en gran medida la estructura de una aventura de estilo japonés. El jugador utiliza una interfaz basada en menús para ejecutar comandos, lo que incluye desplazarse entre ubicaciones e interactuar con el entorno.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Konami</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Snatcher</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-11-30T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7cf2288c-5795-4dba-a017-92177daf1f1f</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e85916c3-35ad-49e7-a401-fde97777217a</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Snatcher (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Snatcher</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Sol-Feace (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:42.4908542-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:42.4908542-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>9a38e087-0336-44ac-b1ee-522167d38653</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sol-Feace es un típico juego de disparos en 2D con potenciadores de armas. El juego presenta seis niveles: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea y Final Battle.
+
+En el camino se pueden recoger varias armas, incluidas balas de plasma, balas de plasma dobles, láseres y misiles.
+
+La característica más singular del juego es que puedes realinear tus armas actualizadas para disparar desde adelante hacia atrás, arriba, abajo, distancia extendida o lo que sea que la situación actual requiera.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sol-Feace</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1991-11-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up-Shoot'em Up / Horizontal</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>7bcc68bd-118b-4c9d-a3c8-9740d8c95e3b</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>9a38e087-0336-44ac-b1ee-522167d38653</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Sol-Feace (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sol-Feace</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Sonic CD (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:32.5928767-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:32.5928767-05:00</DateModified>
+    <Developer>Sonic Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>26ff07c4-743e-4be6-b75b-f00630a1afc3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sonic the Hedgehog y su novia autoproclamada Amy Rose viajan a Never Lake, sólo para descubrir el legendario pequeño planeta allí, atado con cadenas y cubierto por metal. Al parecer, el archienemigo de Sonic, el Dr. Eggman, está usando los poderes del planeta con el fin de manipular el tejido del tiempo. Creó la contraparte malvada de Sonic, Metal Sonic, que secuestra a Amy y desaparece. Ahora el valiente erizo debe explorar el pequeño planeta, recoger siete joyas capaces de alterar el paso del tiempo , liberar a Amy, y derrotar a Metal Sonic, junto con su amo.&#xD;
+&#xD;
+Sonic CD es un juego de ritmo rápido de desplazamiento lateral de plataformas, similar en el juego a otras entregas de la serie. De Sonic utiliza sus ataques de giro patentados para destruir a los secuaces del doctor, y recoger diversos elementos, tales como anillos protectores, escudos, y zapatos de velocidad. Sus ataques especiales incluyen el Spin Dash y el Super Peel Out. Una de las características de juego del stand-out de esta entrega es la capacidad de Sonic para viajar a las versiones anteriores y futuras de las etapas que atraviesa. Dependiendo de la acción del jugador en la versión anterior de un nivel, las versiones futuras (que contienen los enemigos jefe obligatorios) cambiarán de "malo" a "bueno", que tienen más o menos enemigos y obstáculos, respectivamente.&#xD;
+&#xD;
+Piedras de tiempo se pueden recoger al completar los tramos cronometrados, en los que Sonic tiene que disparar a los OVNIs dentro de un límite de tiempo asignado. El juego tendrá final "bueno" si se puede lograr ya sea mediante la recopilación de las siete Time Stones, o girando todas las versiones futuras de nivel en "buenas". El juego tiene características que aprovechan el formato CD como CD de audio, clips de video, y más niveles (más de cincuenta en total).</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Sonic the Hedgehog CD</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-11-19T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>be0f5833-f4fa-4429-89af-2ffbb54d4582</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>26ff07c4-743e-4be6-b75b-f00630a1afc3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Sonic CD (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Sonic the Hedgehog CD</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\SoulStar (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:33.4865564-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:33.4865564-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>32a3ecde-4dfd-41a6-be15-afc9a3a57a42</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Soulstar para Sega CD / Mega CD es un shoot-em up 3D que combina varios tipos de jugabilidad en un solo juego. Algunos niveles en este juego están en un camino fijo, similar a Space Harrier o Star Fox. Otros niveles permiten que tu nave espacial se mueva libremente alrededor de un entorno 3D, y en otros niveles tu nave se transforma en un robot andador para ataques en primer plano.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Soul Star</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shoot'em Up</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>04e779a7-a329-4ebb-9398-67478c63b232</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>32a3ecde-4dfd-41a6-be15-afc9a3a57a42</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\SoulStar (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Soul Star</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Space Adventure, The - Cobra - The Legendary Bandit (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:14.9050918-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:14.9050918-05:00</DateModified>
+    <Developer>Hudson</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c93f4707-5986-4a59-99d9-4c9254f1af50</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Porteado desde la versión de 1991 para PC Engine y basado en la serie de manga y anime The Space Adventure Cobra, escrita e ilustrada por Buichi Terasawa entre 1978 y 1994, este juego trae la historia del protagonista que le da nombre al juego. Cobra tiene su cabeza puesta en primer plano, siendo perseguida por varios cazarrecompensas. Siguiendo el estilo convencional de aventuras textuales que se desarrollan a través de elecciones y confiando en gráficos de anime, puede ser una buena opción para los fanáticos del género.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Hudson</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Space Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1995-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>3c36e6fe-ef72-4056-b0a4-c7250b1685a3</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c93f4707-5986-4a59-99d9-4c9254f1af50</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Space Adventure, The - Cobra - The Legendary Bandit (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Space Adventure</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\StarBlade (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:28.7505845-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:28.7505845-05:00</DateModified>
+    <Developer>Tecno Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5425c0fa-4c61-4ba1-bf4a-cc3c4c6befe0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Sentado en la posición de artillero de una nave de combate "GeoSword", debes disparar a través de la armada enemiga y llevar la lucha a su planeta base, Redeye. En total, tendrás alrededor de 10 misiones para atravesar antes de que la galaxia esté a salvo y tus hombres de flanco te ayudarán en el camino. Y durante esas misiones, se espera que dispares a los lados de enormes cruceros de batalla enemigos, viajas dentro de las naves enemigas y viajas por los cañones de Redeye para entregar tu carga útil.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Namco</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>StarBlade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-05T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lightgun Shooter-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bc57588f-14ca-4cc8-9119-a15f1415afe5</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5425c0fa-4c61-4ba1-bf4a-cc3c4c6befe0</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\StarBlade (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>StarBlade</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Terminator, The (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:07.6488820-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:07.6488820-05:00</DateModified>
+    <Developer>Probe Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>ceca210e-e8ae-4868-8b1b-9737fb56b558</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Similar a las adaptaciones de Terminator en otros sistemas, el CD de Sega es un juego de plataformas donde el jugador controla a Kyle Reese, que viaja en el tiempo desde el año 2029 para proteger a Sarah Connor de la imparable máquina de matar conocida por el Terminator.&#xD;
+&#xD;
+El juego consiste en 10 niveles. Las ubicaciones futuras incluyen el páramo postapocalíptico de 2029 Los Ángeles y el complejo de desplazamiento temporal. En el presente de 1984, Reese debe atravesar las calles y los tejados de L.A., así como también el Black Tech Club, la estación de policía y, para el final, una fábrica automatizada.&#xD;
+&#xD;
+Reese está armado con un número limitado de granadas para despachar a los numerosos enemigos, incluidos Terminators y HK en el futuro y los punks en el presente. Además de estos, también se deben luchar varios baches. Las batallas de jefe incluyen varios encuentros con el Terminator, que naturalmente no pueden ser completamente destruidos hasta la final, pero deben ser rechazados para evitar que lastime a Sarah.&#xD;
+&#xD;
+Entre niveles, el juego muestra pequeños clips digitalizados de la película que avanzan en la historia. El juego también cuenta con una banda sonora completa basada en CD con pistas que van desde heavy rock hasta canciones electrónicas.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Virgin</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>The Terminator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Plataforma / Tirador con deslizamiento-Plataforma</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c2545056-86c8-45de-b8bf-a0b6d002d67c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>ceca210e-e8ae-4868-8b1b-9737fb56b558</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Terminator, The (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>The Terminator</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Thunderhawk (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:21.1201005-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:21.1201005-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>af74bafc-280c-40f3-b5c7-de962df98def</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Thunderhawk es un juego de acción en Mega-CD que te da el control de un helicóptero de combate en una serie de seis campañas futuristas. La versión original incluye un total de 60 operaciones con diversos objetivos. Antes de volar en el cielo, el jugador puede adaptar el arsenal embarcado para que se adapte a él. El pilotaje es técnico pero accesible, sin ser tan complejo como otras simulaciones disponibles en 1993.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Core Design</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Thunderhawk</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>196dc17c-e2ca-4fc0-9475-bc76f42a6197</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>af74bafc-280c-40f3-b5c7-de962df98def</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Thunderhawk (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Thunderhawk</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Time Gal (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:41.3360566-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:41.3360566-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>c4ef1308-3bb2-470b-b070-107749bc6021</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Es el año 4001. La malvada Luna ha robado una máquina del tiempo y planea usarla para dominar el mundo. Tu eres Time Gal, una científico hábil y bonita, y tu misión es perseguir a Luna a través de diferentes períodos de tiempo, recuperar la máquina del tiempo y salvar el mundo.&#xD;
+&#xD;
+Creado durante la primera era del estilo de FMV, Time Gal es una conversión de un título arcade inicial. Mira las animaciones de su heroína mientras viaja a través de los niveles, y supera los obstáculos presionando el botón correcto en el momento correcto. Puede cambiar las direcciones, saltar, disparar, etc., pero todo se controla durante el movimiento fluido interminable del Time Gal. En ciertos puntos, la heroína detiene el tiempo y tiene tres opciones para elegir.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Taito</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Time Gal</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1993-05-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2fb1a7a3-649c-462c-8c36-d4ae1f359bcf</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>c4ef1308-3bb2-470b-b070-107749bc6021</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Time Gal (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Time Gal</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Vay (US).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:26.0277941-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:26.0277941-05:00</DateModified>
+    <Developer>Hertz</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>b169cf78-142f-4c60-a070-c3b58ca6ad0c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Vay es la historia del Príncipe Sandor de Lorath, su búsqueda para vengar el asesinato de sus padres y rescatar a su amada Lady Elin. En lo que será el día de su boda, Castle Lorath es atacado por el Danek, quien logró reconstruir parcialmente la tecnología de robot alienígena de hace un milenio. Las defensas del castillo son impotentes contra los robots gigantes, y el rey y la reina mueren en el ataque. Los invasores roban a Elin en medio de sus votos matrimoniales. El príncipe Sandor, quien ahora es el rey, decide rescatar a su novia y encontrar una manera de derrotar la temible tecnología alienígena. El juego es un clásico juego de rol de combate por turnos, que gana experiencia y oro en el proceso. Los personajes tienen clases predefinidas (mago, bardo, etc.) y aprenden automáticamente habilidades / hechizos a medida que suben de nivel.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Vay</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Juegos de rol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fd2bf2da-4bee-482f-9c3d-438fb79f1382</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>b169cf78-142f-4c60-a070-c3b58ca6ad0c</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Vay (US).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Vay</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Wonder Dog (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:17.2936663-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:17.2936663-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7f1d5623-7026-444f-bf93-4b5409ce99fa</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Wonder Dog es un juego de plataforma de desplazamiento lateral con un perro con capacidad de súper salto y potentes estrellas arrojadizas. Wonder Dog tiene estas habilidades porque no es de la Tierra, sino del Planeta K-9. Cuando Wonder Dog era un cachorro, los científicos de K-9 lo enviaron a la Tierra para escapar de la inminente invasión de la Armada Pitbully. Ahora, armado con el suero de maravilla, Wonder Dog debe luchar para volver a liberar a K-9.&#xD;
+&#xD;
+Este juego presenta una variedad de etapas coloridas, varias rondas de bonificación escondidas y un gran personaje jefe al final de casi todos los niveles.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>Victor Entertainment</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Wonder Dog</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1992-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Plataforma-Acción</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>344e7ba3-beed-4a95-ab36-fc343cabae40</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7f1d5623-7026-444f-bf93-4b5409ce99fa</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Wonder Dog (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Wonder Dog</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Yumemi Mystery Mansion (EU).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:14:07.0091970-05:00</DateAdded>
+    <DateModified>2024-03-07T00:14:07.0091970-05:00</DateModified>
+    <Developer>System Sacom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5dbebfca-64c3-4877-910d-3195e6a66ced</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Mansion of Hidden Souls es un juego de aventuras creado íntegramente con video de movimiento completo. Se lleva a cabo en una mansión pretratada que el jugador explora desde una perspectiva en primera persona. Mientras deambulan de habitación en habitación, la acción se desarrolla a través de secuencias de video.&#xD;
+&#xD;
+El jugador asume el papel de Jonathan, un niño cuya hermana ha vagado en la mansión espeluznante. Cuando ella entró en la mansión, ¡ella desapareció! Además, la mansión está llena de mariposas parlantes. El jugador debe buscar en toda la mansión para descubrir sus secretos y encontrar a la hermana de Jonathan.</Notes>
+    <Platform>Sega CD</Platform>
+    <Publisher>SEGA</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Yumemi Mystery Mansion</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1994-03-01T00:00:00.0000000</ReleaseDate>
+    <Region>eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Aventura</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>26ebfc34-2de3-4427-a57c-a6aeb6f0c86e</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5dbebfca-64c3-4877-910d-3195e6a66ced</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\Sega CD\Yumemi Mystery Mansion (EU).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Yumemi Mystery Mansion</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>

@@ -1,0 +1,17 @@
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Infrastructure.deps.json
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Infrastructure.dll
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Infrastructure.pdb
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Data.dll
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Core.pdb
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\bin\Debug\net8.0\GameLauncher.Data.pdb
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.csproj.AssemblyReference.cache
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.AssemblyInfoInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.AssemblyInfo.cs
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.csproj.CoreCompileInputs.cache
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLaun.BA54BEF9.Up2Date
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.dll
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\refint\GameLauncher.Infrastructure.dll
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\GameLauncher.Infrastructure.pdb
+H:\GameLauncher\src\Core\GameLauncher.Infrastructure\obj\Debug\net8.0\ref\GameLauncher.Infrastructure.dll

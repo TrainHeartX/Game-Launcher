@@ -1,0 +1,3390 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Blasphemous (NSP)(Base Game) (2)\Blasphemous [0100698009C6E000][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T17:15:50.9973278-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6608831-05:00</DateModified>
+    <Developer>The Game Kitchen</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6eba00a0-561a-4b10-9316-e206da73c759</ID>
+    <LastPlayedDate>2024-03-01T06:31:57.83-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle.
+
+Play as The Penitent One - a sole survivor of the massacre of the ‘Silent Sorrow’. Trapped in an endless cycle of death and rebirth, it’s down to you to free the world from this terrible fate and reach the origin of your anguish. 
+
+Explore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, who are all ready to rip your limbs off. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.
+
+Key Features:
+
+Explore a Non-Linear World: Overcome fearsome enemies and deadly traps as you venture through a variety of different landscapes, and search for redemption in the dark gothic world of Cvstodia.
+
+Brutal Combat: Release the power of Mea Culpa, a sword born from guilt itself, to slaughter your foes. Acquire devastating new combos and special moves as you purge all in your path.
+
+Executions: Unleash your wrath and relish in the gory dismemberment of your adversaries - all in beautifully rendered, pixel-perfect execution animations.
+
+Customise Your Build: Discover and equip Relics, Rosary Beads, Prayers and Sword Hearts to give you the new abilities and stat boosts you need to survive. Experiment with different combinations to suit your playstyle. 
+
+Epic Boss Battles: Hordes of gigantic, twisted creatures stand between you and your goal. Learn how they move, survive their devastating attacks and emerge victorious.
+
+Unlock the Mysteries of Cvstodia: The world is full of tormented souls. Some offer you aid, some may ask for something in return. Uncover the stories and fates of these tortured characters to gain rewards and a deeper understanding of the dark world you inhabit.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Team17 Digital Ltd</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2019-09-10T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>168409</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Blasphemous_(video_game)</WikipediaURL>
+    <Title>Blasphemous</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>9</PlayCount>
+    <PlayTime>1213</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9DePPiw44is</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\TRIANGLE STRATEGY [0100CC80140F8000][v0][US].nsp\TRIANGLE STRATEGY [0100CC80140F8000][v0][US](nsw2u.xyz).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:31:17.7792281-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7056947-05:00</DateModified>
+    <Developer>ArtDink</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7d501052-e5be-447e-b012-d383dee521f2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Triangle Strategy is a tactical role-playing game developed by Netchubiyori and Artdink, and published by Square Enix. Nintendo published the game for Nintendo Switch outside Japan. Development is led by Tomoya Asano, producer of the Bravely Default and Octopath Traveler games.
+
+The game is a turn-based tactical role-playing game in the vein of Fire Emblem or Final Fantasy Tactics. The player takes turns moving characters from their party across a grid-based playing field in which computer-controlled opponents must be attacked and defeated. Each character has a set value for movement range and attack power and range per turn based on their inherent attributes, and alterable ones, such the terrain they are position on, and weapons or armor they are equipped with. Characters must be positioned to attack opposing forces, which deplete their health points; losing all health removes a character from the battlefield. In addition to attacking opposing forces, certain parts of the environment may also be attacked; for example, a fire attack could be used to attack an opponent, or used to burn down an area cottage to change the terrain. Story scenes in between battle directly affect game flow; the game presents the player with decisions with different values related to morality, liberty, and utility, and decisions made affect things such as which characters will support or oppose the player's cause, and alter the course of the battles and story scenes.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2022-03-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.28125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>209652</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Triangle_Strategy</WikipediaURL>
+    <Title>Triangle Strategy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing; Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=7nhTJ-Evv_U</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Bloodstained Curse of the Moon (NSP)(eShop)\Bloodstained Curse of the Moon [01004B800AF5A000][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T07:50:25.3241476-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609627-05:00</DateModified>
+    <Developer>Inti Creates</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>838a36c7-5c25-4c35-bbef-26ad3d7e3466</ID>
+    <LastPlayedDate>2024-02-27T11:05:07.197-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Play as Zangetsu, a demon slayer bearing a deep grudge, who must travel through perilous lands to defeat a powerful demon lurking in a dark castle. Zangetsu will meet fellow travelers along the way, who can join your journey as playable characters.
+
+Switching to these characters with their unique abilities will unlock new paths through the treacherous stages. Your choices in recruiting these adventurers will change the difficulty of the game, and may even affect the ending!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Inti Creates</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2018-05-24T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7727273</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>162793</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Bloodstained:_Curse_of_the_Moon</WikipediaURL>
+    <Title>Bloodstained: Curse of the Moon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>2</PlayCount>
+    <PlayTime>10</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=epdtc7kt4QE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Mario Odyssey.xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T14:27:08.9565963-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609696-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>424cf02a-960c-4012-afac-4383a7cf9ef1</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Join Mario on a massive, globe-trotting 3D adventure and use his incredible new abilities to collect Moons so you can power up your airship, the Odyssey, and rescue Princess Peach from Bowser's wedding plans! This sandbox-style 3D Mario adventure—the first since 1996's beloved Super Mario 64 and 2002's Nintendo GameCube classic Super Mario Sunshine—is packed with secrets and surprises, and with Mario's new moves like cap throw, cap jump, and capture, you'll have fun and exciting gameplay experiences unlike anything you've enjoyed in a Mario game before. Get ready to be whisked away to strange and amazing places far from the Mushroom Kingdom!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2017-10-27T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.660755</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>384</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>136132</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_Odyssey</WikipediaURL>
+    <Title>Super Mario Odyssey</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=u6oPBIVjf8E</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Dead Cells [0100646009FBE000][v0][US](eShop).nsp\Dead Cells [0100646009FBE000][v0](nsw2u).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:16:26.7819295-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7119758-05:00</DateModified>
+    <Developer>Motion Twin</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>902ddceb-f182-4ce6-8bc4-58f14b110338</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Dead Cells is a roguelike-metroidvania video game developed and published by Motion Twin. Following about a year in early access, Dead Cells was released for Microsoft Windows, macOS, Linux, Nintendo Switch, PlayStation 4, and Xbox One on August 7, 2018.
+
+In the game, the player takes the role of a body of cells that take control of a corpse in a dungeon, through which they must fight their way out. The player gains various weapons, treasure and other tools through exploration of the procedurally-generated levels to fight undead creatures within it. At times, the player may gain "cells", a type of in-game currency that can be used to purchase permanent upgrades for the player if they reach the vendor between each level. If they fail to reach this vendor before dying, they lose all the cells they gained and must start again. Motion Twin was inspired by The Binding of Isaac in developing the game.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Motion Twin</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2018-08-07T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.304348</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>23</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>162536</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dead_Cells</WikipediaURL>
+    <Title>Dead Cells</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Paper Mario\Paper Mario The Origami King[0100A3900C3E2000][US][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:27:01.8067356-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7092883-05:00</DateModified>
+    <Developer>Intelligent Systems</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>060fd526-4e46-4faa-8d5d-f0e99a4af28d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they battle evil Folded Soldiers, repair the damaged landscape, and try to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adventure, released only on the Nintendo Switch.
+
+Mario and Luigi receive an invitation from Princess Peach to attend an origami festival and excitedly hurry to Toad Town… but something’s amiss. After investigating the eerily empty town, the duo finds a fearsome (and folded) Princess Peach — she’s been turned into origami by King Olly, ruler of the Origami Kingdom! With five giant streamers under his control, King Olly binds Princess Peach’s Castle and transports it to a distant mountain as part of his plan to re-fold the world.
+
+On his journey to liberate Peach’s Castle and repair the ravaged paper landscape, Mario meets Olivia, King Olly’s sister, and the two join forces to put a stop to Olly’s origami onslaught. Even Bowser falls victim to Olly’s plot when his minions are turned into origami Folded Soldiers and betray their Koopa king, forcing him to ally with Mario and Olivia!
+
+Battle the Folded Soldiers in ring-based battles that challenge you to strategically line up enemies to maximize damage! Out of battle, Mario can use the arm-extending 1,000-Fold Arms ability in specific spots to interact with the landscape to pull, peel, hit, and more! Join Mario, Olivia, and their companions on a journey of laughter and emotion, thrills, and a whole lot of folding.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2020-07-17T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.339286</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>56</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>180599</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King</WikipediaURL>
+    <Title>Paper Mario: The Origami King</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=FX6DTLcWUdY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Smash Bros Ultimate\Super Smash Bros. Ultimate (01006A800016E000)(v0).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T07:39:09.5563346-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6617129-05:00</DateModified>
+    <Developer>Bandai Namco Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0d9b0a0a-82c4-4209-957a-77e012ace4c8</ID>
+    <LastPlayedDate>2024-03-13T21:40:25.393-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>New characters and stages join the entire legacy roster! 
+
+Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! 
+
+Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2018-12-07T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.665306</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>246</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>158007</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate</WikipediaURL>
+    <Title>Super Smash Bros. Ultimate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>12</PlayCount>
+    <PlayTime>2631</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=WLu7e8RZoYc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Legend of Zelda, The - Breath of the Wild (World) (En,Ja,Fr,De,Es,It,Nl,Ru).xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T18:11:19.5089143-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609617-05:00</DateModified>
+    <Developer>Monolith Soft</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>73df4771-c1b4-43b5-a431-071cb63fe05b</ID>
+    <LastPlayedDate>2024-03-07T15:31:54.56-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule In this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2017-03-03T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.6746526</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>332</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>129189</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild</WikipediaURL>
+    <Title>The Legend of Zelda: Breath of the Wild</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>2</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=zw47_q9wbBE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Monster Hunter Rise\MONSTER HUNTER RISE [0100B04011742000][US][v0] xci\MONSTER HUNTER RISE [0100B04011742000][US][v0](nsw2u).xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-01T11:06:26.1700334-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609358-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>45f52ec9-6395-44b7-bcf7-3f25335f4bb0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.
+Hunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine companion ‘Palamute’ will add exciting new layers to the already robust combat that Monster Hunter is known for.
+Whether it’s at home, on the go, online or offline - you’ll always be ready for your next hunt on the Nintendo Switch!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Capcom</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2021-03-26T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.4259257</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>192367</DatabaseID>
+    <WikipediaURL>https://www.wikipedia.org/wiki/Monster_Hunter_Rise</WikipediaURL>
+    <Title>Monster Hunter Rise</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>[0100B04011742000][US][v0](nsw2u)</Version>
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=sD6eLsO0SJQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Mario Party [010036B0034E4000] [v1.1.0]patched[rpgarchive.net].xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T14:46:04.7825881-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7060622-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b9f88c03-0de8-4ee2-9598-d0ad12392858</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The original 4-player Mario Party series board game mode that fans love is back, and your friends and family are invited to the party! Freely walk the board: choose where to move, which Dice Block to roll, and how to win the most Stars in skill-based minigames. Wait till you see the 2 vs 2 mode with grid-based maps, the creative uses of the console, and the series’ first online minigame mode!
+
+Test your skills in sets of five minigames with the new mode, Mariothon, and see how you stack up against players across the globe in Online Mariothon*. Whether you’re pedaling tricycles, flipping meat, or who knows what else, you’ll use Joy-Con controllers in clever ways across 80 new minigames; some are all-out free-for-alls, others are 2 vs 2, or even 1 vs 3! Toad’s Rec Room lets you pair up two Nintendo Switch systems**, which you’ll lay side-by-side on a flat surface like a real tabletop game. That way you can play a mini baseball game, battle tanks in custom arenas, or even see who can match the most bananas by repositioning the systems however you see fit!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2018-10-05T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1976743</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>43</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>156264</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_Party</WikipediaURL>
+    <Title>Super Mario Party</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Board Game; Party</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=D7zTJLIYJds</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Metroid Dread [010093801237C000][v0](eShop).nsp\Metroid Dread [010093801237C000][v0](nsw2u.xyz).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:14:26.5807832-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7101937-05:00</DateModified>
+    <Developer>MercurySteam</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5d88e0a8-6350-4321-88b1-f818b1fc92b0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Samus’ story continues after the events of the Metroid Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2021-10-08T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5038795</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>183</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>202670</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metroid_Dread</WikipediaURL>
+    <Title>Metroid Dread</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=8NjCICl7dDo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Mario 3D World + Bowsers Fury [010028600EBDA000]+[v1.1.0] (nsw2u.com)_patched.xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:59:24.9723603-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6608929-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4b21759f-a2dc-432b-aabb-b0aecfe778b2</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Power up, team up, one up to save the Sprixie Kingdom!
+
+Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally* or online** to reach the goal and see who can get a high score.
+
+Explore a seamless feline world in the new Bowser’s Fury adventure:
+
+Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2021-02-12T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.492647</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>204</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>195306</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_3D_World</WikipediaURL>
+    <Title>Super Mario 3D World + Bowser's Fury</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=OPAQA_P_RQY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Hyrule Warriors Age of Calamity (NSP)(Base Game)(Verified)\Hyrule Warriors Age of Calamity[01002B00111A2000][US][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-19T21:33:59.2588166-05:00</DateAdded>
+    <DateModified>2024-03-19T23:37:12.4957642-05:00</DateModified>
+    <Developer>Team Ninja</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>de0d83ce-af03-42aa-acfb-0ddb41e90eaa</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Like the previous Hyrule Warriors, Age of Calamity mixes the hack and slash gameplay of Koei Tecmo's Dynasty Warriors series of video games with settings, characters, and other elements from Nintendo's The Legend of Zelda series. In addition to retaining the combat, material crafting, and weapon-upgrade systems from Hyrule Warriors, the game incorporates environmental puzzle solving and the use of the Sheikah Slate tool from Breath of the Wild. Confirmed playable characters include Link, Princess Zelda, and the Four Champions Daruk, Mipha, Revali and Urbosa.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2020-11-20T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>189846</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity</WikipediaURL>
+    <Title>Hyrule Warriors: Age of Calamity</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=uDMWRRAEogs</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\New Super Mario Bros. U Deluxe.xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:30:54.4368974-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7095307-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c7c2110c-b102-42cd-8d1e-21ac62fea3d6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Two Super Mario Bros. games in one, for double the fun! 
+
+Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games - both of which include Nabbit and Toadette as playable characters! 
+
+Two games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content - like a Hints gallery and helpful reference videos - make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii character: Challenges, Boost Rush, and Coin Battle!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-01-11T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2589474</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>133</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>162252</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U#New_Super_Mario_Bros._U_Deluxe</WikipediaURL>
+    <Title>New Super Mario Bros. U Deluxe</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>5</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=6wTFy-pJFMI</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Mario Tennis Aces (NSP)(Base Game) (3)\Mario Tennis Aces[0100BDE00862A000][US][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T20:32:03.9813639-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6608883-05:00</DateModified>
+    <Developer>Camelot</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>468fa3d7-8925-4a3b-a6f8-21a52605f08d</ID>
+    <LastPlayedDate>2024-03-13T18:58:02.943-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Up your game with Zone Speed and Zone Shot! Unleash an arsenal of shots and strategies in all-out tennis battles with friends, family, and fan-favorite Mushroom Kingdom characters. Whether you play locally, online, or using simple motion controls, intense rallies await! In Adventure mode, experience a new favor of tennis gameplay, with a variety of missions, boss battles and more. 
+
+Complete missions and boss battles in Adventure mode while mastering the controls. Test your hard-earned skills in singles or doubles with up to 4 players in local or online multiplayer, not to mention Tournament Mode, which lets you challenge the CPU. Store up energy and use it to pull off amazing feats: move so fast the world slows down around you or aim in first-person to send the ball crashing down! Your rivals may attempt to block you, but if they fail, their racket will take damage—and break after three hits. Fully charge your energy to launch the ball with enough force to KO your opponent!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2018-06-22T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7432432</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>74</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>148037</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Tennis_Aces</WikipediaURL>
+    <Title>Mario Tennis Aces</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>14</PlayCount>
+    <PlayTime>291</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=mMHT2vdWvpg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\DemonSlayer Kimetsu no Yaiba\DemonSlayer Kimetsu no Yaiba.nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-01T11:06:07.356997-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609246-05:00</DateModified>
+    <Developer>Cyberconnect2</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c7c7f543-f2e7-4759-9caa-c62e8f55124b</ID>
+    <LastPlayedDate>2024-03-13T19:40:23.347-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Relive memorable moments from the Demon Slayer: Kimetsu no Yaiba anime through the eyes of its protagonist, Tanjiro Kamado!
+
+Follow the story from Demon Slayer: Kimetsu no Yaiba Tanjiro Kamado, Unwavering Resolve Arc—where Tanjiro joins the Demon Slayer Corps— to Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train featuring the Flame Hashira, Kyojuro Rengoku!
+
+Face off against demons from the anime series with stunning graphical effects faithfully recreating iconic battle techniques in full 3D!
+
+Choose from a cast of 24 fighters, including not only protagonists like Tanjiro Kamado and Nezuko Kamado, but demons like Rui (Lower Five of the Twelve Kizuki) and Akaza (Upper Three of the Twelve Kizuki). Pit your favorite characters against each other and enjoy never-before-seen matchups!
+
+[Included in this Download]
+・ Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Game
+・ Character Unlock Key: Kimetsu Academy Tanjiro Kamado
+
+The following items are included in the game from the beginning as a bonus for the Nintendo Switch™ version.
+・ Kimetsu Points (16,000 Points)
+・ In-game Costumes:
+・ Butterfly Mansion Patient Wear (Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira)
+・ Kimetsu Academy Summer Uniform Costumes (Kimetsu Academy Tanjiro Kamado, Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira, Kimetsu Academy Giyu Tomioka)</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Aniplex</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2022-06-09T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.394737</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status>ROM importado</Status>
+    <DatabaseID>212931</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Hinokami_Chronicles</WikipediaURL>
+    <Title>Demon Slayer: Kimetsu no Yaiba: The Hinokami Chronicles</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>3</PlayCount>
+    <PlayTime>958</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-27dyW50PhU</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\The Legend of Zelda Link’s Awakening (NSP)(Base Game)\The Legend of Zelda Link’s Awakening [01006BB00C6F0000][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T06:38:18.3449977-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7111231-05:00</DateModified>
+    <Developer>Grezzo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4e73cb3b-6954-409a-b172-be1415b7c1ea</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Link has washed ashore on a mysterious island with strange and colorful inhabitants. To escape the island, Link must collect magical instruments across the land and awaken the Wind Fish. Explore a reimagined Koholint Island that’s been faithfully rebuilt in a brand-new art style that will entice fans and newcomers alike. Battle enemies as you conquer numerous dungeons and uncover the hidden secrets of the island. Encounter Super Mario enemies like Goombas, Piranha Plants, and more, and interact with unique locals who help Link on his adventure. As you clear dungeons throughout the main story, earn dungeon rooms (Chambers), then arrange them into custom layouts in the all-new Chamber Dungeon. Place your dungeon entrance, Nightmare room, and everything in between as you try to fulfill objectives and play through a new dungeon. Tap compatible amiibo figures to earn more Chambers and and additional Chambers throughout the game in updated mini-games, such as the river rapids, trendy game, and fishing.
+
+FEATURES:
+
+As Link, explore a reimagined Koholint Island and collect instruments to awaken the Wind Fish to find a way home
+
+Explore numerous dungeons, riddled with tricks, traps, and enemies, including some from the Super Mario series
+
+Meet and interact with unique locals to get help on your adventure
+
+Listen to a reawakened soundtrack that helps bring life to Koholint Island
+
+Earn Chambers (Dungeon Rooms) and arrange them to complete objectives in the all-new Chamber Dungeon.
+
+Complete dungeons throughout the story to earn their rooms for the Chamber Dungeon.
+
+Earn additional chambers in mini-games and by tapping any amiibo figure featuring a Legend of Zelda character.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-09-20T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5219893</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>191</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>168410</DatabaseID>
+    <WikipediaURL>https://www.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)</WikipediaURL>
+    <Title>The Legend of Zelda: Link's Awakening</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=PtC6U8hOZTk&amp;ab_channel=NintendoofAmerica</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Blasphemous 2 [010040801A4C8000][v0][US].nsp\Blasphemous 2 [010040801A4C8000][v0][US](nsw2u.com).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T17:23:31.1229602-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609203-05:00</DateModified>
+    <Developer>The Game Kitchen</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>10740415-afd6-4e8f-903b-97ac96ee2187</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Penance Never Ends
+Awakened in a strange new land, and displaced from his final resting place, The Penitent One is thrust back into the endless cycle of life, death, and resurrection, with no other option than to explore this perilous new world and uncover its long-forgotten secrets.
+
+The second scripture in the Blasphemous series portends the return of The Penitent One, with a story that continues from the free Wounds of Eventide update for the original game, where The Heart in the sky heralded the return of The Miracle and foretold the birth of a new miracle child.
+
+Hordes of grotesque enemies stand in your way, awaiting final judgement by the brutal hand of the Penitent One, with titanic twisted bosses also lurking in the darkness, waiting for their chance to return you to the grave from whence you came.
+
+Taking them down won’t be easy, but with Blasphemous 2 offering more chances to customise and improve your skill set, along with several new unique weapons to wield with righteous zeal and unending fury, victory might just be within grasp.
+
+Ultimately, only one thing is certain… Penance Never Ends
+
+Explore a fuller Non-Linear world
+
+Having awoken in a strange new land, your journey starts anew in a series of enchantingly grotesque landscapes, oozing Gothic charm and littered with unforgiving traps. How you tackle the labyrinthian world remains at your discretion, there is no wrong turn to be made, only scores to settle
+
+Savage Combat
+
+The Penitent One shows no mercy, and with a series of new weapons offering new moves, brutal executions, and expanded combos, destruction will rain on any that stand in his way
+
+Customize your playthrough your way
+
+Blasphemous 2 offers up new ways to play, with the ability to customise and improve your base skillset, alongside several new unique weapons to unleash devastating attacks on enemies
+
+Grand Intense Boss Battles
+
+Hordes of monstrous foes stand between you and your goal; twisted bosses with unique attack patters and sundering abilities will put your skills to the test as you fight to stand triumphant when the dust settles
+
+Explore a deep new world
+
+A whole new world awaits, bustling with mysterious new NPCs to interact with, some will offer aid, some will ask for it, and others will send you on death defying missions to obtain long forgotten items. With so much to see and do, the stories and myths you encounter will help you unpick the games myriad of secrets, granting you a deeper understanding of this strange new world</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Team 17</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>2023-08-24T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>10</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>421302</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Blasphemous_2</WikipediaURL>
+    <Title>Blasphemous 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform; Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=sXAajmfuUeo</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Pokemon - Let's Go, Eevee! (World) (En,Ja,Fr,De,Es,It,Zh,Ko).xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:00:14.1285386-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7084758-05:00</DateModified>
+    <Developer>Game Freak</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9216df89-04b0-4d83-a3cf-04fdca5ef729</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Take a Pokémon journey to the Kanto region with your steadfast partner, Eevee! 
+
+Become the best Pokémon Trainer as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con controller or a Poké Ball Plus accessory, which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus. You can even connect to the Pokémon GO app using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region! 
+
+Explore the vibrant region of Kanto - home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Eevee and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game - catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball. Battle and trade with other players who own the game via local wireless or online. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2018-11-16T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.244681</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>47</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>157865</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!</WikipediaURL>
+    <Title>Pokemon: Let's Go, Eevee!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9jRtpMKLsts</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Splatoon 2 (NSP)(EU)(Base Game)\Splatoon 2 [0100F8F0000A2000][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:22:32.7361432-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7071227-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>58cbc4df-566a-4fcd-908a-7bd4b12fd321</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The squid kids called Inklings are back to splat more ink and claim more turf in this colorful and chaotic 4-on-4 action shooter. 
+
+For the first time, take Turf War battles on-the-go with the Nintendo Switch system, and use any of the console's portable play styles for intense local multiplayer action. Even team up for new 4-player co-op fun in Salmon Run! 
+
+Two years have passed since the original Splatoon game was released, and two years have also passed in Inkopolis! So expect a fresh wave of fashion, not to mention new weapons and gear. Dual wield the new Splat Dualies or stick to mainstays like chargers and rollers, which have been remixed with new strategic possibilities. As always, Turf War is the favored sport among Inklings, but they also dig ranked battles, taking down Octarians in a robust single-player campaign, and battling enemy Salmonids in one dangerous part-time job! No matter which way you play, splat at home or on-the-go with Nintendo Switch. Staying fresh never felt so good.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2017-07-21T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1944447</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>54</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>132678</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Splatoon_2</WikipediaURL>
+    <Title>Splatoon 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=qN4w5D2tzME</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Celeste [01002B30028F6000][v0].nsp\Celeste [01002B30028F6000][v0](nsw2u).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T07:27:20.5062838-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6608843-05:00</DateModified>
+    <Developer>Matt Makes Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>85434125-3d18-4405-908f-cc6a9ffb66ae</ID>
+    <LastPlayedDate>2024-02-29T20:58:03.237-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall.
+
+• A narrative-driven, single-player adventure like mom used to make, with a charming cast of characters and a touching story of self-discovery
+• A massive mountain teeming with 600+ screens of hardcore platforming challenges and devious secrets
+• Brutal B-side chapters to unlock, built for only the bravest mountaineers
+• IGF “Excellence in Audio” finalist, with over 2 hours of original music led by dazzling live piano and catchy synth beats
+• Pie
+
+The controls are simple and accessible - simply jump, air-dash, and climb - but with layers of expressive depth to master, where every death is a lesson. Lightning-fast respawns keep you climbing as you uncover the mysteries of the mountain and brave its many perils. 
+
+This is it, Madeline. Just breathe. You can do this.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Matt Makes Games</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2018-01-25T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.370968</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>148147</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Celeste_(video_game)</WikipediaURL>
+    <Title>Celeste</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>11</PlayCount>
+    <PlayTime>322</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=iofYDsA2yqg</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Pokemon Sword [0100ABF008968000]+[v1.3.2+2DLC] (nsw2u)_patched.xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:20:56.4874489-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7086787-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>142fedcd-374d-4881-a3dc-178c13727a10</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pokémon known as Dynamax Pokémon. 
+
+Certain Pokémon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there’s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the Trainer you want to be. Throughout your journey, you’ll encounter newly discovered Pokémon as well as familiar ones that will look a little different in their new Galarian forms! And for another way to level up your Pokémon, assign them Poké Jobs to complete. You can even play with your Pokémon in Pokémon Camp, just for fun!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-11-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.15</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>99</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>172520</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield</WikipediaURL>
+    <Title>Pokémon Sword</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=XJGMgtTViAw</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko).xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T12:20:04.9649858-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7081925-05:00</DateModified>
+    <Developer>Game Freak Inc.</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7ec1bb91-17a9-458c-a079-a57573672f9c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Take a Pokémon journey to the Kanto region with your energetic partner, Pikachu!
+
+Become the best Pokémon Trainer as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con controller or a Poké Ball Plus accessory, which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus (sold separately). You can even connect to the Pokémon GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!
+
+Explore the vibrant region of Kanto—home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Pikachu and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game—catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball. Battle and trade with other players who own the game via local wireless or online**. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO* to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!
+
+• Become the best Pokémon Trainer on an adventure with Pikachu!
+• Encounter Pokémon in the Kanto region and beloved characters like Brock and Misty as you foil the plans of Jesse, James, Meowth, and the rest of Team Rocket
+• Play the entire game in Handheld Mode, with a single Joy-Con controller, or the Poké Ball Plus accessory which will light up, vibrate, and make sounds to bring your adventure to life
+• Take your Pokémon for a stroll in Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game.
+• Gently shake Poké Ball Plus to hear a Pokémon that has been put inside from Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!
+• Every Poké Ball Plus contains your very own Mythical Pokémon Mew!
+• Share a Pokémon adventure together anytime, anywhere on one system by using another Joy-Con controller or Poké Ball Plus accessory (sold separately) to catch and battle alongside another player!
+• Connect with the Pokémon GO* app on compatible smartphones to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan!
+• Connect Poké Ball Plus to the Pokémon GO app to catch Pokémon in the real world and gather items from Poké Stops without viewing your smartphone screen—while carrying a Pokémon from the Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee! games
+• Battle and trade with other players who own the game via local wireless or online**
+• Other online features include Mystery Gifts</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2018-11-16T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.150685</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>73</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>157867</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!</WikipediaURL>
+    <Title>Pokemon: Let's Go, Pikachu!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9jRtpMKLsts</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Metroid Prime REMASTERED [010012101468C000][v0][US](nsw2u.com).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T07:18:54.5620513-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7099619-05:00</DateModified>
+    <Developer>Retro Studios</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>cbc8c716-050a-447e-a838-cee9467bf056</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Suit up for an iconic adventure
+Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon.
+
+Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>2023-02-08T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.6375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>219255</DatabaseID>
+    <WikipediaURL>https://www.wikipedia.org/wiki/Metroid_Prime_Remastered</WikipediaURL>
+    <Title>Metroid Prime Remastered</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=e9OQOJC1QII</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Pokemon Shield [01008DB008C2C000]+[v1.3.2+2DLC] (nsw2u)_patched.xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T13:23:04.9275359-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7088912-05:00</DateModified>
+    <Developer>Nintendo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pokémon known as Dynamax Pokémon. 
+
+Certain Pokémon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there’s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the Trainer you want to be. Throughout your journey, you’ll encounter newly discovered Pokémon as well as familiar ones that will look a little different in their new Galarian forms! And for another way to level up your Pokémon, assign them Poké Jobs to complete. You can even play with your Pokémon in Pokémon Camp, just for fun!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-11-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.90625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>48</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>172521</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield</WikipediaURL>
+    <Title>Pokémon Shield</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=PlM-z2uC9fQ</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Mario Maker 2 [01009B90006DC000][v0][US].nsp\Super Mario Maker 2 [01009B90006DC000][v0][US](nsw2u.in).nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T20:34:54.1043004-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7064327-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e164c563-d1ce-4a0f-988e-24e01809f379</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Make it Your Way, Play it Your Way. 
+
+Mario fans of the world, unite! Now you can play, create, and share the side-scrolling Super Mario courses of your dreams in Super Mario Maker 2, available exclusively on the Nintendo Switch! Dive into the single-player Story Mode and play built-in courses to rebuild Princess Peach’s castle. Make your own courses, alone or together. And with a Nintendo Switch Online membership, share your courses, access a near-endless supply made by others, enjoy online multiplayer, and more! 
+
+A new side-scrolling Mario adventure that unleashes the creative potential of Super Mario Maker 2 awaits in Story Mode, which contains over 100 built-in courses. And in Course Maker, a wide range of parts, tools, and more are available so you can construct your own courses. Want coin-shooting cannons? Bowser riding on a giant Goomba? Cat Mario sliding down slopes to take out an army of baddies? Go for it! You call the shots. Pass a Joy-Con controller to a partner to build cooperatively on a single system! 
+
+Power-up the fun even further with a Nintendo Switch Online membership, which gives you access to Course World and its wealth of online content and functionality. Track your rankings, share your creations, and leave comments after you’ve played courses. With a Nintendo Switch Online membership, you can also tackle Endless Challenge, save online courses locally for later offline play, enjoy online multiplayer with players both near and far, and customize how you appear to others by dressing your Mii character with fun accessories!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-06-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.357143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>83</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>166418</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_Maker_2</WikipediaURL>
+    <Title>Super Mario Maker 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CYx9v7Mo94M</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\The Legend of Zelda Tears of the Kingdom [0100F2C0115B6000][NXBREW.com][Fuck Trolls].xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-21T07:14:01.5646702-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6616967-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8573c489-2f2a-4f14-8432-77cbed641b80</ID>
+    <LastPlayedDate>2024-02-28T00:05:24.593-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The Legend of Zelda: Tears of the Kingdom is a 2023 action-adventure game developed by Nintendo EPD and published by Nintendo for the Nintendo Switch. A sequel to The Legend of Zelda: Breath of the Wild, Tears of the Kingdom retains many aspects of its predecessor, including the open-world environment of Hyrule, which has been expanded to allow for more vertical exploration. Link, the protagonist of Tears of the Kingdom, is joined by Zelda and is opposed by a malevolent force that seeks to destroy Hyrule.</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>2023-05-12T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.7519765</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>253</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>215519</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom</WikipediaURL>
+    <Title>The Legend of Zelda: Tears of the Kingdom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>7</PlayCount>
+    <PlayTime>900</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/2SNF4M_v7wc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Super Mario Bros  Wonder[010015100B514000][1 0 0][v0]\Super Mario Bros. Wonder[010015100B514000][1.0.0][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-19T01:25:31.3931837-05:00</DateAdded>
+    <DateModified>2024-03-19T12:12:17.6609135-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7cb4be69-45d5-470d-bc47-26d8843fc5c6</ID>
+    <LastPlayedDate>2024-03-19T02:33:28.09698-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The next evolution of Mario fun!
+
+Experience Mario like never before with the transformative powers of Wonder Flowers in the groundbreaking Super Mario Bros. Wonder! These revolutionary elements introduce a plethora of whimsical and bizarre occurrences. Be prepared to watch pipes spring to life, create mayhem as a massive Spike-Ball, and delve into many more surprises!
+
+Welcome to the Flower Kingdom:
+Your beloved team of Mario and pals are off to the vibrant Flower Kingdom, situated not too far from the renowned Mushroom Kingdom. In an unfortunate turn of events, King Bowser morphs into a formidable flying fortress, spreading disorder and panic in this once peaceful land. It is up to our gallant heroes to thwart his plans and restore peace and joy to the Flower Kingdom in this enchanting new escapade!
+
+Share the wonder with friends and family:
+You can team up with up to three friends locally on one Nintendo Switch system and race though these worlds together, or play with others online!
+
+Stages:
+The game has six different worlds, as well as a central area to which all of them connect, Petal Isles. Each level contains at least two Wonder Seeds, one of which is obtained by finding the level's Wonder Flower and reaching the end of the Wonder Effect section, and the other obtained by reaching the end of the level and grabbing the Goal Pole.
+
+Adventurers with a keen eye may discover an elusive third Wonder Seed, tucked away in concealed exits. Furthermore, brace yourself to find three 10-flower tokens hidden in each stage, a nostalgic nod to cherished collectibles from previous iterations including Star Coins and Green Stars, adding an extra layer of excitement and challenge to your exploration.
+
+Get ready to explore a realm filled with wonders and joyous discoveries in this fresh take on a beloved classic, ensuring hours of fun and camaraderie as you share the wonder of Mario with friends and family!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2023-10-20T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>421985</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder</WikipediaURL>
+    <Title>Super Mario Bros. Wonder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>1</PlayCount>
+    <PlayTime>53</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>false</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=JStAYvbeSHc</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Yoshis Crafted World [01006000040C2000]+[v1.0.1](nsw2u).xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-02-22T03:10:12.3332269-05:00</DateAdded>
+    <DateModified>2024-03-19T12:03:53.7054432-05:00</DateModified>
+    <Developer>Good-Feel</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1076e7fc-a921-476a-840c-873082deeac0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Jump into a new Yoshi adventure in a world made of everyday objects - like boxes and paper cups! 
+
+As Yoshi, you’ll leap up high, gulp down enemies, and set out on a treasure hunt to find all the different collectibles. On the flip side, stages can be played backwards, providing new perspectives to explore and new ways to locate some of the more craftily hidden items! 
+
+It all started when Kamek and Baby Bowser set out to steal a gem-set stone. Legend has it that this fabled artifact can grant the bearer their wildest dreams! But when the artifact’s gems are sent flying, it falls upon Yoshi and friends to find them. Luckily, saving the day can be cooperative and challenging. Pass a Joy-Con controller to a friend to team up as fellow Yoshis. Also, Mellow mode gives Yoshi wings for a breezier experience, which may come in handy! Finding all the flowers, coins, and Poochy Pups is no small feat! For extra protection, suit up in one of the handicraft costumes you can unlock in-game!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2019-03-29T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.068413</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>63</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>163407</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Yoshi%27s_Crafted_World</WikipediaURL>
+    <Title>Yoshi's Crafted World</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=k9xHZXiLvLY</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\POKKEN TOURNAMENT DX [0100B3F000BE2000]+[v1.3.3+2DLC][rpgarchive.net].xci</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T09:13:26.0661674-05:00</DateAdded>
+    <DateModified>2024-03-17T05:51:39.8327131-05:00</DateModified>
+    <Developer>Bandai Namco Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>52817daa-0504-46cd-949d-26d7ea4be4fb</ID>
+    <LastPlayedDate>2024-03-13T20:44:23.597-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Fight your way to the top in Pokkén  Tournament for the Nintendo Switch. You enter the Ferrum League, winning battles to increase the number of Pokémon available to you, and you harness the power of the Synergy Stones to connect to your Pokémon. Test the strength of your partnership in Pokkén Tournament.
+
+-   Fight as Decidueye, Darkrai , Scizor, Empoleon, Croagunk, and more
+-   Execute powerful Pokémon moves with simple button combinations
+-   Enjoy an intuitive fighting system for all skill levels
+-   For one to two players</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2017-09-22T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>40</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>132703</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pokk%C3%A9n_Tournament</WikipediaURL>
+    <Title>Pokken Tournament DX</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region>World</Region>
+    <PlayCount>43</PlayCount>
+    <PlayTime>5461</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=QLB-cCVwPJ0&amp;t=8s</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>Games\Nintendo Switch\Mario Kart 8 Deluxe\Mario Kart 8 Deluxe [0100152000022000][v0].nsp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2022-11-03T14:41:12.3636849-05:00</DateAdded>
+    <DateModified>2024-03-23T05:57:47.7844758-05:00</DateModified>
+    <Developer>Nintendo EPD</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>ef22f989-451d-4fac-9986-f5d3f39dd31b</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2ebc118c-8ef0-4548-b876-e8a4aca31b22</ID>
+    <LastPlayedDate>2024-03-23T05:55:46.3141499-05:00</LastPlayedDate>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!</Notes>
+    <Platform>Nintendo Switch</Platform>
+    <Publisher>Nintendo</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>2017-04-28T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.6114206</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>359</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>129188</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mario_Kart_8#Mario_Kart_8_Deluxe</WikipediaURL>
+    <Title>Mario Kart 8 Deluxe</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Cooperativo; Multijugador</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>33</PlayCount>
+    <PlayTime>5771</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>12</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=tKlRN2YpxRE</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>true</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>0d9b0a0a-82c4-4209-957a-77e012ace4c8</GameID>
+    <Name>Super Smash Bros. for Switch</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0d9b0a0a-82c4-4209-957a-77e012ace4c8</GameID>
+    <Name>大乱闘スマッシュブラザーズ SPECIAL</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4b21759f-a2dc-432b-aabb-b0aecfe778b2</GameID>
+    <Name>Super Mario 3D World Bowsers Fury</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>468fa3d7-8925-4a3b-a6f8-21a52605f08d</GameID>
+    <Name>Mario Tennis Ace</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>10740415-afd6-4e8f-903b-97ac96ee2187</GameID>
+    <Name>Blasphemous II</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9216df89-04b0-4d83-a3cf-04fdca5ef729</GameID>
+    <Name>Pokémon: Let's Go, Evoli!</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9216df89-04b0-4d83-a3cf-04fdca5ef729</GameID>
+    <Name>Pokemon Let's Go, Eevee!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9216df89-04b0-4d83-a3cf-04fdca5ef729</GameID>
+    <Name>Pokémon: Let's Go, Eevee!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pokémon Schwert</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pokémon Épée</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pokémon Spada</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pocket Monsters Sword</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pokemon Sword</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>142fedcd-374d-4881-a3dc-178c13727a10</GameID>
+    <Name>Pokémon Espada</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>7ec1bb91-17a9-458c-a079-a57573672f9c</GameID>
+    <Name>Pokemon Let's Go, Pikachu!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7ec1bb91-17a9-458c-a079-a57573672f9c</GameID>
+    <Name>Pokémon Let's Go, Pikachu!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7ec1bb91-17a9-458c-a079-a57573672f9c</GameID>
+    <Name>Pokémon: Let's Go, Pikachu!</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</GameID>
+    <Name>Pokémon Escudo</Name>
+    <Region>Spain</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</GameID>
+    <Name>Pokémon Schild</Name>
+    <Region>Germany</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</GameID>
+    <Name>Pokémon Bouclier</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</GameID>
+    <Name>Pokémon Scudo</Name>
+    <Region>Italy</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>f92fd38f-0ee7-4211-b9f1-67c2ddd6046f</GameID>
+    <Name>Pokemon Shield</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>7cb4be69-45d5-470d-bc47-26d8843fc5c6</GameID>
+    <Name>Super Mario Bros Wonder</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>52817daa-0504-46cd-949d-26d7ea4be4fb</GameID>
+    <Name>Pokkén Tournament DX</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2ebc118c-8ef0-4548-b876-e8a4aca31b22</GameID>
+    <Name>Mario Kart 8 Deluxe</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

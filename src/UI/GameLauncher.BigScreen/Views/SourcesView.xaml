@@ -1,0 +1,549 @@
+<Page x:Class="GameLauncher.BigScreen.Views.SourcesView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:converters="clr-namespace:GameLauncher.BigScreen.Converters"
+      xmlns:vm="clr-namespace:GameLauncher.BigScreen.ViewModels"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Background="Black"
+      Title="Fuentes de Juegos">
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <converters:StringNotEmptyToVisibilityConverter x:Key="StringNotEmptyToVisibilityConverter"/>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#1a1a2e" Offset="0"/>
+                <GradientStop Color="#16213e" Offset="0.5"/>
+                <GradientStop Color="#0f3460" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid Margin="40,30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Header -->
+            <Grid Grid.Row="0" Margin="0,0,0,30">
+                <Grid.ColumnDefinitions>
+                     <ColumnDefinition Width="*"/>
+                     <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                
+                <TextBlock Grid.Column="0"
+                           Text="FUENTES Y DESCARGAS"
+                           FontSize="42"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           HorizontalAlignment="Left">
+                    <TextBlock.Effect>
+                        <DropShadowEffect Color="#00d4ff" BlurRadius="15" ShadowDepth="0" Opacity="0.5"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+
+                <!-- Source Switcher -->
+                <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="Fuente Actual:" 
+                               Foreground="#ced4da" 
+                               FontSize="20" 
+                               VerticalAlignment="Center" 
+                               Margin="0,0,10,0"/>
+                    <Border Background="#0f3460" CornerRadius="10" Padding="15,5">
+                        <TextBlock Text="{Binding CurrentSourceName}" 
+                                   Foreground="#00d4ff" 
+                                   FontSize="24" 
+                                   FontWeight="Bold"/>
+                    </Border>
+                    <Button Command="{Binding SwitchSourceCommand}"
+                            Content="Cambiar [TAB]"
+                            Margin="15,0,0,0"
+                            Background="Transparent"
+                            BorderBrush="#00d4ff"
+                            BorderThickness="2"
+                            Foreground="White"
+                            FontSize="16"
+                            Padding="15,5">
+                         <Button.Resources>
+                             <Style TargetType="Border">
+                                 <Setter Property="CornerRadius" Value="8"/>
+                             </Style>
+                         </Button.Resources>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+            <!-- Content -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="400"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Left: List of Games -->
+                <Border Grid.Column="0"
+                        Background="#111122"
+                        CornerRadius="15"
+                        Padding="20"
+                        Margin="0,0,20,0">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0" 
+                                   Text="{Binding StatusMessage}"
+                                   FontSize="20"
+                                   Foreground="#ced4da"
+                                   Margin="0,0,0,15"/>
+
+                        <ListBox Grid.Row="1"
+                                 ItemsSource="{Binding LatestGames}"
+                                 SelectedItem="{Binding SelectedGame}"
+                                 Background="Transparent"
+                                 BorderThickness="0"
+                                 ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemContainerStyle>
+                                <Style TargetType="ListBoxItem">
+                                    <Setter Property="Margin" Value="10"/>
+                                    <Setter Property="Padding" Value="0"/>
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="ListBoxItem">
+                                                <Border x:Name="ItemBorder" 
+                                                        CornerRadius="10" 
+                                                        Background="#1a1a2e"
+                                                        BorderThickness="2"
+                                                        BorderBrush="Transparent"
+                                                        Width="280" Height="340"
+                                                        Cursor="Hand">
+                                                    <Grid>
+                                                        <Grid.RowDefinitions>
+                                                            <RowDefinition Height="*"/>
+                                                            <RowDefinition Height="Auto"/>
+                                                        </Grid.RowDefinitions>
+                                                        
+                                                        <!-- Image Placeholder (No AsyncImageLoader yet, using colored rect or binding if possible) -->
+                                                        <!-- For now, just title to test scraping -->
+                                                        <Border Grid.Row="0" Background="#0f3460" CornerRadius="10,10,0,0" Margin="2">
+                                                            <Viewbox>
+                                                                <TextBlock Text="🎮" Foreground="#00d4ff" Opacity="0.3"/>
+                                                            </Viewbox>
+                                                        </Border>
+                                                        
+                                                        <!-- Image (requires an Image Loader or just standard Image with URL if supported by WPF natively - WPF Image Source supports URL) -->
+                                                        <Image Grid.Row="0" Source="{Binding ImageUrl}" Stretch="UniformToFill" Margin="2"/>
+
+                                                        <Border Grid.Row="1" Padding="10" Background="#16213e" CornerRadius="0,0,10,10" Height="80">
+                                                             <StackPanel>
+                                                                 <Border HorizontalAlignment="Left" 
+                                                                         Background="#00d4ff" 
+                                                                         CornerRadius="4" 
+                                                                         Padding="6,2" 
+                                                                         Margin="0,0,0,5"
+                                                                         Visibility="{Binding Category, Converter={StaticResource StringNotEmptyToVisibilityConverter}}">
+                                                                     <TextBlock Text="{Binding Category}" 
+                                                                                Foreground="#111" 
+                                                                                FontSize="11" 
+                                                                                FontWeight="Bold"/>
+                                                                 </Border>
+                                                                 
+                                                                 <TextBlock Text="{Binding Title}"
+                                                                            Foreground="White"
+                                                                            FontSize="16"
+                                                                            FontWeight="SemiBold"
+                                                                            TextWrapping="Wrap"
+                                                                            TextTrimming="CharacterEllipsis"/>
+                                                             </StackPanel>
+                                                        </Border>
+                                                    </Grid>
+                                                </Border>
+                                                <ControlTemplate.Triggers>
+                                                    <Trigger Property="IsSelected" Value="True">
+                                                        <Setter TargetName="ItemBorder" Property="BorderBrush" Value="#00d4ff"/>
+                                                        <Setter TargetName="ItemBorder" Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect Color="#00d4ff" BlurRadius="15" ShadowDepth="0"/>
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </Trigger>
+                                                </ControlTemplate.Triggers>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </ListBox.ItemContainerStyle>
+                        </ListBox>
+                        
+                        <!-- Loading Indicator -->
+                        <Border Grid.RowSpan="2" 
+                                Background="#AA000000" 
+                                Visibility="{Binding IsLoading, Converter={StaticResource BoolToVisibilityConverter}}">
+                            <TextBlock Text="Cargando..." 
+                                       Foreground="White" 
+                                       FontSize="32" 
+                                       HorizontalAlignment="Center" 
+                                       VerticalAlignment="Center"/>
+                        </Border>
+                    </Grid>
+                </Border>
+
+                <!-- Right: Details Link Hint (Only visible when List is focused) -->
+                <Border Grid.Column="1"
+                        Background="#111122"
+                        CornerRadius="15"
+                        Padding="20"
+                        Visibility="{Binding ShowDetails, Converter={StaticResource BoolToVisibilityConverter}, ConverterParameter=Inverse}">
+                    <StackPanel>
+                        <TextBlock Text="Detalles Rápidos"
+                                   FontSize="24"
+                                   FontWeight="Bold"
+                                   Foreground="#00d4ff"
+                                   Margin="0,0,0,20"/>
+
+                        <Image Source="{Binding SelectedGame.ImageUrl}" 
+                               Height="200" 
+                               Stretch="Uniform" 
+                               Margin="0,0,0,20"/>
+
+                        <TextBlock Text="{Binding SelectedGame.Title}"
+                                   FontSize="20"
+                                   FontWeight="Bold"
+                                   Foreground="White"
+                                   TextWrapping="Wrap"
+                                   Margin="0,0,0,20"/>
+                        
+                        <TextBlock Text="Presiona [ESPACIO] o [ENTER] para ver requisitos y análisis de compatibilidad."
+                                   FontSize="18"
+                                   Foreground="#ced4da"
+                                   TextWrapping="Wrap"
+                                   TextAlignment="Center"
+                                   Margin="0,20,0,0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- DETAILS OVERLAY (Visible when ShowDetails = True) -->
+                <Grid Grid.Column="0" Grid.ColumnSpan="2"
+                      Background="#111122"
+                      Visibility="{Binding ShowDetails, Converter={StaticResource BoolToVisibilityConverter}}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                         <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <Button Command="{Binding GoBackToListCommand}"
+                            Content="⬅ VOLVER A LA LISTA"
+                            HorizontalAlignment="Left"
+                            Margin="20,20,0,0"
+                            Background="Transparent"
+                            Foreground="#00d4ff"
+                            FontSize="18"
+                            FontWeight="Bold"
+                            BorderThickness="0"/>
+
+                    <Grid Grid.Row="1" Margin="40,20,40,40">
+                         <Grid.ColumnDefinitions>
+                             <ColumnDefinition Width="300"/>
+                             <ColumnDefinition Width="*"/>
+                         </Grid.ColumnDefinitions>
+
+                         <!-- Cover Art -->
+                         <Image Grid.Column="0" 
+                                Source="{Binding SelectedGameDetails.ImageUrl}" 
+                                VerticalAlignment="Top"
+                                Stretch="Uniform"
+                                Margin="0,0,30,0"/>
+
+                         <!-- Info -->
+                         <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto">
+                             <StackPanel>
+                                 <TextBlock Text="{Binding SelectedGameDetails.Title}"
+                                            FontSize="36"
+                                            FontWeight="Bold"
+                                            Foreground="White"
+                                            TextWrapping="Wrap"
+                                            Margin="0,0,0,20"/>
+
+                                 <TextBlock Text="Análisis de Compatibilidad (Mínimos)"
+                                            FontSize="22"
+                                            FontWeight="Bold"
+                                            Foreground="#00d4ff"
+                                            Margin="0,0,0,10"/>
+                                 
+                                 <!-- Compatibility Results -->
+                                 <Border Background="#1a1a2e" CornerRadius="10" Padding="15" Margin="0,0,0,20">
+                                     <StackPanel>
+                                         <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                                             <TextBlock Text="RAM: " Foreground="White" FontSize="18"/>
+                                             <TextBlock Text="✅ Pasa" Foreground="LimeGreen" FontSize="18" FontWeight="Bold">
+                                                 <TextBlock.Style>
+                                                     <Style TargetType="TextBlock">
+                                                         <Style.Triggers>
+                                                             <DataTrigger Binding="{Binding Compatibility.RamCheck}" Value="Fail">
+                                                                 <Setter Property="Text" Value="❌ Insuficiente"/>
+                                                                 <Setter Property="Foreground" Value="Red"/>
+                                                             </DataTrigger>
+                                                              <DataTrigger Binding="{Binding Compatibility.RamCheck}" Value="ManualCheck">
+                                                                 <Setter Property="Text" Value="⚠ Verificar Manualmente"/>
+                                                                 <Setter Property="Foreground" Value="Yellow"/>
+                                                             </DataTrigger>
+                                                         </Style.Triggers>
+                                                     </Style>
+                                                 </TextBlock.Style>
+                                             </TextBlock>
+                                         </StackPanel>
+                                         
+                                         <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                                             <TextBlock Text="Sistema Operativo: " Foreground="White" FontSize="18"/>
+                                             <TextBlock Text="✅ Compatible" Foreground="LimeGreen" FontSize="18" FontWeight="Bold">
+                                                 <TextBlock.Style>
+                                                     <Style TargetType="TextBlock">
+                                                         <Style.Triggers>
+                                                             <DataTrigger Binding="{Binding Compatibility.OsCheck}" Value="Fail">
+                                                                 <Setter Property="Text" Value="❌ Incompatible"/>
+                                                                 <Setter Property="Foreground" Value="Red"/>
+                                                             </DataTrigger>
+                                                              <DataTrigger Binding="{Binding Compatibility.OsCheck}" Value="ManualCheck">
+                                                                 <Setter Property="Text" Value="⚠ Verificar"/>
+                                                                 <Setter Property="Foreground" Value="Yellow"/>
+                                                             </DataTrigger>
+                                                         </Style.Triggers>
+                                                     </Style>
+                                                 </TextBlock.Style>
+                                             </TextBlock>
+                                         </StackPanel>
+
+                                         <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                                             <TextBlock Text="Procesador: " Foreground="White" FontSize="18"/>
+                                             <TextBlock Text="✅ Suficiente" Foreground="LimeGreen" FontSize="18" FontWeight="Bold">
+                                                 <TextBlock.Style>
+                                                     <Style TargetType="TextBlock">
+                                                         <Style.Triggers>
+                                                             <DataTrigger Binding="{Binding Compatibility.CpuCheck}" Value="Fail">
+                                                                 <Setter Property="Text" Value="❌ Insuficiente"/>
+                                                                 <Setter Property="Foreground" Value="Red"/>
+                                                             </DataTrigger>
+                                                             <DataTrigger Binding="{Binding Compatibility.CpuCheck}" Value="ManualCheck">
+                                                                 <Setter Property="Text" Value="⚠ Verificar Manualmente"/>
+                                                                 <Setter Property="Foreground" Value="Yellow"/>
+                                                             </DataTrigger>
+                                                         </Style.Triggers>
+                                                     </Style>
+                                                 </TextBlock.Style>
+                                             </TextBlock>
+                                         </StackPanel>
+
+                                         <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                                             <TextBlock Text="Gráfica: " Foreground="White" FontSize="18"/>
+                                             <TextBlock Text="✅ Suficiente" Foreground="LimeGreen" FontSize="18" FontWeight="Bold">
+                                                 <TextBlock.Style>
+                                                     <Style TargetType="TextBlock">
+                                                         <Style.Triggers>
+                                                             <DataTrigger Binding="{Binding Compatibility.GpuCheck}" Value="Fail">
+                                                                 <Setter Property="Text" Value="❌ Insuficiente"/>
+                                                                 <Setter Property="Foreground" Value="Red"/>
+                                                             </DataTrigger>
+                                                             <DataTrigger Binding="{Binding Compatibility.GpuCheck}" Value="ManualCheck">
+                                                                 <Setter Property="Text" Value="⚠ Verificar Manualmente"/>
+                                                                 <Setter Property="Foreground" Value="Yellow"/>
+                                                             </DataTrigger>
+                                                         </Style.Triggers>
+                                                     </Style>
+                                                 </TextBlock.Style>
+                                             </TextBlock>
+                                         </StackPanel>
+                                     </StackPanel>
+                                 </Border>
+
+                                 <TextBlock Text="Descripción"
+                                            FontSize="22"
+                                            FontWeight="Bold"
+                                            Foreground="#00d4ff"
+                                            Margin="0,0,0,10"/>
+                                 
+                                 <TextBlock Text="{Binding SelectedGameDetails.Description}"
+                                            FontSize="18"
+                                            Foreground="#ced4da"
+                                            TextWrapping="Wrap"
+                                            Margin="0,0,0,20"/>
+                                 
+                                 <!-- Gallery -->
+                                 <TextBlock Text="Galería"
+                                            FontSize="22"
+                                            FontWeight="Bold"
+                                            Foreground="#00d4ff"
+                                            Margin="0,0,0,10"
+                                            Visibility="{Binding SelectedGameDetails.Screenshots.Count, Converter={StaticResource CountToVisibilityConverter}}"/>
+
+                                 <ListBox ItemsSource="{Binding SelectedGameDetails.Screenshots}"
+                                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                                          ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                          Height="200"
+                                          Background="Transparent"
+                                          BorderThickness="0"
+                                          Margin="0,0,0,20"
+                                          Visibility="{Binding SelectedGameDetails.Screenshots.Count, Converter={StaticResource CountToVisibilityConverter}}">
+                                     <ListBox.ItemsPanel>
+                                         <ItemsPanelTemplate>
+                                             <VirtualizingStackPanel Orientation="Horizontal"/>
+                                         </ItemsPanelTemplate>
+                                     </ListBox.ItemsPanel>
+                                     <ListBox.ItemContainerStyle>
+                                         <Style TargetType="ListBoxItem">
+                                             <Setter Property="Padding" Value="0"/>
+                                             <Setter Property="Margin" Value="0,0,10,0"/>
+                                             <Setter Property="Background" Value="Transparent"/>
+                                             <Setter Property="Template">
+                                                 <Setter.Value>
+                                                     <ControlTemplate TargetType="ListBoxItem">
+                                                         <Border CornerRadius="8" ClipToBounds="True" BorderBrush="#333" BorderThickness="1">
+                                                             <Image Source="{Binding}" Stretch="Uniform" Height="180"/>
+                                                         </Border>
+                                                     </ControlTemplate>
+                                                 </Setter.Value>
+                                             </Setter>
+                                         </Style>
+                                     </ListBox.ItemContainerStyle>
+                                 </ListBox>
+
+                                 <TextBlock Text="Requisitos del Sistema"
+                                            FontSize="22"
+                                            FontWeight="Bold"
+                                            Foreground="#00d4ff"
+                                            Margin="0,0,0,10"/>
+
+                                 <ItemsControl ItemsSource="{Binding SelectedGameDetails.Requirements}">
+                                     <ItemsControl.ItemTemplate>
+                                         <DataTemplate>
+                                             <Border Background="#1a1a2e" CornerRadius="10" Padding="15" Margin="0,0,0,15">
+                                                 <StackPanel>
+                                                     <TextBlock Text="{Binding Label}" FontWeight="Bold" Foreground="White" FontSize="18" Margin="0,0,0,5"/>
+                                                     <TextBlock Text="{Binding Cpu, StringFormat='CPU: {0}'}" Foreground="#adb5bd" TextWrapping="Wrap"/>
+                                                     <TextBlock Text="{Binding Ram, StringFormat='RAM: {0}'}" Foreground="#adb5bd" TextWrapping="Wrap"/>
+                                                     <TextBlock Text="{Binding Gpu, StringFormat='GPU: {0}'}" Foreground="#adb5bd" TextWrapping="Wrap"/>
+                                                     <TextBlock Text="{Binding Os, StringFormat='OS: {0}'}" Foreground="#adb5bd" TextWrapping="Wrap"/>
+                                                 </StackPanel>
+                                             </Border>
+                                         </DataTemplate>
+                                     </ItemsControl.ItemTemplate>
+                                 </ItemsControl>
+
+                                 <!-- Download Links -->
+                                 <TextBlock Text="Enlaces de Descarga"
+                                            FontSize="22"
+                                            FontWeight="Bold"
+                                            Foreground="#00d4ff"
+                                            Margin="0,0,0,10"
+                                            Visibility="{Binding SelectedGameDetails.DownloadLinks.Count, Converter={StaticResource CountToVisibilityConverter}}"/>
+
+                                 <ListBox ItemsSource="{Binding SelectedGameDetails.DownloadLinks}" 
+                                          Margin="0,0,0,20"
+                                          Background="Transparent"
+                                          BorderThickness="0"
+                                          ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                          ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                                     <ListBox.ItemsPanel>
+                                         <ItemsPanelTemplate>
+                                             <WrapPanel Orientation="Horizontal"/>
+                                         </ItemsPanelTemplate>
+                                     </ListBox.ItemsPanel>
+                                     <ListBox.ItemContainerStyle>
+                                         <Style TargetType="ListBoxItem">
+                                             <Setter Property="Padding" Value="0"/>
+                                             <Setter Property="Margin" Value="0,0,10,10"/>
+                                             <Setter Property="Background" Value="Transparent"/>
+                                             <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                                             <Setter Property="Template">
+                                                 <Setter.Value>
+                                                     <ControlTemplate TargetType="ListBoxItem">
+                                                         <Button Command="{Binding DataContext.OpenLinkCommand, RelativeSource={RelativeSource AncestorType=Page}}"
+                                                                 CommandParameter="{Binding Url}"
+                                                                 Background="#16213e"
+                                                                 Foreground="White"
+                                                                 Padding="15,10"
+                                                                 BorderBrush="#00d4ff"
+                                                                 BorderThickness="1"
+                                                                 Margin="0">
+                                                             <Button.Resources>
+                                                                 <Style TargetType="Border">
+                                                                     <Setter Property="CornerRadius" Value="5"/>
+                                                                 </Style>
+                                                             </Button.Resources>
+                                                             <ContentPresenter/>
+                                                         </Button>
+                                                     </ControlTemplate>
+                                                 </Setter.Value>
+                                             </Setter>
+                                         </Style>
+                                     </ListBox.ItemContainerStyle>
+                                     <ListBox.ItemTemplate>
+                                         <DataTemplate>
+                                             <StackPanel>
+                                                 <TextBlock Text="{Binding Server}" FontWeight="Bold" FontSize="16" Foreground="#00d4ff"/>
+                                                 <TextBlock Text="{Binding Note}" FontSize="12" Foreground="#ced4da"/>
+                                             </StackPanel>
+                                         </DataTemplate>
+                                     </ListBox.ItemTemplate>
+                                 </ListBox>
+
+                                 <Button Command="{Binding OpenInBrowserCommand}"
+                                         Content="🌐 IR AL POST ORIGINAL"
+                                         HorizontalAlignment="Left"
+                                         Background="#222"
+                                         Foreground="#ced4da"
+                                         Padding="20,10"
+                                         FontSize="14"
+                                         FontWeight="Bold">
+                                     <Button.Resources>
+                                         <Style TargetType="Border">
+                                             <Setter Property="CornerRadius" Value="5"/>
+                                         </Style>
+                                     </Button.Resources>
+                                 </Button>
+                             </StackPanel>
+                         </ScrollViewer>
+                         
+                         <!-- Details Loading -->
+                         <Border Grid.ColumnSpan="2" 
+                                 Background="#CC000000"
+                                 Visibility="{Binding IsLoadingDetails, Converter={StaticResource BoolToVisibilityConverter}}">
+                              <TextBlock Text="Analizando página del juego..." 
+                                         Foreground="White" FontSize="32" 
+                                         VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                         </Border>
+                    </Grid>
+                </Grid>
+            </Grid>
+
+            <!-- Footer -->
+            <StackPanel Grid.Row="2"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Margin="0,20,0,0">
+                <TextBlock Text="[Y]"
+                           FontSize="22"
+                           FontWeight="Bold"
+                           Foreground="#00d4ff"
+                           Margin="0,0,10,0"/>
+                <TextBlock Text="Volver"
+                           FontSize="22"
+                           Foreground="#ced4da"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <IgnoredGameId>
+    <GameId>steam://rungameid/28020</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>steam://rungameid/1234290</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>steam://rungameid/386360</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>steam://rungameid/1118310</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>steam://rungameid/1386040</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>gog://1428935726</GameId>
+  </IgnoredGameId>
+  <IgnoredGameId>
+    <GameId>gog://1207659001</GameId>
+  </IgnoredGameId>
+</LaunchBox>

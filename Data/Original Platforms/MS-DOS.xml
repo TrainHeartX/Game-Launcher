@@ -1,0 +1,1103 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Ultima Underworld II - Labyrinth of Worlds.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T15:50:10.8488132-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:02.1689856-05:00</DateModified>
+    <Developer>Looking Glass Technologies</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>18eb1dad-b17b-4ac2-96ef-f45cadbe0e88</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Ultima Underworld II: Labyrinth of Worlds takes place one year after the events of Ultima VII: The Black Gate. To celebrate the defeat of the Guardian, Lord British invites the Avatar and his companions to his castle. However, in the night of the feast the Guardian attacks again, encasing the castle in a giant gem of blackrock. Deep in the sewers of the castle, another blackrock gem is found, created as an aftereffect of the attack. This gem is a teleporter to other worlds controlled by the Guardian. Now the Avatar must travel to these worlds in order to free the castle from the Guardian's spell.
+
+This sequel to Ultima Underworld plays almost exactly as the original, with its 3D world, action-oriented combat, magic system and multiple-choice conversations. The player creates the character of Avatar, choosing gender, class, and initial skills. These range from weapon proficiencies to social abilities such as diplomacy and bartering. Some of the skills can be increased during the course of the game by visiting trainers. After having accumulated a sufficient amount of experience points, the Avatar levels up, and his hit points and mana are increased. Like its predecessor, the game features an interactive world: many objects can be manipulated and physically moved.
+
+The game's storyline is more connected to the main Ultima series than that of its predecessor, and the game world is larger and has more variety: besides the usual castles and dungeons there are such diverse locations as an ice world, an alien place called Talorus and the enigmatic Ethereal Void. Graphics and sound have also been improved: the size of the viewing window has been increased, there are new monster graphics and the game now features digitized sound effects.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Origin Systems</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-11T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.890499</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>17148</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ultima_Underworld_II%3A_Labyrinth_of_Worlds</WikipediaURL>
+    <Title>Ultima Underworld II: Labyrinth of Worlds</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>Ultima Underworld II - Labyrinth of Worlds</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen 1 in Invasion of the Vorticons.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:14:21.3133334-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:31.0395435-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>f1819817-be17-48b8-ac67-da0aadb28704</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen has already foiled the Vorticons' plans to destroy Earth. Now he heads to their home planet in order to confront the Grand Intellect: a mysterious leader who enslaved all the Vorticons and forced them to carry out his evil deeds. But before Keen reaches him, he must get through numerous Vorticon cities whose mind-controlled residents all received one order from the Grand Intellect: "Keen must die!"
+
+Commander Keen 3: Keen Must Die! is the third in a series of platform games. The game begins with a top-down map of the Vorticon planet. This is the level select screen, where you can walk around and choose the next level you want to enter. On each level, you have to make your way to the exit. Once you reach the exit, you're back on the overhead map. 
+
+The levels are typically full of enemy creatures (mainly various types of Vorticons) and hazards. If Keen gets shot or touched by an enemy, or falls into a pit or something hazardous, he dies, and you're booted out of the level back to the overhead map and lose one life. 
+
+Thankfully, Keen can defeat most enemies with his raygun. He also has a pogo stick which allows him to jump very high. Other items to find include keycards that open locked doors, bonus items which give score (Keen gets an extra life if he collects enough score) and the Ankh, which gives temporary invulnerability.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Apogee Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-12-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5681818</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>22</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10883</DatabaseID>
+    <WikipediaURL />
+    <Title>Commander Keen 3: Keen Must Die!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath />
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-10-21T11:57:15.2801219-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:03.4304192-05:00</DateModified>
+    <Developer>3D Realms Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cbb3c009-5b76-4361-baf8-a13963c2f40c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Lo Wang.  Master ninja assassin for 20 years.  A Shadow Warrior.  Shadow warriors are the best of the best, and Lo Wang was the best of the Shadow warriors.  Every top company in Japan had a shadow warrior... a protector, a negotiator, a cleaner.
+
+Lo Wang worked for Zilla Enterprises, a conglomerate with control in every major industry.  Too much control.  Power corrupts, and Master Zilla's corporation was corrupted to the core.
+
+Lo Wang discovered Master Zilla's demonic scheme to rule Japan, using creatures summoned from the dark side.  A man of honor, Lo Wang quit.  But one as powerful as Wang either must be on your side, or on no one's side.  Master Zilla unleashes his creations for their first test: to kill a single man, a shadow warrior..  Lo Wang!</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>GT Interactive Software</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>1997-05-13T02:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0675673</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>36</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10384</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)</WikipediaURL>
+    <Title>Shadow Warrior</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=e-MCnStbtO0</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen 2 in Goodbye, Galaxy.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:10:20.9547059-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:30.3176122-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>eb695bbf-9856-428b-b1c1-f8e047df4ecd</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen 4: Secret of the Oracle is a platform game, the fourth in the Commander Keen series as a whole, and the first in the second series Goodbye, Galaxy.
+
+Eight-year-old genius Billy "Commander Keen" Blaze receives an interstellar transmission while working on a Photachyon Transceiver (a radio that can receive signals anywhere in the galaxy). While the transmission is choppy, Billy manages to figure out that the galaxy is once again in danger from an alien race known as Shikadi. In order to get more information about this threat, he sets out to consult the Oracle. But it turns out that the eight Council Members necessary for the Oracle's activation have been kidnapped by the Shikadi and imprisoned in the dangerous Shadowlands. Billy heads out to save the Council Members. 
+
+The game begins with a top-down map of the Shadowlands. This is the level select screen, where Billy can walk around and the player can choose the next level they want to enter (though some of the levels are islands located on a lake and require you to find a wetsuit if you want to reach them). On each level, Billy has to make his way to the exit. Once a level is completed, Billy ends up back on the overhead map. 
+
+The levels are typically full of enemy creatures, such as poison slugs, deadly mosquitoes or hopping crazy mushrooms. There are also many hazards - pits, cannons, spears. If Billy gets shot or touched by an enemy, or falls into a pit or touches something hazardous, he dies and loses one life. 
+
+Thankfully, Keen can stun most enemies with his raygun, although some cannot be stunned at all, and some are only stunned for a few seconds. Keen also carries a pogo stick which allows him to jump very high. Other items to find include: ammo, gems that acts as keys to open locked doors, bonus items which give score, raindrops (100 raindrops give extra life) and the rare Lifewater Flask which gives an extra life.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Apogee Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-12-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.160714</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>40956</DatabaseID>
+    <WikipediaURL />
+    <Title>Commander Keen: Secret of the Oracle</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Multijugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>0</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen in Keen Dreams.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:10:27.9441057-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:13.0937655-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5abbf5ad-dc61-4e9f-ad82-824912b5093d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen: Keen Dreams is a platform game. Its events take place after Commander Keen 3: Keen Must Die! but before Commander Keen 4: Secret of the Oracle. 
+
+Eight-year-old genius Billy "Commander Keen" Blaze, the hero of the universe, the saver of planets has a problem: his mom forces him to eat yucky vegetables. This night, he dreams that he found himself in the land of Tuberia, where sentient vegetables live and reign supreme, and where the evil king Boobus Tuber enslaves children brought by his Dream Machine.
+
+The objective is to reach and destroy king Boobus Tuber, but before this happens, Keen must find a number of Boobus Bombs which are the only things that can harm the king. The game begins with a top-down map of the land of Tuberia. This is the level select screen, where you can walk around and choose the next level you want to enter. On each level, you have to make your way to the exit, collecting Boobus Bombs on the way if there are any on this level. Once you finish the level, you're back on the overhead map.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Softdisk Publishing</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-08-15T02:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7222223</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10908</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams</WikipediaURL>
+    <Title>Commander Keen in Keen Dreams</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-irNzV0BuKk</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen 1 in Invasion of the Vorticons.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:10:15.850414-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:07.7939547-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>2dccc512-f58c-4ae1-b043-e457a8a9eefb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Billy "Commander Keen" Blaze, an eight-year-old genius, has flied to Mars in his Bean-with-Bacon Megarocket build out of common household objects. But while Keen was exploring Mars, the alien Vorticons stole vital parts from his ship and hid them in the Martian cities. Now Keen must find the stolen parts if he wants to return to Earth. 
+
+Commander Keen 1: Marooned on Mars is the first in a series of platform games. Your objective is to find the 4 missing parts to your ship. 
+
+The game begins with a top-down map of Mars. This is the level select screen, where you can walk around and choose the next level you want to enter. On each level, you have to find the exit, and possibly grab a missing rocket part which may be on the level. Once you reach the exit, you're back on the map of Mars. 
+
+The levels are typically full of enemy creatures. Most numerous are Yorps, which are mostly harmless, if annoying, but other creatures are a genuine danger. If Keen gets shot or touched, or falls into a pit or some hazardous object, he dies, and you're booted out of the level back to the map of Mars and lose one of the lives. 
+
+Thankfully, Keen can defeat some of the enemies with his raygun. He can also find a pogo stick which allows him to jump very high. Other items to find include keycards that open locked doors and bonus items which give score (Keen gets an extra life if he collects enough score).</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Apogee Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-12-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2236843</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>37</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>40953</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Commander_Keen_in_Invasion_of_the_Vorticons</WikipediaURL>
+    <Title>Commander Keen 1: Marooned on Mars</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=YUyQSfKRU1w</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen 2 in Goodbye, Galaxy.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:17:26.7614359-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:05.770052-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5a00c915-d634-4660-a994-8ba1f1021f0a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen 5: The Armageddon Machine is a platform game, the fifth in the Commander Keen series as a whole, and the second in the second series Goodbye, Galaxy.
+
+Eight-year-old genius Billy "Commander Keen" Blaze, having learnt about the alien Shikadi's plans to destroy the galaxy, arrives on board of their ship, the Omegamatic, in order to destroy it and prevent the evil deed. The objective is to reach and destroy the core of the Omegamatic, but before this happens, Billy must find and destroy four machines which protect the main elevator. 
+
+The game begins with a top-down map of the Omegamatic. This is the level select screen, where Billy can walk around and the player can choose the next level they want to enter. On each level, Billy has to either make your way to the exit, or destroy a vital machine if there is one on this level. Once a level is completed, Billy ends up back on the overhead map. 
+
+The levels are full of enemies, mostly robots of various kinds. There are also many deadly hazards. If Keen gets shot or touched by an enemy, or falls into a pit or touches something hazardous, he dies and loses one life. 
+
+Thankfully, Keen can stun most enemies with his raygun. He also carries a pogo stick which allows him to jump very high. Other items to find include: ammo, gems and keycards that are needed to open locked doors, bonus items which give score, jars of "Vitalin" (100 of them give an extra life) and the rare Keg O' Vitalin which gives an extra life.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Apogee Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-12-15T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.86</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>25</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10906</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Commander_Keen</WikipediaURL>
+    <Title>Commander Keen 5: The Armageddon Machine</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ZslkGo-Byks</VideoUrl>
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen 1 in Invasion of the Vorticons.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:13:33.3387379-05:00</DateAdded>
+    <DateModified>2024-03-20T09:20:32.1516258-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7f268933-11f4-423f-8209-c3e8f6f6008a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen 2: The Earth Explodes is the second game in the first trilogy of Commander Keen platform games, called Commander Keen: Invasion of the Vorticons.
+
+In this episode a Vorticon Mothership is poised above Earth, preparing to destroy the planet with their deadly Tantalus Rays! Commander Keen's mission is to stop these evil Vorticons from blowing up the Earth. In order to do this you need to find and destroy each X-14 Tantalus Ray, powered by cells from the big purple Space Amoeba. 
+
+The game begins with a top-down map of the mothership. This is the level select screen, where you can walk around and choose the next level you want to enter. On each level, you have to find the exit; if this is one of the levels with a Tantalus Ray, you've got to destroy the Ray before exiting. Once you reach the exit, you're back on the map of the mothership. 
+
+The levels are typically full of enemy creatures and hazards. If Keen gets shot or touched, or falls into a pit or hazard, he dies, and you're booted out of the level back to the overhead map and lose one life. 
+
+Thankfully, Keen can defeat some of the enemies with his raygun. He also has a pogo stick which allows him to jump very high. Other items to find include keycards that open locked doors and bonus items which give score (Keen gets an extra life if he collects enough score).</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Apogee Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-12-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.130435</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>23</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>10882</DatabaseID>
+    <WikipediaURL />
+    <Title>Commander Keen 2: The Earth Explodes</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Ultima Underworld I - The Stygian Abyss.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T15:50:05.6705171-05:00</DateAdded>
+    <DateModified>2024-03-20T09:21:55.2498383-05:00</DateModified>
+    <Developer>Blue Sky Productions</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>11768cdd-8b6c-4f28-bcf3-6ff2b973e111</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>After having brought peace to Britannia during his previous journey there, the Avatar returns to our world. However, he is haunted by ghostly dreams that warn him of a great danger in Britannia. The Avatar decides to travel there once again. Upon his arrival, he witnesses the kidnapping of Baron Almric's daughter. Found guilty of the crime, the Avatar is thrown into the Great Stygian Abyss with the choice of either finding the girl or rotting in the dungeon. On his journey he will have to get along with the many inhabitants of the dungeon, who are survivors of a failed colony, and eventually find out that there's much more to this kidnapping than meets the eye.
+
+Ultima Underworld: The Stygian Abyss is commonly considered the first role-playing game with fluid first-person movement in a real 3D environment. Unlike earlier first-person RPGs such as Dungeon Master or Eye of the Beholder, the player can move in every direction and the graphics are updated continually. The player is also able to look up and down with the press of a key, jump, and swim. The dungeon is not made entirely of corridors and rooms arranged in a rectangular fashion, but has a lot of variety: slopes, stairs, bridges, underground rivers, and more.
+
+The game's combat system is action-oriented. The player has to draw his weapon, aim at his opponent, and hold the cursor over the game screen to inflict damage; the longer the player holds it, the stronger is the attack. Some weapons have different types of attacks, depending on where the cursor is held: for example, jabs are executed when the cursor is near the bottom of the screen, while slashes are performed with the cursor in the middle.
+
+In the beginning of the game, the player chooses the gender, the class, and the initial skills for the Avatar. Skills include various weapon proficiencies, lockpicking, bartering, and others. They can be increased by reciting mantras at special shrines after having accumulated a sufficient amount of experience points. Leveling up also increases the Avatar's hit points and mana. The magic system is based on runes that can be found in the Abyss. If combined in the right order, they produce a magical effect. 
+
+As the Abyss is populated by more than just monsters, there are various conversations the Avatar can conduct with non-playable characters. The player can also make choices regarding the Avatar's behavior towards these characters. Game progression is largely non-linear: the player is able to explore most of the Abyss in any order, though several specific tasks must be accomplished in order to complete the story. An auto-map displays all the locations the player has explored previously, and also allows the player to make notes on it.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>Origin Systems</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-03-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9340222</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>35</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>19708</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ultima_Underworld%3A_The_Stygian_Abyss</WikipediaURL>
+    <Title>Ultima Underworld: The Stygian Abyss</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>Ultima Underworld I - The Stygian Abyss</Version>
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Adventure; Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <Installed>true</Installed>
+    <ApplicationPath>..\Saved Games\Doom Anthology (2)\Commander Keen Collection\Commander Keen in Aliens Ate My Babysitter.lnk</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2021-04-07T16:10:23.3458427-05:00</DateAdded>
+    <DateModified>2024-03-20T09:22:16.5803532-05:00</DateModified>
+    <Developer>id Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>80344fb3-2f0d-4270-a88c-726f1ba456f6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Commander Keen 6: Aliens Ate My Baby Sitter! is a platform game, the sixth in the Commander Keen series as a whole.
+
+Molly, the babysitter of Billy "Commander Keen" Blaze (an eight-year-old genius) has been kidnapped by the Bloogs from the planet Fribbulus Xax, for purely gastronomical purposes. Keen must set out to Fribbulus Xax to save her!
+
+The game begins with a top-down map of the Fribbulus Xax. This is the level select screen, where Billy can walk around and the player can choose the next level they want to enter; however, some places on the map require the player to find specific items (such as a grappling hook) to get through. On each level, Billy has to make his way to the exit. Once a level is completed, Billy ends up back on the overhead map. 
+
+The levels are full of enemies, including the club-wielding Blooguards, the Flects which can reflect Billy's shots with their teeth, and Nospikes which charge at him in hopes of impaling him. There are also many deadly hazards. If Billy gets shot or touched by an enemy, or falls into a pit or touches something hazardous, he dies and loses one life. 
+
+Thankfully, Billy can stun most enemies with his raygun. He also carries a pogo stick which allows him to jump very high. Other items to find include: ammo, gems that are needed to open locked doors, bonus items which give score, bird-like "Vivas" (100 of them give an extra life) and the rare Queen Viva which gives an extra life.</Notes>
+    <Platform>MS-DOS</Platform>
+    <Publisher>FormGen</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder>..\Saved Games\Doom Anthology (2)\Commander Keen Collection</RootFolder>
+    <ScummVMAspectCorrection>true</ScummVMAspectCorrection>
+    <ScummVMFullscreen>true</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.107143</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status />
+    <DatabaseID>40961</DatabaseID>
+    <WikipediaURL />
+    <Title>Commander Keen: Aliens Ate My Babysitter!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode>Un Jugador</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <PlayTime>0</PlayTime>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <CloneOf />
+    <Genre>Action; Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingMarqueeImage>true</MissingMarqueeImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl />
+    <AndroidBoxFrontThumbPath />
+    <AndroidBoxFrontFullPath />
+    <AndroidClearLogoThumbPath />
+    <AndroidClearLogoFullPath />
+    <AndroidBackgroundPath />
+    <AndroidBackgroundThumbPath />
+    <AndroidGameTitleScreenshotThumbPath />
+    <AndroidGameplayScreenshotThumbPath />
+    <AndroidGameTitleScreenshotPath />
+    <AndroidGameplayScreenshotPath />
+    <AndroidVideoPath />
+    <HasCloudSynced>false</HasCloudSynced>
+  </Game>
+  <AlternateName>
+    <GameID>cbb3c009-5b76-4361-baf8-a13963c2f40c</GameID>
+    <Name>Shadow Warrior Classic (1997)</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eb695bbf-9856-428b-b1c1-f8e047df4ecd</GameID>
+    <Name>Commander Keen in ...</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>eb695bbf-9856-428b-b1c1-f8e047df4ecd</GameID>
+    <Name>Commander Keen 4: Secret of the Oracle</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>eb695bbf-9856-428b-b1c1-f8e047df4ecd</GameID>
+    <Name>Commander Keen IV: Secret of the Oracle</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>5abbf5ad-dc61-4e9f-ad82-824912b5093d</GameID>
+    <Name>Commander Keen: Keen Dreams</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>11768cdd-8b6c-4f28-bcf3-6ff2b973e111</GameID>
+    <Name>Ultima Underworld I</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>80344fb3-2f0d-4270-a88c-726f1ba456f6</GameID>
+    <Name>Commander Keen 6: Aliens Ate My Baby Sitter!</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

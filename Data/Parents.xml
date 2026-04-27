@@ -1,0 +1,3271 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computadoras</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d5d23307-014e-474f-a5e2-78a5d283a57d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo GameCube</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b26c9c68-b69f-44b7-8c1d-561fc5f5fca3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataforma</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a0a1857a-6b9b-4462-876a-d0fb9bef6fe7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>00892491-6f81-499c-a203-78f0f14789c6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7cb51cb3-2656-4ec8-a7b3-ca07430526fa</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 3DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>05aab940-832e-4e61-a366-16b66e307c01</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>WonderSwan</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Jaguar</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>WonderSwan</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b4ab5df8-9df5-410a-bb37-6c9c69d957ce</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>52de9036-fe63-417c-9c72-c07c6c3266e2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>eb02821b-cc2f-4000-abf8-5dd6cf8ef980</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 5</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>54d77d19-9266-4c8d-8506-fd7a15ab3eb4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>195f781f-7559-442e-8612-4eb4c567c108</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4ecdeb3b-d0f3-45ed-8417-32edc4b85783</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) PC</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computadoras</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii U</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>21394011-ad17-4b43-a478-b236721bc6d9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>030e92d1-41b0-4862-af6a-7a3da4f59879</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Switch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>713f7fc6-b8ab-4378-bec0-bea0eb71dc7d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari ST</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Triforce</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3fbf4507-0bd1-4610-a0d9-c95905669a4e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Desarrolladores</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3380b4b2-90a2-422a-bd7b-2ec874664815</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5d70fc82-0602-49f8-aa88-278de99a0646</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>476a3a41-e8d0-425f-886f-3c65f54a41f2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Genesis</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>266ddf36-4ca0-4526-952a-9341d02f52ee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>97ae8088-b7f6-4bfa-ab60-6fcc962032ee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d7e3c481-fff8-4952-aed4-f9c2b974713b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Generos</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Listas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>14ea4700-bb7e-4b5c-9fa6-a628d10095bd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7e95b92b-1e71-4ae5-832f-827b687032aa</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>6. (2000-ACTUAL) Desde la Sexta hasta la novena generación</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computadoras</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Lynx</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Computers</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataforma</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1491f188-e455-4907-b5b8-63492867e086</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade Generos</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c2e2e1a8-da3a-4aa4-ba96-9009c701b5d2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a5722a18-5da3-417f-b442-7a45317705e3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 7800</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e845c11b-441f-4364-a2f6-a20307144f91</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Advance</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dbfcb138-5cfd-4232-b901-fb879f1b379f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Lynx</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b9a8dc7b-b5e9-4bb8-88a5-df524563dd4f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b819125-919c-4233-a3dc-978a04225881</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>32162152-055e-46b4-aa7b-7deecdfb6604</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3a8ad3cc-816c-4a65-acc8-d64e82e4e04c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Advance</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox 360</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1926bfeb-e6f7-49eb-9364-d6fbdbc31c14</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8077db5d-ed55-4a98-9151-9e7dcfb1227a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a8f81f88-592a-4454-802f-015b39141ef5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>WonderSwan Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 7800</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>26c96a1d-51c3-45cd-9673-beceeaf3f52b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7cdccb06-fe8b-468f-9063-1560fa8393cb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>06ee854a-039f-401e-b30a-ec9a613fca74</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d8d9c078-a6f1-4b5f-b531-d79994e83f4d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>844e4a85-baca-48dd-adcf-e37d4dc5b624</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c5b15d92-bfa5-4ccd-a8e2-519b4d1bc151</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Windows</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f0a1c750-7a30-48e1-9c0e-c7c7b98aa09f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>361a8940-2732-4c52-8d22-1f9caba285d1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>3DO Interactive Multiplayer</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ce644ae3-3711-4bc2-894f-4e4d2130f163</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Desarrolladores</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Desarrolladores</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Listas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>6. (1998-2009) Sexta generación (128 bits) Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Consoles</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataforma</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e52d98b9-34ec-4841-81df-a128ca569e5e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>45e87b38-c418-4c75-ae53-6eca37e869a6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7fa33d57-06a5-4025-9351-0f67da2f52e9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 4</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c9ea3209-ef1e-4758-8edb-c747376a8a0e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e441f094-e8dc-45f8-8da6-15322aba7957</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c6dd5288-37d7-48c1-97e3-d2f66ba39d30</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Desarrolladores</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b16f4281-6f01-4f2e-8aff-b9623aac63b7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Plataformas</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2435a4d9-c830-4100-8535-7f9e571b3370</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4b122dec-0acb-4772-9eaa-9d289ae465c4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3e6782f2-6958-4229-a53d-d1676cb7c515</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>8. (2012-2021) Octava generación Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cce2cb5a-5e9e-4dad-be3d-55c79f306a79</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>530d3c31-28dc-419e-895b-0b424bba0cf4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>86a688cc-9998-465e-a6ee-879a6b5a5b36</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Super Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Model 2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>862c5190-9d8a-48d5-aa0e-177deba0190f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cf389524-3582-4f74-b44c-e035a433fb3d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dd8c085d-b79c-4cd7-a694-b373d19dc3b7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b3398205-9b63-49de-a659-9e540d24c186</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>edf184e4-1c09-41b4-928d-af0380a58922</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a76304ce-5a9a-487b-b0d6-d7c7c6d5bdc4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Deportes</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>33d6fdc6-5aba-4dd4-96fe-200457357293</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>faaa68f4-026c-4361-8120-e4e15ef3d959</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>7. (2006-2011) Septima generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Amstrad CPC</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6cd986f1-6e74-446e-8788-e813b186c144</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>58b8ce5e-12a3-40c7-9f44-7946ce4d8739</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>02710362-2e4c-49d5-bca4-95b19bc52c44</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fe7cb615-69ca-449f-a269-67bd7869582e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Dreamcast</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>39bc57ce-ecc4-4e4a-a538-743258fa109f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>49ff2ec4-e375-4679-b139-fd11a8eed99d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari ST</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>2. (1976-1982) Segunda generación (4 bits) Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>7. (2006-2011) Septima generación Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e48bb3d3-554e-4103-aa20-a4f154d8260b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generaciones</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>36e491a3-2853-4b28-a45b-d7e2d76489a0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cd03d476-e12c-436f-bca1-16ee77deec45</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e86465c9-9476-4ce8-8838-224db3a79906</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6729f597-d9d0-48bb-ae10-40d5e554b7ac</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9a6bfb51-6a9a-4806-9f27-8472befea85b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>26f8c2c6-05aa-4b04-8167-2186d76d487f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>3. (1983-1986) Tercera generación (8 bits)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b16b18e5-8ba4-4cf4-99d5-c5ad29f602a6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Listas</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>7. (2006-2011) Septima generación</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>16c3ac3c-dbca-4363-8ac6-83f308db4aa7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Virtual Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1a641e21-38b3-4241-b55a-e0fd94241243</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo AES</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b1314aa3-e32f-4de4-9cf7-f069b938a051</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e7c89d7b-fbe9-4fbd-a4e8-aca20255a621</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ca1546a9-0c67-4fd0-b5e6-baf45d2fe9cf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a8917d0d-382d-4e7a-bbcb-42c3aff53248</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>67c0e2f9-7761-4868-846d-4add3ce55ed3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>2. (1976-1982) Segunda generación (4 bits)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8e09a7b-3d54-4e6a-a499-da39a6e8f149</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation Vita</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>43fd1f7a-471b-47bc-8017-592dc326e742</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a8808b66-372d-4707-9c5c-4da1f4b329a5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b8081f2b-65fd-448c-8a3a-e79e28af568a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7e52b28f-98df-437d-b16a-8fdcda0c2732</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Computadoras</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generaciones</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5a066c97-2ab7-4580-92fd-ee6eb2d3e161</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f757d528-b4e4-43f6-99c6-645e5e06301a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cfb67fc4-0373-4942-ab95-4f454b857a9d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0784d382-2a57-4150-b776-92234a1cc423</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f2342c6c-bb20-4ebd-9ead-95f0d0663b1d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>29e971ca-42a1-4fad-a0d4-066b54093bfe</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6079608e-4e9f-4bb8-9c24-00e347ebfec5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>35b12a6c-df6a-49b9-a16e-4f0c2ceac5fd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4b9b71d8-9bbe-4684-a3b0-c4e562a922d1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Dreamcast</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) PC</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computadoras</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0295ab7a-9994-4101-91d2-b809f438b3cf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6753bd00-56d1-455e-bfe1-822c20f9cf55</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>db9afe17-dbef-4ca3-9d68-552e29724f0a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d569dc17-8dbe-47c2-a295-c16c4855de5e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>87df5a5b-815a-4d1b-b322-e051b2c1ce7e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>31423384-198a-4fd1-93a2-fe2ad1b615be</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cbc545fc-a0ab-49f4-aa97-239aea479c7b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8818c7a3-1548-4cb9-8baa-52c84e4d073f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b9de7de5-0ce6-484a-8618-36588be4a014</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b207854-2c1e-4407-a30d-a3cbf52f2ab6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Master System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8dde8cfa-bf9b-47b4-a6c8-0a99022338bc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dbc5b8d5-d294-41b6-aec1-bb7a25da5658</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>614e8713-c7cd-4be4-85ae-0a11e6e909f3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7c0026a1-355b-4d05-9ab6-fe273848bd90</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>4e205b8f-66be-4d3b-9a9e-2a1661dacbd5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>754234ff-5ddb-4553-a0a0-5cb8320e539a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Personal Train</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>df749cfc-848f-46cf-a82a-238863266cd5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8e2da55-270c-4a8a-a2ba-5cda01d630f8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Desarrolladores</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a8240231-4fb1-4368-be1e-309c647eb1f4</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii U</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game &amp; Watch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>2. (1976-1982) Segunda generación (4 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6babfde1-1059-41a7-9c36-32a93cd180db</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>63d3c535-d317-40ab-87cd-beee94b2c726</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>778825c2-0d08-459e-8b15-0d904d8211f8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>91e1977d-3454-4e54-bdce-946335837c81</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b6f344f6-4df2-4075-997d-7ca01420502f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Generaciones</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataformas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1cf8ce30-2d4c-4247-a8aa-240f59aa7ef8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo Pocket Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>66802c56-4acf-4832-905e-d8525d996031</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Saturn</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a0a5aa3a-9be8-4265-9a31-9eb03f522976</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-16</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a77a6276-2e49-48ef-9ed0-b170c7b73451</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>130b0893-d644-4bff-9710-28488e2404d3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a3d3c006-9850-4214-9ead-7f9dec4dc5cb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore Amiga</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b1b77f3-035c-46ef-b566-22822a453fb6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9b4acd52-c57d-4307-871a-dcb3269ebd87</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore Amiga</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f29233b4-afd7-4fa4-9ebc-bf529ae1a495</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>839ea7e9-75eb-403b-8e6b-586374397d43</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a280d07e-611c-448d-9575-77f5739d1470</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6fedec45-b1ca-45a6-a1db-1f8c9cf95e69</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Virtual Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Genesis</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>56352470-71b8-42df-a89a-31e04245dea2</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega CD</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e04d26f8-2470-4667-9ac8-40b841088294</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6afb9365-c2e5-4440-87ff-47cc773820f5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>49aae68b-d0ef-45b8-a641-1c5386a738c8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cbda66c1-2387-410a-be7f-21683076b0fc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bad050db-0e61-45ae-9de3-ffef864a0dee</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8c9f3f0-6b79-44a2-a2db-579757eff65c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e30bd941-9df9-44ad-82fe-5e081b27c283</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>711e8399-a9e2-4259-b8d0-f542595ee768</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Game Gear</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>17db3aa2-be4c-42df-ad72-c4b54dca62b8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fe255f58-6959-4cba-9f40-46a9b222298d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 2600</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dfc84941-f04a-4f3d-a1c1-68cdce1823ca</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony PSP</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>6. (1998-2009) Sexta generación (128 bits)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0644a597-334c-4303-bf6f-6f85bd2f54ab</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3e3fcc7b-c172-4556-b091-c58f7d61efce</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bae14791-f688-4d8c-a14c-40fa3ae86590</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Game Gear</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7b0c9830-53b1-47ea-b0f4-334ff66bdc9d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Wii</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 5200</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>2. (1976-1982) Segunda generación (4 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>90d2948b-0d74-4631-b54e-fca020583c3c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>343b926a-f218-4d1c-9032-bd0328d33a71</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d7833f12-be73-44e3-bf86-d7a7f0df703e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1e3bd2e9-c640-43a2-b71d-21f27a2fb1f3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>3eddcfbc-7897-4a49-91b6-1fc5cc044efb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5efd544b-8eb3-4de8-93eb-e0847f62450a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6a9baa4c-02ef-42cf-9a6a-d2bca77a3751</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9d4789cf-8871-4e15-9833-66f472e0ce8b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>dec22973-2021-4800-a58a-b0cf625a5e9b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>46248093-3dcb-409b-abfb-8f2216eb9091</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a3b66493-796b-4fe9-bfa4-ffd3e6b43203</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>38cfae6a-50da-4b64-a0eb-cf0e6a2a5cd9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f0521a9e-8f74-4b58-b19c-36ffba5d8702</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d8574cf6-3954-4a13-b9ff-dda20125e116</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8286d625-b26d-461f-9132-e3fb707a9190</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Plataforma</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataformas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>fc293354-1de8-4c40-aa74-3ec1bb955a55</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega 32X</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5fe08aaf-8ceb-4206-848c-7ba9f442a249</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a1419af2-9687-42fc-8f75-928f980148fc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Amstrad CPC</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>565bcdf7-8163-4a7f-9279-31cd6e510dad</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega 32X</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>944d7bd3-c639-4c11-8490-756d7ef7fb90</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d69c0efe-a2a2-4161-93b9-0297141f3219</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c57e1a25-a791-47c6-b9ee-3fc2323daff6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>8. (2012-2021) Octava generación</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7de9d35b-e917-495f-ad17-8786ebf96618</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox 360</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>7. (2006-2011) Septima generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ca5c1983-a8d5-4dd3-9599-45b8a9653868</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Windows</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (2000-ACTUAL) Desde la Sexta hasta la novena generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 5</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>9. (2020 - Presente) Novena generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b6aa2bf0-bd4c-4e8a-afdb-73c2bca33c0f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e77529dd-16af-4d72-8534-8bd1a3b6e7c6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>952af6a2-c211-4465-bede-d1a4f24710a7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari Jaguar</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e79c8993-143e-40bc-af1e-9bf366ec0045</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d8df81af-868c-41eb-af87-48cdbfb9992b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 3</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>7. (2006-2011) Septima generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>22dbf349-257c-4294-9d43-bb8d28c161ca</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>346f10d3-153c-4a66-917d-8aaa8eece04f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 2600</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>2. (1976-1982) Segunda generación (4 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega SG-1000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c295bad0-435b-4f4f-a26e-9d57369f3b8b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) Portatil</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Portatiles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>53cee496-c3e3-4463-b1a3-5adf867ec736</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f29d91eb-0072-4a05-bfb9-4569ff64245e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e36bc7f2-d3d8-42f6-be93-a45791895a32</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2e73b9a7-94a7-464e-8523-8e9f9a745f27</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2f96c92a-de2a-4870-be66-b9392adde331</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlaylistId>0eaa4676-2f19-4432-9c76-ffa140a04b22</PlaylistId>
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>da83b7e1-562d-4a3e-84d0-f9423eb8f754</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Switch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c73f7105-de0f-4ffe-a274-df2a759937b5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>42b6cfe5-6dd2-43b6-bc5b-c1c91b49bbca</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0910a819-d6d4-4131-87b0-54ec0a6192a3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6b0320bd-bbb4-4a6a-8704-b65b38d103e5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox One</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8c360b91-e167-4248-94e6-c70e94f88b77</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7c914f99-062d-4ceb-a2b8-6553cb6a58c3</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Master System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7a6440e6-2e64-47d3-8e8d-e88f4b1fe210</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6a8702d4-a65a-48b9-9397-69a16c654a9c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7f6bab0a-d9aa-402d-a80f-164602b45e4a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1d8bf51c-db77-4c7c-b13c-3f1c0afb5913</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>256a163d-2745-4aaf-84ea-c1122ac70255</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo GameCube</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>bea858dc-139f-465e-9d6b-9b21d186d54b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>310caa73-db97-482e-892a-bc80f1eb880b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>26f51299-3309-44b3-9e63-e77026f793b1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation Vita</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX2</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>WonderSwan Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2732f3ce-65ec-42c9-82f6-aa7985387c9e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox One</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ba7342a5-02dc-4ba1-b15d-16c632997087</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sega Saturn</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>174f92eb-9eff-464f-b2d8-91fb8df5e93d</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Sagas</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Listas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>76a74dcd-07d0-4fd8-b4bc-468c6d0cc199</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>560c415b-dcd3-4d1c-a609-ee380c4d583b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>1704863d-3460-4bdf-935c-249e02904932</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>92d9bf33-5f9b-4180-8799-aca3a2007522</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>2c1bbf69-155c-4889-8ea6-e4bb005e9acc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft MSX</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Computers</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8cb37ae7-040f-4d67-8df8-58c4d6a448de</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ce0a67f5-b46d-4565-b463-1c9c60513477</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>9. (2020 - Presente) Novena generación</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consolas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c8e09a7b-3d54-4e6a-a499-da39a6e8f149</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e9d5f293-a34e-432c-9a92-6bce9d0c36dd</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>77eac29a-431f-406e-abde-60449f091a43</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>6c45676d-1a65-44ac-a5f7-a0a64de58bf1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>Sega SG-1000</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Arcade</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>MS-DOS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d44949be-5506-4a8e-a207-2f96b6230d1c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>cc0532df-6e3c-4f60-ac6b-c399590c7f85</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Consolas</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generaciones</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>517b4f16-e590-47d2-9111-c1abb2dd6b98</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>975c4c96-cd9d-48b0-9ca8-dcfc5ebf3196</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo 3DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony Playstation 4</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Commodore 64</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>3. (1983-1986) Tercera generación (8 bits) PC</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b87795a-dec4-42ad-86c7-47c62784ebc1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9b13e467-68a8-45e4-ab17-2b5193ac63d6</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game Boy Color</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>90c0d1a4-5cd2-45d6-87a7-3ec871f1b2e9</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Deportes</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c9e8094d-aa77-4ed9-a038-b72a70ccde1c</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c12c3417-7f45-4354-aa8c-289518e19270</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e0a1dd3f-12fd-455e-ae83-8bbfd4c2f606</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>59097a68-e164-4dbb-959e-54802c3b1aed</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>9a487da2-c3c1-47ac-ae72-ab5ad7729baf</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Switch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>8. (2012-2021) Octava generación Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>c6ee1ad7-7dc9-4c94-a9b5-f1b2d121f80f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5024bced-e427-4eff-80b1-f23adc451b1e</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo DS</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>7. (2006-2011) Septima generación Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Microsoft Xbox</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>6. (1998-2009) Sexta generación (128 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>d4ddf236-6b61-4cae-ba8a-a2d7e260bc4f</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Sony PSP</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>7. (2006-2011) Septima generación Portatil</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>90213fb0-821a-4045-974a-25d8093497b0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Nintendo Game &amp; Watch</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Handhelds</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0a67e184-1830-42af-81b5-f6ad40275819</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>e035c889-da6b-494e-ab30-3c8159787a6a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7c4ef4c7-90e2-4057-a5f7-6001970cc5c7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>86e57ba3-a7b6-4143-b282-287310323581</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Handhelds</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Plataforma</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5b442da0-ae29-4d68-8652-b1b854eea526</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>ea42f722-ac91-4776-83cc-b435cc7acea5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Personal Train</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName />
+  </Parent>
+  <Parent>
+    <PlatformName>3DO Interactive Multiplayer</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>5. (1994-2000) Quinta generación (32-64 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f44140b9-e97c-48b0-b57c-d9b77be510fc</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Atari 5200</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>0d0ee454-1329-4445-bc92-6279ebb34fa1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>95a7e964-43ed-40e6-af0d-09d84d2f9ebb</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8a2f9ee3-4771-4005-926a-46357a870cd5</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Arcade Nueva Generacion</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>81f4e5d5-a3cb-4c4b-8f95-85bb37f2bcd1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f7dfbb98-b10f-4983-ab69-5f98136a0b45</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>f4cf1f98-6e5b-4447-85ed-d1d248690730</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>a12ab459-e97d-4e2b-bec4-4d70a8016c64</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>774e0a1e-5c71-41be-bd46-09c3453f12e8</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId />
+    <PlatformCategoryName>Portatiles</PlatformCategoryName>
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generaciones</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>SNK Neo Geo AES</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>8882b509-ecaa-4c7e-b1bd-73eef2c4357b</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>7b54c71b-3ba0-45e2-8c4b-d8534ea42130</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>Super Nintendo Entertainment System</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Consoles</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>16a8b0ac-6238-47c8-8bb5-bdf040c4d485</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>b4a17a6c-b13b-45d4-ae47-6818dc8c7cc0</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>07849cff-ccd7-4826-88a8-63d56fc2ae3a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>22953f4c-d938-412e-b122-854509a526b7</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Personal Train</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>246b8303-dd64-4dd6-b669-b79da77aea5a</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Generos</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName />
+    <PlaylistId>5a4bde91-d8d3-4eb9-8a02-157841f82ad1</PlaylistId>
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Sagas</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>TeknoParrot</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>Arcade Nueva Generacion</ParentPlatformCategoryName>
+  </Parent>
+  <Parent>
+    <PlatformName>NEC TurboGrafx-16</PlatformName>
+    <PlaylistId />
+    <PlatformCategoryName />
+    <ParentPlatformName />
+    <ParentPlaylistId />
+    <ParentPlatformCategoryName>4. (1987-1994) Cuarta generación (16 bits)</ParentPlatformCategoryName>
+  </Parent>
+</LaunchBox>

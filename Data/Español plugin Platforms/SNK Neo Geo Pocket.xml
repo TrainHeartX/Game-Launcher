@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Baseball Stars (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:22.7601218-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:22.7601218-05:00</DateModified>
+    <Developer>Saurus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>803613b2-d481-40c0-9640-e39c7efb1b5e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Baseball Stars es un juego de deportes sobre el béisbol. El juego es similar a las Baseball Stars de NES, pero tiene personajes con un estilo menos realistas. Manejas tu propio equipo de béisbol y juegas en series de partidos. El juego tiene reglas típicas de béisbol: un jugador lanza la pelota, el segundo la golpea, alguien más la toma, etc. Cada personaje tiene sus propias estadísticas, como la resistencia.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Baseball Stars</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Béisbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>5bd7d608-f195-40a6-bf7a-38034e133cea</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>803613b2-d481-40c0-9640-e39c7efb1b5e</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Baseball Stars (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Baseball Stars</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:19.6871086-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:19.6871086-05:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>7a63172c-671e-4bea-ba10-ab2c1a1c8ab6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The King of Fighters: R1 marca la primera vez que SNK lleva la serie KOF a una consola portátil, y ¿qué mejor sistema que su propio Neo Geo Pocket para hacer eso? 14 de los personajes más conocidos de KOF hacen su aparición en KOF: R-1, junto con algunos fondos reconocibles y características de juego basadas en The King of Fighters '97. Los jugadores pueden elegir modos de juego "Extra" y "Avanzado" similares a KOF '97, y la mayoría de los personajes juegan de cerca a sus versiones originales.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>King Of Fighters R-1</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Lucha / Versus</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>aa8f7fe7-b08f-4e3a-a895-2ec20e3fefdb</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>7a63172c-671e-4bea-ba10-ab2c1a1c8ab6</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>King Of Fighters R-1</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Melon-chan no Seichou Nikki (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:20.8653129-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:20.8653129-05:00</DateModified>
+    <Developer>ADK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>78939ad5-721a-42b5-9eff-84ded92f0b68</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Melon-chan no Seichouki es un juego de simulación de vida similar al Tamagotchi y otros juegos de simulación de vida virtual. En este juego, el jugador cría y alimenta a la niña Melon Chan. El juego fue lanzado solo en Japón y fue uno de los primeros títulos que se lanzaron en el Neo Geo Pocket.
+
+</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>2.5</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Melon-chan no Seichouki</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Simulación-Simulación / Vida</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>58a6f341-6f94-49e4-8b03-d8bdee8d0145</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>78939ad5-721a-42b5-9eff-84ded92f0b68</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Melon-chan no Seichou Nikki (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Melon-chan no Seichouki</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Metal Slug - 1st Mission (World) (En,Ja).ngp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:24.8407774-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:24.8407774-05:00</DateModified>
+    <Developer>Ukiyotei</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>1ad72e33-85f7-4a60-aa48-27626a06a44f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Como miembro del escuadrón de élite "Halcones peregrinos", tu misión es detener al malvado Coronel Bildegaarn. Usando el tanque multifunción Metal Slug y el Slug Flyer, así como tu ingenio y tu arma en hasta 17 misiones en tu búsqueda para hacer que el mundo esté a salvo de la tiranía. Las progresiones de múltiples etapas y un sistema de clasificación de juego dan razones para jugar más de una vez.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Metal Slug : 1st Mission</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1999-01-01T00:00:00.0000000</ReleaseDate>
+    <Region>wor</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Acción-Shooter / Run and Gun-Shooter</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>f16097fe-73a7-406f-83b1-74c0e73bba63</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>1ad72e33-85f7-4a60-aa48-27626a06a44f</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Metal Slug - 1st Mission (World) (En,Ja).ngp</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Metal Slug : 1st Mission</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:19.3143568-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:19.3143568-05:00</DateModified>
+    <Developer>Dyna Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>36e7ceca-3a29-4169-ad80-eb59fb938e47</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Neo Cherry master es un juego de casino en el que el jugador inserta fichas virtuales</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Neo Cherry Master</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-12-25T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Casino-Casino / Máquina tragaperras</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>451b536a-e3ee-4942-a42e-55496f9750a4</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>36e7ceca-3a29-4169-ad80-eb59fb938e47</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Neo Cherry Master</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:21.8506582-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:21.8506582-05:00</DateModified>
+    <Developer>SNK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>e146b8c7-a07b-4deb-8a2e-0af2b3cae0ec</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>En el modo historia, eliges uno de los mejores equipos del mundo con el objetivo de ganar la famosa Copa Neo Geo. Esto no es fácil, sin embargo, ganar el título requerirá largas horas de intensa competencia.&#xD;
+Cada reunión le dará derecho a una cierta cantidad de puntos que luego se pueden usar en la tienda, lo que agrega un pequeño RPG lateral no despreciable. Comprar pantalones cortos, crampones, jerseys y muchos otros artículos de una selección seleccionada aumentará las habilidades de tu equipo de acuerdo con varios criterios y hará que tus jugadores sean más rápidos o más hábiles frente a la portería.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>NeoGeo Cup '98</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Fútbol</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>2395e7bf-400b-4ebd-a86c-2831741f829c</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>e146b8c7-a07b-4deb-8a2e-0af2b3cae0ec</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>NeoGeo Cup '98</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:21.2353368-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:21.2353368-05:00</DateModified>
+    <Developer>Yumekobo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4b402545-1079-489e-9381-80144a68c1e4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Pocket Tennis dispone de dos modos: Exposición y Torneo.&#xD;
+&#xD;
+Exposición es un solo partido contra computadora o oponente humano (requiere cable de enlace). Existen ocho personajes jugadores con diferentes habilidades (el jugador humano también debe seleccionar uno de esos ocho personajes) y cuatro (cinco en la versión en color) diferentes. También se puede seleccionar la cantidad de juegos por juego (1, 3 o 5).&#xD;
+&#xD;
+El torneo es solo en contra de la computadora. El jugador humano puede elegir su personaje pero no el oponente de la computadora. Además, falta la selección de cantidades pequeñas y cortas. Se jugarán tres juegos: cuarto y semifinales y carrera final.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4.25</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Pocket Tennis</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes / Tenis-Deportes</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>fc379173-f79a-45c0-bf24-c356a58c3a80</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4b402545-1079-489e-9381-80144a68c1e4</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Pocket Tennis</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Renketsu Puzzle Tsunagete Pon! (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:20.2243598-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:20.2243598-05:00</DateModified>
+    <Developer>Yumekobo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>4a40891a-d06f-4afe-9cec-b6e15056d3d0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Renketsu Puzzle Tsunagete Pon! es un juego donde los bloques deben ser disueltos. Nuevos bloques que se desplazan constantemente a través de la pantalla desde la parte superior.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3.75</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Renketsu Puzzle Tsunagete Pon!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-10-28T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>a42f4d9e-75f1-4abe-9824-bb11edb178e0</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>4a40891a-d06f-4afe-9cec-b6e15056d3d0</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Renketsu Puzzle Tsunagete Pon! (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Renketsu Puzzle Tsunagete Pon!</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:25.2954774-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:25.2954774-05:00</DateModified>
+    <Developer>Saurus</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>a3c2a407-9f88-441e-a664-dc90091c81f3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Samurai Shodown! Pocket es esencialmente una versión "de bolsillo" de Samurai Shodown 4. Al igual que el resto de los juegos de lucha en el Neo Geo Pocket, los personajes se dibujan en estilo chibi súper-deformado (cabezas grandes y cuerpos pequeños). Este título es también uno de los primeros juegos para el Neo Geo Pocket, por lo que el juego fue solo en blanco y negro ... irónicamente apto para un juego "samurai". El estilo de arte está definitivamente en el lado "cursi" y es muy diferente a cualquier otro juego de Samurai Shodown anterior, pero puede crecer en ti si le das una oportunidad.&#xD;
+&#xD;
+El clásico juego de Samurai Shodown dio el salto al diseño de la computadora de mano bastante bien, pero no es tan suave como el clásico de Neo Geo. El juego es particularmente más lento y muy simplificado en esta versión. Los personajes conservan su juego y el juego se ha ido mucho. Básicamente es un juego nuevo, no es nada espectacular, pero es divertido para un título portátil.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>4</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Samurai Spirits!</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-12-25T00:00:00.0000000</ReleaseDate>
+    <Region>jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Lucha-Lucha / Versus</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>c85fdc20-0143-45d8-b8c6-8f4decda1d71</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>a3c2a407-9f88-441e-a664-dc90091c81f3</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Samurai Spirits!</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Shougi no Tatsujin (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:23.5320886-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:23.5320886-05:00</DateModified>
+    <Developer>ADK</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>5860ff4e-7160-4181-98b4-4565b0eb9f59</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Shogi es el equivalente japonés de ajedrez. De hecho, como en el ajedrez, ¡el objetivo del juego es someter al rey enemigo! Sin embargo, hay varias diferencias entre el Shogi y nuestro juego de ajedrez, ya sea en la naturaleza de las piezas, sus posiciones o sus movimientos.</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Shougi no Tatsujin: Master of Syougi</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>1998-11-20T00:00:00.0000000</ReleaseDate>
+    <Region>jp</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Estrategia-Shougi-Juegos de mesa asiático</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>d055ce00-f924-4ced-9dcd-cf55fe4fc78d</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>5860ff4e-7160-4181-98b4-4565b0eb9f59</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Shougi no Tatsujin (Japan).zip</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Shougi no Tatsujin: Master of Syougi</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+  <Game>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Wrestling Madness (USA, Europe) (Beta).ngp</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2024-03-07T00:50:23.9421728-05:00</DateAdded>
+    <DateModified>2024-03-07T00:50:23.9421728-05:00</DateModified>
+    <Developer>S-Neo</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator />
+    <Favorite>false</Favorite>
+    <ID>cb621f74-4c2e-4473-b664-6d67fdb11d5b</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Solo un puñado de los mejores luchadores pueden mostrar su rostro en la televisión para sus fanáticos en casa. En el tapete I.E.W, esta regla no es una excepción. En un evento practicado durante 300 años, solo se demandan las mejores actuaciones. Este año, el gran rey del I.E.W, Joseph Steel, regresa para defender su trono. La historia de los ocho mejores luchadores que compiten por el mayor premio en el ring, el cinturón de campeón de I.E.W, está a punto de comenzar ...</Notes>
+    <Platform>SNK Neo Geo Pocket</Platform>
+    <Publisher>SNK</Publisher>
+    <Rating>0</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source>ScreenScraper.fr</Source>
+    <StarRatingFloat>3</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <Status />
+    <WikipediaURL />
+    <Title>Wrestling Madness</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <ReleaseDate>2000-11-23T00:00:00.0000000</ReleaseDate>
+    <Region>us, jp, eu</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <VideoPath />
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Deportes-Deportes / Lucha libre</Genre>
+  </Game>
+  <AdditionalApplication>
+    <Id>bc097d74-7dbc-4eac-9e82-0cc5fd606fac</Id>
+    <PlayCount>0</PlayCount>
+    <GameID>cb621f74-4c2e-4473-b664-6d67fdb11d5b</GameID>
+    <ApplicationPath>H:\LaunchBox\Games\SNK Neo Geo Pocket\Wrestling Madness (USA, Europe) (Beta).ngp</ApplicationPath>
+    <AutoRunAfter>false</AutoRunAfter>
+    <AutoRunBefore>false</AutoRunBefore>
+    <CommandLine />
+    <Name>Wrestling Madness</Name>
+    <UseDosBox>false</UseDosBox>
+    <UseEmulator>false</UseEmulator>
+    <WaitForExit>false</WaitForExit>
+    <SideA>false</SideA>
+    <SideB>false</SideB>
+    <Priority>0</Priority>
+  </AdditionalApplication>
+</LaunchBox>
