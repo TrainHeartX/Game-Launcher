@@ -9,3 +9,4 @@ H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.
 H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\refint\GameLauncher.Core.dll
 H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.pdb
 H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\ref\GameLauncher.Core.dll
+H:\GameLauncher\src\Core\GameLauncher.Core\obj\Release\net8.0\GameLauncher.Core.sourcelink.json

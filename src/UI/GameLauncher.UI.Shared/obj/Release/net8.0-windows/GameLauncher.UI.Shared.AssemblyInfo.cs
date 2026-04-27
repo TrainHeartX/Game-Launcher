@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameLauncher.UI.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62d13e73d2258f460cdb15a54181870abb1de9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120f424922d23ae33f9cf13c40892927637e18a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameLauncher.UI.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameLauncher.UI.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

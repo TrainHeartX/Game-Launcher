@@ -8,6 +8,7 @@
         xmlns:conv="clr-namespace:GameLauncher.Desktop.Converters"
         xmlns:sharedconv="clr-namespace:GameLauncher.UI.Shared.Converters;assembly=GameLauncher.UI.Shared"
         xmlns:shared="clr-namespace:GameLauncher.UI.Shared.Controls;assembly=GameLauncher.UI.Shared"
+        xmlns:enums="clr-namespace:GameLauncher.Core.Enums;assembly=GameLauncher.Core"
         mc:Ignorable="d"
         Title="GameLauncher - Gestor de Juegos Compatible con LaunchBox"
         Height="720" Width="1280"
@@ -260,37 +261,37 @@
                                        VerticalAlignment="Center" Margin="0,0,5,0"/>
                             <Button Content="Todos"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="All"
+                                    CommandParameter="{x:Static enums:GameFilter.All}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#2C3E50" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
                             <Button Content="★ Favoritos"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="Favorites"
+                                    CommandParameter="{x:Static enums:GameFilter.Favorites}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#F39C12" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
                             <Button Content="✓ Completados"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="Completed"
+                                    CommandParameter="{x:Static enums:GameFilter.Completed}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#27AE60" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
                             <Button Content="💾 Instalados"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="Installed"
+                                    CommandParameter="{x:Static enums:GameFilter.Installed}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#3498DB" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
                             <Button Content="🕒 Recientes"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="RecentlyPlayed"
+                                    CommandParameter="{x:Static enums:GameFilter.RecentlyPlayed}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#8E44AD" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
                             <Button Content="○ No jugados"
                                     Command="{Binding SetFilterCommand}"
-                                    CommandParameter="NeverPlayed"
+                                    CommandParameter="{x:Static enums:GameFilter.NeverPlayed}"
                                     Padding="8,2" Margin="0,0,3,4" FontSize="11"
                                     Background="#95A5A6" Foreground="White"
                                     BorderThickness="0" Cursor="Hand"/>
@@ -312,10 +313,10 @@
                     </Border>
                     
                     <Button Command="{Binding ExportToAndroidCommand}" 
-                            Style="{StaticResource FlatButton}"
                             Margin="0,0,5,0"
                             ToolTip="Exportar juegos seleccionados a Android (Sincronizar ROMs y Partidas)"
-                            Background="#2e7d32" Foreground="White">
+                            Background="#2e7d32" Foreground="White"
+                            Padding="10,5" BorderThickness="0" Cursor="Hand" FontWeight="Bold">
                         <StackPanel Orientation="Horizontal">
                             <TextBlock Text="📱" FontFamily="Segoe UI Emoji" Margin="0,0,5,0"/>
                             <TextBlock Text="Exportar a Android"/>

@@ -13,3 +13,4 @@ H:\GameLauncher\src\Core\GameLauncher.Data\obj\Release\net8.0\GameLauncher.Data.
 H:\GameLauncher\src\Core\GameLauncher.Data\obj\Release\net8.0\refint\GameLauncher.Data.dll
 H:\GameLauncher\src\Core\GameLauncher.Data\obj\Release\net8.0\GameLauncher.Data.pdb
 H:\GameLauncher\src\Core\GameLauncher.Data\obj\Release\net8.0\ref\GameLauncher.Data.dll
+H:\GameLauncher\src\Core\GameLauncher.Data\obj\Release\net8.0\GameLauncher.Data.sourcelink.json

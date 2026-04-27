@@ -22,3 +22,4 @@ H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0-windows\GameLau
 H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0-windows\refint\GameLauncher.UI.Shared.dll
 H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0-windows\GameLauncher.UI.Shared.pdb
 H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0-windows\ref\GameLauncher.UI.Shared.dll
+H:\GameLauncher\src\UI\GameLauncher.UI.Shared\obj\Release\net8.0-windows\GameLauncher.UI.Shared.sourcelink.json

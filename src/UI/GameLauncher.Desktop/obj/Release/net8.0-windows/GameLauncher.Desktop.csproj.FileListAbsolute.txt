@@ -34,3 +34,4 @@ H:\GameLauncher\src\UI\GameLauncher.Desktop\obj\Release\net8.0-windows\refint\Ga
 H:\GameLauncher\src\UI\GameLauncher.Desktop\obj\Release\net8.0-windows\GameLauncher.Desktop.pdb
 H:\GameLauncher\src\UI\GameLauncher.Desktop\obj\Release\net8.0-windows\GameLauncher.Desktop.genruntimeconfig.cache
 H:\GameLauncher\src\UI\GameLauncher.Desktop\obj\Release\net8.0-windows\ref\GameLauncher.Desktop.dll
+H:\GameLauncher\src\UI\GameLauncher.Desktop\obj\Release\net8.0-windows\GameLauncher.Desktop.sourcelink.json

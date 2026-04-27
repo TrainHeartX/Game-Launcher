@@ -4,8 +4,6 @@ using GameLauncher.Core.Enums;
 using GameLauncher.Core.Models;
 using GameLauncher.Data.Cache;
 using GameLauncher.Data.Xml;
-using GameLauncher.Desktop.Dialogs;
-using GameLauncher.Desktop.Models;
 using GameLauncher.Infrastructure.Services;
 using Microsoft.Win32;
 using System;
@@ -979,10 +977,10 @@ namespace GameLauncher.Desktop.ViewModels
         [RelayCommand]
         private async Task ExportToAndroidAsync()
         {
-            var selectedGames = FilteredGames.Where(g => g.IsSelected).Select(g => g.Model).ToList();
-            if (selectedGames.Count == 0)
+            var gamesToExport = FilteredGames.Select(g => g.Model).ToList();
+            if (gamesToExport.Count == 0)
             {
-                System.Windows.MessageBox.Show("Por favor, selecciona al menos un juego (mantén presionado Ctrl y haz clic en los juegos) o exporta una lista completa filtrando primero.", "Exportar a Android", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Warning);
+                System.Windows.MessageBox.Show("No hay juegos en la lista actual para exportar. Filtra una consola o lista primero.", "Exportar a Android", System.Windows.MessageBoxButton.OK, System.Windows.MessageBoxImage.Warning);
                 return;
             }
 
@@ -1002,7 +1000,7 @@ namespace GameLauncher.Desktop.ViewModels
                 {
                     await Task.Run(async () =>
                     {
-                        await _exportService.ExportGamesToZipAsync(selectedGames, saveFileDialog.FileName, (msg) =>
+                        await _exportService.ExportGamesToZipAsync(gamesToExport, saveFileDialog.FileName, (msg) =>
                         {
                             System.Windows.Application.Current.Dispatcher.Invoke(() => StatusText = msg);
                         });
